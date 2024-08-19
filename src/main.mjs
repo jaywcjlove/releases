@@ -83,6 +83,7 @@ async function getDataAtPage(page = 1) {
     infos.slice(0, LIMIT)
   }
 
+  await fs.ensureDir("dist")
   fs.writeJSONSync("dist/data.json", infos, { spaces: 2 })
   console.log("♻️ Data generated -> dist/data.json")
   
@@ -111,7 +112,6 @@ async function getDataAtPage(page = 1) {
       description: `<a href="${item.commit}">${item.title}</a>`,
     })
   }
-  fs.ensureDir("dist")
   fs.writeFileSync("dist/rss.xml", feed.rss2())
   console.log("♻️ RSS feed generated -> dist/rss.xml")
 })()
