@@ -57,7 +57,9 @@
           </a>
           <article>
             <section>
-              <a href="https://github.com/<%=data.repo%>" target="_blank"><%=data.repo%></a>
+              <a href="https://github.com/<%=data.repo%>" target="_blank">
+                <span class="owner"><%=data.repo.split("/")[0]%></span>/<span class="repo"><%=data.repo.split("/")[1]%></span>
+              </a>
               <a href="https://github.com/<%=data.repo%>/commit/<%=data.sha%>" target="_blank">
                 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor" height="1em" width="1em">
                   <path d="M7.5 0h1v4.03a4 4 0 0 1 0 7.94V16h-1v-4.03a4 4 0 0 1 0-7.94V0ZM8 10.6a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"/>
