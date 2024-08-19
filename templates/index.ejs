@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kenny Wang is Releasing...</title>
+  <meta name="description" content="Kenny Wang's recent releases">
+  <link rel="stylesheet" href="style.css">
+  <link rel="alternate" type="application/rss+xml" title="Kenny Wang's recent releases" href="/releases/feed.xml">
+  <% function timeAgo(dateString) {
+    const now = new Date();
+    const past = new Date(dateString);
+    const seconds = Math.floor((now - past) / 1000);
+    const intervals = [
+        { label: 'year', seconds: 31536000 },
+        { label: 'month', seconds: 2592000 },
+        { label: 'week', seconds: 604800 },
+        { label: 'day', seconds: 86400 },
+        { label: 'hour', seconds: 3600 },
+        { label: 'minute', seconds: 60 },
+        { label: 'second', seconds: 1 }
+    ];
+  
+    for (let i = 0; i < intervals.length; i++) {
+        const interval = Math.floor(seconds / intervals[i].seconds);
+        if (interval >= 1) {
+            return `${interval} ${intervals[i].label}${interval !== 1 ? 's' : ''} ago`;
+        }
+    }
+    return 'just now';
+  } %>
+</head>
+<body>
+  <header>
+    <h1>
+      <a href="https://github.com/jaywcjlove/" target="_blank">
+        <img src="https://github.com/jaywcjlove.png" alt="Kenny Wang" />
+        Kenny Wang
+      </a>
+      is Releasing...
+    </h1>
+    <p>
+      <a href="https://github.com/jaywcjlove" target="_blank"> Kenny Wang's recent releases commits on GitHub </a>
+      <a href="https://wangchujiang.com/releases/rss.xml" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16" height="1em" width="1em">
+          <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2zm0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2zm.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
+        </svg>
+      </a>
+    </p>
+  </header>
+  <main>
+    <ul>
+      <% DATA.forEach(function(data, idx) { %>
+        <li>
+          <a href="https://github.com/<%=data.repo%>" target="_blank">
+            <img src="https://github.com/<%=data.repo.split("/")[0]%>.png" alt="<%=data.repo%>">
+          </a>
+          <article>
+            <section>
+              <a href="https://github.com/<%=data.repo%>" target="_blank"><%=data.repo%></a>
+              <a href="https://github.com/<%=data.repo%>/commit/<%=data.sha%>" target="_blank">
+                <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor" height="1em" width="1em">
+                  <path d="M7.5 0h1v4.03a4 4 0 0 1 0 7.94V16h-1v-4.03a4 4 0 0 1 0-7.94V0ZM8 10.6a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"/>
+                </svg>
+                <%=data.title%>
+              </a>
+            </section>
+            <aside>
+              <a href="https://github.com/<%=data.repo%>/releases/tag/v<%=data.version%>" target="_blank">v<%=data.version%></a>
+              <time datetime="<%=data.created_at%>"><%=timeAgo(data.created_at)%></time>
+            </aside>
+          </article>
+        </li>
+      <% }); %>
+    </ul>
+  </main>
+</body>
+</html>

@@ -1,0 +1,112 @@
+body {
+  background: #121212;
+  color: #fff;
+  font-family: DM Sans, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+  font-family: DM Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+header h1 {
+  flex-wrap: wrap;
+}
+header svg {
+  vertical-align: middle;
+  margin-top: -2px;
+}
+header {
+  padding: 1rem;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+header h1, header h1 a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+header > p a {
+  opacity: 0.75;
+}
+
+header img {
+  height: 3rem;
+  border-radius: 3rem;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding-bottom: 6rem;
+}
+
+main ul {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+main ul li {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+main ul li img {
+  height: 3rem;
+  width: 3rem;
+  background-color: #9ca3af0d;
+  border-radius: 0.25rem;
+  border-color: #9ca3af0d;
+  border-width: 1px;
+  border-style: solid;
+}
+main article section, main article aside {
+  display: flex;
+  flex-direction: column;
+}
+main article {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+main article aside time, main article section a:last-child {
+  opacity: 0.5;
+}
+
+main article aside time {
+  font-weight: 200;
+}
+main article section, main article aside {
+  gap: .425rem;
+}
+main article aside {
+  text-align: end;
+}
+
+main article section a:last-child {
+  display: flex;
+  align-items: center;
+}
+
+
+@media (max-width: 600px) {
+  main {
+    padding: 0 1rem;
+    padding-bottom: 3rem;
+  }
+  main article {
+    flex-direction: column;
+    gap: .425rem;
+  }
+  main article aside {
+    text-align: left;
+  }
+}
