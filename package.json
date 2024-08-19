@@ -5,7 +5,7 @@
   "scripts": {
     "build": "ejsc \"templates/**/*\"",
     "dev": "ejsc \"templates/**/*\" --watch",
-    "start": "node src/main.mjs"
+    "start": "node src/main.mjs && npm run build"
   },
   "keywords": [],
   "author": "jaywcjlove",
