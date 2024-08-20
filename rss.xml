@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases</description>
-        <lastBuildDate>Tue, 20 Aug 2024 05:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 17:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -141,14 +141,6 @@
             <guid>40563094188</guid>
             <pubDate>Mon, 29 Jul 2024 19:37:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/sgo-rs/commit/01f566f34b3502a337aedfedd7260fa2669c0168">released v0.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-upload-assets v1.1.1 released]]></title>
-            <link>https://github.com/jaywcjlove/github-action-upload-assets/releases/tag/v1.1.1</link>
-            <guid>40530408776</guid>
-            <pubDate>Sun, 28 Jul 2024 19:54:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-upload-assets/commit/ba53d68e5912007219872015a8f0fd50ce0b0d71">released v1.1.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
     </channel>

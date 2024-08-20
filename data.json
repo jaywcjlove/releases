@@ -158,15 +158,5 @@
     "commit": "https://github.com/jaywcjlove/sgo-rs/commit/01f566f34b3502a337aedfedd7260fa2669c0168",
     "created_at": "2024-07-29T19:37:47Z",
     "version": "0.5.0"
-  },
-  {
-    "id": "40530408776",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/github-action-upload-assets",
-    "title": "released v1.1.1",
-    "sha": "ba53d68e5912007219872015a8f0fd50ce0b0d71",
-    "commit": "https://github.com/jaywcjlove/github-action-upload-assets/commit/ba53d68e5912007219872015a8f0fd50ce0b0d71",
-    "created_at": "2024-07-28T19:54:08Z",
-    "version": "1.1.1"
   }
 ]
