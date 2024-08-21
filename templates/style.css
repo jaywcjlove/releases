@@ -13,6 +13,21 @@ a:hover {
   text-decoration: underline;
 }
 
+a.github-corner:hover .octo-arm { animation: octocat-wave 560ms infinite linear; }
+a.github-corner svg { fill: #f1f1f1; color: #000; position: absolute; top: 0; border: 0; right: 0; z-index: 99; width: 40px; height: 40px; }
+a.github-corner { position: fixed; z-index: 9999; top: 0; right: 0; }
+@keyframes octocat-wave {
+  0%,100%{-webkit-transform:rotate(0); transform:rotate(0);}
+  20%,60%{-webkit-transform:rotate(-25deg); transform:rotate(-25deg);}
+  40%,80%{-webkit-transform:rotate(10deg); transform:rotate(10deg);}
+}
+
+header {
+  text-align: center;
+  padding: 1rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
 header h1 {
   flex-wrap: wrap;
 }
@@ -20,23 +35,15 @@ header svg {
   vertical-align: middle;
   margin-top: -2px;
 }
-header {
-  padding: 1rem;
-  text-align: center;
-  padding-bottom: 3rem;
-}
-
 header h1, header h1 a {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 1rem;
 }
-
 header > p a, .owner {
   opacity: 0.75;
 }
-
 header img {
   height: 3rem;
   border-radius: 3rem;
