@@ -7,28 +7,6 @@
   <meta name="description" content="Kenny Wang's recent releases">
   <link rel="stylesheet" href="style.css">
   <link rel="alternate" type="application/rss+xml" title="Kenny Wang's recent releases" href="/releases/feed.xml">
-  <% function timeAgo(dateString) {
-    const now = new Date();
-    const past = new Date(dateString);
-    const seconds = Math.floor((now - past) / 1000);
-    const intervals = [
-        { label: 'year', seconds: 31536000 },
-        { label: 'month', seconds: 2592000 },
-        { label: 'week', seconds: 604800 },
-        { label: 'day', seconds: 86400 },
-        { label: 'hour', seconds: 3600 },
-        { label: 'minute', seconds: 60 },
-        { label: 'second', seconds: 1 }
-    ];
-  
-    for (let i = 0; i < intervals.length; i++) {
-        const interval = Math.floor(seconds / intervals[i].seconds);
-        if (interval >= 1) {
-            return `${interval} ${intervals[i].label}${interval !== 1 ? 's' : ''} ago`;
-        }
-    }
-    return 'just now';
-  } %>
 </head>
 <body>
   <a href="https://github.com/jaywcjlove/releases" target="_blank" class="github-corner">
@@ -76,12 +54,44 @@
             </section>
             <aside>
               <a href="https://github.com/<%=data.repo%>/releases/tag/v<%=data.version%>" target="_blank">v<%=data.version%></a>
-              <time datetime="<%=data.created_at%>"><%=timeAgo(data.created_at)%></time>
+              <time datetime="<%=data.created_at%>"></time>
             </aside>
           </article>
         </li>
       <% }); %>
     </ul>
   </main>
+  <footer>
+    <hr />
+    <span>Last activity: </span><time datetime="<%=DATA[0].created_at ?? ""%>"></time> <i>|</i> <span>Last fetched: </span><time datetime="<%=NOW_DATE%>"></time> <br/>
+    <span>GitHub API is not always realtime, it might take a couple hours to update.</span>
+  </footer>
+  <script>
+    function timeAgo(dateString) {
+      const now = new Date();
+      const past = new Date(dateString);
+      const seconds = Math.floor((now - past) / 1000);
+      const intervals = [
+          { label: 'year', seconds: 31536000 },
+          { label: 'month', seconds: 2592000 },
+          { label: 'week', seconds: 604800 },
+          { label: 'day', seconds: 86400 },
+          { label: 'hour', seconds: 3600 },
+          { label: 'minute', seconds: 60 },
+          { label: 'second', seconds: 1 }
+      ];
+    
+      for (let i = 0; i < intervals.length; i++) {
+          const interval = Math.floor(seconds / intervals[i].seconds);
+          if (interval >= 1) {
+              return `${interval} ${intervals[i].label}${interval !== 1 ? 's' : ''} ago`;
+          }
+      }
+      return 'just now';
+    }
+    Array.from(document.getElementsByTagName("time")).forEach((elm) => {
+      elm.textContent = timeAgo(elm.getAttribute("datetime"));
+    });
+  </script>
 </body>
 </html>
