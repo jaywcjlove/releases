@@ -3,7 +3,7 @@ import fs from 'fs-extra'
 import { Feed } from 'feed'
 import { Octokit } from 'octokit'
 
-const LIMIT = 200
+const LIMIT = 1000
 const DOMAIN = 'https://wangchujiang.com/releases'
 
 const octokit = new Octokit({
@@ -38,16 +38,15 @@ async function getDataAtPage(page = 1) {
         }
       })
     })
-    .filter(item => item.version)
-    //.filter(item => item.title.includes('release') && item.version)
+    //.filter(item => item.version)
+    .filter(item => item.title.includes('release') && item.version)
 }
 
 async function getReleasesData() {
   let infos = []
   let goNextPage = true
-  for (let page = 1; page <= 3; page++) {
-    if (!goNextPage)
-      break
+  for (let page = 1; page <= 5; page++) {
+    if (!goNextPage) break
     try {
       const items = await getDataAtPage(page)
       for (let index = items.length - 1; index >= 0; index--) {
