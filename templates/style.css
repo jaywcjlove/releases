@@ -30,7 +30,7 @@ header {
   text-align: center;
   padding: 1rem;
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
 }
 header h1 {
   flex-wrap: wrap;
@@ -102,6 +102,15 @@ main article aside {
   text-align: end;
 }
 
+main article section a:hover:last-child svg {
+  background: #ffffff63;
+}
+main article section a:last-child svg {
+  background: #ffffff3b;
+  border-radius: 0.24rem;
+  margin-right: 0.24rem;
+  transition: all 0.2s;
+}
 main article section a:last-child {
   display: flex;
   align-items: center;
@@ -115,11 +124,11 @@ footer {
   line-height: 1.65;
 }
 
-footer hr {
+footer hr, main hr {
   color: inherit;
   height: 0px;
   margin: 0 auto;
-  opacity: 0.5;
+  opacity: 0.25;
   width: 5rem;
   border-style: solid;
   border-width: 0;
