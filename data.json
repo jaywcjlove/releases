@@ -1,5 +1,15 @@
 [
   {
+    "id": "41201385038",
+    "type": "PushEvent",
+    "repo": "jaywcjlove/ejs-cli",
+    "title": "released v1.6.0",
+    "sha": "c29b4be9bf9420bfde1f76a55789f25de3e5942b",
+    "commit": "https://github.com/jaywcjlove/ejs-cli/commit/c29b4be9bf9420bfde1f76a55789f25de3e5942b",
+    "created_at": "2024-08-21T07:41:57Z",
+    "version": "1.6.0"
+  },
+  {
     "id": "41199951464",
     "type": "PushEvent",
     "repo": "jaywcjlove/releases",
