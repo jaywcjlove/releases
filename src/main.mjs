@@ -3,7 +3,7 @@ import fs from 'fs-extra'
 import { Feed } from 'feed'
 import { Octokit } from 'octokit'
 
-const LIMIT = 100
+const LIMIT = 200
 const DOMAIN = 'https://wangchujiang.com/releases'
 
 const octokit = new Octokit({
@@ -38,10 +38,11 @@ async function getDataAtPage(page = 1) {
         }
       })
     })
-    .filter(item => item.title.includes('release') && item.version)
+    .filter(item => item.version)
+    //.filter(item => item.title.includes('release') && item.version)
 }
 
-;(async () => {
+async function getReleasesData() {
   let infos = []
   let goNextPage = true
   for (let page = 1; page <= 3; page++) {
@@ -82,6 +83,11 @@ async function getDataAtPage(page = 1) {
   if (infos.length > LIMIT) {
     infos.slice(0, LIMIT)
   }
+  return infos
+}
+
+;(async () => {
+  let infos = await getReleasesData()
 
   await fs.ensureDir("dist")
   fs.writeJSONSync("dist/data.json", infos, { spaces: 2 })
