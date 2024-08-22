@@ -1,5 +1,25 @@
 [
   {
+    "id": "41233191269",
+    "type": "PushEvent",
+    "repo": "jaywcjlove/recursive-readdir-files",
+    "title": "released v2.3.2",
+    "sha": "65739491d2750b3ee242425268f9e13834092a6e",
+    "commit": "https://github.com/jaywcjlove/recursive-readdir-files/commit/65739491d2750b3ee242425268f9e13834092a6e",
+    "created_at": "2024-08-22T03:13:25Z",
+    "version": "2.3.2"
+  },
+  {
+    "id": "41220889883",
+    "type": "PushEvent",
+    "repo": "jaywcjlove/awesome-mac",
+    "title": "released v1.7.0",
+    "sha": "56e5810563ef848dca61ad91539f099d77f25777",
+    "commit": "https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777",
+    "created_at": "2024-08-21T17:17:07Z",
+    "version": "1.7.0"
+  },
+  {
     "id": "41201385038",
     "type": "PushEvent",
     "repo": "jaywcjlove/ejs-cli",
@@ -168,15 +188,5 @@
     "commit": "https://github.com/jaywcjlove/tsbb/commit/f91a2ae61973e801a66f6de58c37a38c10f12530",
     "created_at": "2024-07-30T14:55:12Z",
     "version": "4.4.0"
-  },
-  {
-    "id": "40563094188",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/sgo-rs",
-    "title": "released v0.5.0",
-    "sha": "01f566f34b3502a337aedfedd7260fa2669c0168",
-    "commit": "https://github.com/jaywcjlove/sgo-rs/commit/01f566f34b3502a337aedfedd7260fa2669c0168",
-    "created_at": "2024-07-29T19:37:47Z",
-    "version": "0.5.0"
   }
 ]
