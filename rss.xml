@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases</description>
-        <lastBuildDate>Fri, 23 Aug 2024 17:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 05:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -157,14 +157,6 @@
             <guid>40598679794</guid>
             <pubDate>Tue, 30 Jul 2024 18:42:43 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/f6b903a8f3b98ee06430352987b1db147fd4b0a8">released v5.0.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/tsbb v4.4.0 released]]></title>
-            <link>https://github.com/jaywcjlove/tsbb/releases/tag/v4.4.0</link>
-            <guid>40591815463</guid>
-            <pubDate>Tue, 30 Jul 2024 14:55:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/f91a2ae61973e801a66f6de58c37a38c10f12530">released v4.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
     </channel>
