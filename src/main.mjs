@@ -9,6 +9,16 @@ const DOMAIN = 'https://wangchujiang.com/releases'
 const octokit = new Octokit({ auth: process.env.TOKEN })
 const ignoreRepos = []
 
+function formatNumber(num) {
+  if (num >= 1000000) {
+    return (num / 1000000).toFixed(1) + 'M';
+  } else if (num >= 1000) {
+    return (num / 1000).toFixed(1) + 'K';
+  } else {
+    return num.toString();
+  }
+}
+
 async function fetchRepo(owner, name) {
   console.log(`Fetching repository details for ${owner}/${name}`)
   const { data } = await octokit.request('GET /repos/{owner}/{name}', {
@@ -50,7 +60,7 @@ async function getMyPullRequest() {
       created_at: pr.created_at,
       state: pr.pull_request?.merged_at ? 'merged' : pr.state, // as 'open' | 'closed',
       number: pr.number,
-      stars: repo.stargazers_count,
+      stars: formatNumber(repo.stargazers_count),
     })
   }
 
