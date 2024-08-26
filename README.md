@@ -11,3 +11,11 @@ https://wangchujiang.com/releases/rss.xml
 ```sh
 TOKEN=xxxx npm start
 ```
+
+### Thanks ! 👍
+
+The idea comes from [releases.antfu.me](https://github.com/antfu/releases.antfu.me), thanks to @antfu.
+
+### License
+
+MIT © [Kenny Wong](https://github.com/jaywcjlove)
