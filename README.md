@@ -1,7 +1,7 @@
 [Kenny Wang is Releasing...](https://wangchujiang.com/releases/)
 ===
 
-Update date: <!--GAMFC-->2024-08-26 04:45:33<!--GAMFC-END-->
+Update date: <!--GAMFC-->2024-08-25 17:34:21<!--GAMFC-END-->
 
 ```sh
 https://wangchujiang.com/releases/
@@ -14,7 +14,7 @@ TOKEN=xxxx npm start
 
 ### Thanks ! 👍
 
-The idea comes from [releases.antfu.me](https://github.com/antfu/releases.antfu.me), thanks to @antfu.
+The idea comes from [releases.antfu.me](https://github.com/antfu/releases.antfu.me), thanks to **[@antfu](https://github.com/antfu)**.
 
 ### License
 
