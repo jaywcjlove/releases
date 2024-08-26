@@ -27,10 +27,10 @@
         <img src="https://github.com/jaywcjlove.png" alt="Kenny Wang" />
         Kenny Wang
       </a>
-      is Releasing...
+      is <span class="animate-pulse">Releasing & Contributing...</span>
     </h1>
     <p>
-      <a href="https://github.com/jaywcjlove" target="_blank"> Kenny Wang's recent releases commits on GitHub </a>
+      <a href="https://github.com/jaywcjlove" target="_blank"> Kenny Wang's recent releases & Contributing on GitHub </a>
       <a href="https://wangchujiang.com/releases/rss.xml" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16" height="1em" width="1em">
           <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2zm0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2zm.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
@@ -46,16 +46,15 @@
           <a href="https://github.com/<%=data.repo%>" target="_blank">
             <img src="https://github.com/<%=data.repo.split("/")[0]%>.png" alt="<%=data.repo%>">
           </a>
+          <% if (data.state == "tagged") { %>
           <article>
             <section>
               <a href="https://github.com/<%=data.repo%>" target="_blank">
                 <span class="owner"><%=data.repo.split("/")[0]%></span>/<span class="repo"><%=data.repo.split("/")[1]%></span>
               </a>
               <a href="https://github.com/<%=data.repo%>/commit/<%=data.sha%>" target="_blank">
-                <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor" height="1em" width="1em">
-                  <path d="M7.5 0h1v4.03a4 4 0 0 1 0 7.94V16h-1v-4.03a4 4 0 0 1 0-7.94V0ZM8 10.6a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"/>
-                </svg>
-                <%=data.title%>
+                <svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path></svg>
+                <span class="title"><%=data.title%></span>
               </a>
             </section>
             <aside>
@@ -63,6 +62,23 @@
               <time datetime="<%=data.created_at%>"></time>
             </aside>
           </article>
+          <% } else { %>
+            <article>
+              <section>
+                <a href="<%=data.url%>" target="_blank">
+                  <svg viewBox="0 0 16 16"  height="16" width="16" fill="<%=data.state == "open" ? "#c084fc" : "#c084fc"%>" aria-hidden="true"><path d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"></path></svg>
+                  <span class="title"><%=data.title.trim()%></span>
+                </a>
+                <a href="https://github.com/<%=data.repo%>" target="_blank">
+                  <span class="owner"><%=data.repo.split("/")[0]%></span>/<span class="repo"><%=data.repo.split("/")[1]%></span>
+                </a>
+              </section>
+              <aside>
+                <a href="<%=data.url%>" target="_blank">#<%=data.number%></a>
+                <time datetime="<%=data.created_at%>"></time>
+              </aside>
+            </article>
+          <% } %>
         </li>
       <% }); %>
     </ul>

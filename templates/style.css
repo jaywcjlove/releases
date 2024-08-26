@@ -53,6 +53,18 @@ header img {
   border-radius: 3rem;
 }
 
+
+@keyframes pulse {
+  50% {
+      opacity: .5
+  }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(.4,0,.6,1) infinite
+}
+
+
 main {
   max-width: 640px;
   margin: 0 auto;
@@ -74,6 +86,7 @@ main ul li > a:first-child, main ul li img  {
   height: 3rem;
   width: 3rem;
   overflow: hidden;
+  flex-shrink: 0;
 }
 main ul li img {
   background-color: #9ca3af0d;
@@ -90,6 +103,8 @@ main article {
   display: flex;
   flex: 1;
   justify-content: space-between;
+  width: 100%;
+  overflow: hidden;
 }
 main article aside time, main article section a:last-child {
   opacity: 0.5;
@@ -105,15 +120,30 @@ main article aside {
   text-align: end;
 }
 
-main article section a:hover:last-child svg {
+main article section a:hover svg {
   background: #ffffff63;
 }
-main article section a:last-child svg {
-  background: #ffffff3b;
+main article section {
+  flex: 1;
+  overflow: hidden;
+}
+main article section a {
+  display: flex;
+  align-items: center;
+}
+main article section a svg {
+  flex-shrink: 0;
   border-radius: 0.24rem;
   margin-right: 0.24rem;
   transition: all 0.2s;
 }
+
+main article section a .title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 main article section a:last-child {
   display: flex;
   align-items: center;
