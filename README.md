@@ -1,4 +1,4 @@
-[Kenny Wang is Releasing...](https://wangchujiang.com/releases/)
+[Kenny Wang is Releasing & Contributing...](https://wangchujiang.com/releases/)
 ===
 
 Update date: <!--GAMFC-->2024-08-26 07:56:31<!--GAMFC-END-->
@@ -12,10 +12,10 @@ https://wangchujiang.com/releases/rss.xml
 TOKEN=xxxx npm start
 ```
 
-### Thanks ! 👍
+## Thanks ! 👍
 
 The idea comes from [releases.antfu.me](https://github.com/antfu/releases.antfu.me), thanks to **[@antfu](https://github.com/antfu)**.
 
-### License
+## License
 
 MIT © [Kenny Wong](https://github.com/jaywcjlove)

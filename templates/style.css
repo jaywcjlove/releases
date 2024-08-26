@@ -149,6 +149,11 @@ main article section a:last-child {
   align-items: center;
 }
 
+.stars svg, .pr svg {
+  vertical-align: middle;
+  margin: -3px 5px 0 6px;
+}
+
 footer {
   text-align: center;
   padding: 1rem;

@@ -169,8 +169,8 @@ async function getReleasesData() {
   console.log("♻️ Data generated -> dist/data.json")
   
   const feed = new Feed({
-    title: 'Kenny Wang is Releasing...',
-    description: 'Kenny Wang\'s recent releases',
+    title: 'Kenny Wang is Releasing & Contributing...',
+    description: 'Kenny Wang\'s recent releases & contributing',
     id: DOMAIN,
     link: DOMAIN,
     language: 'en',
