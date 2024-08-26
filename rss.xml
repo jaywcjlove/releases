@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Kenny Wang is Releasing...</title>
+        <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
-        <description>Kenny Wang's recent releases</description>
-        <lastBuildDate>Mon, 26 Aug 2024 07:56:30 GMT</lastBuildDate>
+        <description>Kenny Wang's recent releases &amp; contributing</description>
+        <lastBuildDate>Mon, 26 Aug 2024 08:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
-            <title>Kenny Wang is Releasing...</title>
+            <title>Kenny Wang is Releasing &amp; Contributing...</title>
             <url>https://wangchujiang.com/releases/favicon.png</url>
             <link>https://wangchujiang.com/releases</link>
         </image>
