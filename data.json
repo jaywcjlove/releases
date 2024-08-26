@@ -1,5 +1,16 @@
 [
   {
+    "id": "41338560194",
+    "type": "PushEvent",
+    "repo": "jaywcjlove/reference",
+    "title": "released v1.45.0",
+    "sha": "ea3391734bafa3059bd914974f5860985c8471ee",
+    "url": "https://github.com/jaywcjlove/reference/commit/ea3391734bafa3059bd914974f5860985c8471ee",
+    "created_at": "2024-08-26T11:43:11Z",
+    "state": "tagged",
+    "version": "1.45.0"
+  },
+  {
     "id": "41233191269",
     "type": "PushEvent",
     "repo": "jaywcjlove/recursive-readdir-files",
@@ -185,17 +196,6 @@
     "created_at": "2024-07-30T18:54:29Z",
     "state": "tagged",
     "version": "1.4.1"
-  },
-  {
-    "id": "40598679794",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/svgtofont",
-    "title": "released v5.0.2",
-    "sha": "f6b903a8f3b98ee06430352987b1db147fd4b0a8",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/f6b903a8f3b98ee06430352987b1db147fd4b0a8",
-    "created_at": "2024-07-30T18:42:43Z",
-    "state": "tagged",
-    "version": "5.0.2"
   },
   {
     "id": 2188086718,
@@ -536,7 +536,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "317"
+    "stars": "318"
   },
   {
     "id": 571407407,
