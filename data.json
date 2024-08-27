@@ -187,17 +187,6 @@
     "version": "2.7.0"
   },
   {
-    "id": "40598990444",
-    "type": "PushEvent",
-    "repo": "uiwjs/bootstrap-icons",
-    "title": "released v1.4.1",
-    "sha": "ee71f97aee11acf6a39e8c51db281e8bce922c87",
-    "url": "https://github.com/uiwjs/bootstrap-icons/commit/ee71f97aee11acf6a39e8c51db281e8bce922c87",
-    "created_at": "2024-07-30T18:54:29Z",
-    "state": "tagged",
-    "version": "1.4.1"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -294,7 +283,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "705"
+    "stars": "706"
   },
   {
     "id": 1086792263,
