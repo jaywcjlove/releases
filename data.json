@@ -176,17 +176,6 @@
     "version": "2.2.1"
   },
   {
-    "id": "40611979457",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/free-font",
-    "title": "released v2.7.0",
-    "sha": "44b8e7136f20f04f08b8ea91721b89a620fd0420",
-    "url": "https://github.com/jaywcjlove/free-font/commit/44b8e7136f20f04f08b8ea91721b89a620fd0420",
-    "created_at": "2024-07-31T06:43:44Z",
-    "state": "tagged",
-    "version": "2.7.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -283,7 +272,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "706"
+    "stars": "707"
   },
   {
     "id": 1086792263,
