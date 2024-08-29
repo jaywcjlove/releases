@@ -1,5 +1,16 @@
 [
   {
+    "id": "41432794178",
+    "type": "PushEvent",
+    "repo": "jaywcjlove/idoc",
+    "title": "released v1.32.0",
+    "sha": "8ffdfc499389198491d3637713f7db67542dd3e1",
+    "url": "https://github.com/jaywcjlove/idoc/commit/8ffdfc499389198491d3637713f7db67542dd3e1",
+    "created_at": "2024-08-28T21:20:03Z",
+    "state": "tagged",
+    "version": "1.32.0"
+  },
+  {
     "id": "41338560194",
     "type": "PushEvent",
     "repo": "jaywcjlove/reference",
@@ -492,7 +503,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "23.8K"
+    "stars": "23.9K"
   },
   {
     "id": 590022379,
