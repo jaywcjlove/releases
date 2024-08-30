@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 30 Aug 2024 04:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 04:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -149,14 +149,6 @@
             <guid>40724571450</guid>
             <pubDate>Sun, 04 Aug 2024 06:51:54 GMT</pubDate>
             <description><![CDATA[<a href="undefined">released v2.10.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/pinyin-font v1.9.1 released]]></title>
-            <link>https://github.com/jaywcjlove/pinyin-font/releases/tag/v1.9.1</link>
-            <guid>40724441867</guid>
-            <pubDate>Sun, 04 Aug 2024 06:34:41 GMT</pubDate>
-            <description><![CDATA[<a href="undefined">released v1.9.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
