@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 30 Aug 2024 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 17:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-amap v7.1.1 released]]></title>
+            <link>https://github.com/uiwjs/react-amap/releases/tag/v7.1.1</link>
+            <guid>41483367043</guid>
+            <pubDate>Fri, 30 Aug 2024 09:02:29 GMT</pubDate>
+            <description><![CDATA[<a href="undefined">released v7.1.1 #373 #372</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/uglify-js-export v3.19.3 released]]></title>
             <link>https://github.com/jaywcjlove/uglify-js-export/releases/tag/v3.19.3</link>
@@ -134,22 +142,6 @@
             <pubDate>Tue, 06 Aug 2024 02:09:10 GMT</pubDate>
             <description><![CDATA[<a href="undefined">released v2.0.0-alpha.26</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/wxmp v2.4.0 released]]></title>
-            <link>https://github.com/jaywcjlove/wxmp/releases/tag/v2.4.0</link>
-            <guid>40729905676</guid>
-            <pubDate>Sun, 04 Aug 2024 16:56:20 GMT</pubDate>
-            <description><![CDATA[<a href="undefined">released v2.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/free-font v2.10.0 released]]></title>
-            <link>https://github.com/jaywcjlove/free-font/releases/tag/v2.10.0</link>
-            <guid>40724571450</guid>
-            <pubDate>Sun, 04 Aug 2024 06:51:54 GMT</pubDate>
-            <description><![CDATA[<a href="undefined">released v2.10.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark vundefined released]]></title>
