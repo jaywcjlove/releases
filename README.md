@@ -1,6 +1,8 @@
 [Kenny Wang is Releasing & Contributing...](https://wangchujiang.com/releases/)
 ===
 
+![](https://repository-images.githubusercontent.com/844558097/2b6e2099-3730-488d-ad41-6eb61f1ffbc3)
+
 Update date: <!--GAMFC-->2024-08-29 17:33:50<!--GAMFC-END-->
 
 ```sh
