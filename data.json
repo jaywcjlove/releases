@@ -1,5 +1,16 @@
 [
   {
+    "id": "41502358921",
+    "type": "PushEvent",
+    "repo": "jaywcjlove/svgtofont",
+    "title": "released v6.0.0 #240 #242",
+    "sha": "6ca9b70e733f711c2d128beb2c4f94686c69abb4",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/6ca9b70e733f711c2d128beb2c4f94686c69abb4",
+    "created_at": "2024-08-30T20:26:25Z",
+    "state": "tagged",
+    "version": "6.0.0"
+  },
+  {
     "id": "41483367043",
     "type": "PushEvent",
     "repo": "uiwjs/react-amap",
@@ -163,17 +174,6 @@
     "created_at": "2024-08-08T16:33:56Z",
     "state": "tagged",
     "version": "1.10.1"
-  },
-  {
-    "id": "40770114629",
-    "type": "PushEvent",
-    "repo": "uiwjs/react-json-view",
-    "title": "released v2.0.0-alpha.26",
-    "sha": "32b34c1b57a73e9cb46022aea406110b89cb79cb",
-    "url": "https://github.com/uiwjs/react-json-view/commit/32b34c1b57a73e9cb46022aea406110b89cb79cb",
-    "created_at": "2024-08-06T02:09:10Z",
-    "state": "tagged",
-    "version": "2.0.0-alpha.26"
   },
   {
     "id": 2188086718,
@@ -514,7 +514,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "320"
+    "stars": "321"
   },
   {
     "id": 571407407,
