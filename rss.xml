@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 01 Sep 2024 05:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 17:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font v2.12.0 released]]></title>
+            <link>https://github.com/jaywcjlove/free-font/releases/tag/v2.12.0</link>
+            <guid>41526518724</guid>
+            <pubDate>Sun, 01 Sep 2024 17:30:07 GMT</pubDate>
+            <description><![CDATA[<a href="undefined">released v2.12.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/svgtofont v6.0.0 released]]></title>
             <link>https://github.com/jaywcjlove/svgtofont/releases/tag/v6.0.0</link>
