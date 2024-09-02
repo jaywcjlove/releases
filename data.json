@@ -165,17 +165,6 @@
     "version": "3.19.2"
   },
   {
-    "id": "40914432511",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/ejs-cli",
-    "title": "released v1.5.0",
-    "sha": "f6f2f6757de2b39717e756f07f02f3d02608e87d",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/f6f2f6757de2b39717e756f07f02f3d02608e87d",
-    "created_at": "2024-08-10T12:17:45Z",
-    "state": "tagged",
-    "version": "1.5.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -195,7 +184,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "185"
+    "stars": "186"
   },
   {
     "id": 1838600360,
@@ -514,7 +503,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "321"
+    "stars": "322"
   },
   {
     "id": 571407407,
