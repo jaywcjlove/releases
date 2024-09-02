@@ -176,17 +176,6 @@
     "version": "1.5.0"
   },
   {
-    "id": "40867339051",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/pinyin-font",
-    "title": "released v1.10.1",
-    "sha": "9f5638d328437d9feda3a68f258df5841e4b295f",
-    "url": "https://github.com/jaywcjlove/pinyin-font/commit/9f5638d328437d9feda3a68f258df5841e4b295f",
-    "created_at": "2024-08-08T16:33:56Z",
-    "state": "tagged",
-    "version": "1.10.1"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
