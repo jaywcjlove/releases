@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 03 Sep 2024 05:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 17:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/linux-command v1.19.1 released]]></title>
+            <link>https://github.com/jaywcjlove/linux-command/releases/tag/v1.19.1</link>
+            <guid>41568181045</guid>
+            <pubDate>Tue, 03 Sep 2024 07:22:57 GMT</pubDate>
+            <description><![CDATA[<a href="undefined">released v1.19.1 #601</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view v2.0.0-alpha.27 released]]></title>
             <link>https://github.com/uiwjs/react-json-view/releases/tag/v2.0.0-alpha.27</link>
