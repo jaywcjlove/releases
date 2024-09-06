@@ -193,7 +193,7 @@ async function getReleasesData() {
   })
 
   for (const item of datas) {
-    if (infos.state) {
+    if (item.state) {
       feed.addItem({
         id: item.id,
         link: item.url,
