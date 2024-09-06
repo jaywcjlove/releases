@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 05 Sep 2024 17:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 05:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror v4.23.1 released]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/releases/tag/v4.23.1</link>
+            <guid>41668393022</guid>
+            <pubDate>Thu, 05 Sep 2024 18:47:50 GMT</pubDate>
+            <description><![CDATA[<a href="undefined">released v4.23.1 #681</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/idoc v1.33.2 released]]></title>
             <link>https://github.com/jaywcjlove/idoc/releases/tag/v1.33.2</link>
@@ -157,22 +165,6 @@
             <guid>41220889883</guid>
             <pubDate>Wed, 21 Aug 2024 17:17:07 GMT</pubDate>
             <description><![CDATA[<a href="undefined">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/ejs-cli v1.6.0 released]]></title>
-            <link>https://github.com/jaywcjlove/ejs-cli/releases/tag/v1.6.0</link>
-            <guid>41201385038</guid>
-            <pubDate>Wed, 21 Aug 2024 07:41:57 GMT</pubDate>
-            <description><![CDATA[<a href="undefined">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/releases v1.1.0 released]]></title>
-            <link>https://github.com/jaywcjlove/releases/releases/tag/v1.1.0</link>
-            <guid>41199951464</guid>
-            <pubDate>Wed, 21 Aug 2024 06:52:37 GMT</pubDate>
-            <description><![CDATA[<a href="undefined">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
