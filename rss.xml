@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 07 Sep 2024 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 05:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -157,14 +157,6 @@
             <guid>41233191269</guid>
             <pubDate>Thu, 22 Aug 2024 03:13:25 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/recursive-readdir-files/commit/65739491d2750b3ee242425268f9e13834092a6e">released v2.3.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777</link>
-            <guid>41220889883</guid>
-            <pubDate>Wed, 21 Aug 2024 17:17:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

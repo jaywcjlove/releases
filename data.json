@@ -198,17 +198,6 @@
     "version": "2.3.2"
   },
   {
-    "id": "41220889883",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/awesome-mac",
-    "title": "released v1.7.0",
-    "sha": "56e5810563ef848dca61ad91539f099d77f25777",
-    "url": "https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777",
-    "created_at": "2024-08-21T17:17:07Z",
-    "state": "tagged",
-    "version": "1.7.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
