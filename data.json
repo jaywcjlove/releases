@@ -1,14 +1,14 @@
 [
   {
-    "id": "41668393022",
+    "id": "41802387858",
     "type": "PushEvent",
     "repo": "uiwjs/react-codemirror",
-    "title": "released v4.23.1 #681",
-    "sha": "e79b1f3b58a6c0bb0d1068a3f188ba87bafbb9c1",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/e79b1f3b58a6c0bb0d1068a3f188ba87bafbb9c1",
-    "created_at": "2024-09-05T18:47:50Z",
+    "title": "released v4.23.2 #681",
+    "sha": "e26ca151a61bff6d03314e5e52b738285d8d7128",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/e26ca151a61bff6d03314e5e52b738285d8d7128",
+    "created_at": "2024-09-10T18:14:35Z",
     "state": "tagged",
-    "version": "4.23.1"
+    "version": "4.23.2"
   },
   {
     "id": "41649099799",
@@ -206,7 +206,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "187"
+    "stars": "188"
   },
   {
     "id": 1838600360,
