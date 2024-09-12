@@ -198,7 +198,7 @@ async function getReleasesData() {
         id: item.id,
         link: item.url,
         date: new Date(item.created_at),
-        title: item.title,
+        title: `${item.repo} ${item.title}`,
         image: `https://github.com/${item.repo.split('/')[0]}.png`,
         description: `<a href="${item.url}">${item.title}</a>`,
       })
