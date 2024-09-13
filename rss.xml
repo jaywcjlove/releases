@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 13 Sep 2024 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 17:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -141,14 +141,6 @@
             <guid>41460775061</guid>
             <pubDate>Thu, 29 Aug 2024 15:37:32 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/14de659bd264cd68f09a5e6770ff5da7563922c8">released v2.11.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.32.0]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/8ffdfc499389198491d3637713f7db67542dd3e1</link>
-            <guid>41432794178</guid>
-            <pubDate>Wed, 28 Aug 2024 21:20:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/8ffdfc499389198491d3637713f7db67542dd3e1">released v1.32.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
