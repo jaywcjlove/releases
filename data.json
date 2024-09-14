@@ -132,17 +132,6 @@
     "version": "6.0.0"
   },
   {
-    "id": "41483367043",
-    "type": "PushEvent",
-    "repo": "uiwjs/react-amap",
-    "title": "released v7.1.1 #373 #372",
-    "sha": "5ed2d086489a71cf376a0d6311e370b95a61bddd",
-    "url": "https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd",
-    "created_at": "2024-08-30T09:02:29Z",
-    "state": "tagged",
-    "version": "7.1.1"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -162,7 +151,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "188"
+    "stars": "189"
   },
   {
     "id": 1838600360,

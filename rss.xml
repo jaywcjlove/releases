@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Sep 2024 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 17:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -110,14 +110,6 @@
             <pubDate>Fri, 30 Aug 2024 20:26:25 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/6ca9b70e733f711c2d128beb2c4f94686c69abb4">released v6.0.0 #240 #242</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v7.1.1 #373 #372]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd</link>
-            <guid>41483367043</guid>
-            <pubDate>Fri, 30 Aug 2024 09:02:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd">released v7.1.1 #373 #372</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
