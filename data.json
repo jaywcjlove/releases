@@ -143,39 +143,6 @@
     "version": "7.1.1"
   },
   {
-    "id": "41462325756",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/uglify-js-export",
-    "title": "released v3.19.3",
-    "sha": "3865c73202d9b5aee9b09279a1617a0324ce5084",
-    "url": "https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084",
-    "created_at": "2024-08-29T16:24:53Z",
-    "state": "tagged",
-    "version": "3.19.3"
-  },
-  {
-    "id": "41460981270",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/svgtofont",
-    "title": "released v5.1.0 (#239)",
-    "sha": "9635757f9e311b97054b7308ea2a9ab3775caef7",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/9635757f9e311b97054b7308ea2a9ab3775caef7",
-    "created_at": "2024-08-29T15:43:25Z",
-    "state": "tagged",
-    "version": "5.1.0"
-  },
-  {
-    "id": "41460775061",
-    "type": "PushEvent",
-    "repo": "jaywcjlove/free-font",
-    "title": "released v2.11.0",
-    "sha": "14de659bd264cd68f09a5e6770ff5da7563922c8",
-    "url": "https://github.com/jaywcjlove/free-font/commit/14de659bd264cd68f09a5e6770ff5da7563922c8",
-    "created_at": "2024-08-29T15:37:32Z",
-    "state": "tagged",
-    "version": "2.11.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -250,7 +217,7 @@
     "created_at": "2022-04-06T12:42:01Z",
     "state": "merged",
     "number": 95,
-    "stars": "1.7K"
+    "stars": "1.8K"
   },
   {
     "id": 1160378850,
@@ -305,7 +272,7 @@
     "created_at": "2021-10-21T16:42:18Z",
     "state": "merged",
     "number": 73,
-    "stars": "1.7K"
+    "stars": "1.8K"
   },
   {
     "id": 1011743483,
@@ -316,7 +283,7 @@
     "created_at": "2021-09-30T06:00:05Z",
     "state": "merged",
     "number": 71,
-    "stars": "1.7K"
+    "stars": "1.8K"
   },
   {
     "id": 990958917,
@@ -426,7 +393,7 @@
     "created_at": "2021-05-14T16:54:45Z",
     "state": "merged",
     "number": 57,
-    "stars": "1.7K"
+    "stars": "1.8K"
   },
   {
     "id": 824160663,
@@ -481,7 +448,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "414"
+    "stars": "415"
   },
   {
     "id": 660217683,
