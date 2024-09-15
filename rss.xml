@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Sep 2024 17:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 05:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -101,14 +101,6 @@
             <guid>41526518724</guid>
             <pubDate>Sun, 01 Sep 2024 17:30:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/d952b1629ea05665e70d685d91ed9266135a17d5">released v2.12.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.0.0 #240 #242]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/6ca9b70e733f711c2d128beb2c4f94686c69abb4</link>
-            <guid>41502358921</guid>
-            <pubDate>Fri, 30 Aug 2024 20:26:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/6ca9b70e733f711c2d128beb2c4f94686c69abb4">released v6.0.0 #240 #242</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
