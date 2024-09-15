@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 15 Sep 2024 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 17:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[richardpiazza/SwiftSVG fix: fix Line parameter syntax error.]]></title>
+            <link>https://github.com/richardpiazza/SwiftSVG/pull/17</link>
+            <guid>2526870275</guid>
+            <pubDate>Sun, 15 Sep 2024 11:31:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/richardpiazza/SwiftSVG/pull/17">fix: fix Line parameter syntax error.</a>]]></description>
+            <enclosure url="https://github.com/richardpiazza.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-markdown-preview released v5.1.3]]></title>
             <link>https://github.com/uiwjs/react-markdown-preview/commit/cc517948e33aac9900a19efc49ffb176813dcb03</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 03 Sep 2024 03:59:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251">released v2.0.0-alpha.27 #53</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.12.0]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/d952b1629ea05665e70d685d91ed9266135a17d5</link>
-            <guid>41526518724</guid>
-            <pubDate>Sun, 01 Sep 2024 17:30:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/d952b1629ea05665e70d685d91ed9266135a17d5">released v2.12.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
@@ -414,14 +414,6 @@
             <pubDate>Sat, 21 Sep 2019 06:48:39 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/vkarampinis/awesome-icons/pull/16">Add uiw-icons and svgtofont tools .</a>]]></description>
             <enclosure url="https://github.com/vkarampinis.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[tsbbjs/tsbb Merge branch 'master' of github.com:jaywcjlove/tsbb]]></title>
-            <link>https://github.com/tsbbjs/tsbb/pull/3</link>
-            <guid>457243044</guid>
-            <pubDate>Tue, 18 Jun 2019 03:33:06 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/tsbbjs/tsbb/pull/3">Merge branch 'master' of github.com:jaywcjlove/tsbb</a>]]></description>
-            <enclosure url="https://github.com/tsbbjs.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
