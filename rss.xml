@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 15 Sep 2024 17:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[richardpiazza/SwiftSVG fix: fix Line parameter syntax error.]]></title>
+            <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
             <link>https://github.com/richardpiazza/SwiftSVG/pull/17</link>
             <guid>2526870275</guid>
             <pubDate>Sun, 15 Sep 2024 11:31:13 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/richardpiazza/SwiftSVG/pull/17">fix: fix Line parameter syntax error.</a>]]></description>
+            <description><![CDATA[<a href="https://github.com/richardpiazza/SwiftSVG/pull/17">Corrected 'Line' Description Syntax</a>]]></description>
             <enclosure url="https://github.com/richardpiazza.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -86,22 +86,6 @@
             <pubDate>Thu, 05 Sep 2024 06:39:43 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-video/commit/f80d43e29f0df64f43fdadae645df825ebab978e">released v2.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/linux-command released v1.19.1 #601]]></title>
-            <link>https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242</link>
-            <guid>41568181045</guid>
-            <pubDate>Tue, 03 Sep 2024 07:22:57 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242">released v1.19.1 #601</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.27 #53]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251</link>
-            <guid>41563970182</guid>
-            <pubDate>Tue, 03 Sep 2024 03:59:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251">released v2.0.0-alpha.27 #53</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
