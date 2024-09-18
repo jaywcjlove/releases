@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 17 Sep 2024 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 05:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -45,14 +45,6 @@
             <guid>41873463967</guid>
             <pubDate>Thu, 12 Sep 2024 14:32:20 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/cc517948e33aac9900a19efc49ffb176813dcb03">released v5.1.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.23.2 #681]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/e26ca151a61bff6d03314e5e52b738285d8d7128</link>
-            <guid>41802387858</guid>
-            <pubDate>Tue, 10 Sep 2024 18:14:35 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/e26ca151a61bff6d03314e5e52b738285d8d7128">released v4.23.2 #681</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
