@@ -71,35 +71,26 @@ async function getMyPullRequest() {
 }
 
 async function getDataAtPage(page = 1) {
-  const { data } = await octokit.request('GET /users/{username}/events', {
-    username: "jaywcjlove",
+  const { data: tags } = await octokit.request('GET /search/commits', {
+    q: `user:jaywcjlove+user:uiwjs+user:tsbbjs+user:kktjs+release+is:public`,
     per_page: 100,
     page,
-  })
+  });
 
-  return data
-    .filter(item => item.type === 'PushEvent' && item.public && !ignoreRepos.includes(item.repo.name))
-    .flatMap((item) => {
-      const payload = item.payload || {}
-      return (payload.commits || []).map((commit) => {
-        const title = (commit?.message || '').split('\n')[0]
-        const version = title.match(/v?(\d+\.\d+\.\d+(?:-[\w.]+)?)(?:\s|$)/)?.[1] || ''
-        return {
-          id: item.id,
-          type: item.type,
-          repo: item.repo.name,
-          title,
-          sha: commit?.sha || '',
-          url: `https://github.com/${item.repo.name}/commit/${commit?.sha}`,
-          created_at: item.created_at,
-          state: "tagged",
-          version,
-          // payload: item.payload,
-        }
-      })
-    })
-    //.filter(item => item.version)
-    .filter(item => item.title.includes('release') && item.version)
+  return tags.items.flatMap((item) => {
+    const version = item.commit.message.match(/v?(\d+\.\d+\.\d+(?:-[\w.]+)?)(?:\s|$)/)?.[1] || ''
+    return {
+      id: item.node_id,
+      type: "commits",
+      title: item.commit.message,
+      repo: item.repository.full_name,
+      sha: item.sha,
+      url: item.html_url,
+      created_at: item.commit.committer.date,
+      state: "committer",
+      version,
+    }
+  })
 }
 
 async function getReleasesData() {
@@ -157,6 +148,7 @@ async function getReleasesData() {
   //   "version": "2.3.2"
   // }
   let infos = await getReleasesData()
+  console.log("infos length", infos.length)
   // {
   //   id: 496622301,
   //   type: 'User',
