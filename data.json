@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjRlNDZmZmI0ZjdhZDM3MTcyN2Y1NDY5YjdlZGIyMDM3YmM4YWU4Yzc=",
+    "type": "commits",
+    "title": "released v7.1.2 #374",
+    "repo": "uiwjs/react-amap",
+    "sha": "4e46ffb4f7ad371727f5469b7edb2037bc8ae8c7",
+    "url": "https://github.com/uiwjs/react-amap/commit/4e46ffb4f7ad371727f5469b7edb2037bc8ae8c7",
+    "created_at": "2024-09-19T17:37:14.000+08:00",
+    "state": "committer",
+    "version": "7.1.2"
+  },
+  {
     "id": "MDY6Q29tbWl0ODQ0NTU4MDk3OjkyZDc5MGNkZDcyNjk3ZmU5NWYwZGIwYzk1OTYyMGNiMmMyOTU4ZTE=",
     "type": "commits",
     "title": "fix: fix issue fetching released data.",
@@ -2299,17 +2310,6 @@
     "version": "1.0.10"
   },
   {
-    "id": "MDY6Q29tbWl0NTk3NzYxMDM6YzIxMDY2MmI2OGVjZDBlYmE1NDZkYWE0YmNkOTdiNDNkYWI3MDg1NA==",
-    "type": "commits",
-    "title": "released v1.1.2",
-    "repo": "jaywcjlove/loading-cli",
-    "sha": "c210662b68ecd0eba546daa4bcd97b43dab70854",
-    "url": "https://github.com/jaywcjlove/loading-cli/commit/c210662b68ecd0eba546daa4bcd97b43dab70854",
-    "created_at": "2023-11-27T12:12:39.000+08:00",
-    "state": "committer",
-    "version": "1.1.2"
-  },
-  {
     "id": "MDY6Q29tbWl0NDg1MjIwMjc3OjU0ZjQyMTIxMWYyM2NlNWE5MDNiNjcyYmMxZWM5MWE5NzZlZjBmOGI=",
     "type": "commits",
     "title": "released v2.0.1",
@@ -2439,7 +2439,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "195"
+    "stars": "196"
   },
   {
     "id": 1838600360,
@@ -2758,7 +2758,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "327"
+    "stars": "328"
   },
   {
     "id": 571407407,
