@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 19 Sep 2024 17:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 05:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1730,6 +1730,14 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/loading-cli released v1.1.2]]></title>
+            <link>https://github.com/jaywcjlove/loading-cli/commit/c210662b68ecd0eba546daa4bcd97b43dab70854</link>
+            <guid>MDY6Q29tbWl0NTk3NzYxMDM6YzIxMDY2MmI2OGVjZDBlYmE1NDZkYWE0YmNkOTdiNDNkYWI3MDg1NA==</guid>
+            <pubDate>Mon, 27 Nov 2023 04:12:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/loading-cli/commit/c210662b68ecd0eba546daa4bcd97b43dab70854">released v1.1.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/html-to-markdown-cli released v2.0.1]]></title>
             <link>https://github.com/jaywcjlove/html-to-markdown-cli/commit/54f421211f23ce5a903b672bc1ec91a976ef0f8b</link>
             <guid>MDY6Q29tbWl0NDg1MjIwMjc3OjU0ZjQyMTIxMWYyM2NlNWE5MDNiNjcyYmMxZWM5MWE5NzZlZjBmOGI=</guid>
@@ -1751,14 +1759,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0Mjk1MzcyNTI6ZTg0YTBkODBiMzM4ZTAxMzdmNTQ5N2QzNjY3ZWI1YTUxOWFmM2EwNQ==</guid>
             <pubDate>Mon, 27 Nov 2023 02:36:52 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/date.js/commit/e84a0d80b338e0137f5497d3667eb5a519af3a05">released v1.0.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/dark-mode released v1.0.16]]></title>
-            <link>https://github.com/jaywcjlove/dark-mode/commit/cd6a8127ab6124ed0cba1ab6063786ce458d8987</link>
-            <guid>MDY6Q29tbWl0NDY5ODYxMTc2OmNkNmE4MTI3YWI2MTI0ZWQwY2JhMWFiNjA2Mzc4NmNlNDU4ZDg5ODc=</guid>
-            <pubDate>Mon, 27 Nov 2023 02:30:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/dark-mode/commit/cd6a8127ab6124ed0cba1ab6063786ce458d8987">released v1.0.16</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
