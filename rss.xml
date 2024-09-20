@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 20 Sep 2024 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 17:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[uiwjs/react-amap released v7.1.2 #374]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/4e46ffb4f7ad371727f5469b7edb2037bc8ae8c7</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjRlNDZmZmI0ZjdhZDM3MTcyN2Y1NDY5YjdlZGIyMDM3YmM4YWU4Yzc=</guid>
-            <pubDate>Thu, 19 Sep 2024 09:37:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/4e46ffb4f7ad371727f5469b7edb2037bc8ae8c7">released v7.1.2 #374</a>]]></description>
+            <title><![CDATA[uiwjs/react-amap released v7.1.3 #375]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/77f878c02ec4c1c5995b90ad9b9657c7e613d516</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0Ojc3Zjg3OGMwMmVjNGMxYzU5OTViOTBhZDliOTY1N2M3ZTYxM2Q1MTY=</guid>
+            <pubDate>Fri, 20 Sep 2024 11:29:27 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/77f878c02ec4c1c5995b90ad9b9657c7e613d516">released v7.1.3 #375</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1706,14 +1706,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/markdown-to-html-cli released v4.0.3]]></title>
-            <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/abb0779083ac75815c357eb1bc06c3ac1bf6960a</link>
-            <guid>MDY6Q29tbWl0NDA5NjY3NzEzOmFiYjA3NzkwODNhYzc1ODE1YzM1N2ViMWJjMDZjM2FjMWJmNjk2MGE=</guid>
-            <pubDate>Mon, 27 Nov 2023 04:36:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html-cli/commit/abb0779083ac75815c357eb1bc06c3ac1bf6960a">released v4.0.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/magic-input released v2.0.1]]></title>
             <link>https://github.com/jaywcjlove/magic-input/commit/c5a851b7b96038ca65e6aed71bf0fca576f77cb9</link>
             <guid>MDY6Q29tbWl0NTcyMjQ2OTA6YzVhODUxYjdiOTYwMzhjYTY1ZTZhZWQ3MWJmMGZjYTU3NmY3N2NiOQ==</guid>
@@ -1727,14 +1719,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTM4MTkyNDE4OmMyNzM0ZTdjODVkYzNkODE1NjcyMzExMGU3YWZlYWE5NzAzMzliNDA=</guid>
             <pubDate>Mon, 27 Nov 2023 04:19:38 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/local-ip-url/commit/c2734e7c85dc3d8156723110e7afeaa970339b40">released v1.0.10</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/loading-cli released v1.1.2]]></title>
-            <link>https://github.com/jaywcjlove/loading-cli/commit/c210662b68ecd0eba546daa4bcd97b43dab70854</link>
-            <guid>MDY6Q29tbWl0NTk3NzYxMDM6YzIxMDY2MmI2OGVjZDBlYmE1NDZkYWE0YmNkOTdiNDNkYWI3MDg1NA==</guid>
-            <pubDate>Mon, 27 Nov 2023 04:12:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/loading-cli/commit/c210662b68ecd0eba546daa4bcd97b43dab70854">released v1.1.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1759,6 +1743,14 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0Mjk1MzcyNTI6ZTg0YTBkODBiMzM4ZTAxMzdmNTQ5N2QzNjY3ZWI1YTUxOWFmM2EwNQ==</guid>
             <pubDate>Mon, 27 Nov 2023 02:36:52 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/date.js/commit/e84a0d80b338e0137f5497d3667eb5a519af3a05">released v1.0.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/dark-mode released v1.0.16]]></title>
+            <link>https://github.com/jaywcjlove/dark-mode/commit/cd6a8127ab6124ed0cba1ab6063786ce458d8987</link>
+            <guid>MDY6Q29tbWl0NDY5ODYxMTc2OmNkNmE4MTI3YWI2MTI0ZWQwY2JhMWFiNjA2Mzc4NmNlNDU4ZDg5ODc=</guid>
+            <pubDate>Mon, 27 Nov 2023 02:30:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/dark-mode/commit/cd6a8127ab6124ed0cba1ab6063786ce458d8987">released v1.0.16</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
