@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 21 Sep 2024 05:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 17:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1754,14 +1754,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/dark-mode released v1.0.16]]></title>
-            <link>https://github.com/jaywcjlove/dark-mode/commit/cd6a8127ab6124ed0cba1ab6063786ce458d8987</link>
-            <guid>MDY6Q29tbWl0NDY5ODYxMTc2OmNkNmE4MTI3YWI2MTI0ZWQwY2JhMWFiNjA2Mzc4NmNlNDU4ZDg5ODc=</guid>
-            <pubDate>Mon, 27 Nov 2023 02:30:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/dark-mode/commit/cd6a8127ab6124ed0cba1ab6063786ce458d8987">released v1.0.16</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/code-example released v3.3.7]]></title>
             <link>https://github.com/jaywcjlove/code-example/commit/bdac3913609b22805fdeebda55e9fe23b4d57c5d</link>
             <guid>MDY6Q29tbWl0MTQyMTc0MzI2OmJkYWMzOTEzNjA5YjIyODA1ZmRlZWJkYTU1ZTlmZTIzYjRkNTdjNWQ=</guid>
@@ -1783,6 +1775,14 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjFiZGQxYWZkZDMyZTVhMjQyODVmYjk2YTAyYzMzZjRjMzEyMGJjMjE=</guid>
             <pubDate>Sun, 26 Nov 2023 12:06:43 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/1bdd1afdd32e5a24285fb96a02c33f4c3120bc21">released v1.41.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/iNotify released v2.1.3]]></title>
+            <link>https://github.com/jaywcjlove/iNotify/commit/253b605f1008f94451b40434779443b6f4526ebc</link>
+            <guid>MDY6Q29tbWl0MzUxNjIwMTA6MjUzYjYwNWYxMDA4Zjk0NDUxYjQwNDM0Nzc5NDQzYjZmNDUyNmViYw==</guid>
+            <pubDate>Sun, 26 Nov 2023 11:24:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iNotify/commit/253b605f1008f94451b40434779443b6f4526ebc">released v2.1.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
