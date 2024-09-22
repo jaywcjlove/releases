@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 22 Sep 2024 05:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 17:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.3.1 #155]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/40387a0d0ff939a7d203491d64266d795232e5e7</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjQwMzg3YTBkMGZmOTM5YTdkMjAzNDkxZDY0MjY2ZDc5NTIzMmU1ZTc=</guid>
+            <pubDate>Sun, 22 Sep 2024 16:32:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/40387a0d0ff939a7d203491d64266d795232e5e7">released v2.3.1 #155</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/typenexus released v0.5.6]]></title>
+            <link>https://github.com/jaywcjlove/typenexus/commit/feeabd76a345b0f7f8db1deacc3f308d4ce5bcde</link>
+            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OmZlZWFiZDc2YTM0NWIwZjdmOGRiMWRlYWNjM2YzMDhkNGNlNWJjZGU=</guid>
+            <pubDate>Sun, 22 Sep 2024 07:37:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/feeabd76a345b0f7f8db1deacc3f308d4ce5bcde">released v0.5.6</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mocker-api released v2.10.0]]></title>
             <link>https://github.com/jaywcjlove/mocker-api/commit/ba06d9fc578d733ce8927edb383de0031feae8ee</link>
@@ -1682,14 +1698,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-amap released v5.0.20]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/f85053070b264d45f2e99b501ff058a4488228d7</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmY4NTA1MzA3MGIyNjRkNDVmMmU5OWI1MDFmZjA1OGE0NDg4MjI4ZDc=</guid>
-            <pubDate>Tue, 28 Nov 2023 08:05:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/f85053070b264d45f2e99b501ff058a4488228d7">released v5.0.20</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-login-page released v1.0.2]]></title>
             <link>https://github.com/uiwjs/react-login-page/commit/658093fefd661095ec173e7e821d4f24827d9ca8</link>
             <guid>MDY6Q29tbWl0NjI5MTM4MDAxOjY1ODA5M2ZlZmQ2NjEwOTVlYzE3M2U3ZTgyMWQ0ZjI0ODI3ZDljYTg=</guid>
@@ -1775,14 +1783,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjFiZGQxYWZkZDMyZTVhMjQyODVmYjk2YTAyYzMzZjRjMzEyMGJjMjE=</guid>
             <pubDate>Sun, 26 Nov 2023 12:06:43 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/1bdd1afdd32e5a24285fb96a02c33f4c3120bc21">released v1.41.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/iNotify released v2.1.3]]></title>
-            <link>https://github.com/jaywcjlove/iNotify/commit/253b605f1008f94451b40434779443b6f4526ebc</link>
-            <guid>MDY6Q29tbWl0MzUxNjIwMTA6MjUzYjYwNWYxMDA4Zjk0NDUxYjQwNDM0Nzc5NDQzYjZmNDUyNmViYw==</guid>
-            <pubDate>Sun, 26 Nov 2023 11:24:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iNotify/commit/253b605f1008f94451b40434779443b6f4526ebc">released v2.1.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
