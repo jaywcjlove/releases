@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTY5OTQwOTE2Ojk2Mjg5ZWUyOWY1N2QyNTdmNjI1Y2UxN2M1YWI3YmMyOWZkMmJkMzM=",
+    "type": "commits",
+    "title": "released v1.5.6",
+    "repo": "jaywcjlove/refs-cli",
+    "sha": "96289ee29f57d257f625ce17c5ab7bc29fd2bd33",
+    "url": "https://github.com/jaywcjlove/refs-cli/commit/96289ee29f57d257f625ce17c5ab7bc29fd2bd33",
+    "created_at": "2024-09-24T14:38:13.000+08:00",
+    "state": "committer",
+    "version": "1.5.6"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjRlODczMGEwOWI4NjJjY2JkZjg3MjYxNTk2OTA0NWM3NGU3OGNlMjM=",
     "type": "commits",
     "title": "released v4.23.3 #686",
@@ -2714,7 +2725,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "414"
+    "stars": "415"
   },
   {
     "id": 660217683,
