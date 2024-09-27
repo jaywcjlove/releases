@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOmYwZmM4MWExOGUwYThhN2RjZTBhZGM5ZjRiNzQ4YzZlMjQ2Y2VkMDc=",
+    "type": "commits",
+    "title": "released v2.2.2 #126",
+    "repo": "jaywcjlove/changelog-generator",
+    "sha": "f0fc81a18e0a8a7dce0adc9f4b748c6e246ced07",
+    "url": "https://github.com/jaywcjlove/changelog-generator/commit/f0fc81a18e0a8a7dce0adc9f4b748c6e246ced07",
+    "created_at": "2024-09-27T17:22:22.000+08:00",
+    "state": "committer",
+    "version": "2.2.2"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjQ3MTU3Y2QzNDllZDBiMmYxMWEwMTFmNWQxMjQzNDAyNmZlM2E2Y2U=",
+    "type": "commits",
+    "title": "released v2.3.2 #159",
+    "repo": "uiwjs/react-color",
+    "sha": "47157cd349ed0b2f11a011f5d12434026fe3a6ce",
+    "url": "https://github.com/uiwjs/react-color/commit/47157cd349ed0b2f11a011f5d12434026fe3a6ce",
+    "created_at": "2024-09-27T13:53:52.000+08:00",
+    "state": "committer",
+    "version": "2.3.2"
+  },
+  {
     "id": "MDY6Q29tbWl0NTY5OTQwOTE2Ojk2Mjg5ZWUyOWY1N2QyNTdmNjI1Y2UxN2M1YWI3YmMyOWZkMmJkMzM=",
     "type": "commits",
     "title": "released v1.5.6",
@@ -2365,17 +2387,6 @@
     "version": "1.0.3"
   },
   {
-    "id": "MDY6Q29tbWl0MTQyMTc0MzI2OmJkYWMzOTEzNjA5YjIyODA1ZmRlZWJkYTU1ZTlmZTIzYjRkNTdjNWQ=",
-    "type": "commits",
-    "title": "released v3.3.7",
-    "repo": "jaywcjlove/code-example",
-    "sha": "bdac3913609b22805fdeebda55e9fe23b4d57c5d",
-    "url": "https://github.com/jaywcjlove/code-example/commit/bdac3913609b22805fdeebda55e9fe23b4d57c5d",
-    "created_at": "2023-11-27T09:36:49.000+08:00",
-    "state": "committer",
-    "version": "3.3.7"
-  },
-  {
     "id": "MDY6Q29tbWl0NTgxNDk4MTE6ODczYzQ5N2I1MmUxOTE2NWNhNmExYWI0ZDcxMmI4ZjVmMDhlNWMzMw==",
     "type": "commits",
     "title": "released v3.0.2",
@@ -2418,17 +2429,6 @@
     "created_at": "2023-11-26T18:23:07.000+08:00",
     "state": "committer",
     "version": "2.1.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjY4MDE3NTc6M2E2YWY2ZDVkNDhmZTE4ZTk3M2Q3NDg0MmJlOTkyNDM0OTE4ZDVlMA==",
-    "type": "commits",
-    "title": "released v2.0.7",
-    "repo": "jaywcjlove/store.js",
-    "sha": "3a6af6d5d48fe18e973d74842be992434918d5e0",
-    "url": "https://github.com/jaywcjlove/store.js/commit/3a6af6d5d48fe18e973d74842be992434918d5e0",
-    "created_at": "2023-11-26T18:16:47.000+08:00",
-    "state": "committer",
-    "version": "2.0.7"
   },
   {
     "id": 1899215297,
