@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjI3Y2JjNzFlYThmMTY0OGVhMjgwMDRhMGEyOGYzYmYzZjg4OTY2ODQ=",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/refs-cli",
+    "sha": "27cbc71ea8f1648ea28004a0a28f3bf3f8896684",
+    "url": "https://github.com/jaywcjlove/refs-cli/commit/27cbc71ea8f1648ea28004a0a28f3bf3f8896684",
+    "created_at": "2024-09-29T17:08:37.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzI2NjgxNjMyOmYwZmM4MWExOGUwYThhN2RjZTBhZGM5ZjRiNzQ4YzZlMjQ2Y2VkMDc=",
     "type": "commits",
     "title": "released v2.2.2 #126",
@@ -2387,28 +2398,6 @@
     "version": "1.0.3"
   },
   {
-    "id": "MDY6Q29tbWl0MTQyMTc0MzI2OmJkYWMzOTEzNjA5YjIyODA1ZmRlZWJkYTU1ZTlmZTIzYjRkNTdjNWQ=",
-    "type": "commits",
-    "title": "released v3.3.7",
-    "repo": "jaywcjlove/code-example",
-    "sha": "bdac3913609b22805fdeebda55e9fe23b4d57c5d",
-    "url": "https://github.com/jaywcjlove/code-example/commit/bdac3913609b22805fdeebda55e9fe23b4d57c5d",
-    "created_at": "2023-11-27T09:36:49.000+08:00",
-    "state": "committer",
-    "version": "3.3.7"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTgxNDk4MTE6ODczYzQ5N2I1MmUxOTE2NWNhNmExYWI0ZDcxMmI4ZjVmMDhlNWMzMw==",
-    "type": "commits",
-    "title": "released v3.0.2",
-    "repo": "jaywcjlove/bannerjs",
-    "sha": "873c497b52e19165ca6a1ab4d712b8f5f08e5c33",
-    "url": "https://github.com/jaywcjlove/bannerjs/commit/873c497b52e19165ca6a1ab4d712b8f5f08e5c33",
-    "created_at": "2023-11-27T09:07:28.000+08:00",
-    "state": "committer",
-    "version": "3.0.2"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OjFiZGQxYWZkZDMyZTVhMjQyODVmYjk2YTAyYzMzZjRjMzEyMGJjMjE=",
     "type": "commits",
     "title": "released v1.41.0",
@@ -2538,7 +2527,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "173"
+    "stars": "174"
   },
   {
     "id": 1032707507,
