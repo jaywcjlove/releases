@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NDA4MjMyNjc0Ojc5OGJmZTg5YmEzY2NhMTg5MTljYjA5Mzc4ODNmNGUwNmJmYjU0ZWU=",
+    "type": "commits",
+    "title": "released v2.1.0 #35",
+    "repo": "jaywcjlove/coverage-badges-cli",
+    "sha": "798bfe89ba3cca18919cb0937883f4e06bfb54ee",
+    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/798bfe89ba3cca18919cb0937883f4e06bfb54ee",
+    "created_at": "2024-10-04T20:02:52.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjEwNjRlMmE5NTA1OTRmYzgwZmU1MjdkZmM1MDU0YWUxMTE2YWM0ZmE=",
     "type": "commits",
     "title": "released v4.23.4 #687",
