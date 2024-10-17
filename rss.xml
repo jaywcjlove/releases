@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 16 Oct 2024 17:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 05:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.29 #59]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/505f73e84c726111248f4bfb5b72d45e85384b37</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjUwNWY3M2U4NGM3MjYxMTEyNDhmNGJmYjViNzJkNDVlODUzODRiMzc=</guid>
+            <pubDate>Wed, 16 Oct 2024 20:16:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/505f73e84c726111248f4bfb5b72d45e85384b37">released v2.0.0-alpha.29 #59</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-textarea-code-editor released v3.1.0 #175]]></title>
             <link>https://github.com/uiwjs/react-textarea-code-editor/commit/f8280760e58ec7a1af16f81880499d5a5762e5f1</link>
@@ -1746,28 +1754,12 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/reader-stat released v2.2.1]]></title>
-            <link>https://github.com/jaywcjlove/reader-stat/commit/15b1e603a24bec3ef4bbbfd13f6101e7863231a0</link>
-            <guid>MDY6Q29tbWl0MTM4NzA4NTM5OjE1YjFlNjAzYTI0YmVjM2VmNGJiYmZkMTNmNjEwMWU3ODYzMjMxYTA=</guid>
-            <pubDate>Wed, 29 Nov 2023 14:11:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/reader-stat/commit/15b1e603a24bec3ef4bbbfd13f6101e7863231a0">released v2.2.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/uiw released-v4.22.3]]></title>
             <link>https://github.com/uiwjs/uiw/commit/22244c466e0bb0840180adbb67ac6d5b0b8506ec</link>
             <guid>MDY6Q29tbWl0MTA4NDAzNDEzOjIyMjQ0YzQ2NmUwYmIwODQwMTgwYWRiYjY3YWM2ZDViMGI4NTA2ZWM=</guid>
             <pubDate>Wed, 29 Nov 2023 09:47:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/uiw/commit/22244c466e0bb0840180adbb67ac6d5b0b8506ec">released-v4.22.3</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/html-to-markdown-cli released v2.0.1]]></title>
-            <link>https://github.com/jaywcjlove/html-to-markdown-cli/commit/54f421211f23ce5a903b672bc1ec91a976ef0f8b</link>
-            <guid>MDY6Q29tbWl0NDg1MjIwMjc3OjU0ZjQyMTIxMWYyM2NlNWE5MDNiNjcyYmMxZWM5MWE5NzZlZjBmOGI=</guid>
-            <pubDate>Mon, 27 Nov 2023 03:20:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/html-to-markdown-cli/commit/54f421211f23ce5a903b672bc1ec91a976ef0f8b">released v2.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/ejs-cli released v1.1.6]]></title>
