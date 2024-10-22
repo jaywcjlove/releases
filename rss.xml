@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 22 Oct 2024 05:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 17:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/idoc released v1.33.3]]></title>
+            <link>https://github.com/jaywcjlove/idoc/commit/86a12ab27d8b148647724f717586648b06c95a8f</link>
+            <guid>MDY6Q29tbWl0NDIzODEwNjc6ODZhMTJhYjI3ZDhiMTQ4NjQ3NzI0ZjcxNzU4NjY0OGIwNmM5NWE4Zg==</guid>
+            <pubDate>Tue, 22 Oct 2024 11:48:08 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/86a12ab27d8b148647724f717586648b06c95a8f">released v1.33.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.29 #59]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/505f73e84c726111248f4bfb5b72d45e85384b37</link>
@@ -1751,14 +1759,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjM1MjU2ODc1ZjJjYzIxOGE3MDhiYmZlNDBjMGJlYmUzMDZjMzRlYWM=</guid>
             <pubDate>Wed, 06 Dec 2023 03:32:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/35256875f2cc218a708bbfe40c0bebe306c34eac">released v6.0.1 (#347)</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/uiw released-v4.22.3]]></title>
-            <link>https://github.com/uiwjs/uiw/commit/22244c466e0bb0840180adbb67ac6d5b0b8506ec</link>
-            <guid>MDY6Q29tbWl0MTA4NDAzNDEzOjIyMjQ0YzQ2NmUwYmIwODQwMTgwYWRiYjY3YWM2ZDViMGI4NTA2ZWM=</guid>
-            <pubDate>Wed, 29 Nov 2023 09:47:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/uiw/commit/22244c466e0bb0840180adbb67ac6d5b0b8506ec">released-v4.22.3</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

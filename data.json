@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NDIzODEwNjc6ODZhMTJhYjI3ZDhiMTQ4NjQ3NzI0ZjcxNzU4NjY0OGIwNmM5NWE4Zg==",
+    "type": "commits",
+    "title": "released v1.33.3",
+    "repo": "jaywcjlove/idoc",
+    "sha": "86a12ab27d8b148647724f717586648b06c95a8f",
+    "url": "https://github.com/jaywcjlove/idoc/commit/86a12ab27d8b148647724f717586648b06c95a8f",
+    "created_at": "2024-10-22T19:48:08.000+08:00",
+    "state": "committer",
+    "version": "1.33.3"
+  },
+  {
     "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjUwNWY3M2U4NGM3MjYxMTEyNDhmNGJmYjViNzJkNDVlODUzODRiMzc=",
     "type": "commits",
     "title": "released v2.0.0-alpha.29 #59",
@@ -2341,17 +2352,6 @@
     "created_at": "2023-12-06T11:32:09.000+08:00",
     "state": "committer",
     "version": "6.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTA4NDAzNDEzOjIyMjQ0YzQ2NmUwYmIwODQwMTgwYWRiYjY3YWM2ZDViMGI4NTA2ZWM=",
-    "type": "commits",
-    "title": "released-v4.22.3",
-    "repo": "uiwjs/uiw",
-    "sha": "22244c466e0bb0840180adbb67ac6d5b0b8506ec",
-    "url": "https://github.com/uiwjs/uiw/commit/22244c466e0bb0840180adbb67ac6d5b0b8506ec",
-    "created_at": "2023-11-29T09:47:36.000Z",
-    "state": "committer",
-    "version": "4.22.3"
   },
   {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjkzMjUyYTlkNTRlMzM2ODQxMzk0OWEzNTZkMjc2ZDJhMzBlNDIyYTc=",
