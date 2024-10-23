@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 23 Oct 2024 05:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 17:34:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.30 #61]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/3208d8269950a17463b9688dc9d7bac9af89aae5</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjMyMDhkODI2OTk1MGExNzQ2M2I5Njg4ZGM5ZDdiYWM5YWY4OWFhZTU=</guid>
+            <pubDate>Wed, 23 Oct 2024 15:53:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/3208d8269950a17463b9688dc9d7bac9af89aae5">released v2.0.0-alpha.30 #61</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/idoc released v1.33.3]]></title>
             <link>https://github.com/jaywcjlove/idoc/commit/86a12ab27d8b148647724f717586648b06c95a8f</link>
@@ -1760,14 +1768,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Wed, 06 Dec 2023 03:32:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/35256875f2cc218a708bbfe40c0bebe306c34eac">released v6.0.1 (#347)</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/ejs-cli released v1.1.6]]></title>
-            <link>https://github.com/jaywcjlove/ejs-cli/commit/93252a9d54e3368413949a356d276d2a30e422a7</link>
-            <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjkzMjUyYTlkNTRlMzM2ODQxMzk0OWEzNTZkMjc2ZDJhMzBlNDIyYTc=</guid>
-            <pubDate>Mon, 27 Nov 2023 03:00:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/93252a9d54e3368413949a356d276d2a30e422a7">released v1.1.6</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>

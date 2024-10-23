@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjMyMDhkODI2OTk1MGExNzQ2M2I5Njg4ZGM5ZDdiYWM5YWY4OWFhZTU=",
+    "type": "commits",
+    "title": "released v2.0.0-alpha.30 #61",
+    "repo": "uiwjs/react-json-view",
+    "sha": "3208d8269950a17463b9688dc9d7bac9af89aae5",
+    "url": "https://github.com/uiwjs/react-json-view/commit/3208d8269950a17463b9688dc9d7bac9af89aae5",
+    "created_at": "2024-10-23T23:53:39.000+08:00",
+    "state": "committer",
+    "version": "2.0.0-alpha.30"
+  },
+  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6ODZhMTJhYjI3ZDhiMTQ4NjQ3NzI0ZjcxNzU4NjY0OGIwNmM5NWE4Zg==",
     "type": "commits",
     "title": "released v1.33.3",
@@ -2352,17 +2363,6 @@
     "created_at": "2023-12-06T11:32:09.000+08:00",
     "state": "committer",
     "version": "6.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjkzMjUyYTlkNTRlMzM2ODQxMzk0OWEzNTZkMjc2ZDJhMzBlNDIyYTc=",
-    "type": "commits",
-    "title": "released v1.1.6",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "93252a9d54e3368413949a356d276d2a30e422a7",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/93252a9d54e3368413949a356d276d2a30e422a7",
-    "created_at": "2023-11-27T11:00:45.000+08:00",
-    "state": "committer",
-    "version": "1.1.6"
   },
   {
     "id": 1899215297,
