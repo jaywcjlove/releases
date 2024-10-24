@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 24 Oct 2024 05:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 17:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kktjs/markdown-react-code-preview-loader released v2.1.9]]></title>
+            <link>https://github.com/kktjs/markdown-react-code-preview-loader/commit/cf7764840ff8dbc857877be61b45ab8b894f9a69</link>
+            <guid>MDY6Q29tbWl0NDg5NTQ4NTgxOmNmNzc2NDg0MGZmOGRiYzg1Nzg3N2JlNjFiNDVhYjhiODk0ZjlhNjk=</guid>
+            <pubDate>Thu, 24 Oct 2024 09:42:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/kktjs/markdown-react-code-preview-loader/commit/cf7764840ff8dbc857877be61b45ab8b894f9a69">released v2.1.9</a>]]></description>
+            <enclosure url="https://github.com/kktjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.30 #61]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/3208d8269950a17463b9688dc9d7bac9af89aae5</link>
@@ -1760,14 +1768,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Thu, 07 Dec 2023 04:00:46 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/035066dc488f5233c15a7fa290aae587e249b29e">released v1.2.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v6.0.1 (#347)]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/35256875f2cc218a708bbfe40c0bebe306c34eac</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjM1MjU2ODc1ZjJjYzIxOGE3MDhiYmZlNDBjMGJlYmUzMDZjMzRlYWM=</guid>
-            <pubDate>Wed, 06 Dec 2023 03:32:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/35256875f2cc218a708bbfe40c0bebe306c34eac">released v6.0.1 (#347)</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>
