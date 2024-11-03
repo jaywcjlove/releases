@@ -20,8 +20,6 @@ TOKEN=xxxx npm start
 
 ## Recommendation
 
-Check out my other repository: [Kenny Wang is Releasing & Contributing](https://github.com/jaywcjlove/releases/)
-
 - [my-npm-stat](https://wangchujiang.com/my-npm-stat/) NPM download statistics for [Kenny Wang](https://www.npmjs.com/~wcjiang)'s opens source projects for the past year. Updated Daily.
 
 ## Thanks ! 👍
