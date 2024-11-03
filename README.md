@@ -20,7 +20,7 @@ TOKEN=xxxx npm start
 
 ## Recommendation
 
-- [my-npm-stat](https://wangchujiang.com/my-npm-stat/) NPM download statistics for [Kenny Wang](https://www.npmjs.com/~wcjiang)'s opens source projects for the past year. Updated Daily.
+[my-npm-stat](https://wangchujiang.com/my-npm-stat/) NPM download statistics for [Kenny Wang](https://www.npmjs.com/~wcjiang)'s opens source projects for the past year. Updated Daily.
 
 ## Thanks ! 👍
 
