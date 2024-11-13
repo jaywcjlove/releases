@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjhjN2U5MmRiZDU4NjI1ZGVhNTgxZDNlYjBkNTQ1Y2ZkNzEyMGY1MjI=",
+    "type": "commits",
+    "title": "released v6.0.1 #228",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "8c7e92dbd58625dea581d3eb0d545cfd7120f522",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/8c7e92dbd58625dea581d3eb0d545cfd7120f522",
+    "created_at": "2024-11-13T14:55:59.000+08:00",
+    "state": "committer",
+    "version": "6.0.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjBjYmQwMjY3NGE2M2YyYzAyOTU4NTFiNGFlMDhlOTA1NmZlMzk4OWI=",
     "type": "commits",
     "title": "released v2.3.0  #132",
@@ -2321,15 +2332,15 @@
     "version": "1.0.4"
   },
   {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjBhNmY0ZmIxOTZjYzI4YWY0MjZiNGRkN2JlZjVkZmQzOGRlZDViYmQ=",
+    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjI2YjFjYzNkNWYyNzg0YzkyYmI1YTNhZWY5NjdiYTk4OTA4MTAzYjI=",
     "type": "commits",
-    "title": "released v1.2.5 #32 #31",
+    "title": "released v1.2.4 #32",
     "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "0a6f4fb196cc28af426b4dd7bef5dfd38ded5bbd",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/0a6f4fb196cc28af426b4dd7bef5dfd38ded5bbd",
-    "created_at": "2023-12-13T10:04:45.000+08:00",
+    "sha": "26b1cc3d5f2784c92bb5a3aef967ba98908103b2",
+    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/26b1cc3d5f2784c92bb5a3aef967ba98908103b2",
+    "created_at": "2023-12-13T07:37:04.000+08:00",
     "state": "committer",
-    "version": "1.2.5"
+    "version": "1.2.4"
   },
   {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOmY0MTY3ZmQ3NzllOTg1N2UyMGFkMzgwMTA0YTExZTU4YTc5YmVhMzk=",
@@ -2373,7 +2384,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "225"
+    "stars": "226"
   },
   {
     "id": 1838600360,
@@ -2384,7 +2395,7 @@
     "created_at": "2023-08-07T03:17:04Z",
     "state": "merged",
     "number": 66,
-    "stars": "176"
+    "stars": "177"
   },
   {
     "id": 1645290043,
@@ -2417,7 +2428,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "345"
+    "stars": "346"
   },
   {
     "id": 1194561099,
@@ -2670,7 +2681,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "24.6K"
+    "stars": "24.7K"
   },
   {
     "id": 590022379,

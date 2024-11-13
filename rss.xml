@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 13 Nov 2024 05:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 17:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.0.1 #228]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/8c7e92dbd58625dea581d3eb0d545cfd7120f522</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjhjN2U5MmRiZDU4NjI1ZGVhNTgxZDNlYjBkNTQ1Y2ZkNzEyMGY1MjI=</guid>
+            <pubDate>Wed, 13 Nov 2024 06:55:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/8c7e92dbd58625dea581d3eb0d545cfd7120f522">released v6.0.1 #228</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-heat-map released v2.3.0  #132]]></title>
             <link>https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b</link>
@@ -1738,11 +1746,11 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/coverage-badges-cli released v1.2.5 #32 #31]]></title>
-            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/0a6f4fb196cc28af426b4dd7bef5dfd38ded5bbd</link>
-            <guid>MDY6Q29tbWl0NDA4MjMyNjc0OjBhNmY0ZmIxOTZjYzI4YWY0MjZiNGRkN2JlZjVkZmQzOGRlZDViYmQ=</guid>
-            <pubDate>Wed, 13 Dec 2023 02:04:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/0a6f4fb196cc28af426b4dd7bef5dfd38ded5bbd">released v1.2.5 #32 #31</a>]]></description>
+            <title><![CDATA[jaywcjlove/coverage-badges-cli released v1.2.4 #32]]></title>
+            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/26b1cc3d5f2784c92bb5a3aef967ba98908103b2</link>
+            <guid>MDY6Q29tbWl0NDA4MjMyNjc0OjI2YjFjYzNkNWYyNzg0YzkyYmI1YTNhZWY5NjdiYTk4OTA4MTAzYjI=</guid>
+            <pubDate>Tue, 12 Dec 2023 23:37:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/26b1cc3d5f2784c92bb5a3aef967ba98908103b2">released v1.2.4 #32</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
