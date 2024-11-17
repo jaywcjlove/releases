@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjhjN2U5MmRiZDU4NjI1ZGVhNTgxZDNlYjBkNTQ1Y2ZkNzEyMGY1MjI=",
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=",
     "type": "commits",
-    "title": "released v6.0.1 #228",
+    "title": "released v6.1.0 #238",
     "repo": "jaywcjlove/svgtofont",
-    "sha": "8c7e92dbd58625dea581d3eb0d545cfd7120f522",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/8c7e92dbd58625dea581d3eb0d545cfd7120f522",
-    "created_at": "2024-11-13T14:55:59.000+08:00",
+    "sha": "9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55",
+    "created_at": "2024-11-17T06:33:47.000+08:00",
     "state": "committer",
-    "version": "6.0.1"
+    "version": "6.1.0"
   },
   {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjBjYmQwMjY3NGE2M2YyYzAyOTU4NTFiNGFlMDhlOTA1NmZlMzk4OWI=",
@@ -2352,17 +2352,6 @@
     "created_at": "2023-12-07T17:19:30.000+08:00",
     "state": "committer",
     "version": "2.2.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mzc5Mjk3MzAwOmVlNzFlNzA5Yjc1NTE2NDA5ZTRlZTNhZDkxNDExODBjNGRmNzFmYzA=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "uiwjs/react-run-web",
-    "sha": "ee71e709b75516409e4ee3ad9141180c4df71fc0",
-    "url": "https://github.com/uiwjs/react-run-web/commit/ee71e709b75516409e4ee3ad9141180c4df71fc0",
-    "created_at": "2023-12-07T15:38:17.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
   },
   {
     "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjAzNTA2NmRjNDg4ZjUyMzNjMTVhN2ZhMjkwYWFlNTg3ZTI0OWIyOWU=",

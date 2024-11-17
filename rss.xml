@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 16 Nov 2024 17:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 05:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.0.1 #228]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/8c7e92dbd58625dea581d3eb0d545cfd7120f522</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjhjN2U5MmRiZDU4NjI1ZGVhNTgxZDNlYjBkNTQ1Y2ZkNzEyMGY1MjI=</guid>
-            <pubDate>Wed, 13 Nov 2024 06:55:59 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/8c7e92dbd58625dea581d3eb0d545cfd7120f522">released v6.0.1 #228</a>]]></description>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.1.0 #238]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=</guid>
+            <pubDate>Sat, 16 Nov 2024 22:33:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55">released v6.1.0 #238</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1759,14 +1759,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmY0MTY3ZmQ3NzllOTg1N2UyMGFkMzgwMTA0YTExZTU4YTc5YmVhMzk=</guid>
             <pubDate>Thu, 07 Dec 2023 09:19:30 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/f4167fd779e9857e20ad380104a11e58a79bea39">released v2.2.1</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-run-web released v2.0.0]]></title>
-            <link>https://github.com/uiwjs/react-run-web/commit/ee71e709b75516409e4ee3ad9141180c4df71fc0</link>
-            <guid>MDY6Q29tbWl0Mzc5Mjk3MzAwOmVlNzFlNzA5Yjc1NTE2NDA5ZTRlZTNhZDkxNDExODBjNGRmNzFmYzA=</guid>
-            <pubDate>Thu, 07 Dec 2023 07:38:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-run-web/commit/ee71e709b75516409e4ee3ad9141180c4df71fc0">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
