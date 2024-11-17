@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 17 Nov 2024 05:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 17:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-heat-map released v2.3.1 #133]]></title>
+            <link>https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1</link>
+            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=</guid>
+            <pubDate>Sun, 17 Nov 2024 08:52:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1">released v2.3.1 #133</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/svgtofont released v6.1.0 #238]]></title>
             <link>https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55</link>

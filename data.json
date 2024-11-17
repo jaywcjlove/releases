@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=",
+    "type": "commits",
+    "title": "released v2.3.1 #133",
+    "repo": "uiwjs/react-heat-map",
+    "sha": "728d195fe05ebf0be3874e3f9287bcf693038fb1",
+    "url": "https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1",
+    "created_at": "2024-11-17T16:52:29.000+08:00",
+    "state": "committer",
+    "version": "2.3.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=",
     "type": "commits",
     "title": "released v6.1.0 #238",
