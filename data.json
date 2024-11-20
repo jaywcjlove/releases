@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmM5YTc4NTU4NTFjN2ZjZTJkNmFlYjNhOTM3ZGJmMjYwYjc5YzI5OGQ=",
+    "type": "commits",
+    "title": "released v6.1.1 (#248)",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "c9a7855851c7fce2d6aeb3a937dbf260b79c298d",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/c9a7855851c7fce2d6aeb3a937dbf260b79c298d",
+    "created_at": "2024-11-20T11:05:09.000+08:00",
+    "state": "committer",
+    "version": "6.1.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=",
     "type": "commits",
     "title": "released v2.3.1 #133",
@@ -2363,17 +2374,6 @@
     "created_at": "2023-12-07T17:19:30.000+08:00",
     "state": "committer",
     "version": "2.2.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjAzNTA2NmRjNDg4ZjUyMzNjMTVhN2ZhMjkwYWFlNTg3ZTI0OWIyOWU=",
-    "type": "commits",
-    "title": "released v1.2.3",
-    "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "035066dc488f5233c15a7fa290aae587e249b29e",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/035066dc488f5233c15a7fa290aae587e249b29e",
-    "created_at": "2023-12-07T12:00:46.000+08:00",
-    "state": "committer",
-    "version": "1.2.3"
   },
   {
     "id": 1899215297,
