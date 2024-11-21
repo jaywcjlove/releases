@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 20 Nov 2024 17:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 05:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/auto-config-loader released v1.7.8]]></title>
+            <link>https://github.com/jaywcjlove/auto-config-loader/commit/4d740071092396ac0e6e42c2ad45a5c7078f878e</link>
+            <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOjRkNzQwMDcxMDkyMzk2YWMwZTZlNDJjMmFkNDVhNWM3MDc4Zjg3OGU=</guid>
+            <pubDate>Thu, 21 Nov 2024 02:48:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/4d740071092396ac0e6e42c2ad45a5c7078f878e">released v1.7.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/svgtofont released v6.1.1 (#248)]]></title>
             <link>https://github.com/jaywcjlove/svgtofont/commit/c9a7855851c7fce2d6aeb3a937dbf260b79c298d</link>
@@ -1768,14 +1776,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Tue, 12 Dec 2023 23:37:04 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/26b1cc3d5f2784c92bb5a3aef967ba98908103b2">released v1.2.4 #32</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-heat-map released v2.2.1]]></title>
-            <link>https://github.com/uiwjs/react-heat-map/commit/f4167fd779e9857e20ad380104a11e58a79bea39</link>
-            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmY0MTY3ZmQ3NzllOTg1N2UyMGFkMzgwMTA0YTExZTU4YTc5YmVhMzk=</guid>
-            <pubDate>Thu, 07 Dec 2023 09:19:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/f4167fd779e9857e20ad380104a11e58a79bea39">released v2.2.1</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>

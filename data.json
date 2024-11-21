@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjRkNzQwMDcxMDkyMzk2YWMwZTZlNDJjMmFkNDVhNWM3MDc4Zjg3OGU=",
+    "type": "commits",
+    "title": "released v1.7.8",
+    "repo": "jaywcjlove/auto-config-loader",
+    "sha": "4d740071092396ac0e6e42c2ad45a5c7078f878e",
+    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/4d740071092396ac0e6e42c2ad45a5c7078f878e",
+    "created_at": "2024-11-21T10:48:59.000+08:00",
+    "state": "committer",
+    "version": "1.7.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmM5YTc4NTU4NTFjN2ZjZTJkNmFlYjNhOTM3ZGJmMjYwYjc5YzI5OGQ=",
     "type": "commits",
     "title": "released v6.1.1 (#248)",
@@ -2365,17 +2376,6 @@
     "version": "1.2.4"
   },
   {
-    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOmY0MTY3ZmQ3NzllOTg1N2UyMGFkMzgwMTA0YTExZTU4YTc5YmVhMzk=",
-    "type": "commits",
-    "title": "released v2.2.1",
-    "repo": "uiwjs/react-heat-map",
-    "sha": "f4167fd779e9857e20ad380104a11e58a79bea39",
-    "url": "https://github.com/uiwjs/react-heat-map/commit/f4167fd779e9857e20ad380104a11e58a79bea39",
-    "created_at": "2023-12-07T17:19:30.000+08:00",
-    "state": "committer",
-    "version": "2.2.1"
-  },
-  {
     "id": 1899215297,
     "type": "Organization",
     "repo": "uiwjs/react-json-view",
@@ -2703,7 +2703,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "337"
+    "stars": "338"
   },
   {
     "id": 571407407,
