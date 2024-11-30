@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 29 Nov 2024 17:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 05:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.3.3 #161 #142]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/869a9a6bd1ae22253d5b14ee721c6a8998a986c4</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4Ojg2OWE5YTZiZDFhZTIyMjUzZDViMTRlZTcyMWM2YTg5OThhOTg2YzQ=</guid>
+            <pubDate>Fri, 29 Nov 2024 18:14:14 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/869a9a6bd1ae22253d5b14ee721c6a8998a986c4">released v2.3.3 #161 #142</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/auto-config-loader released v1.7.8]]></title>
             <link>https://github.com/jaywcjlove/auto-config-loader/commit/4d740071092396ac0e6e42c2ad45a5c7078f878e</link>
@@ -1688,14 +1696,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Thu, 04 Jan 2024 05:37:12 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/kktjs/kkt/commit/bb80fbe66a036d4f1b18ca20fb7d37c386240af4">released v7.5.5</a>]]></description>
             <enclosure url="https://github.com/kktjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v4.1.1]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/5042951d9308d01f3b9103f7d7243c7fda968b29</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjUwNDI5NTFkOTMwOGQwMWYzYjkxMDNmN2Q3MjQzYzdmZGE5NjhiMjk=</guid>
-            <pubDate>Tue, 26 Dec 2023 16:28:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/5042951d9308d01f3b9103f7d7243c7fda968b29">released v4.1.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-markdown-preview-example released v2.1.2]]></title>

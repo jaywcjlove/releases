@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojg2OWE5YTZiZDFhZTIyMjUzZDViMTRlZTcyMWM2YTg5OThhOTg2YzQ=",
+    "type": "commits",
+    "title": "released v2.3.3 #161 #142",
+    "repo": "uiwjs/react-color",
+    "sha": "869a9a6bd1ae22253d5b14ee721c6a8998a986c4",
+    "url": "https://github.com/uiwjs/react-color/commit/869a9a6bd1ae22253d5b14ee721c6a8998a986c4",
+    "created_at": "2024-11-30T02:14:14.000+08:00",
+    "state": "committer",
+    "version": "2.3.3"
+  },
+  {
     "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjRkNzQwMDcxMDkyMzk2YWMwZTZlNDJjMmFkNDVhNWM3MDc4Zjg3OGU=",
     "type": "commits",
     "title": "released v1.7.8",
@@ -2253,17 +2264,6 @@
     "created_at": "2024-01-04T13:37:12.000+08:00",
     "state": "committer",
     "version": "7.5.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjUwNDI5NTFkOTMwOGQwMWYzYjkxMDNmN2Q3MjQzYzdmZGE5NjhiMjk=",
-    "type": "commits",
-    "title": "released v4.1.1",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "5042951d9308d01f3b9103f7d7243c7fda968b29",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/5042951d9308d01f3b9103f7d7243c7fda968b29",
-    "created_at": "2023-12-27T00:28:25.000+08:00",
-    "state": "committer",
-    "version": "4.1.1"
   },
   {
     "id": "MDY6Q29tbWl0NjY2NDgwOTUzOjkzYTNiMWQ3OGMzYmNmZmU5NzQwYjEwMzIyMjZjNTI4MGMxZGEyMmQ=",
