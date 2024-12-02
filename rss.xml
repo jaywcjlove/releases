@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 02 Dec 2024 05:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 17:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/typenexus released v0.5.7]]></title>
+            <link>https://github.com/jaywcjlove/typenexus/commit/4c3309961f38d7051af746de7579842e3f73d7fa</link>
+            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OjRjMzMwOTk2MWYzOGQ3MDUxYWY3NDZkZTc1Nzk4NDJlM2Y3M2Q3ZmE=</guid>
+            <pubDate>Mon, 02 Dec 2024 06:22:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/4c3309961f38d7051af746de7579842e3f73d7fa">released v0.5.7</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-color released v2.3.3 #161 #142]]></title>
             <link>https://github.com/uiwjs/react-color/commit/869a9a6bd1ae22253d5b14ee721c6a8998a986c4</link>
@@ -1728,14 +1736,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Tue, 19 Dec 2023 13:09:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/84a96649fe7c1569f8281a78a6038242dd1bf974">released v2.0.5</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.3 #466]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/c96985c060ebb5bb72a403d0b9423f53a86a7fcd</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6Yzk2OTg1YzA2MGViYjViYjcyYTQwM2QwYjk0MjNmNTNhODZhN2ZjZA==</guid>
-            <pubDate>Tue, 19 Dec 2023 11:30:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/c96985c060ebb5bb72a403d0b9423f53a86a7fcd">released v3.13.3 #466</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-markdown-preview released v5.0.4]]></title>

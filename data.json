@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OjRjMzMwOTk2MWYzOGQ3MDUxYWY3NDZkZTc1Nzk4NDJlM2Y3M2Q3ZmE=",
+    "type": "commits",
+    "title": "released v0.5.7",
+    "repo": "jaywcjlove/typenexus",
+    "sha": "4c3309961f38d7051af746de7579842e3f73d7fa",
+    "url": "https://github.com/jaywcjlove/typenexus/commit/4c3309961f38d7051af746de7579842e3f73d7fa",
+    "created_at": "2024-12-02T14:22:04.000+08:00",
+    "state": "committer",
+    "version": "0.5.7"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojg2OWE5YTZiZDFhZTIyMjUzZDViMTRlZTcyMWM2YTg5OThhOTg2YzQ=",
     "type": "commits",
     "title": "released v2.3.3 #161 #142",
@@ -2310,17 +2321,6 @@
     "version": "2.0.5"
   },
   {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6Yzk2OTg1YzA2MGViYjViYjcyYTQwM2QwYjk0MjNmNTNhODZhN2ZjZA==",
-    "type": "commits",
-    "title": "released v3.13.3 #466",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "c96985c060ebb5bb72a403d0b9423f53a86a7fcd",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/c96985c060ebb5bb72a403d0b9423f53a86a7fcd",
-    "created_at": "2023-12-19T19:30:24.000+08:00",
-    "state": "committer",
-    "version": "3.13.3"
-  },
-  {
     "id": "MDY6Q29tbWl0MjU2NzA0MjkxOmQ0ODIwNDk1OGM2NjRkMGIzMGM1OTJmZmRhOWZhZmEyZTAzODM3MjU=",
     "type": "commits",
     "title": "released v5.0.4",
@@ -2681,7 +2681,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "24.8K"
+    "stars": "24.9K"
   },
   {
     "id": 590022379,
