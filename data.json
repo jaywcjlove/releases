@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmZkYTY5MjFmOGJmZGZjNjU3ODRjZjE1MTEyNGZmZTk4MTI0ODdkYzc=",
+    "type": "commits",
+    "title": "released v6.2.0 #250",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "fda6921f8bfdfc65784cf151124ffe9812487dc7",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/fda6921f8bfdfc65784cf151124ffe9812487dc7",
+    "created_at": "2024-12-05T10:13:07.000+08:00",
+    "state": "committer",
+    "version": "6.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NjEzNDM1MjM2OjRjMzMwOTk2MWYzOGQ3MDUxYWY3NDZkZTc1Nzk4NDJlM2Y3M2Q3ZmE=",
     "type": "commits",
     "title": "released v0.5.7",
@@ -1636,7 +1647,7 @@
     "created_at": "2024-03-15T09:30:21Z",
     "state": "merged",
     "number": 1298,
-    "stars": "7.7K"
+    "stars": "7.8K"
   },
   {
     "id": "MDY6Q29tbWl0MjU2NzA0MjkxOjBmMTc5MGU4YjRlZjY5ZmQxYmVhNDA3ZThhMTJhYTkyODA0MjQ0Mzc=",
@@ -2363,17 +2374,6 @@
     "created_at": "2023-12-14T22:48:00.000+08:00",
     "state": "committer",
     "version": "1.0.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjI2YjFjYzNkNWYyNzg0YzkyYmI1YTNhZWY5NjdiYTk4OTA4MTAzYjI=",
-    "type": "commits",
-    "title": "released v1.2.4 #32",
-    "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "26b1cc3d5f2784c92bb5a3aef967ba98908103b2",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/26b1cc3d5f2784c92bb5a3aef967ba98908103b2",
-    "created_at": "2023-12-13T07:37:04.000+08:00",
-    "state": "committer",
-    "version": "1.2.4"
   },
   {
     "id": 1899215297,
