@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 05 Dec 2024 17:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 05:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master chore: update screenshots. released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/c908c77a3a35f842e6fba34082efc6cff9a6e20a</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmM5MDhjNzdhM2EzNWY4NDJlNmZiYTM0MDgyZWZjNmNmZjlhNmUyMGE=</guid>
+            <pubDate>Fri, 06 Dec 2024 02:50:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/c908c77a3a35f842e6fba34082efc6cff9a6e20a">chore: update screenshots. released v1.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/svgtofont released v6.2.0 #250]]></title>
             <link>https://github.com/jaywcjlove/svgtofont/commit/fda6921f8bfdfc65784cf151124ffe9812487dc7</link>
@@ -1768,14 +1776,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Fri, 15 Dec 2023 10:54:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/stylus-px2rem/commit/52178ed7a8c6f6fd480ec2638c37843a41c51fb7">released v1.0.15</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-head released v1.0.4]]></title>
-            <link>https://github.com/uiwjs/react-head/commit/debec065092a91ed78c6bbfc3db7c7f928089e53</link>
-            <guid>MDY6Q29tbWl0NzA2OTcyMzc1OmRlYmVjMDY1MDkyYTkxZWQ3OGM2YmJmYzNkYjdjN2Y5MjgwODllNTM=</guid>
-            <pubDate>Thu, 14 Dec 2023 14:48:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-head/commit/debec065092a91ed78c6bbfc3db7c7f928089e53">released v1.0.4</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>

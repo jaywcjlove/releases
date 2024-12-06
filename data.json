@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmM5MDhjNzdhM2EzNWY4NDJlNmZiYTM0MDgyZWZjNmNmZjlhNmUyMGE=",
+    "type": "commits",
+    "title": "chore: update screenshots. released v1.5.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "c908c77a3a35f842e6fba34082efc6cff9a6e20a",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/c908c77a3a35f842e6fba34082efc6cff9a6e20a",
+    "created_at": "2024-12-06T10:50:59.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmZkYTY5MjFmOGJmZGZjNjU3ODRjZjE1MTEyNGZmZTk4MTI0ODdkYzc=",
     "type": "commits",
     "title": "released v6.2.0 #250",
@@ -2365,17 +2376,6 @@
     "version": "1.0.15"
   },
   {
-    "id": "MDY6Q29tbWl0NzA2OTcyMzc1OmRlYmVjMDY1MDkyYTkxZWQ3OGM2YmJmYzNkYjdjN2Y5MjgwODllNTM=",
-    "type": "commits",
-    "title": "released v1.0.4",
-    "repo": "uiwjs/react-head",
-    "sha": "debec065092a91ed78c6bbfc3db7c7f928089e53",
-    "url": "https://github.com/uiwjs/react-head/commit/debec065092a91ed78c6bbfc3db7c7f928089e53",
-    "created_at": "2023-12-14T22:48:00.000+08:00",
-    "state": "committer",
-    "version": "1.0.4"
-  },
-  {
     "id": 1899215297,
     "type": "Organization",
     "repo": "uiwjs/react-json-view",
@@ -2450,7 +2450,7 @@
     "created_at": "2022-03-05T15:26:27Z",
     "state": "merged",
     "number": 1032,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 1158028063,
