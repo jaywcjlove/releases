@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 08 Dec 2024 17:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 05:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master doc: update document. released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/30d31a3ad8e65f1f4b971dbf87e9aa30b52c225a</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjMwZDMxYTNhZDhlNjVmMWY0Yjk3MWRiZjg3ZTlhYTMwYjUyYzIyNWE=</guid>
+            <pubDate>Mon, 09 Dec 2024 01:13:35 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/30d31a3ad8e65f1f4b971dbf87e9aa30b52c225a">doc: update document. released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mocker-api released v3.0.2]]></title>
             <link>https://github.com/jaywcjlove/mocker-api/commit/5427d091d572f0b3f8e43ab1a628c7018ec7bd85</link>
@@ -1767,14 +1775,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTAwMzg5NTAzOjM5MTFmOGJjMDIyNDJlYTFhN2MxNTg4OWFhMGYxZDc1YzNhMWFhZmI=</guid>
             <pubDate>Sun, 17 Dec 2023 00:36:27 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/react-hotkeys/commit/3911f8bc02242ea1a7c15889aa0f1d75c3a1aafb">released v2.7.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/stylus-px2rem released v1.0.15]]></title>
-            <link>https://github.com/jaywcjlove/stylus-px2rem/commit/52178ed7a8c6f6fd480ec2638c37843a41c51fb7</link>
-            <guid>MDY6Q29tbWl0NTU4ODgyODE6NTIxNzhlZDdhOGM2ZjZmZDQ4MGVjMjYzOGMzNzg0M2E0MWM1MWZiNw==</guid>
-            <pubDate>Fri, 15 Dec 2023 10:54:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/stylus-px2rem/commit/52178ed7a8c6f6fd480ec2638c37843a41c51fb7">released v1.0.15</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjMwZDMxYTNhZDhlNjVmMWY0Yjk3MWRiZjg3ZTlhYTMwYjUyYzIyNWE=",
+    "type": "commits",
+    "title": "doc: update document. released v1.6.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "30d31a3ad8e65f1f4b971dbf87e9aa30b52c225a",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/30d31a3ad8e65f1f4b971dbf87e9aa30b52c225a",
+    "created_at": "2024-12-09T09:13:35.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTIwNjQxODIzOjU0MjdkMDkxZDU3MmYwYjNmOGU0M2FiMWE2MjhjNzAxOGVjN2JkODU=",
     "type": "commits",
     "title": "released v3.0.2",
@@ -2365,17 +2376,6 @@
     "version": "2.7.3"
   },
   {
-    "id": "MDY6Q29tbWl0NTU4ODgyODE6NTIxNzhlZDdhOGM2ZjZmZDQ4MGVjMjYzOGMzNzg0M2E0MWM1MWZiNw==",
-    "type": "commits",
-    "title": "released v1.0.15",
-    "repo": "jaywcjlove/stylus-px2rem",
-    "sha": "52178ed7a8c6f6fd480ec2638c37843a41c51fb7",
-    "url": "https://github.com/jaywcjlove/stylus-px2rem/commit/52178ed7a8c6f6fd480ec2638c37843a41c51fb7",
-    "created_at": "2023-12-15T18:54:48.000+08:00",
-    "state": "committer",
-    "version": "1.0.15"
-  },
-  {
     "id": 1899215297,
     "type": "Organization",
     "repo": "uiwjs/react-json-view",
@@ -2670,7 +2670,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "420"
+    "stars": "421"
   },
   {
     "id": 660217683,
