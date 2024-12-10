@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjMwZDMxYTNhZDhlNjVmMWY0Yjk3MWRiZjg3ZTlhYTMwYjUyYzIyNWE=",
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=",
     "type": "commits",
-    "title": "doc: update document. released v1.6.0",
+    "title": "released v1.7.0",
     "repo": "jaywcjlove/rightmenu-master",
-    "sha": "30d31a3ad8e65f1f4b971dbf87e9aa30b52c225a",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/30d31a3ad8e65f1f4b971dbf87e9aa30b52c225a",
-    "created_at": "2024-12-09T09:13:35.000+08:00",
+    "sha": "7174a2c8d75b28fa6aca642c109eccf8cf2fd06e",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/7174a2c8d75b28fa6aca642c109eccf8cf2fd06e",
+    "created_at": "2024-12-10T20:52:16.000+08:00",
     "state": "committer",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   {
     "id": "MDY6Q29tbWl0MTIwNjQxODIzOjU0MjdkMDkxZDU3MmYwYjNmOGU0M2FiMWE2MjhjNzAxOGVjN2JkODU=",
@@ -2363,17 +2363,6 @@
     "created_at": "2023-12-19T21:09:48.000+08:00",
     "state": "committer",
     "version": "2.0.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTAwMzg5NTAzOjM5MTFmOGJjMDIyNDJlYTFhN2MxNTg4OWFhMGYxZDc1YzNhMWFhZmI=",
-    "type": "commits",
-    "title": "released v2.7.3",
-    "repo": "jaywcjlove/react-hotkeys",
-    "sha": "3911f8bc02242ea1a7c15889aa0f1d75c3a1aafb",
-    "url": "https://github.com/jaywcjlove/react-hotkeys/commit/3911f8bc02242ea1a7c15889aa0f1d75c3a1aafb",
-    "created_at": "2023-12-17T08:36:27.000+08:00",
-    "state": "committer",
-    "version": "2.7.3"
   },
   {
     "id": 1899215297,
