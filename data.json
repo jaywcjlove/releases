@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjcxMWZiNzBmMDhjZWVmZGY5NTA1YmMwMTc1MjRjZDE2MjljYmI3MzE=",
+    "type": "commits",
+    "title": "released v2.3.4 #164 #153",
+    "repo": "uiwjs/react-color",
+    "sha": "711fb70f08ceefdf9505bc017524cd1629cbb731",
+    "url": "https://github.com/uiwjs/react-color/commit/711fb70f08ceefdf9505bc017524cd1629cbb731",
+    "created_at": "2024-12-11T12:45:27.000+08:00",
+    "state": "committer",
+    "version": "2.3.4"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=",
     "type": "commits",
     "title": "released v1.7.0",
