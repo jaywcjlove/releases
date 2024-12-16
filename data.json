@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjY2NDgwOTUzOmY3NGU5OTQyMWJhNTViMzFjNjdkNGMxNWZiZjMyZjQ3ZTUxM2E0YmM=",
+    "type": "commits",
+    "title": "released v2.1.5",
+    "repo": "uiwjs/react-markdown-preview-example",
+    "sha": "f74e99421ba55b31c67d4c15fbf32f47e513a4bc",
+    "url": "https://github.com/uiwjs/react-markdown-preview-example/commit/f74e99421ba55b31c67d4c15fbf32f47e513a4bc",
+    "created_at": "2024-12-16T19:25:59.000+08:00",
+    "state": "committer",
+    "version": "2.1.5"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjVmYjZlYmM2ZWY5YWEzMjI2YTZjNTk4OTYwZTcyNjRhMzI0MDk4OTA=",
     "type": "commits",
     "title": "released v4.23.7 #708 #613 #680",
@@ -2343,17 +2354,6 @@
     "version": "4.2.5"
   },
   {
-    "id": "MDY6Q29tbWl0NzIyNjczOTkxOmM2NzhkYjk4Y2M5MmJkMGMyMmVkZmQ1NDdlOGQwZjkyMzBkZWI5ZWY=",
-    "type": "commits",
-    "title": "released v1.3.1 #2",
-    "repo": "uiwjs/react-signature",
-    "sha": "c678db98cc92bd0c22edfd547e8d0f9230deb9ef",
-    "url": "https://github.com/uiwjs/react-signature/commit/c678db98cc92bd0c22edfd547e8d0f9230deb9ef",
-    "created_at": "2024-01-18T01:07:54.000+08:00",
-    "state": "committer",
-    "version": "1.3.1"
-  },
-  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjI0ZTI5ZTc3N2IwZGY2NDVkMWE3Yzk0OTUzMzRlNWY2MTRjNDRiMTA=",
     "type": "commits",
     "title": "released v2.0.6",
@@ -2483,7 +2483,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "188"
+    "stars": "189"
   },
   {
     "id": 1032707507,
@@ -2703,7 +2703,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "340"
+    "stars": "341"
   },
   {
     "id": 571407407,
