@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjVmYjZlYmM2ZWY5YWEzMjI2YTZjNTk4OTYwZTcyNjRhMzI0MDk4OTA=",
+    "type": "commits",
+    "title": "released v4.23.7 #708 #613 #680",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "5fb6ebc6ef9aa3226a6c598960e7264a32409890",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/5fb6ebc6ef9aa3226a6c598960e7264a32409890",
+    "created_at": "2024-12-16T10:24:17.000+08:00",
+    "state": "committer",
+    "version": "4.23.7"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjM2YjY4MmQyOWE5ZDc3Yzk0ZTc5YjQwZjEyNDY1NGY2MzU0Njk0YjY=",
     "type": "commits",
     "title": "released v1.2.0",
@@ -2365,17 +2376,6 @@
     "version": "4.1.1"
   },
   {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmM3ZDVhY2RmMjZlNDM3OTczYjgyNmU5MTRmYjdiMTU0OTM2NDFjNDM=",
-    "type": "commits",
-    "title": "released v4.0.3",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "c7d5acdf26e437973b826e914fb7b15493641c43",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/c7d5acdf26e437973b826e914fb7b15493641c43",
-    "created_at": "2024-01-09T01:16:31.000+08:00",
-    "state": "committer",
-    "version": "4.0.3"
-  },
-  {
     "id": 1899215297,
     "type": "Organization",
     "repo": "uiwjs/react-json-view",
@@ -2670,7 +2670,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "421"
+    "stars": "420"
   },
   {
     "id": 660217683,
