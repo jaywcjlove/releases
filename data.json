@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OjA1OWI1NjlmZjE0ZTU5MDAzMDU2ZjQwZmVhZTc0OTJhNzZiYzQ5YWI=",
+    "type": "commits",
+    "title": "released v2.0.1",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "059b569ff14e59003056f40feae7492a76bc49ab",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/059b569ff14e59003056f40feae7492a76bc49ab",
+    "created_at": "2024-12-19T10:18:40.000+08:00",
+    "state": "committer",
+    "version": "2.0.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "8ac80554c53523729a39b284117279be81ed1c92",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/8ac80554c53523729a39b284117279be81ed1c92",
+    "created_at": "2024-12-19T09:46:36.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmU2ZDI0YTlmYzFmMGVlZDk4MTM4YTNjYjk3MGI5MzcyZjg4ZmJiYWI=",
     "type": "commits",
     "title": "released v4.0.5 (#676) #665",
@@ -2310,17 +2332,6 @@
     "version": "1.0.4"
   },
   {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmFmMWYzYjVjNGQ0YzMyNmNjMDIxMDA3MmRjOGNjODg2ZGNhMDQ0MTM=",
-    "type": "commits",
-    "title": "released v4.1.2 #220 #221",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "af1f3b5c4d4c326cc0210072dc8cc886dca04413",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/af1f3b5c4d4c326cc0210072dc8cc886dca04413",
-    "created_at": "2024-02-09T11:26:23.000+08:00",
-    "state": "committer",
-    "version": "4.1.2"
-  },
-  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6YTU5NWM1NTU4N2JiNzFlZjI1MWM1NzE3NTQ5ODU0ZTljNzNjMmI4Zg==",
     "type": "commits",
     "title": "released v3.13.7 (#475)",
@@ -2352,28 +2363,6 @@
     "created_at": "2024-02-01T09:56:24.000+08:00",
     "state": "committer",
     "version": "4.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjIyNDkyMTUxOjQ0NzM2ZWEwOTcwZThlNGE4ODFhNTdiMWIwM2YzYWY3MmRiZjUzOWE=",
-    "type": "commits",
-    "title": "released v2.7.1",
-    "repo": "uiwjs/react-baidu-map",
-    "sha": "44736ea0970e8e4a881a57b1b03f3af72dbf539a",
-    "url": "https://github.com/uiwjs/react-baidu-map/commit/44736ea0970e8e4a881a57b1b03f3af72dbf539a",
-    "created_at": "2024-01-23T20:50:24.000+08:00",
-    "state": "committer",
-    "version": "2.7.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjM5NGNjMzBkNzU0NmM2NjA1YTg2ODE2ODVhNGRkZWEzOTliNjQ5NTQ=",
-    "type": "commits",
-    "title": "released v4.2.5",
-    "repo": "jaywcjlove/tsbb",
-    "sha": "394cc30d7546c6605a8681685a4ddea399b64954",
-    "url": "https://github.com/jaywcjlove/tsbb/commit/394cc30d7546c6605a8681685a4ddea399b64954",
-    "created_at": "2024-01-18T02:15:58.000+08:00",
-    "state": "committer",
-    "version": "4.2.5"
   },
   {
     "id": 1899215297,
@@ -2483,7 +2472,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "189"
+    "stars": "190"
   },
   {
     "id": 1032707507,
