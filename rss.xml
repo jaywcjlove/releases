@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 20 Dec 2024 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 17:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-heat-map released v2.3.2 #137]]></title>
+            <link>https://github.com/uiwjs/react-heat-map/commit/6843df031adeede3244aa3f538b4c2f7ee2b3b3a</link>
+            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjY4NDNkZjAzMWFkZWVkZTMyNDRhYTNmNTM4YjRjMmY3ZWUyYjNiM2E=</guid>
+            <pubDate>Fri, 20 Dec 2024 12:03:31 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/6843df031adeede3244aa3f538b4c2f7ee2b3b3a">released v2.3.2 #137</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/regex-mate released v2.0.1]]></title>
             <link>https://github.com/jaywcjlove/regex-mate/commit/059b569ff14e59003056f40feae7492a76bc49ab</link>
