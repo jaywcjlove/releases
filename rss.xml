@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 22 Dec 2024 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 17:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1762,12 +1762,12 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/markdown-to-html-cli released v4.1.0]]></title>
-            <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/e7f25e9e5ec7ae796e29e173412ea1758213b48c</link>
-            <guid>MDY6Q29tbWl0NDA5NjY3NzEzOmU3ZjI1ZTllNWVjN2FlNzk2ZTI5ZTE3MzQxMmVhMTc1ODIxM2I0OGM=</guid>
-            <pubDate>Thu, 01 Feb 2024 01:56:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html-cli/commit/e7f25e9e5ec7ae796e29e173412ea1758213b48c">released v4.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+            <title><![CDATA[uiwjs/react-amap released v6.0.2 (#326)]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/42aa76c21c85b9b830121b5568a0774ebded530f</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjQyYWE3NmMyMWM4NWI5YjgzMDEyMWI1NTY4YTA3NzRlYmRlZDUzMGY=</guid>
+            <pubDate>Fri, 02 Feb 2024 02:52:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/42aa76c21c85b9b830121b5568a0774ebded530f">released v6.0.2 (#326)</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>
