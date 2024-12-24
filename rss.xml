@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 24 Dec 2024 05:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 17:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v1.10.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/340dca71798c32fc10e09cf1c9174ea9d6082c70</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjM0MGRjYTcxNzk4YzMyZmMxMGUwOWNmMWM5MTc0ZWE5ZDYwODJjNzA=</guid>
+            <pubDate>Tue, 24 Dec 2024 14:58:41 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/340dca71798c32fc10e09cf1c9174ea9d6082c70">released v1.10.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjJjYjEwMjk0ZTFiZGZhYzA0YjdjN2I5MTYzMTM1Yjk1ZjczNDI2MDU=</guid>
+            <pubDate>Tue, 24 Dec 2024 11:26:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v1.4.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/5e3f0d4bd33cf05cc4cf7d14c0a843bb24d0c22f</link>
@@ -1752,22 +1768,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Tue, 13 Feb 2024 16:01:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/action-ejs/commit/ab20698c5e2c425b7dd835ded373c2742447ae1f">released v1.0.4 (#15)</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.7 (#475)]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/a595c55587bb71ef251c5717549854e9c73c2b8f</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6YTU5NWM1NTU4N2JiNzFlZjI1MWM1NzE3NTQ5ODU0ZTljNzNjMmI4Zg==</guid>
-            <pubDate>Wed, 07 Feb 2024 11:48:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/a595c55587bb71ef251c5717549854e9c73c2b8f">released v3.13.7 (#475)</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v6.0.2 (#326)]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/42aa76c21c85b9b830121b5568a0774ebded530f</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjQyYWE3NmMyMWM4NWI5YjgzMDEyMWI1NTY4YTA3NzRlYmRlZDUzMGY=</guid>
-            <pubDate>Fri, 02 Feb 2024 02:52:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/42aa76c21c85b9b830121b5568a0774ebded530f">released v6.0.2 (#326)</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>

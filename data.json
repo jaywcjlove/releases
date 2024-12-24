@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjM0MGRjYTcxNzk4YzMyZmMxMGUwOWNmMWM5MTc0ZWE5ZDYwODJjNzA=",
+    "type": "commits",
+    "title": "released v1.10.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "340dca71798c32fc10e09cf1c9174ea9d6082c70",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/340dca71798c32fc10e09cf1c9174ea9d6082c70",
+    "created_at": "2024-12-24T22:58:41.000+08:00",
+    "state": "committer",
+    "version": "1.10.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjJjYjEwMjk0ZTFiZGZhYzA0YjdjN2I5MTYzMTM1Yjk1ZjczNDI2MDU=",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/iconed",
+    "sha": "2cb10294e1bdfac04b7c7b9163135b95f7342605",
+    "url": "https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605",
+    "created_at": "2024-12-24T19:26:07.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjVlM2YwZDRiZDMzY2YwNWNjNGNmN2QxNGMwYTg0M2JiMjRkMGMyMmY=",
     "type": "commits",
     "title": "released v1.4.0",
@@ -2352,28 +2374,6 @@
     "created_at": "2024-02-14T00:01:45.000+08:00",
     "state": "committer",
     "version": "1.0.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6YTU5NWM1NTU4N2JiNzFlZjI1MWM1NzE3NTQ5ODU0ZTljNzNjMmI4Zg==",
-    "type": "commits",
-    "title": "released v3.13.7 (#475)",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "a595c55587bb71ef251c5717549854e9c73c2b8f",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/a595c55587bb71ef251c5717549854e9c73c2b8f",
-    "created_at": "2024-02-07T19:48:02.000+08:00",
-    "state": "committer",
-    "version": "3.13.7"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjQyYWE3NmMyMWM4NWI5YjgzMDEyMWI1NTY4YTA3NzRlYmRlZDUzMGY=",
-    "type": "commits",
-    "title": "released v6.0.2 (#326)",
-    "repo": "uiwjs/react-amap",
-    "sha": "42aa76c21c85b9b830121b5568a0774ebded530f",
-    "url": "https://github.com/uiwjs/react-amap/commit/42aa76c21c85b9b830121b5568a0774ebded530f",
-    "created_at": "2024-02-02T10:52:37.000+08:00",
-    "state": "committer",
-    "version": "6.0.2"
   },
   {
     "id": 1899215297,
