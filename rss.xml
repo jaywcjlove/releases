@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 26 Dec 2024 17:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 05:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/79ec2a65ae975ebbb48a5b5449e3ea742285276e</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjc5ZWMyYTY1YWU5NzVlYmJiNDhhNWI1NDQ5ZTNlYTc0MjI4NTI3NmU=</guid>
+            <pubDate>Fri, 27 Dec 2024 05:03:45 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/79ec2a65ae975ebbb48a5b5449e3ea742285276e">released v1.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/symbol-scribe released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/symbol-scribe/commit/91ecd848ec1bc3522529aa197c569ac303dd27d1</link>
+            <guid>MDY6Q29tbWl0NzgyMTYyOTAzOjkxZWNkODQ4ZWMxYmMzNTIyNTI5YWExOTdjNTY5YWMzMDNkZDI3ZDE=</guid>
+            <pubDate>Fri, 27 Dec 2024 04:40:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/symbol-scribe/commit/91ecd848ec1bc3522529aa197c569ac303dd27d1">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.10.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/340dca71798c32fc10e09cf1c9174ea9d6082c70</link>
@@ -1594,14 +1610,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-iframe released v1.0.3 #6]]></title>
-            <link>https://github.com/uiwjs/react-iframe/commit/91e870b1bf926fad01d1e67cacfd0ffd484ce170</link>
-            <guid>MDY6Q29tbWl0Njg3MjU2NTEyOjkxZTg3MGIxYmY5MjZmYWQwMWQxZTY3Y2FjZmQwZmZkNDg0Y2UxNzA=</guid>
-            <pubDate>Thu, 29 Feb 2024 09:59:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-iframe/commit/91e870b1bf926fad01d1e67cacfd0ffd484ce170">released v1.0.3 #6</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.17 #35]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/9a015cb44becb3fd432dc396507e54a5d7f7ae8f</link>
             <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjlhMDE1Y2I0NGJlY2IzZmQ0MzJkYzM5NjUwN2U1NGE1ZDdmN2FlOGY=</guid>
@@ -1760,14 +1768,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Sat, 17 Feb 2024 03:52:12 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/90ca638aea47402cff5db416c998039881e04694">released v2.0.8 #141</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/action-ejs released v1.0.4 (#15)]]></title>
-            <link>https://github.com/jaywcjlove/action-ejs/commit/ab20698c5e2c425b7dd835ded373c2742447ae1f</link>
-            <guid>MDY6Q29tbWl0NDcwODA4NDY0OmFiMjA2OThjNWUyYzQyNWI3ZGQ4MzVkZWQzNzNjMjc0MjQ0N2FlMWY=</guid>
-            <pubDate>Tue, 13 Feb 2024 16:01:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/action-ejs/commit/ab20698c5e2c425b7dd835ded373c2742447ae1f">released v1.0.4 (#15)</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>
