@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 30 Dec 2024 17:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 05:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/markdown-to-html-cli released v4.1.2 #90]]></title>
+            <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/a9d4f266f4ad1d2be1c260f8972a23f6f35fd4d8</link>
+            <guid>MDY6Q29tbWl0NDA5NjY3NzEzOmE5ZDRmMjY2ZjRhZDFkMmJlMWMyNjBmODk3MmEyM2Y2ZjM1ZmQ0ZDg=</guid>
+            <pubDate>Mon, 30 Dec 2024 19:21:14 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html-cli/commit/a9d4f266f4ad1d2be1c260f8972a23f6f35fd4d8">released v4.1.2 #90</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/79ec2a65ae975ebbb48a5b5449e3ea742285276e</link>
@@ -254,6 +262,14 @@
             <pubDate>Fri, 29 Nov 2024 18:14:14 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/869a9a6bd1ae22253d5b14ee721c6a8998a986c4">released v2.3.3 #161 #142</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/markdown-to-html-cli released v4.1.1 #90]]></title>
+            <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/fd58104f9cf5f8e4ec136fedd0a7cdc6d07d1a1a</link>
+            <guid>MDY6Q29tbWl0NDA5NjY3NzEzOmZkNTgxMDRmOWNmNWY4ZTRlYzEzNmZlZGQwYTdjZGM2ZDA3ZDFhMWE=</guid>
+            <pubDate>Thu, 21 Nov 2024 03:39:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html-cli/commit/fd58104f9cf5f8e4ec136fedd0a7cdc6d07d1a1a">released v4.1.1 #90</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/auto-config-loader released v1.7.8]]></title>
@@ -1658,27 +1674,11 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.14 #27]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/1fde82499f63570aadb6d370b2f189547f246c94</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjFmZGU4MjQ5OWY2MzU3MGFhZGI2ZDM3MGIyZjE4OTU0N2YyNDZjOTQ=</guid>
-            <pubDate>Sat, 24 Feb 2024 22:55:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/1fde82499f63570aadb6d370b2f189547f246c94">released v2.0.0-alpha.14 #27</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-heat-map released v2.2.2 #128]]></title>
             <link>https://github.com/uiwjs/react-heat-map/commit/29f6a14cbc600efa0827946c5033c76f29c7d25b</link>
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjI5ZjZhMTRjYmM2MDBlZmEwODI3OTQ2YzUwMzNjNzZmMjljN2QyNWI=</guid>
             <pubDate>Sat, 24 Feb 2024 21:45:43 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/29f6a14cbc600efa0827946c5033c76f29c7d25b">released v2.2.2 #128</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.13 #34]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/8bec4dd7b5c4e74d8fe5d058c1eb80f85f47f735</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjhiZWM0ZGQ3YjVjNGU3NGQ4ZmU1ZDA1OGMxZWI4MGY4NWY0N2Y3MzU=</guid>
-            <pubDate>Sat, 24 Feb 2024 21:17:15 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/8bec4dd7b5c4e74d8fe5d058c1eb80f85f47f735">released v2.0.0-alpha.13 #34</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
