@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0NDA5NjY3NzEzOjNkMzAyNDc3Y2YxNjk0YmEzZjc0YWZiMmNhY2I5MTEyNGM2OWUwNmY=",
+    "id": "MDY6Q29tbWl0NDA5NjY3NzEzOjZjMmQ3ZTk1YTUwMmYzZGU1OTI4YmM5YzkyNDRmYTlkMWY3MTY2OWU=",
     "type": "commits",
-    "title": "released v5.0.0 #97",
+    "title": "released v5.0.2 #97",
     "repo": "jaywcjlove/markdown-to-html-cli",
-    "sha": "3d302477cf1694ba3f74afb2cacb91124c69e06f",
-    "url": "https://github.com/jaywcjlove/markdown-to-html-cli/commit/3d302477cf1694ba3f74afb2cacb91124c69e06f",
-    "created_at": "2024-12-31T14:06:03.000+08:00",
+    "sha": "6c2d7e95a502f3de5928bc9c9244fa9d1f71669e",
+    "url": "https://github.com/jaywcjlove/markdown-to-html-cli/commit/6c2d7e95a502f3de5928bc9c9244fa9d1f71669e",
+    "created_at": "2025-01-01T10:57:48.000+08:00",
     "state": "committer",
-    "version": "5.0.0"
+    "version": "5.0.2"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjc5ZWMyYTY1YWU5NzVlYmJiNDhhNWI1NDQ5ZTNlYTc0MjI4NTI3NmU=",
@@ -2222,17 +2222,6 @@
     "version": "1.42.0"
   },
   {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjJlMjFhZGVmMDQzNGViMTM2ZmMyYWQ4MmJkNmZhOGZiNGEwNTJhMzA=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.16 #33",
-    "repo": "uiwjs/react-json-view",
-    "sha": "2e21adef0434eb136fc2ad82bd6fa8fb4a052a30",
-    "url": "https://github.com/uiwjs/react-json-view/commit/2e21adef0434eb136fc2ad82bd6fa8fb4a052a30",
-    "created_at": "2024-02-26T13:09:08.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.16"
-  },
-  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjQwZGNmMWM4NTZjMWE1MTc5NWU4Yjg4M2MxMmQ5MjU3NjE1OTE4YmE=",
     "type": "commits",
     "title": "released v4.21.24 #634",
@@ -2384,7 +2373,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "241"
+    "stars": "242"
   },
   {
     "id": 1838600360,
