@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjM3MDUwZmY4YzlmZTlmZGIwYjVkMjVkOWQ0ODAwYTBlZDEwNTA0OTE=",
+    "type": "commits",
+    "title": "released v1.11.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "37050ff8c9fe9fdb0b5d25d9d4800a0ed1050491",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/37050ff8c9fe9fdb0b5d25d9d4800a0ed1050491",
+    "created_at": "2025-01-02T15:26:51.000+08:00",
+    "state": "committer",
+    "version": "1.11.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NDA5NjY3NzEzOjZjMmQ3ZTk1YTUwMmYzZGU1OTI4YmM5YzkyNDRmYTlkMWY3MTY2OWU=",
     "type": "commits",
     "title": "released v5.0.2 #97",
@@ -2354,17 +2365,6 @@
     "version": "4.21.23"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjkwY2E2MzhhZWE0NzQwMmNmZjVkYjQxNmM5OTgwMzk4ODFlMDQ2OTQ=",
-    "type": "commits",
-    "title": "released v2.0.8 #141",
-    "repo": "uiwjs/react-color",
-    "sha": "90ca638aea47402cff5db416c998039881e04694",
-    "url": "https://github.com/uiwjs/react-color/commit/90ca638aea47402cff5db416c998039881e04694",
-    "created_at": "2024-02-17T11:52:12.000+08:00",
-    "state": "committer",
-    "version": "2.0.8"
-  },
-  {
     "id": 1899215297,
     "type": "Organization",
     "repo": "uiwjs/react-json-view",
@@ -2373,7 +2373,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "242"
+    "stars": "243"
   },
   {
     "id": 1838600360,
@@ -2384,7 +2384,7 @@
     "created_at": "2023-08-07T03:17:04Z",
     "state": "merged",
     "number": 66,
-    "stars": "180"
+    "stars": "181"
   },
   {
     "id": 1645290043,

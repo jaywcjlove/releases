@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 02 Jan 2025 05:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 17:33:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/37050ff8c9fe9fdb0b5d25d9d4800a0ed1050491</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjM3MDUwZmY4YzlmZTlmZGIwYjVkMjVkOWQ0ODAwYTBlZDEwNTA0OTE=</guid>
+            <pubDate>Thu, 02 Jan 2025 07:26:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/37050ff8c9fe9fdb0b5d25d9d4800a0ed1050491">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/markdown-to-html-cli released v5.0.2 #97]]></title>
             <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/6c2d7e95a502f3de5928bc9c9244fa9d1f71669e</link>
@@ -1751,14 +1759,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjRlNDUwNTMxNTkxOGE3MmJiNzAyYTNlOWViYjgyNDk3MmI0NTMyNTI=</guid>
             <pubDate>Thu, 22 Feb 2024 02:47:14 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/4e4505315918a72bb702a3e9ebb824972b453252">released v4.21.23 #633</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.0.8 #141]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/90ca638aea47402cff5db416c998039881e04694</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjkwY2E2MzhhZWE0NzQwMmNmZjVkYjQxNmM5OTgwMzk4ODFlMDQ2OTQ=</guid>
-            <pubDate>Sat, 17 Feb 2024 03:52:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/90ca638aea47402cff5db416c998039881e04694">released v2.0.8 #141</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
