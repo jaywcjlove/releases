@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjZkNDRkZGViODM2YzAwNTU3MzFmODU0ZTA1MzIwOTlhMDQyOGYzN2M=",
+    "type": "commits",
+    "title": "released v4.0.1",
+    "repo": "jaywcjlove/rehype-attr",
+    "sha": "6d44ddeb836c0055731f854e0532099a0428f37c",
+    "url": "https://github.com/jaywcjlove/rehype-attr/commit/6d44ddeb836c0055731f854e0532099a0428f37c",
+    "created_at": "2025-01-03T14:48:07.000+08:00",
+    "state": "committer",
+    "version": "4.0.1"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjUwZTA5N2YwZTg3OGIzNDFiOTJmMjg2NDkxNDI0OTU3YzhiMTBlYjM=",
     "type": "commits",
     "title": "released v1.2.0",
@@ -2310,17 +2321,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOmE0OTU0NTZlMmNmYzYyYWEzNjFlZGVkOGNhNjU5ZDI3YjVmZTZjNjE=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/changelog-generator",
-    "sha": "a495456e2cfc62aa361eded8ca659d27b5fe6c61",
-    "url": "https://github.com/jaywcjlove/changelog-generator/commit/a495456e2cfc62aa361eded8ca659d27b5fe6c61",
-    "created_at": "2024-02-23T15:02:59.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjRhYjBhOWVjZjgxNzc5YmM4NGM5YjFhYjhiMzE3N2EzMTgyOGQ2ZDM=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2352,17 +2352,6 @@
     "created_at": "2024-02-23T14:17:21.000+08:00",
     "state": "committer",
     "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjRlNDUwNTMxNTkxOGE3MmJiNzAyYTNlOWViYjgyNDk3MmI0NTMyNTI=",
-    "type": "commits",
-    "title": "released v4.21.23 #633",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "4e4505315918a72bb702a3e9ebb824972b453252",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/4e4505315918a72bb702a3e9ebb824972b453252",
-    "created_at": "2024-02-22T10:47:14.000+08:00",
-    "state": "committer",
-    "version": "4.21.23"
   },
   {
     "id": 1899215297,
@@ -2428,7 +2417,7 @@
     "created_at": "2022-04-06T12:42:01Z",
     "state": "merged",
     "number": 95,
-    "stars": "1.8K"
+    "stars": "1.9K"
   },
   {
     "id": 1160378850,
@@ -2483,7 +2472,7 @@
     "created_at": "2021-10-21T16:42:18Z",
     "state": "merged",
     "number": 73,
-    "stars": "1.8K"
+    "stars": "1.9K"
   },
   {
     "id": 1011743483,
@@ -2494,7 +2483,7 @@
     "created_at": "2021-09-30T06:00:05Z",
     "state": "merged",
     "number": 71,
-    "stars": "1.8K"
+    "stars": "1.9K"
   },
   {
     "id": 990958917,
@@ -2604,7 +2593,7 @@
     "created_at": "2021-05-14T16:54:45Z",
     "state": "merged",
     "number": 57,
-    "stars": "1.8K"
+    "stars": "1.9K"
   },
   {
     "id": 824160663,
