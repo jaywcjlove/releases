@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmJjNTI2ZjRhNGVhMjFmZDUzYmMxMmU2NTkwN2VmMDA4ZWM5NGU5Nzc=",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "bc526f4a4ea21fd53bc12e65907ef008ec94e977",
+    "url": "https://github.com/jaywcjlove/daybar/commit/bc526f4a4ea21fd53bc12e65907ef008ec94e977",
+    "created_at": "2025-01-06T20:55:39.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NjM1MzkwNTU6ZjBkZDY2YTlkMjg5N2NkMmI5YmFkYTczNzY2OTg0ZmJmZjk2YjdjNA==",
     "type": "commits",
     "title": "released v1.8.0",
@@ -2286,17 +2297,6 @@
     "created_at": "2024-02-25T05:45:43.000+08:00",
     "state": "committer",
     "version": "2.2.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTU3ODE0NjM0OjAyM2Y0ZDVmYTFlZTQxMGQ5NGMyYzc2N2Y2Nzk2Y2U1YzUzZTJiMjk=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/github-action-modify-file-content",
-    "sha": "023f4d5fa1ee410d94c2c767f6796ce5c53e2b29",
-    "url": "https://github.com/jaywcjlove/github-action-modify-file-content/commit/023f4d5fa1ee410d94c2c767f6796ce5c53e2b29",
-    "created_at": "2024-02-23T16:04:17.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
   },
   {
     "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjk0YWIwZmU0YzdiYjM1ZTkxYjBmZmQxZTg2NWRlMWY0NTA1MDA3MjY=",

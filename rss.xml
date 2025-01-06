@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 06 Jan 2025 05:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 17:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/bc526f4a4ea21fd53bc12e65907ef008ec94e977</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmJjNTI2ZjRhNGVhMjFmZDUzYmMxMmU2NTkwN2VmMDA4ZWM5NGU5Nzc=</guid>
+            <pubDate>Mon, 06 Jan 2025 12:55:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/bc526f4a4ea21fd53bc12e65907ef008ec94e977">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac released v1.8.0]]></title>
             <link>https://github.com/jaywcjlove/awesome-mac/commit/f0dd66a9d2897cd2b9bada73766984fbff96b7c4</link>
@@ -1704,14 +1712,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Sat, 24 Feb 2024 21:45:43 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/29f6a14cbc600efa0827946c5033c76f29c7d25b">released v2.2.2 #128</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-modify-file-content released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-modify-file-content/commit/023f4d5fa1ee410d94c2c767f6796ce5c53e2b29</link>
-            <guid>MDY6Q29tbWl0NTU3ODE0NjM0OjAyM2Y0ZDVmYTFlZTQxMGQ5NGMyYzc2N2Y2Nzk2Y2U1YzUzZTJiMjk=</guid>
-            <pubDate>Fri, 23 Feb 2024 08:04:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-modify-file-content/commit/023f4d5fa1ee410d94c2c767f6796ce5c53e2b29">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/github-action-contributors released v2.0.0]]></title>
