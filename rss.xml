@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 09 Jan 2025 05:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 17:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/idoc released v1.34.1]]></title>
+            <link>https://github.com/jaywcjlove/idoc/commit/51d31383362358ae63630941c3e26b921677077f</link>
+            <guid>MDY6Q29tbWl0NDIzODEwNjc6NTFkMzEzODMzNjIzNThhZTYzNjMwOTQxYzNlMjZiOTIxNjc3MDc3Zg==</guid>
+            <pubDate>Thu, 09 Jan 2025 12:18:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/51d31383362358ae63630941c3e26b921677077f">released v1.34.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v1.5.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/acf8186374ea8fcb78f01f663f8ec2c700f4a4f4</link>
@@ -1743,14 +1751,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjRhYjBhOWVjZjgxNzc5YmM4NGM5YjFhYjhiMzE3N2EzMTgyOGQ2ZDM=</guid>
             <pubDate>Fri, 23 Feb 2024 06:48:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/4ab0a9ecf81779bc84c9b1ab8b3177a31828d6d3">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-package released v2.0.0 #11]]></title>
-            <link>https://github.com/jaywcjlove/github-action-package/commit/6fb8b5f918c1cb2eb3e0416d5b9f45cd4af6ed16</link>
-            <guid>MDY6Q29tbWl0NTA4MjkyNzE2OjZmYjhiNWY5MThjMWNiMmViM2UwNDE2ZDViOWY0NWNkNGFmNmVkMTY=</guid>
-            <pubDate>Fri, 23 Feb 2024 06:17:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-package/commit/6fb8b5f918c1cb2eb3e0416d5b9f45cd4af6ed16">released v2.0.0 #11</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
