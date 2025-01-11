@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 10 Jan 2025 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 05:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/palette-genius released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/palette-genius/commit/690c34ca4418336fd676245e90585dd5e14881b8</link>
+            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjY5MGMzNGNhNDQxODMzNmZkNjc2MjQ1ZTkwNTg1ZGQ1ZTE0ODgxYjg=</guid>
+            <pubDate>Sat, 11 Jan 2025 03:06:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/690c34ca4418336fd676245e90585dd5e14881b8">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/idoc released v1.34.1]]></title>
             <link>https://github.com/jaywcjlove/idoc/commit/51d31383362358ae63630941c3e26b921677077f</link>
@@ -1719,14 +1727,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjQwZGNmMWM4NTZjMWE1MTc5NWU4Yjg4M2MxMmQ5MjU3NjE1OTE4YmE=</guid>
             <pubDate>Sat, 24 Feb 2024 23:16:44 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/40dcf1c856c1a51795e8b883c12d9257615918ba">released v4.21.24 #634</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-heat-map released v2.2.2 #128]]></title>
-            <link>https://github.com/uiwjs/react-heat-map/commit/29f6a14cbc600efa0827946c5033c76f29c7d25b</link>
-            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjI5ZjZhMTRjYmM2MDBlZmEwODI3OTQ2YzUwMzNjNzZmMjljN2QyNWI=</guid>
-            <pubDate>Sat, 24 Feb 2024 21:45:43 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/29f6a14cbc600efa0827946c5033c76f29c7d25b">released v2.2.2 #128</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

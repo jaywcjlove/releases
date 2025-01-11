@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjY5MGMzNGNhNDQxODMzNmZkNjc2MjQ1ZTkwNTg1ZGQ1ZTE0ODgxYjg=",
+    "type": "commits",
+    "title": "released v1.4.0",
+    "repo": "jaywcjlove/palette-genius",
+    "sha": "690c34ca4418336fd676245e90585dd5e14881b8",
+    "url": "https://github.com/jaywcjlove/palette-genius/commit/690c34ca4418336fd676245e90585dd5e14881b8",
+    "created_at": "2025-01-11T11:06:46.000+08:00",
+    "state": "committer",
+    "version": "1.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6NTFkMzEzODMzNjIzNThhZTYzNjMwOTQxYzNlMjZiOTIxNjc3MDc3Zg==",
     "type": "commits",
     "title": "released v1.34.1",
@@ -2310,17 +2321,6 @@
     "version": "4.21.24"
   },
   {
-    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjI5ZjZhMTRjYmM2MDBlZmEwODI3OTQ2YzUwMzNjNzZmMjljN2QyNWI=",
-    "type": "commits",
-    "title": "released v2.2.2 #128",
-    "repo": "uiwjs/react-heat-map",
-    "sha": "29f6a14cbc600efa0827946c5033c76f29c7d25b",
-    "url": "https://github.com/uiwjs/react-heat-map/commit/29f6a14cbc600efa0827946c5033c76f29c7d25b",
-    "created_at": "2024-02-25T05:45:43.000+08:00",
-    "state": "committer",
-    "version": "2.2.2"
-  },
-  {
     "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjk0YWIwZmU0YzdiYjM1ZTkxYjBmZmQxZTg2NWRlMWY0NTA1MDA3MjY=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2461,7 +2461,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "195"
+    "stars": "196"
   },
   {
     "id": 1032707507,
