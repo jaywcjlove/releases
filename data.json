@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjUxZjY5NjczNzVhN2RiMTAzY2UwMmJhM2VlMDZkNTNjMDkyYjAyZjE=",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "51f6967375a7db103ce02ba3ee06d53c092b02f1",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/51f6967375a7db103ce02ba3ee06d53c092b02f1",
+    "created_at": "2025-01-12T15:31:47.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjY5MGMzNGNhNDQxODMzNmZkNjc2MjQ1ZTkwNTg1ZGQ1ZTE0ODgxYjg=",
     "type": "commits",
     "title": "released v1.4.0",
@@ -2310,17 +2321,6 @@
     "version": "1.42.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjQwZGNmMWM4NTZjMWE1MTc5NWU4Yjg4M2MxMmQ5MjU3NjE1OTE4YmE=",
-    "type": "commits",
-    "title": "released v4.21.24 #634",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "40dcf1c856c1a51795e8b883c12d9257615918ba",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/40dcf1c856c1a51795e8b883c12d9257615918ba",
-    "created_at": "2024-02-25T07:16:44.000+08:00",
-    "state": "committer",
-    "version": "4.21.24"
-  },
-  {
     "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjk0YWIwZmU0YzdiYjM1ZTkxYjBmZmQxZTg2NWRlMWY0NTA1MDA3MjY=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2362,7 +2362,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "247"
+    "stars": "249"
   },
   {
     "id": 1838600360,
@@ -2461,7 +2461,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "196"
+    "stars": "197"
   },
   {
     "id": 1032707507,
