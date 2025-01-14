@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 14 Jan 2025 05:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 17:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,19 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/51f6967375a7db103ce02ba3ee06d53c092b02f1</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjUxZjY5NjczNzVhN2RiMTAzY2UwMmJhM2VlMDZkNTNjMDkyYjAyZjE=</guid>
-            <pubDate>Sun, 12 Jan 2025 07:31:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/51f6967375a7db103ce02ba3ee06d53c092b02f1">released v1.0.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/time-passage released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/time-passage/commit/d44bffec9deb4af207a6ba58532f630d6872763b</link>
+            <guid>MDY6Q29tbWl0NzY5NTMyNTg4OmQ0NGJmZmVjOWRlYjRhZjIwN2E2YmE1ODUzMmY2MzBkNjg3Mjc2M2I=</guid>
+            <pubDate>Tue, 14 Jan 2025 16:28:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/time-passage/commit/d44bffec9deb4af207a6ba58532f630d6872763b">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/944a77bbc5fe052cf4e11daaa7b4a550c89f53ae</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3Ojk0NGE3N2JiYzVmZTA1MmNmNGUxMWRhYWE3YjRhNTUwYzg5ZjUzYWU=</guid>
+            <pubDate>Tue, 14 Jan 2025 14:32:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/944a77bbc5fe052cf4e11daaa7b4a550c89f53ae">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1735,14 +1743,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjk0YWIwZmU0YzdiYjM1ZTkxYjBmZmQxZTg2NWRlMWY0NTA1MDA3MjY=</guid>
             <pubDate>Fri, 23 Feb 2024 07:26:21 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/94ab0fe4c7bb35e91b0ffd1e865de1f450500726">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/coverage-badges-cli released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/df58615045079f1c827de7867044bbab3ec22b43</link>
-            <guid>MDY6Q29tbWl0NDA4MjMyNjc0OmRmNTg2MTUwNDUwNzlmMWM4MjdkZTc4NjcwNDRiYmFiM2VjMjJiNDM=</guid>
-            <pubDate>Fri, 23 Feb 2024 07:13:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/df58615045079f1c827de7867044bbab3ec22b43">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

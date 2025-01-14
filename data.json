@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjUxZjY5NjczNzVhN2RiMTAzY2UwMmJhM2VlMDZkNTNjMDkyYjAyZjE=",
+    "id": "MDY6Q29tbWl0NzY5NTMyNTg4OmQ0NGJmZmVjOWRlYjRhZjIwN2E2YmE1ODUzMmY2MzBkNjg3Mjc2M2I=",
     "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "51f6967375a7db103ce02ba3ee06d53c092b02f1",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/51f6967375a7db103ce02ba3ee06d53c092b02f1",
-    "created_at": "2025-01-12T15:31:47.000+08:00",
+    "title": "released v1.4.0",
+    "repo": "jaywcjlove/time-passage",
+    "sha": "d44bffec9deb4af207a6ba58532f630d6872763b",
+    "url": "https://github.com/jaywcjlove/time-passage/commit/d44bffec9deb4af207a6ba58532f630d6872763b",
+    "created_at": "2025-01-15T00:28:34.000+08:00",
     "state": "committer",
-    "version": "1.0.0"
+    "version": "1.4.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3Ojk0NGE3N2JiYzVmZTA1MmNmNGUxMWRhYWE3YjRhNTUwYzg5ZjUzYWU=",
+    "type": "commits",
+    "title": "released v1.1.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "944a77bbc5fe052cf4e11daaa7b4a550c89f53ae",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/944a77bbc5fe052cf4e11daaa7b4a550c89f53ae",
+    "created_at": "2025-01-14T22:32:44.000+08:00",
+    "state": "committer",
+    "version": "1.1.0"
   },
   {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjY5MGMzNGNhNDQxODMzNmZkNjc2MjQ1ZTkwNTg1ZGQ1ZTE0ODgxYjg=",
@@ -2328,17 +2339,6 @@
     "sha": "94ab0fe4c7bb35e91b0ffd1e865de1f450500726",
     "url": "https://github.com/jaywcjlove/github-action-contributors/commit/94ab0fe4c7bb35e91b0ffd1e865de1f450500726",
     "created_at": "2024-02-23T15:26:21.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OmRmNTg2MTUwNDUwNzlmMWM4MjdkZTc4NjcwNDRiYmFiM2VjMjJiNDM=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "df58615045079f1c827de7867044bbab3ec22b43",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/df58615045079f1c827de7867044bbab3ec22b43",
-    "created_at": "2024-02-23T15:13:21.000+08:00",
     "state": "committer",
     "version": "2.0.0"
   },
