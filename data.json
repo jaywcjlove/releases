@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmIwYjU1ZDUwNWI1MWJkNWQwOWQ3YjYxMzI2NTYyZjUxZDVhMDgwM2E=",
+    "type": "commits",
+    "title": "released v1.5.1",
+    "repo": "jaywcjlove/IconizeFolder",
+    "sha": "b0b55d505b51bd5d09d7b61326562f51d5a0803a",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/b0b55d505b51bd5d09d7b61326562f51d5a0803a",
+    "created_at": "2025-01-17T11:17:59.000+08:00",
+    "state": "committer",
+    "version": "1.5.1"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmZlYzBlZjcwZTAzMGIzMmQyYmQwOWRhOWZhY2JjYTJmZWRmMDMxOGQ=",
     "type": "commits",
     "title": "released v1.2.0",
@@ -2343,17 +2354,6 @@
     "version": "1.42.0"
   },
   {
-    "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjk0YWIwZmU0YzdiYjM1ZTkxYjBmZmQxZTg2NWRlMWY0NTA1MDA3MjY=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/github-action-contributors",
-    "sha": "94ab0fe4c7bb35e91b0ffd1e865de1f450500726",
-    "url": "https://github.com/jaywcjlove/github-action-contributors/commit/94ab0fe4c7bb35e91b0ffd1e865de1f450500726",
-    "created_at": "2024-02-23T15:26:21.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
     "id": 1899215297,
     "type": "Organization",
     "repo": "uiwjs/react-json-view",
@@ -2406,7 +2406,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "350"
+    "stars": "351"
   },
   {
     "id": 1194561099,
