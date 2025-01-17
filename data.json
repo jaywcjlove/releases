@@ -2332,17 +2332,6 @@
     "version": "1.28.1"
   },
   {
-    "id": "MDY6Q29tbWl0NjI5MTM4MDAxOjUzMGZiODJiYjM3ZWU0NWQ0YjA4ZmU1YTNhMDU0NWM4ZDliYTJhYTM=",
-    "type": "commits",
-    "title": "released v1.0.4",
-    "repo": "uiwjs/react-login-page",
-    "sha": "530fb82bb37ee45d4b08fe5a3a0545c8d9ba2aa3",
-    "url": "https://github.com/uiwjs/react-login-page/commit/530fb82bb37ee45d4b08fe5a3a0545c8d9ba2aa3",
-    "created_at": "2024-02-26T20:22:50.000+08:00",
-    "state": "committer",
-    "version": "1.0.4"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5Ojk5N2UxNzYwMTdlYmFiMTE4Y2U5NjBjMGZjNzk2YjgxNzQ3OTY5YmQ=",
     "type": "commits",
     "title": "released v1.42.0",
@@ -2352,6 +2341,17 @@
     "created_at": "2024-02-26T14:08:07.000+08:00",
     "state": "committer",
     "version": "1.42.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjk0YWIwZmU0YzdiYjM1ZTkxYjBmZmQxZTg2NWRlMWY0NTA1MDA3MjY=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/github-action-contributors",
+    "sha": "94ab0fe4c7bb35e91b0ffd1e865de1f450500726",
+    "url": "https://github.com/jaywcjlove/github-action-contributors/commit/94ab0fe4c7bb35e91b0ffd1e865de1f450500726",
+    "created_at": "2024-02-23T15:26:21.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
   },
   {
     "id": 1899215297,
