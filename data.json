@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmFkMDNjZmU5MjA2MmNiMjJmNTIyZTZkMzAyODZlYWZhNTNmYjA1NTI=",
+    "type": "commits",
+    "title": "released v1.3.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "ad03cfe92062cb22f522e6d30286eafa53fb0552",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/ad03cfe92062cb22f522e6d30286eafa53fb0552",
+    "created_at": "2025-01-19T17:40:11.000+08:00",
+    "state": "committer",
+    "version": "1.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmJmNDJlMDU4MWI5NTQwZDQxYjNkYzMzNGU0YmE1YzEwZGE0MmY1Njc=",
     "type": "commits",
     "title": "released v1.12.0",
@@ -2142,7 +2153,7 @@
     "created_at": "2024-03-15T09:30:21Z",
     "state": "merged",
     "number": 1298,
-    "stars": "7.8K"
+    "stars": "7.9K"
   },
   {
     "id": "MDY6Q29tbWl0MjU2NzA0MjkxOjBmMTc5MGU4YjRlZjY5ZmQxYmVhNDA3ZThhMTJhYTkyODA0MjQ0Mzc=",
