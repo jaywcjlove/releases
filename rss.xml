@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 19 Jan 2025 17:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 05:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-monacoeditor released v3.6.1 (#184)]]></title>
+            <link>https://github.com/uiwjs/react-monacoeditor/commit/b03dcea1e29bf068a4c9ee38cd4cc07240299cea</link>
+            <guid>MDY6Q29tbWl0MTQyMjAzMDA0OmIwM2RjZWExZTI5YmYwNjhhNGM5ZWUzOGNkNGNjMDcyNDAyOTljZWE=</guid>
+            <pubDate>Sun, 19 Jan 2025 20:09:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-monacoeditor/commit/b03dcea1e29bf068a4c9ee38cd4cc07240299cea">released v3.6.1 (#184)</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v3.0.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/bb8f69d0cc9f2ac1c42e32d407d6362b4ac38036</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmJiOGY2OWQwY2M5ZjJhYzFjNDJlMzJkNDA3ZDYzNjJiNGFjMzgwMzY=</guid>
+            <pubDate>Sun, 19 Jan 2025 18:59:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/bb8f69d0cc9f2ac1c42e32d407d6362b4ac38036">released v3.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/ad03cfe92062cb22f522e6d30286eafa53fb0552</link>
@@ -1730,28 +1746,12 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/markdown-style released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/markdown-style/commit/29ce9f000254d102ff29fca52f8405fae957fe7c</link>
-            <guid>MDY6Q29tbWl0NTU5NzMxMjI5OjI5Y2U5ZjAwMDI1NGQxMDJmZjI5ZmNhNTJmODQwNWZhZTk1N2ZlN2M=</guid>
-            <pubDate>Mon, 04 Mar 2024 04:51:53 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-style/commit/29ce9f000254d102ff29fca52f8405fae957fe7c">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-color released v2.1.1 #142]]></title>
             <link>https://github.com/uiwjs/react-color/commit/2f8e95a5115566b9abbdfe64a159bb6b7bef887b</link>
             <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjJmOGU5NWE1MTE1NTY2YjlhYmJkZmU2NGExNTliYjZiN2JlZjg4N2I=</guid>
             <pubDate>Sun, 03 Mar 2024 18:01:28 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/2f8e95a5115566b9abbdfe64a159bb6b7bef887b">released v2.1.1 #142</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.28.1]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/181cc0c789012d05c4930e1710edfde9427154c4</link>
-            <guid>MDY6Q29tbWl0NDIzODEwNjc6MTgxY2MwYzc4OTAxMmQwNWM0OTMwZTE3MTBlZGZkZTk0MjcxNTRjNA==</guid>
-            <pubDate>Wed, 28 Feb 2024 16:25:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/181cc0c789012d05c4930e1710edfde9427154c4">released v1.28.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/reference released v1.42.0]]></title>
