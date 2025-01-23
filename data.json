@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmMzMDIyMmE2NDAyYzViZDdlMmE5ZWJmYzc5YzFiNTNjZDVlYWVlYWE=",
+    "type": "commits",
+    "title": "released v3.1.0",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "c30222a6402c5bd7e2a9ebfc79c1b53cd5eaeeaa",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/c30222a6402c5bd7e2a9ebfc79c1b53cd5eaeeaa",
+    "created_at": "2025-01-23T11:47:54.000+08:00",
+    "state": "committer",
+    "version": "3.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTQyMjAzMDA0OmIwM2RjZWExZTI5YmYwNjhhNGM5ZWUzOGNkNGNjMDcyNDAyOTljZWE=",
     "type": "commits",
     "title": "released v3.6.1 (#184)",
@@ -2255,17 +2266,6 @@
     "version": "2.0.3"
   },
   {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjU0ZGZkODJkYjRkYTQ4MzhkZWVhZDhhOTE4NWQyZmFlYWQ5YTY4M2Y=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.18 #36",
-    "repo": "uiwjs/react-json-view",
-    "sha": "54dfd82db4da4838deead8a9185d2faead9a683f",
-    "url": "https://github.com/uiwjs/react-json-view/commit/54dfd82db4da4838deead8a9185d2faead9a683f",
-    "created_at": "2024-03-10T17:51:48.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.18"
-  },
-  {
     "id": "MDY6Q29tbWl0NTU3ODE0NjM0OjU3NjIxMzUwMTMwOWZhZjQ4NTAzZjM2N2Q5NDFlNWUxYzFkOWU0ODI=",
     "type": "commits",
     "title": "released v2.0.1",
@@ -2373,7 +2373,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "251"
+    "stars": "252"
   },
   {
     "id": 1838600360,

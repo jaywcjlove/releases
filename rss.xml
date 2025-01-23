@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 22 Jan 2025 17:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 05:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v3.1.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/c30222a6402c5bd7e2a9ebfc79c1b53cd5eaeeaa</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmMzMDIyMmE2NDAyYzViZDdlMmE5ZWJmYzc5YzFiNTNjZDVlYWVlYWE=</guid>
+            <pubDate>Thu, 23 Jan 2025 03:47:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/c30222a6402c5bd7e2a9ebfc79c1b53cd5eaeeaa">released v3.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-monacoeditor released v3.6.1 (#184)]]></title>
             <link>https://github.com/uiwjs/react-monacoeditor/commit/b03dcea1e29bf068a4c9ee38cd4cc07240299cea</link>
@@ -1680,14 +1688,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Sun, 10 Mar 2024 19:26:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/f32397e4f36a8b1bcdcbf4b1068a19a9f01f54e4">released v2.0.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.18 #36]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/54dfd82db4da4838deead8a9185d2faead9a683f</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjU0ZGZkODJkYjRkYTQ4MzhkZWVhZDhhOTE4NWQyZmFlYWQ5YTY4M2Y=</guid>
-            <pubDate>Sun, 10 Mar 2024 09:51:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/54dfd82db4da4838deead8a9185d2faead9a683f">released v2.0.0-alpha.18 #36</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/github-action-modify-file-content released v2.0.1]]></title>
