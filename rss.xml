@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 27 Jan 2025 05:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 17:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/3201f309facd33256472ca328e17f8294acf5b59</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjMyMDFmMzA5ZmFjZDMzMjU2NDcyY2EzMjhlMTdmODI5NGFjZjViNTk=</guid>
+            <pubDate>Mon, 27 Jan 2025 15:16:22 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/3201f309facd33256472ca328e17f8294acf5b59">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/regex-mate released v3.1.0]]></title>
             <link>https://github.com/jaywcjlove/regex-mate/commit/c30222a6402c5bd7e2a9ebfc79c1b53cd5eaeeaa</link>
@@ -1752,14 +1760,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Sun, 03 Mar 2024 18:01:28 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/2f8e95a5115566b9abbdfe64a159bb6b7bef887b">released v2.1.1 #142</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/reference released v1.42.0]]></title>
-            <link>https://github.com/jaywcjlove/reference/commit/997e176017ebab118ce960c0fc796b81747969bd</link>
-            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5Ojk5N2UxNzYwMTdlYmFiMTE4Y2U5NjBjMGZjNzk2YjgxNzQ3OTY5YmQ=</guid>
-            <pubDate>Mon, 26 Feb 2024 06:08:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/997e176017ebab118ce960c0fc796b81747969bd">released v1.42.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view refactor: refactor v1 version]]></title>

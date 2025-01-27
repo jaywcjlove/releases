@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMyMDFmMzA5ZmFjZDMzMjU2NDcyY2EzMjhlMTdmODI5NGFjZjViNTk=",
+    "type": "commits",
+    "title": "released v1.4.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "3201f309facd33256472ca328e17f8294acf5b59",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/3201f309facd33256472ca328e17f8294acf5b59",
+    "created_at": "2025-01-27T23:16:22.000+08:00",
+    "state": "committer",
+    "version": "1.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmMzMDIyMmE2NDAyYzViZDdlMmE5ZWJmYzc5YzFiNTNjZDVlYWVlYWE=",
     "type": "commits",
     "title": "released v3.1.0",
@@ -2352,17 +2363,6 @@
     "created_at": "2024-03-04T02:01:28.000+08:00",
     "state": "committer",
     "version": "2.1.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTQwOTE3Mjk5Ojk5N2UxNzYwMTdlYmFiMTE4Y2U5NjBjMGZjNzk2YjgxNzQ3OTY5YmQ=",
-    "type": "commits",
-    "title": "released v1.42.0",
-    "repo": "jaywcjlove/reference",
-    "sha": "997e176017ebab118ce960c0fc796b81747969bd",
-    "url": "https://github.com/jaywcjlove/reference/commit/997e176017ebab118ce960c0fc796b81747969bd",
-    "created_at": "2024-02-26T14:08:07.000+08:00",
-    "state": "committer",
-    "version": "1.42.0"
   },
   {
     "id": 1899215297,
