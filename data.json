@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmQ2OTUxOGJlZmEwNzliNjFiZTIxNTlkYTk4ZTAwZTQwOTYxZmU2ZGY=",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/palette-genius",
+    "sha": "d69518befa079b61be2159da98e00e40961fe6df",
+    "url": "https://github.com/jaywcjlove/palette-genius/commit/d69518befa079b61be2159da98e00e40961fe6df",
+    "created_at": "2025-02-03T23:28:17.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMyMDFmMzA5ZmFjZDMzMjU2NDcyY2EzMjhlMTdmODI5NGFjZjViNTk=",
     "type": "commits",
     "title": "released v1.4.0",
@@ -2352,17 +2363,6 @@
     "created_at": "2024-03-04T13:14:06.000+08:00",
     "state": "committer",
     "version": "1.28.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjJmOGU5NWE1MTE1NTY2YjlhYmJkZmU2NGExNTliYjZiN2JlZjg4N2I=",
-    "type": "commits",
-    "title": "released v2.1.1 #142",
-    "repo": "uiwjs/react-color",
-    "sha": "2f8e95a5115566b9abbdfe64a159bb6b7bef887b",
-    "url": "https://github.com/uiwjs/react-color/commit/2f8e95a5115566b9abbdfe64a159bb6b7bef887b",
-    "created_at": "2024-03-04T02:01:28.000+08:00",
-    "state": "committer",
-    "version": "2.1.1"
   },
   {
     "id": 1899215297,
