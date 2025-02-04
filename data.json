@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY0OTExODQwOGQyNzRlZjBmMmE4YzY4NzJhZjFhNjQ3NGFmY2UxOTU=",
+    "type": "commits",
+    "title": "released v1.12.1",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "f49118408d274ef0f2a8c6872af1a6474afce195",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/f49118408d274ef0f2a8c6872af1a6474afce195",
+    "created_at": "2025-02-04T10:46:08.000+08:00",
+    "state": "committer",
+    "version": "1.12.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjFiOTIzYWMxZDIwMmVjNjU5MGIzNGU4Y2I5NGJkMDliNDFmYTEyZWE=",
+    "type": "commits",
+    "title": "released v4.23.8 #712",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "1b923ac1d202ec6590b34e8cb94bd09b41fa12ea",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/1b923ac1d202ec6590b34e8cb94bd09b41fa12ea",
+    "created_at": "2025-02-04T09:16:48.000+08:00",
+    "state": "committer",
+    "version": "4.23.8"
+  },
+  {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmQ2OTUxOGJlZmEwNzliNjFiZTIxNTlkYTk4ZTAwZTQwOTYxZmU2ZGY=",
     "type": "commits",
     "title": "released v1.5.0",
@@ -2332,17 +2354,6 @@
     "version": "1.5.3"
   },
   {
-    "id": "MDY6Q29tbWl0MjU2NzA0MjkxOjU2MjEzNzQ4OGUzYmE3NDU3MjgwNDUzYWM1OTlkMjAzMDM2NzJiYWU=",
-    "type": "commits",
-    "title": "released v5.0.9 #261",
-    "repo": "uiwjs/react-markdown-preview",
-    "sha": "562137488e3ba7457280453ac599d20303672bae",
-    "url": "https://github.com/uiwjs/react-markdown-preview/commit/562137488e3ba7457280453ac599d20303672bae",
-    "created_at": "2024-03-06T12:45:13.000+08:00",
-    "state": "committer",
-    "version": "5.0.9"
-  },
-  {
     "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmZlODJjYWViMzkyMTMwZDM3MmYzNTI0MGU2NDQ5ZjUxMzE0MzI0ZjY=",
     "type": "commits",
     "title": "released v0.5.4",
@@ -2472,7 +2483,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "199"
+    "stars": "200"
   },
   {
     "id": 1032707507,
