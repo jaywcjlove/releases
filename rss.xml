@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 05 Feb 2025 05:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 17:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.14.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/6fa909252709470f32a136380e5e34be8aeafe78</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjZmYTkwOTI1MjcwOTQ3MGYzMmExMzYzODBlNWUzNGJlOGFlYWZlNzg=</guid>
+            <pubDate>Wed, 05 Feb 2025 17:22:15 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/6fa909252709470f32a136380e5e34be8aeafe78">released v2.14.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.12.1]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/f49118408d274ef0f2a8c6872af1a6474afce195</link>
@@ -1736,14 +1744,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Thu, 07 Mar 2024 16:41:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/491623c9215ef7aa7bd67c3f27937077eed7d6a6">released v2.0.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-preview released v5.0.10 #259]]></title>
-            <link>https://github.com/uiwjs/react-markdown-preview/commit/1be3af559c3e378dbd61d2fdb2c80b5883c6ebc7</link>
-            <guid>MDY6Q29tbWl0MjU2NzA0MjkxOjFiZTNhZjU1OWMzZTM3OGRiZDYxZDJmZGIyYzgwYjU4ODNjNmViYzc=</guid>
-            <pubDate>Wed, 06 Mar 2024 10:03:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/1be3af559c3e378dbd61d2fdb2c80b5883c6ebc7">released v5.0.10 #259</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/refs-cli released v1.5.3]]></title>
