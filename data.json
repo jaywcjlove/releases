@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjlkYTUwODZmMGQ4NWE3ZGI0MGZlOTFiMTlkZTZlYzhkYjMwYTY1OTM=",
+    "type": "commits",
+    "title": "released v2.14.1",
+    "repo": "jaywcjlove/free-font",
+    "sha": "9da5086f0d85a7db40fe91b19de6ec8db30a6593",
+    "url": "https://github.com/jaywcjlove/free-font/commit/9da5086f0d85a7db40fe91b19de6ec8db30a6593",
+    "created_at": "2025-02-06T10:47:23.000+08:00",
+    "state": "committer",
+    "version": "2.14.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTI3ODExMzAyOmQxYWE1NWNmNmM1Y2EyNWFlZWRlYTI1OWRiMGRlNTlmOTA2MTc5Yzg=",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/swift-check-update",
+    "sha": "d1aa55cf6c5ca25aeedea259db0de59f906179c8",
+    "url": "https://github.com/jaywcjlove/swift-check-update/commit/d1aa55cf6c5ca25aeedea259db0de59f906179c8",
+    "created_at": "2025-02-06T10:03:45.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjZmYTkwOTI1MjcwOTQ3MGYzMmExMzYzODBlNWUzNGJlOGFlYWZlNzg=",
     "type": "commits",
     "title": "released v2.14.0",
@@ -2266,17 +2288,6 @@
     "version": "1.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjU2YTlhZTg4NDY0N2FmZGRiYjMwOTI0M2NjOTYyZDdiZmRmZTI3YjY=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.20 #40",
-    "repo": "uiwjs/react-json-view",
-    "sha": "56a9ae884647afddbb309243cc962d7bfdfe27b6",
-    "url": "https://github.com/uiwjs/react-json-view/commit/56a9ae884647afddbb309243cc962d7bfdfe27b6",
-    "created_at": "2024-03-15T09:52:22.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.20"
-  },
-  {
     "id": "MDY6Q29tbWl0MTc4NTg2NzQ1OjJhM2EyYjI1ZWM4M2E5MDQ3MjExMDcxMDI2ZGNiYjU2ODY1NDU1MmQ=",
     "type": "commits",
     "title": "released v6.1.0 #217",
@@ -2286,17 +2297,6 @@
     "created_at": "2024-03-14T19:52:45.000+08:00",
     "state": "committer",
     "version": "6.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjMxZGE4NjY0NDk2ZmFlMjkxODMyNmM3YTU3NzczYWJmMDlkNTlkNmY=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.19 #38",
-    "repo": "uiwjs/react-json-view",
-    "sha": "31da8664496fae2918326c7a57773abf09d59d6f",
-    "url": "https://github.com/uiwjs/react-json-view/commit/31da8664496fae2918326c7a57773abf09d59d6f",
-    "created_at": "2024-03-14T17:59:28.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.19"
   },
   {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjVkYjYwZjJlODgyMTg1ODVlN2Q2MWE2MzU2OWYwODUzNDI2ODFkM2I=",
@@ -2363,17 +2363,6 @@
     "created_at": "2024-03-04T22:05:55.000+08:00",
     "state": "committer",
     "version": "0.5.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDIzODEwNjc6ZTZjNmU2ZTc3ODJmMzI3NmQ1ODY3NDc2YzU0MWY0YWMyY2MxNjMxYg==",
-    "type": "commits",
-    "title": "released v1.28.2",
-    "repo": "jaywcjlove/idoc",
-    "sha": "e6c6e6e7782f3276d5867476c541f4ac2cc1631b",
-    "url": "https://github.com/jaywcjlove/idoc/commit/e6c6e6e7782f3276d5867476c541f4ac2cc1631b",
-    "created_at": "2024-03-04T13:14:06.000+08:00",
-    "state": "committer",
-    "version": "1.28.2"
   },
   {
     "id": 1899215297,
