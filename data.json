@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjBjYzA0NjEyY2U3MGYyYzRlMmY1MGE5NjhhOTA1YjBjZWMzYTMwOGM=",
+    "type": "commits",
+    "title": "released v2.15.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "0cc04612ce70f2c4e2f50a968a905b0cec3a308c",
+    "url": "https://github.com/jaywcjlove/free-font/commit/0cc04612ce70f2c4e2f50a968a905b0cec3a308c",
+    "created_at": "2025-02-12T10:18:11.000+08:00",
+    "state": "committer",
+    "version": "2.15.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmEwYTZiYjNmY2ViYTA4ZTNiMWE2NDU0ODExNjI3ZDkzNDBiN2YwNmQ=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/ejs-cli",
+    "sha": "a0a6bb3fceba08e3b1a6454811627d9340b7f06d",
+    "url": "https://github.com/jaywcjlove/ejs-cli/commit/a0a6bb3fceba08e3b1a6454811627d9340b7f06d",
+    "created_at": "2025-02-12T07:25:59.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjlkYTUwODZmMGQ4NWE3ZGI0MGZlOTFiMTlkZTZlYzhkYjMwYTY1OTM=",
     "type": "commits",
     "title": "released v2.14.1",
@@ -2319,50 +2341,6 @@
     "created_at": "2024-03-11T03:26:16.000+08:00",
     "state": "committer",
     "version": "2.0.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTU3ODE0NjM0OjU3NjIxMzUwMTMwOWZhZjQ4NTAzZjM2N2Q5NDFlNWUxYzFkOWU0ODI=",
-    "type": "commits",
-    "title": "released v2.0.1",
-    "repo": "jaywcjlove/github-action-modify-file-content",
-    "sha": "576213501309faf48503f367d941e5e1c1d9e482",
-    "url": "https://github.com/jaywcjlove/github-action-modify-file-content/commit/576213501309faf48503f367d941e5e1c1d9e482",
-    "created_at": "2024-03-08T01:16:42.000+08:00",
-    "state": "committer",
-    "version": "2.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjQ5MTYyM2M5MjE1ZWY3YWE3YmQ2N2MzZjI3OTM3MDc3ZWVkN2Q2YTY=",
-    "type": "commits",
-    "title": "released v2.0.2",
-    "repo": "jaywcjlove/github-action-contributors",
-    "sha": "491623c9215ef7aa7bd67c3f27937077eed7d6a6",
-    "url": "https://github.com/jaywcjlove/github-action-contributors/commit/491623c9215ef7aa7bd67c3f27937077eed7d6a6",
-    "created_at": "2024-03-08T00:41:48.000+08:00",
-    "state": "committer",
-    "version": "2.0.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OmU1YzQzMjNmNTkyYzBiNGU5ZDEwMDY2MjRlNDRlNDNiNWE4MTVmZTA=",
-    "type": "commits",
-    "title": "released v1.5.3",
-    "repo": "jaywcjlove/refs-cli",
-    "sha": "e5c4323f592c0b4e9d1006624e44e43b5a815fe0",
-    "url": "https://github.com/jaywcjlove/refs-cli/commit/e5c4323f592c0b4e9d1006624e44e43b5a815fe0",
-    "created_at": "2024-03-06T13:32:12.000+08:00",
-    "state": "committer",
-    "version": "1.5.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmZlODJjYWViMzkyMTMwZDM3MmYzNTI0MGU2NDQ5ZjUxMzE0MzI0ZjY=",
-    "type": "commits",
-    "title": "released v0.5.4",
-    "repo": "jaywcjlove/typenexus",
-    "sha": "fe82caeb392130d372f35240e6449f51314324f6",
-    "url": "https://github.com/jaywcjlove/typenexus/commit/fe82caeb392130d372f35240e6449f51314324f6",
-    "created_at": "2024-03-04T22:05:55.000+08:00",
-    "state": "committer",
-    "version": "0.5.4"
   },
   {
     "id": 1899215297,

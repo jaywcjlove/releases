@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 11 Feb 2025 17:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.15.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/0cc04612ce70f2c4e2f50a968a905b0cec3a308c</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjBjYzA0NjEyY2U3MGYyYzRlMmY1MGE5NjhhOTA1YjBjZWMzYTMwOGM=</guid>
+            <pubDate>Wed, 12 Feb 2025 02:18:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/0cc04612ce70f2c4e2f50a968a905b0cec3a308c">released v2.15.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/ejs-cli released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/ejs-cli/commit/a0a6bb3fceba08e3b1a6454811627d9340b7f06d</link>
+            <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmEwYTZiYjNmY2ViYTA4ZTNiMWE2NDU0ODExNjI3ZDkzNDBiN2YwNmQ=</guid>
+            <pubDate>Tue, 11 Feb 2025 23:25:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/a0a6bb3fceba08e3b1a6454811627d9340b7f06d">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.14.1]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/9da5086f0d85a7db40fe91b19de6ec8db30a6593</link>
@@ -1727,38 +1743,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NDUyMTM2NDEyOmYzMjM5N2U0ZjM2YThiMWJjZGNiZjRiMTA2OGExOWE5ZjAxZjU0ZTQ=</guid>
             <pubDate>Sun, 10 Mar 2024 19:26:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/f32397e4f36a8b1bcdcbf4b1068a19a9f01f54e4">released v2.0.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-modify-file-content released v2.0.1]]></title>
-            <link>https://github.com/jaywcjlove/github-action-modify-file-content/commit/576213501309faf48503f367d941e5e1c1d9e482</link>
-            <guid>MDY6Q29tbWl0NTU3ODE0NjM0OjU3NjIxMzUwMTMwOWZhZjQ4NTAzZjM2N2Q5NDFlNWUxYzFkOWU0ODI=</guid>
-            <pubDate>Thu, 07 Mar 2024 17:16:42 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-modify-file-content/commit/576213501309faf48503f367d941e5e1c1d9e482">released v2.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-contributors released v2.0.2]]></title>
-            <link>https://github.com/jaywcjlove/github-action-contributors/commit/491623c9215ef7aa7bd67c3f27937077eed7d6a6</link>
-            <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjQ5MTYyM2M5MjE1ZWY3YWE3YmQ2N2MzZjI3OTM3MDc3ZWVkN2Q2YTY=</guid>
-            <pubDate>Thu, 07 Mar 2024 16:41:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/491623c9215ef7aa7bd67c3f27937077eed7d6a6">released v2.0.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/refs-cli released v1.5.3]]></title>
-            <link>https://github.com/jaywcjlove/refs-cli/commit/e5c4323f592c0b4e9d1006624e44e43b5a815fe0</link>
-            <guid>MDY6Q29tbWl0NTY5OTQwOTE2OmU1YzQzMjNmNTkyYzBiNGU5ZDEwMDY2MjRlNDRlNDNiNWE4MTVmZTA=</guid>
-            <pubDate>Wed, 06 Mar 2024 05:32:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/e5c4323f592c0b4e9d1006624e44e43b5a815fe0">released v1.5.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/typenexus released v0.5.4]]></title>
-            <link>https://github.com/jaywcjlove/typenexus/commit/fe82caeb392130d372f35240e6449f51314324f6</link>
-            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OmZlODJjYWViMzkyMTMwZDM3MmYzNTI0MGU2NDQ5ZjUxMzE0MzI0ZjY=</guid>
-            <pubDate>Mon, 04 Mar 2024 14:05:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/fe82caeb392130d372f35240e6449f51314324f6">released v0.5.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
