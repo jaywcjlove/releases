@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 13 Feb 2025 05:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 17:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.3.0 #258]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/e88b9fcedbb66e823eacbf64dbbdb56905ce0521</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OmU4OGI5ZmNlZGJiNjZlODIzZWFjYmY2NGRiYmRiNTY5MDVjZTA1MjE=</guid>
+            <pubDate>Thu, 13 Feb 2025 16:34:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/e88b9fcedbb66e823eacbf64dbbdb56905ce0521">released v6.3.0 #258</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.4.0 #166]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/cac743203c2054d957981fa1f37e25e94e8a6362</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmNhYzc0MzIwM2MyMDU0ZDk1Nzk4MWZhMWYzN2UyNWU5NGU4YTYzNjI=</guid>
+            <pubDate>Thu, 13 Feb 2025 08:48:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/cac743203c2054d957981fa1f37e25e94e8a6362">released v2.4.0 #166</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/reference released v1.46.0]]></title>
+            <link>https://github.com/jaywcjlove/reference/commit/61046b519bed12d073717b483e687bd49d7261da</link>
+            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjYxMDQ2YjUxOWJlZDEyZDA3MzcxN2I0ODNlNjg3YmQ0OWQ3MjYxZGE=</guid>
+            <pubDate>Thu, 13 Feb 2025 08:12:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/61046b519bed12d073717b483e687bd49d7261da">released v1.46.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.15.0]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/0cc04612ce70f2c4e2f50a968a905b0cec3a308c</link>
@@ -1690,14 +1714,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v1.0.1]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/cf8f6697a84aad9594cc2a0c4170cde36865f68b</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOmNmOGY2Njk3YTg0YWFkOTU5NGNjMmEwYzQxNzBjZGUzNjg2NWY2OGI=</guid>
-            <pubDate>Fri, 15 Mar 2024 14:04:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/cf8f6697a84aad9594cc2a0c4170cde36865f68b">released v1.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
             <link>https://github.com/remarkjs/remark/pull/1298</link>
             <guid>2188086718</guid>
@@ -1712,14 +1728,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Fri, 15 Mar 2024 09:19:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/0f1790e8b4ef69fd1bea407e8a12aa9280424437">released v5.1.0 #258</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/c4fc5cb9b81d00aec829d757d47163d4caa1a918</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOmM0ZmM1Y2I5YjgxZDAwYWVjODI5ZDc1N2Q0NzE2M2Q0Y2FhMWE5MTg=</guid>
-            <pubDate>Fri, 15 Mar 2024 08:35:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/c4fc5cb9b81d00aec829d757d47163d4caa1a918">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-markdown-editor released v6.1.0 #217]]></title>
