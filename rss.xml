@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 14 Feb 2025 05:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 17:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.3.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/66f75b9d82fffae3d70cdac4008cfaf2095d1a2c</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjY2Zjc1YjlkODJmZmZhZTNkNzBjZGFjNDAwOGNmYWYyMDk1ZDFhMmM=</guid>
+            <pubDate>Fri, 14 Feb 2025 11:53:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/66f75b9d82fffae3d70cdac4008cfaf2095d1a2c">released v1.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/svgtofont released v6.3.0 #258]]></title>
             <link>https://github.com/jaywcjlove/svgtofont/commit/e88b9fcedbb66e823eacbf64dbbdb56905ce0521</link>
@@ -1679,14 +1687,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NDIzODEwNjc6ZTFjMjUwNzJiZmQ5NmY3M2E2Njk5ZTA5ZTc1MjFlNDY1YWVmODQwOA==</guid>
             <pubDate>Sat, 16 Mar 2024 04:08:19 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/e1c25072bfd96f73a6699e09e7521e465aef8408">released v1.29.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/355954437e5c65e9870c90a8f6594074c26b5554</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOjM1NTk1NDQzN2U1YzY1ZTk4NzBjOTBhOGY2NTk0MDc0YzI2YjU1NTQ=</guid>
-            <pubDate>Sat, 16 Mar 2024 03:57:28 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/355954437e5c65e9870c90a8f6594074c26b5554">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
