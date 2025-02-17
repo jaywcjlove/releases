@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmIyNTg4ZWQ0OGJjZDU2NzU0NWFmNjA1NGM2NDFhYzVjMjhhNGJmNTQ=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "b2588ed48bcd567545af6054c641ac5c28a4bf54",
+    "url": "https://github.com/jaywcjlove/daybar/commit/b2588ed48bcd567545af6054c641ac5c28a4bf54",
+    "created_at": "2025-02-17T15:32:30.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjY2Zjc1YjlkODJmZmZhZTNkNzBjZGFjNDAwOGNmYWYyMDk1ZDFhMmM=",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2244,17 +2255,6 @@
     "version": "1.7.7"
   },
   {
-    "id": "MDY6Q29tbWl0NzcyNDE4ODQxOmZhMWVmMzNkMGJhNTRkYjQ0NjIxNGU2YmY3N2FlNTBiOTU3YzA1MDA=",
-    "type": "commits",
-    "title": "released v1.1.1",
-    "repo": "jaywcjlove/remark-github-blockquote-alert",
-    "sha": "fa1ef33d0ba54db446214e6bf77ae50b957c0500",
-    "url": "https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/fa1ef33d0ba54db446214e6bf77ae50b957c0500",
-    "created_at": "2024-03-16T14:08:32.000+08:00",
-    "state": "committer",
-    "version": "1.1.1"
-  },
-  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6ZTFjMjUwNzJiZmQ5NmY3M2E2Njk5ZTA5ZTc1MjFlNDY1YWVmODQwOA==",
     "type": "commits",
     "title": "released v1.29.0",
@@ -2505,7 +2505,7 @@
     "created_at": "2021-07-20T09:31:52Z",
     "state": "merged",
     "number": 310,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 916846708,
@@ -2516,7 +2516,7 @@
     "created_at": "2021-06-10T03:20:20Z",
     "state": "merged",
     "number": 306,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 912615094,
@@ -2527,7 +2527,7 @@
     "created_at": "2021-06-06T04:35:50Z",
     "state": "merged",
     "number": 304,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 912094518,
@@ -2538,7 +2538,7 @@
     "created_at": "2021-06-05T04:09:11Z",
     "state": "merged",
     "number": 303,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 912059291,
@@ -2549,7 +2549,7 @@
     "created_at": "2021-06-05T01:58:22Z",
     "state": "merged",
     "number": 302,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 911688987,
@@ -2560,7 +2560,7 @@
     "created_at": "2021-06-04T16:58:21Z",
     "state": "merged",
     "number": 301,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 911687407,
@@ -2582,7 +2582,7 @@
     "created_at": "2021-06-04T15:00:13Z",
     "state": "merged",
     "number": 300,
-    "stars": "43.5K"
+    "stars": "43.6K"
   },
   {
     "id": 892085347,
