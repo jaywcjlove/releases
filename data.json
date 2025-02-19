@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmIyNTg4ZWQ0OGJjZDU2NzU0NWFmNjA1NGM2NDFhYzVjMjhhNGJmNTQ=",
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmY5NTFiODRlMzNiY2Y0NGFjYjc1YTg2ZmMwNWY1MmEwNzE1ZDQ4MDc=",
     "type": "commits",
-    "title": "released v2.0.0",
+    "title": "released v2.1.0",
     "repo": "jaywcjlove/daybar",
-    "sha": "b2588ed48bcd567545af6054c641ac5c28a4bf54",
-    "url": "https://github.com/jaywcjlove/daybar/commit/b2588ed48bcd567545af6054c641ac5c28a4bf54",
-    "created_at": "2025-02-17T15:32:30.000+08:00",
+    "sha": "f951b84e33bcf44acb75a86fc05f52a0715d4807",
+    "url": "https://github.com/jaywcjlove/daybar/commit/f951b84e33bcf44acb75a86fc05f52a0715d4807",
+    "created_at": "2025-02-19T10:02:37.000+08:00",
     "state": "committer",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjY2Zjc1YjlkODJmZmZhZTNkNzBjZGFjNDAwOGNmYWYyMDk1ZDFhMmM=",

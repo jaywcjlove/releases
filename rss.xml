@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 18 Feb 2025 17:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 05:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/daybar released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/daybar/commit/b2588ed48bcd567545af6054c641ac5c28a4bf54</link>
-            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmIyNTg4ZWQ0OGJjZDU2NzU0NWFmNjA1NGM2NDFhYzVjMjhhNGJmNTQ=</guid>
-            <pubDate>Mon, 17 Feb 2025 07:32:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/b2588ed48bcd567545af6054c641ac5c28a4bf54">released v2.0.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/daybar released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/f951b84e33bcf44acb75a86fc05f52a0715d4807</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmY5NTFiODRlMzNiY2Y0NGFjYjc1YTg2ZmMwNWY1MmEwNzE1ZDQ4MDc=</guid>
+            <pubDate>Wed, 19 Feb 2025 02:02:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/f951b84e33bcf44acb75a86fc05f52a0715d4807">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
