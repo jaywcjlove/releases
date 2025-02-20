@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 19 Feb 2025 17:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 05:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/TextSoundSaver released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/TextSoundSaver/commit/77cbcfd482cc185c590537bfe071ef0654f7f646</link>
+            <guid>MDY6Q29tbWl0NzY0MjYyMjg4Ojc3Y2JjZmQ0ODJjYzE4NWM1OTA1MzdiZmUwNzFlZjA2NTRmN2Y2NDY=</guid>
+            <pubDate>Thu, 20 Feb 2025 04:31:27 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/TextSoundSaver/commit/77cbcfd482cc185c590537bfe071ef0654f7f646">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/daybar released v2.1.0]]></title>
             <link>https://github.com/jaywcjlove/daybar/commit/f951b84e33bcf44acb75a86fc05f52a0715d4807</link>
@@ -1666,14 +1674,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v1.2.0 #2]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/4e4e21f7d2de3884537d5c7013f1449e56a45711</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOjRlNGUyMWY3ZDJkZTM4ODQ1MzdkNWM3MDEzZjE0NDllNTZhNDU3MTE=</guid>
-            <pubDate>Fri, 22 Mar 2024 03:30:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/4e4e21f7d2de3884537d5c7013f1449e56a45711">released v1.2.0 #2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/auto-config-loader released v1.7.7]]></title>
             <link>https://github.com/jaywcjlove/auto-config-loader/commit/9a8c13c5361b4cb2809585771325b5db735f9530</link>
             <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOjlhOGMxM2M1MzYxYjRjYjI4MDk1ODU3NzEzMjViNWRiNzM1Zjk1MzA=</guid>
@@ -1735,14 +1735,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTc4NTg2NzQ1OjJhM2EyYjI1ZWM4M2E5MDQ3MjExMDcxMDI2ZGNiYjU2ODY1NDU1MmQ=</guid>
             <pubDate>Thu, 14 Mar 2024 11:52:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-editor/commit/2a3a2b25ec83a9047211071026dcbb568654552d">released v6.1.0 #217</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-md-editor released v4.0.4 #621]]></title>
-            <link>https://github.com/uiwjs/react-md-editor/commit/5db60f2e88218585e7d61a63569f085342681d3b</link>
-            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjVkYjYwZjJlODgyMTg1ODVlN2Q2MWE2MzU2OWYwODUzNDI2ODFkM2I=</guid>
-            <pubDate>Tue, 12 Mar 2024 14:23:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/5db60f2e88218585e7d61a63569f085342681d3b">released v4.0.4 #621</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
