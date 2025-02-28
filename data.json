@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmE1YTJhYjg2MmRhZGQwOWE5N2Q5ZmYzYjU5NWZmZmRmMDIxNmY5NzA=",
+    "type": "commits",
+    "title": "released v4.23.9 (#716)",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "a5a2ab862dadd09a97d9ff3b595fffdf0216f970",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/a5a2ab862dadd09a97d9ff3b595fffdf0216f970",
+    "created_at": "2025-02-28T13:11:20.000+08:00",
+    "state": "committer",
+    "version": "4.23.9"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojc1YjYyZWZkZjcxM2QwMTU5MDU0MWNiOTZkMDQ5ZDNhMjAxN2ZjYTA=",
+    "type": "commits",
+    "title": "released v2.4.1 #167",
+    "repo": "uiwjs/react-color",
+    "sha": "75b62efdf713d01590541cb96d049d3a2017fca0",
+    "url": "https://github.com/uiwjs/react-color/commit/75b62efdf713d01590541cb96d049d3a2017fca0",
+    "created_at": "2025-02-28T12:59:41.000+08:00",
+    "state": "committer",
+    "version": "2.4.1"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjEwMjY0NWFhY2FhNmUyZjQ1Y2E4NjZlYzNlZjJjMzM2ZTdjYmE2Zjk=",
     "type": "commits",
     "title": "released v1.5.2",
@@ -2352,17 +2374,6 @@
     "state": "merged",
     "number": 1298,
     "stars": "8.0K"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDUyMTM2NDEyOmYzMjM5N2U0ZjM2YThiMWJjZGNiZjRiMTA2OGExOWE5ZjAxZjU0ZTQ=",
-    "type": "commits",
-    "title": "released v2.0.3",
-    "repo": "jaywcjlove/github-action-contributors",
-    "sha": "f32397e4f36a8b1bcdcbf4b1068a19a9f01f54e4",
-    "url": "https://github.com/jaywcjlove/github-action-contributors/commit/f32397e4f36a8b1bcdcbf4b1068a19a9f01f54e4",
-    "created_at": "2024-03-11T03:26:16.000+08:00",
-    "state": "committer",
-    "version": "2.0.3"
   },
   {
     "id": 1899215297,
