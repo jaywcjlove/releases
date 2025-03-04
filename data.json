@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmE1YTJhYjg2MmRhZGQwOWE5N2Q5ZmYzYjU5NWZmZmRmMDIxNmY5NzA=",
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmM0YTBhNWFkZTdmZTUxZTQ0ODRhZjgyYzg2Y2JiNDI3MjNlZDUxYWM=",
     "type": "commits",
-    "title": "released v4.23.9 (#716)",
+    "title": "released v4.23.10 #717",
     "repo": "uiwjs/react-codemirror",
-    "sha": "a5a2ab862dadd09a97d9ff3b595fffdf0216f970",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/a5a2ab862dadd09a97d9ff3b595fffdf0216f970",
-    "created_at": "2025-02-28T13:11:20.000+08:00",
+    "sha": "c4a0a5ade7fe51e4484af82c86cbb42723ed51ac",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/c4a0a5ade7fe51e4484af82c86cbb42723ed51ac",
+    "created_at": "2025-03-04T11:11:46.000+08:00",
     "state": "committer",
-    "version": "4.23.9"
+    "version": "4.23.10"
   },
   {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojc1YjYyZWZkZjcxM2QwMTU5MDU0MWNiOTZkMDQ5ZDNhMjAxN2ZjYTA=",
@@ -2321,17 +2321,6 @@
     "version": "4.21.25"
   },
   {
-    "id": "MDY6Q29tbWl0Mzc4MzE3MDAyOjYwYjY3MTU3YTc5ZDRiOGU0MjE5YzJlZmNhNzBlNDE5ZTM1MmQ2ZTA=",
-    "type": "commits",
-    "title": "released v3.0.1 #50",
-    "repo": "uiwjs/react-only-when",
-    "sha": "60b67157a79d4b8e4219c2efca70e419e352d6e0",
-    "url": "https://github.com/uiwjs/react-only-when/commit/60b67157a79d4b8e4219c2efca70e419e352d6e0",
-    "created_at": "2024-03-23T02:10:17.000-04:00",
-    "state": "committer",
-    "version": "3.0.1"
-  },
-  {
     "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjlhOGMxM2M1MzYxYjRjYjI4MDk1ODU3NzEzMjViNWRiNzM1Zjk1MzA=",
     "type": "commits",
     "title": "released v1.7.7",
@@ -2450,7 +2439,7 @@
     "created_at": "2022-03-05T15:26:27Z",
     "state": "merged",
     "number": 1032,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 1158028063,
