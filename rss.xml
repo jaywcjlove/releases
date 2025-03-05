@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 04 Mar 2025 17:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 05:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/ca9121db1604f49e5a9794279de501f89b13a050</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmNhOTEyMWRiMTYwNGY0OWU1YTk3OTQyNzlkZTUwMWY4OWIxM2EwNTA=</guid>
+            <pubDate>Wed, 05 Mar 2025 02:31:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/ca9121db1604f49e5a9794279de501f89b13a050">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.16.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/f80d2963c2e766dcf4e64e07f893518acb16ed7b</link>
@@ -1671,14 +1679,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmFmNjNkNmQwNGNjNmM5MTk5OGRhNDVhNDYxYjE1OWRhODJmMGNlNWE=</guid>
             <pubDate>Fri, 05 Apr 2024 04:43:22 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/af63d6d04cc6c91998da45a461b159da82f0ce5a">released v6.0.3 #350 #351</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.21 #42]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/73412ef2f10470afd2ef6bcf68689948a2657a8c</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjczNDEyZWYyZjEwNDcwYWZkMmVmNmJjZjY4Njg5OTQ4YTI2NTdhOGM=</guid>
-            <pubDate>Fri, 29 Mar 2024 02:51:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/73412ef2f10470afd2ef6bcf68689948a2657a8c">released v2.0.0-alpha.21 #42</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
