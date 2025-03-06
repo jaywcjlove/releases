@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 05 Mar 2025 17:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 05:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/ca9121db1604f49e5a9794279de501f89b13a050</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmNhOTEyMWRiMTYwNGY0OWU1YTk3OTQyNzlkZTUwMWY4OWIxM2EwNTA=</guid>
-            <pubDate>Wed, 05 Mar 2025 02:31:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/ca9121db1604f49e5a9794279de501f89b13a050">released v1.6.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v1.6.1]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/830fb9001d28c9506863d76ceaaf058ecb800035</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjgzMGZiOTAwMWQyOGM5NTA2ODYzZDc2Y2VhYWYwNThlY2I4MDAwMzU=</guid>
+            <pubDate>Wed, 05 Mar 2025 20:04:45 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/830fb9001d28c9506863d76ceaaf058ecb800035">released v1.6.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1736,14 +1736,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Sat, 23 Mar 2024 16:17:01 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/e16e45adc9ef7c2237033df148ddb757fd136c0e">released v4.21.25 (fix #642)</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/auto-config-loader released v1.7.7]]></title>
-            <link>https://github.com/jaywcjlove/auto-config-loader/commit/9a8c13c5361b4cb2809585771325b5db735f9530</link>
-            <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOjlhOGMxM2M1MzYxYjRjYjI4MDk1ODU3NzEzMjViNWRiNzM1Zjk1MzA=</guid>
-            <pubDate>Sat, 16 Mar 2024 17:46:52 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/9a8c13c5361b4cb2809585771325b5db735f9530">released v1.7.7</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>

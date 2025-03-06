@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmNhOTEyMWRiMTYwNGY0OWU1YTk3OTQyNzlkZTUwMWY4OWIxM2EwNTA=",
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjgzMGZiOTAwMWQyOGM5NTA2ODYzZDc2Y2VhYWYwNThlY2I4MDAwMzU=",
     "type": "commits",
-    "title": "released v1.6.0",
+    "title": "released v1.6.1",
     "repo": "jaywcjlove/IconizeFolder",
-    "sha": "ca9121db1604f49e5a9794279de501f89b13a050",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/ca9121db1604f49e5a9794279de501f89b13a050",
-    "created_at": "2025-03-05T10:31:29.000+08:00",
+    "sha": "830fb9001d28c9506863d76ceaaf058ecb800035",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/830fb9001d28c9506863d76ceaaf058ecb800035",
+    "created_at": "2025-03-06T04:04:45.000+08:00",
     "state": "committer",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY4MGQyOTYzYzJlNzY2ZGNmNGU2NGUwN2Y4OTM1MThhY2IxNmVkN2I=",
@@ -2330,17 +2330,6 @@
     "created_at": "2024-03-23T12:17:01.000-04:00",
     "state": "committer",
     "version": "4.21.25"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjlhOGMxM2M1MzYxYjRjYjI4MDk1ODU3NzEzMjViNWRiNzM1Zjk1MzA=",
-    "type": "commits",
-    "title": "released v1.7.7",
-    "repo": "jaywcjlove/auto-config-loader",
-    "sha": "9a8c13c5361b4cb2809585771325b5db735f9530",
-    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/9a8c13c5361b4cb2809585771325b5db735f9530",
-    "created_at": "2024-03-17T01:46:52.000+08:00",
-    "state": "committer",
-    "version": "1.7.7"
   },
   {
     "id": 2188086718,
