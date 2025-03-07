@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 07 Mar 2025 05:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 17:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.6.1]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/830fb9001d28c9506863d76ceaaf058ecb800035</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjgzMGZiOTAwMWQyOGM5NTA2ODYzZDc2Y2VhYWYwNThlY2I4MDAwMzU=</guid>
-            <pubDate>Wed, 05 Mar 2025 20:04:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/830fb9001d28c9506863d76ceaaf058ecb800035">released v1.6.1</a>]]></description>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/b561f769a6c930cda47f9619822d97c279c1b86a</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmI1NjFmNzY5YTZjOTMwY2RhNDdmOTYxOTgyMmQ5N2MyNzljMWI4NmE=</guid>
+            <pubDate>Fri, 07 Mar 2025 09:07:32 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/b561f769a6c930cda47f9619822d97c279c1b86a">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1727,14 +1727,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MjAwNjg2ODk2OmNlOTNhNWVkNDZlNjk4YjFhZGE0ZmQ5MmE5MGEwMGE1NmMyZGJiYjY=</guid>
             <pubDate>Mon, 25 Mar 2024 07:52:25 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-code-preview/commit/ce93a5ed46e698b1ada4fd92a90a00a56c2dbbb6">released v5.2.1 #236</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.21.25 (fix #642)]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/e16e45adc9ef7c2237033df148ddb757fd136c0e</link>
-            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OmUxNmU0NWFkYzllZjdjMjIzNzAzM2RmMTQ4ZGRiNzU3ZmQxMzZjMGU=</guid>
-            <pubDate>Sat, 23 Mar 2024 16:17:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/e16e45adc9ef7c2237033df148ddb757fd136c0e">released v4.21.25 (fix #642)</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjgzMGZiOTAwMWQyOGM5NTA2ODYzZDc2Y2VhYWYwNThlY2I4MDAwMzU=",
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmI1NjFmNzY5YTZjOTMwY2RhNDdmOTYxOTgyMmQ5N2MyNzljMWI4NmE=",
     "type": "commits",
-    "title": "released v1.6.1",
+    "title": "released v1.7.0",
     "repo": "jaywcjlove/IconizeFolder",
-    "sha": "830fb9001d28c9506863d76ceaaf058ecb800035",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/830fb9001d28c9506863d76ceaaf058ecb800035",
-    "created_at": "2025-03-06T04:04:45.000+08:00",
+    "sha": "b561f769a6c930cda47f9619822d97c279c1b86a",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/b561f769a6c930cda47f9619822d97c279c1b86a",
+    "created_at": "2025-03-07T17:07:32.000+08:00",
     "state": "committer",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY4MGQyOTYzYzJlNzY2ZGNmNGU2NGUwN2Y4OTM1MThhY2IxNmVkN2I=",
@@ -2319,17 +2319,6 @@
     "created_at": "2024-03-25T15:52:25.000+08:00",
     "state": "committer",
     "version": "5.2.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUxNmU0NWFkYzllZjdjMjIzNzAzM2RmMTQ4ZGRiNzU3ZmQxMzZjMGU=",
-    "type": "commits",
-    "title": "released v4.21.25 (fix #642)",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "e16e45adc9ef7c2237033df148ddb757fd136c0e",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/e16e45adc9ef7c2237033df148ddb757fd136c0e",
-    "created_at": "2024-03-23T12:17:01.000-04:00",
-    "state": "committer",
-    "version": "4.21.25"
   },
   {
     "id": 2188086718,
