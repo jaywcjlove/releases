@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmI1NjFmNzY5YTZjOTMwY2RhNDdmOTYxOTgyMmQ5N2MyNzljMWI4NmE=",
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmU4NDhkMjc0ZjIyMmI1MTE3ZjZmN2JkNjE3NTg2NTBjYTBiOTg0MTQ=",
     "type": "commits",
-    "title": "released v1.7.0",
+    "title": "released v1.7.1",
     "repo": "jaywcjlove/IconizeFolder",
-    "sha": "b561f769a6c930cda47f9619822d97c279c1b86a",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/b561f769a6c930cda47f9619822d97c279c1b86a",
-    "created_at": "2025-03-07T17:07:32.000+08:00",
+    "sha": "e848d274f222b5117f6f7bd61758650ca0b98414",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/e848d274f222b5117f6f7bd61758650ca0b98414",
+    "created_at": "2025-03-08T11:30:20.000+08:00",
     "state": "committer",
-    "version": "1.7.0"
+    "version": "1.7.1"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY4MGQyOTYzYzJlNzY2ZGNmNGU2NGUwN2Y4OTM1MThhY2IxNmVkN2I=",
@@ -2483,7 +2483,7 @@
     "created_at": "2021-07-20T09:31:52Z",
     "state": "merged",
     "number": 310,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 916846708,
@@ -2494,7 +2494,7 @@
     "created_at": "2021-06-10T03:20:20Z",
     "state": "merged",
     "number": 306,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 912615094,
@@ -2505,7 +2505,7 @@
     "created_at": "2021-06-06T04:35:50Z",
     "state": "merged",
     "number": 304,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 912094518,
@@ -2516,7 +2516,7 @@
     "created_at": "2021-06-05T04:09:11Z",
     "state": "merged",
     "number": 303,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 912059291,
@@ -2527,7 +2527,7 @@
     "created_at": "2021-06-05T01:58:22Z",
     "state": "merged",
     "number": 302,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 911688987,
@@ -2538,7 +2538,7 @@
     "created_at": "2021-06-04T16:58:21Z",
     "state": "merged",
     "number": 301,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 911687407,
@@ -2560,7 +2560,7 @@
     "created_at": "2021-06-04T15:00:13Z",
     "state": "merged",
     "number": 300,
-    "stars": "43.7K"
+    "stars": "43.8K"
   },
   {
     "id": 892085347,

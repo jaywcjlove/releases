@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 07 Mar 2025 17:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 05:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/b561f769a6c930cda47f9619822d97c279c1b86a</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmI1NjFmNzY5YTZjOTMwY2RhNDdmOTYxOTgyMmQ5N2MyNzljMWI4NmE=</guid>
-            <pubDate>Fri, 07 Mar 2025 09:07:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/b561f769a6c930cda47f9619822d97c279c1b86a">released v1.7.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v1.7.1]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/e848d274f222b5117f6f7bd61758650ca0b98414</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmU4NDhkMjc0ZjIyMmI1MTE3ZjZmN2JkNjE3NTg2NTBjYTBiOTg0MTQ=</guid>
+            <pubDate>Sat, 08 Mar 2025 03:30:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/e848d274f222b5117f6f7bd61758650ca0b98414">released v1.7.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
