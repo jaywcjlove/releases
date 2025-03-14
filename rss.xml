@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 14 Mar 2025 05:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 17:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[uiwjs/react-color released v2.4.3 #169]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/019d99eb1857bbff71c7215e7e75ee52701aa37a</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjAxOWQ5OWViMTg1N2JiZmY3MWM3MjE1ZTdlNzVlZTUyNzAxYWEzN2E=</guid>
-            <pubDate>Fri, 14 Mar 2025 05:15:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/019d99eb1857bbff71c7215e7e75ee52701aa37a">released v2.4.3 #169</a>]]></description>
+            <title><![CDATA[uiwjs/react-color released v2.4.4 #169]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/35b9c818edc83d1b41572a994a17d91ea47629e2</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjM1YjljODE4ZWRjODNkMWI0MTU3MmE5OTRhMTdkOTFlYTQ3NjI5ZTI=</guid>
+            <pubDate>Fri, 14 Mar 2025 11:17:14 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/35b9c818edc83d1b41572a994a17d91ea47629e2">released v2.4.4 #169</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1712,14 +1712,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Thu, 28 Mar 2024 08:01:23 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/49216c8b129afa62326db622a815ab74a3f0a755">released v1.31.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/copy-to-clipboard released v1.0.17]]></title>
-            <link>https://github.com/uiwjs/copy-to-clipboard/commit/340918f25f2c45f181e44f1a98978c60011085ed</link>
-            <guid>MDY6Q29tbWl0MTQ3NjAyNzAxOjM0MDkxOGYyNWYyYzQ1ZjE4MWU0NGYxYTk4OTc4YzYwMDExMDg1ZWQ=</guid>
-            <pubDate>Tue, 26 Mar 2024 14:23:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/copy-to-clipboard/commit/340918f25f2c45f181e44f1a98978c60011085ed">released v1.0.17</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-code-preview released v5.2.1 #236]]></title>
