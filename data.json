@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjAxOWQ5OWViMTg1N2JiZmY3MWM3MjE1ZTdlNzVlZTUyNzAxYWEzN2E=",
+    "type": "commits",
+    "title": "released v2.4.3 #169",
+    "repo": "uiwjs/react-color",
+    "sha": "019d99eb1857bbff71c7215e7e75ee52701aa37a",
+    "url": "https://github.com/uiwjs/react-color/commit/019d99eb1857bbff71c7215e7e75ee52701aa37a",
+    "created_at": "2025-03-14T13:15:17.000+08:00",
+    "state": "committer",
+    "version": "2.4.3"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OjVkY2IyZDhkOTY3MmIyM2Y5ZTFiNTg0ZGY5ODgzZGI3MTVlNjgxMDQ=",
     "type": "commits",
     "title": "released v2.12.0",
@@ -2242,17 +2253,6 @@
     "created_at": "2024-04-07T16:46:47.000+08:00",
     "state": "committer",
     "version": "1.18.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjVjMmZiZjI1MjJhYzQ4ZGY5Yjg0MTc5ODE0ODJkNjAyZmFjZDlhZjU=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.23 #44",
-    "repo": "uiwjs/react-json-view",
-    "sha": "5c2fbf2522ac48df9b8417981482d602facd9af5",
-    "url": "https://github.com/uiwjs/react-json-view/commit/5c2fbf2522ac48df9b8417981482d602facd9af5",
-    "created_at": "2024-04-05T17:21:17.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.23"
   },
   {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmFmNjNkNmQwNGNjNmM5MTk5OGRhNDVhNDYxYjE1OWRhODJmMGNlNWE=",
