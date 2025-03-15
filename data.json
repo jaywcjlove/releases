@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjM1YjljODE4ZWRjODNkMWI0MTU3MmE5OTRhMTdkOTFlYTQ3NjI5ZTI=",
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjJjMzRhOWE1NTExODUyMThkMjE3MmVkNWU0NDVlMzk1NzI5YTQ2MTQ=",
     "type": "commits",
-    "title": "released v2.4.4 #169",
+    "title": "released v2.4.5 #170",
     "repo": "uiwjs/react-color",
-    "sha": "35b9c818edc83d1b41572a994a17d91ea47629e2",
-    "url": "https://github.com/uiwjs/react-color/commit/35b9c818edc83d1b41572a994a17d91ea47629e2",
-    "created_at": "2025-03-14T19:17:14.000+08:00",
+    "sha": "2c34a9a551185218d2172ed5e445e395729a4614",
+    "url": "https://github.com/uiwjs/react-color/commit/2c34a9a551185218d2172ed5e445e395729a4614",
+    "created_at": "2025-03-15T12:35:19.000+08:00",
     "state": "committer",
-    "version": "2.4.4"
+    "version": "2.4.5"
   },
   {
     "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OjVkY2IyZDhkOTY3MmIyM2Y5ZTFiNTg0ZGY5ODgzZGI3MTVlNjgxMDQ=",
@@ -2299,15 +2299,15 @@
     "version": "1.31.0"
   },
   {
-    "id": "MDY6Q29tbWl0MjAwNjg2ODk2OmNlOTNhNWVkNDZlNjk4YjFhZGE0ZmQ5MmE5MGEwMGE1NmMyZGJiYjY=",
+    "id": "MDY6Q29tbWl0MjAwNjg2ODk2Ojk4MzE1YTc1YmYyOWNlODAyMGNhMmE0M2YxYmVhNzJlNzFiMWQwMDI=",
     "type": "commits",
-    "title": "released v5.2.1 #236",
+    "title": "released v5.2.0",
     "repo": "uiwjs/react-code-preview",
-    "sha": "ce93a5ed46e698b1ada4fd92a90a00a56c2dbbb6",
-    "url": "https://github.com/uiwjs/react-code-preview/commit/ce93a5ed46e698b1ada4fd92a90a00a56c2dbbb6",
-    "created_at": "2024-03-25T15:52:25.000+08:00",
+    "sha": "98315a75bf29ce8020ca2a43f1bea72e71b1d002",
+    "url": "https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002",
+    "created_at": "2024-03-25T14:58:40.000+08:00",
     "state": "committer",
-    "version": "5.2.1"
+    "version": "5.2.0"
   },
   {
     "id": 2188086718,
@@ -2329,7 +2329,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "269"
+    "stars": "270"
   },
   {
     "id": 1838600360,
