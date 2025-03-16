@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 15 Mar 2025 17:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 05:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/d77b099ab25f6a03504c19a4a0deedf574d68188</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmQ3N2IwOTlhYjI1ZjZhMDM1MDRjMTlhNGEwZGVlZGY1NzRkNjgxODg=</guid>
+            <pubDate>Sun, 16 Mar 2025 02:56:52 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/d77b099ab25f6a03504c19a4a0deedf574d68188">released v1.17.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/408d0af6714866ee4bd22d10ea9e726f8cf19fd8</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjQwOGQwYWY2NzE0ODY2ZWU0YmQyMmQxMGVhOWU3MjZmOGNmMTlmZDg=</guid>
+            <pubDate>Sun, 16 Mar 2025 02:39:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/408d0af6714866ee4bd22d10ea9e726f8cf19fd8">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-color released v2.4.5 #170]]></title>
             <link>https://github.com/uiwjs/react-color/commit/2c34a9a551185218d2172ed5e445e395729a4614</link>
@@ -1690,35 +1706,11 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/whereis released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/whereis/commit/6060577dbb3ff75913ca6fc46f931f56e30a9e1a</link>
-            <guid>MDY6Q29tbWl0MTQzNjIxMTM4OjYwNjA1NzdkYmIzZmY3NTkxM2NhNmZjNDZmOTMxZjU2ZTMwYTllMWE=</guid>
-            <pubDate>Thu, 28 Mar 2024 20:38:13 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/whereis/commit/6060577dbb3ff75913ca6fc46f931f56e30a9e1a">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-code-preview released v5.2.2 #237]]></title>
             <link>https://github.com/uiwjs/react-code-preview/commit/698dfeea3fa11fc6701a0c2eb42813864ff97da7</link>
             <guid>MDY6Q29tbWl0MjAwNjg2ODk2OjY5OGRmZWVhM2ZhMTFmYzY3MDFhMGMyZWI0MjgxMzg2NGZmOTdkYTc=</guid>
             <pubDate>Thu, 28 Mar 2024 14:16:23 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-code-preview/commit/698dfeea3fa11fc6701a0c2eb42813864ff97da7">released v5.2.2 #237</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.31.0]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/49216c8b129afa62326db622a815ab74a3f0a755</link>
-            <guid>MDY6Q29tbWl0NDIzODEwNjc6NDkyMTZjOGIxMjlhZmE2MjMyNmRiNjIyYTgxNWFiNzRhM2YwYTc1NQ==</guid>
-            <pubDate>Thu, 28 Mar 2024 08:01:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/49216c8b129afa62326db622a815ab74a3f0a755">released v1.31.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-code-preview released v5.2.0]]></title>
-            <link>https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002</link>
-            <guid>MDY6Q29tbWl0MjAwNjg2ODk2Ojk4MzE1YTc1YmYyOWNlODAyMGNhMmE0M2YxYmVhNzJlNzFiMWQwMDI=</guid>
-            <pubDate>Mon, 25 Mar 2024 06:58:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002">released v5.2.0</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
