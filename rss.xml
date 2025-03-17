@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 17 Mar 2025 05:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-action-contributors released v2.0.4 #31]]></title>
+            <link>https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5</link>
+            <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjJlNjM3NjM5NWM1MmY3ZDAzMjdhYWEyZmZmMzkzMmQyYWU4N2NmZDU=</guid>
+            <pubDate>Mon, 17 Mar 2025 16:44:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5">released v2.0.4 #31</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/d77b099ab25f6a03504c19a4a0deedf574d68188</link>
@@ -1706,11 +1714,11 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-code-preview released v5.2.2 #237]]></title>
-            <link>https://github.com/uiwjs/react-code-preview/commit/698dfeea3fa11fc6701a0c2eb42813864ff97da7</link>
-            <guid>MDY6Q29tbWl0MjAwNjg2ODk2OjY5OGRmZWVhM2ZhMTFmYzY3MDFhMGMyZWI0MjgxMzg2NGZmOTdkYTc=</guid>
-            <pubDate>Thu, 28 Mar 2024 14:16:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-code-preview/commit/698dfeea3fa11fc6701a0c2eb42813864ff97da7">released v5.2.2 #237</a>]]></description>
+            <title><![CDATA[uiwjs/react-code-preview released v5.2.0]]></title>
+            <link>https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002</link>
+            <guid>MDY6Q29tbWl0MjAwNjg2ODk2Ojk4MzE1YTc1YmYyOWNlODAyMGNhMmE0M2YxYmVhNzJlNzFiMWQwMDI=</guid>
+            <pubDate>Mon, 25 Mar 2024 06:58:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002">released v5.2.0</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

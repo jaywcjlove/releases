@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjJlNjM3NjM5NWM1MmY3ZDAzMjdhYWEyZmZmMzkzMmQyYWU4N2NmZDU=",
+    "type": "commits",
+    "title": "released v2.0.4 #31",
+    "repo": "jaywcjlove/github-action-contributors",
+    "sha": "2e6376395c52f7d0327aaa2fff3932d2ae87cfd5",
+    "url": "https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5",
+    "created_at": "2025-03-18T00:44:09.000+08:00",
+    "state": "committer",
+    "version": "2.0.4"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmQ3N2IwOTlhYjI1ZjZhMDM1MDRjMTlhNGEwZGVlZGY1NzRkNjgxODg=",
     "type": "commits",
     "title": "released v1.17.0",
@@ -2288,15 +2299,15 @@
     "version": "6.0.3"
   },
   {
-    "id": "MDY6Q29tbWl0MjAwNjg2ODk2OjY5OGRmZWVhM2ZhMTFmYzY3MDFhMGMyZWI0MjgxMzg2NGZmOTdkYTc=",
+    "id": "MDY6Q29tbWl0MjAwNjg2ODk2Ojk4MzE1YTc1YmYyOWNlODAyMGNhMmE0M2YxYmVhNzJlNzFiMWQwMDI=",
     "type": "commits",
-    "title": "released v5.2.2 #237",
+    "title": "released v5.2.0",
     "repo": "uiwjs/react-code-preview",
-    "sha": "698dfeea3fa11fc6701a0c2eb42813864ff97da7",
-    "url": "https://github.com/uiwjs/react-code-preview/commit/698dfeea3fa11fc6701a0c2eb42813864ff97da7",
-    "created_at": "2024-03-28T22:16:23.000+08:00",
+    "sha": "98315a75bf29ce8020ca2a43f1bea72e71b1d002",
+    "url": "https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002",
+    "created_at": "2024-03-25T14:58:40.000+08:00",
     "state": "committer",
-    "version": "5.2.2"
+    "version": "5.2.0"
   },
   {
     "id": 2188086718,
@@ -2395,7 +2406,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "728"
+    "stars": "729"
   },
   {
     "id": 1086792263,
