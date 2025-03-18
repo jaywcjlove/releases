@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 18 Mar 2025 05:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 17:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,38 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.2]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmI2YmFmNWIwZjU0NjEwMjg4OWUzZWFhZGQyN2JmOWQwODUxMjNiYmU=</guid>
+            <pubDate>Tue, 18 Mar 2025 15:09:42 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe">released v1.17.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/videoer released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/videoer/commit/10af52d58522d2372f83cdb31b526c0968664ee8</link>
+            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjEwYWY1MmQ1ODUyMmQyMzcyZjgzY2RiMzFiNTI2YzA5Njg2NjRlZTg=</guid>
+            <pubDate>Tue, 18 Mar 2025 14:36:45 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/10af52d58522d2372f83cdb31b526c0968664ee8">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v3.1.1]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/d20e14ec10bcc0fad6a83dc64d80941cf03f8cd7</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmQyMGUxNGVjMTBiY2MwZmFkNmE4M2RjNjRkODA5NDFjZjAzZjhjZDc=</guid>
+            <pubDate>Tue, 18 Mar 2025 08:12:28 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/d20e14ec10bcc0fad6a83dc64d80941cf03f8cd7">released v3.1.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.1]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/fd68b02fcd1ae9d92b6f93f6e63fb339a8875adf</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmZkNjhiMDJmY2QxYWU5ZDkyYjZmOTNmNmU2M2ZiMzM5YTg4NzVhZGY=</guid>
+            <pubDate>Tue, 18 Mar 2025 06:46:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/fd68b02fcd1ae9d92b6f93f6e63fb339a8875adf">released v1.17.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/github-action-contributors released v2.0.4 #31]]></title>
             <link>https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5</link>
@@ -1688,38 +1720,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Wed, 17 Apr 2024 15:10:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/store.js/commit/e8baafec51cb84f338eaca166a098d5997a24568">released v2.1.0 #47</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.24 #48]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/be97007a4ceee8561b6e81e0abae6af011eba652</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmJlOTcwMDdhNGNlZWU4NTYxYjZlODFlMGFiYWU2YWYwMTFlYmE2NTI=</guid>
-            <pubDate>Tue, 16 Apr 2024 16:10:57 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/be97007a4ceee8561b6e81e0abae6af011eba652">released v2.0.0-alpha.24 #48</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/linux-command released v1.18.0]]></title>
-            <link>https://github.com/jaywcjlove/linux-command/commit/c3356639109b0040136d78242810fd399d106068</link>
-            <guid>MDY6Q29tbWl0NzM1NjE2NTA6YzMzNTY2MzkxMDliMDA0MDEzNmQ3ODI0MjgxMGZkMzk5ZDEwNjA2OA==</guid>
-            <pubDate>Sun, 07 Apr 2024 08:46:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/c3356639109b0040136d78242810fd399d106068">released v1.18.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v6.0.3 #350 #351]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/af63d6d04cc6c91998da45a461b159da82f0ce5a</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmFmNjNkNmQwNGNjNmM5MTk5OGRhNDVhNDYxYjE1OWRhODJmMGNlNWE=</guid>
-            <pubDate>Fri, 05 Apr 2024 04:43:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/af63d6d04cc6c91998da45a461b159da82f0ce5a">released v6.0.3 #350 #351</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-code-preview released v5.2.0]]></title>
-            <link>https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002</link>
-            <guid>MDY6Q29tbWl0MjAwNjg2ODk2Ojk4MzE1YTc1YmYyOWNlODAyMGNhMmE0M2YxYmVhNzJlNzFiMWQwMDI=</guid>
-            <pubDate>Mon, 25 Mar 2024 06:58:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-code-preview/commit/98315a75bf29ce8020ca2a43f1bea72e71b1d002">released v5.2.0</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
