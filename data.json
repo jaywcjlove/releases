@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmExZWMxN2ZlNjI2NDE4NjY3MDU0MmY5OWQ3NmZkNWRmMDIzMjZmNzA=",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "a1ec17fe6264186670542f99d76fd5df02326f70",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70",
+    "created_at": "2025-03-19T09:10:23.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzgyMTYyOTAzOmVhOGU0OTcxYWI1NGQ3MmYyYjAxNWE1ZGVhMzk1ZGU1NzM4NDA5ZDc=",
+    "type": "commits",
+    "title": "released v1.8.0",
+    "repo": "jaywcjlove/symbol-scribe",
+    "sha": "ea8e4971ab54d72f2b015a5dea395de5738409d7",
+    "url": "https://github.com/jaywcjlove/symbol-scribe/commit/ea8e4971ab54d72f2b015a5dea395de5738409d7",
+    "created_at": "2025-03-19T09:00:26.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmI2YmFmNWIwZjU0NjEwMjg4OWUzZWFhZGQyN2JmOWQwODUxMjNiYmU=",
     "type": "commits",
     "title": "released v1.17.2",
@@ -2288,28 +2310,6 @@
     "version": "2.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTc4NTg2NzQ1OjQ2MGRmNjYzYzhkMDg5ZWZmYjFhNjFhY2Q2ZTkwNGIwMGI0M2VjNWI=",
-    "type": "commits",
-    "title": "released v6.1.1 #221",
-    "repo": "uiwjs/react-markdown-editor",
-    "sha": "460df663c8d089effb1a61acd6e904b00b43ec5b",
-    "url": "https://github.com/uiwjs/react-markdown-editor/commit/460df663c8d089effb1a61acd6e904b00b43ec5b",
-    "created_at": "2024-04-21T18:24:54.000+08:00",
-    "state": "committer",
-    "version": "6.1.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjY4MDE3NTc6ZThiYWFmZWM1MWNiODRmMzM4ZWFjYTE2NmEwOThkNTk5N2EyNDU2OA==",
-    "type": "commits",
-    "title": "released v2.1.0 #47",
-    "repo": "jaywcjlove/store.js",
-    "sha": "e8baafec51cb84f338eaca166a098d5997a24568",
-    "url": "https://github.com/jaywcjlove/store.js/commit/e8baafec51cb84f338eaca166a098d5997a24568",
-    "created_at": "2024-04-17T23:10:17.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -2329,7 +2329,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "272"
+    "stars": "273"
   },
   {
     "id": 1838600360,

@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 18 Mar 2025 17:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 05:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OmExZWMxN2ZlNjI2NDE4NjY3MDU0MmY5OWQ3NmZkNWRmMDIzMjZmNzA=</guid>
+            <pubDate>Wed, 19 Mar 2025 01:10:23 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70">released v1.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/symbol-scribe released v1.8.0]]></title>
+            <link>https://github.com/jaywcjlove/symbol-scribe/commit/ea8e4971ab54d72f2b015a5dea395de5738409d7</link>
+            <guid>MDY6Q29tbWl0NzgyMTYyOTAzOmVhOGU0OTcxYWI1NGQ3MmYyYjAxNWE1ZGVhMzk1ZGU1NzM4NDA5ZDc=</guid>
+            <pubDate>Wed, 19 Mar 2025 01:00:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/symbol-scribe/commit/ea8e4971ab54d72f2b015a5dea395de5738409d7">released v1.8.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.2]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe</link>
@@ -1703,22 +1719,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MzI2NjgxNjMyOmZlNzA3NmExMGFmNWMzMTQ5ODEwMmRlODc0NDZkZDQ5NWIwN2Q2Njg=</guid>
             <pubDate>Thu, 25 Apr 2024 16:12:20 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/changelog-generator/commit/fe7076a10af5c31498102de87446dd495b07d668">released v2.1.0 #123</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-editor released v6.1.1 #221]]></title>
-            <link>https://github.com/uiwjs/react-markdown-editor/commit/460df663c8d089effb1a61acd6e904b00b43ec5b</link>
-            <guid>MDY6Q29tbWl0MTc4NTg2NzQ1OjQ2MGRmNjYzYzhkMDg5ZWZmYjFhNjFhY2Q2ZTkwNGIwMGI0M2VjNWI=</guid>
-            <pubDate>Sun, 21 Apr 2024 10:24:54 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-editor/commit/460df663c8d089effb1a61acd6e904b00b43ec5b">released v6.1.1 #221</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/store.js released v2.1.0 #47]]></title>
-            <link>https://github.com/jaywcjlove/store.js/commit/e8baafec51cb84f338eaca166a098d5997a24568</link>
-            <guid>MDY6Q29tbWl0MjY4MDE3NTc6ZThiYWFmZWM1MWNiODRmMzM4ZWFjYTE2NmEwOThkNTk5N2EyNDU2OA==</guid>
-            <pubDate>Wed, 17 Apr 2024 15:10:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/store.js/commit/e8baafec51cb84f338eaca166a098d5997a24568">released v2.1.0 #47</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
