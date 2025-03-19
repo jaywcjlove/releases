@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 19 Mar 2025 05:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 17:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/d9dbcaafe7cad56a1447b4437492dc963b98121d</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOmQ5ZGJjYWFmZTdjYWQ1NmExNDQ3YjQ0Mzc0OTJkYzk2M2I5ODEyMWQ=</guid>
+            <pubDate>Wed, 19 Mar 2025 13:01:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/d9dbcaafe7cad56a1447b4437492dc963b98121d">released v1.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.5.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70</link>
@@ -1712,14 +1720,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Mon, 29 Apr 2024 02:57:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/7ff599a79b86b49d8d2e04925b74f9729d14a091">released v4.22.0 #651</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/changelog-generator released v2.1.0 #123]]></title>
-            <link>https://github.com/jaywcjlove/changelog-generator/commit/fe7076a10af5c31498102de87446dd495b07d668</link>
-            <guid>MDY6Q29tbWl0MzI2NjgxNjMyOmZlNzA3NmExMGFmNWMzMTQ5ODEwMmRlODc0NDZkZDQ5NWIwN2Q2Njg=</guid>
-            <pubDate>Thu, 25 Apr 2024 16:12:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/changelog-generator/commit/fe7076a10af5c31498102de87446dd495b07d668">released v2.1.0 #123</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
