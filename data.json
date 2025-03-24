@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmViM2IwY2M0MDVmYTIzODRjNjc2YzA2MGIyZGZmOTA3MTQ0NGYyMTI=",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/paste-quick",
+    "sha": "eb3b0cc405fa2384c676c060b2dff9071444f212",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/eb3b0cc405fa2384c676c060b2dff9071444f212",
+    "created_at": "2025-03-24T11:47:36.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjJjNmQ5ZWNkMmZjZmVjNTVkMzZhZDg2MmFkYjEzOTVjYjZjYmFlYWU=",
     "type": "commits",
     "title": "released v1.7.2",
@@ -2266,17 +2277,6 @@
     "version": "2.0.3"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjM4YTk0NzU3ODllN2MwNzZhN2I2ZWViODZjMzY3ZmNmMWI2NWI0Y2I=",
-    "type": "commits",
-    "title": "released v2.2.0 #148",
-    "repo": "uiwjs/react-color",
-    "sha": "38a9475789e7c076a7b6eeb86c367fcf1b65b4cb",
-    "url": "https://github.com/uiwjs/react-color/commit/38a9475789e7c076a7b6eeb86c367fcf1b65b4cb",
-    "created_at": "2024-05-12T09:28:17.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OmM4MDg0NzVkNTlkYWZlYzk0NjhjYTk5Yjc0NDVhMDczODMyNzMxMDU=",
     "type": "commits",
     "title": "released v1.43.0",
@@ -2286,17 +2286,6 @@
     "created_at": "2024-05-10T23:47:03.000+08:00",
     "state": "committer",
     "version": "1.43.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDg1MjIwMjc3OjhiNjE5M2VlNjVmMzlmMzRkYjIyM2VjZmIwOWMyOTFlYWY1NGYxYjI=",
-    "type": "commits",
-    "title": "released v2.1.0 #19",
-    "repo": "jaywcjlove/html-to-markdown-cli",
-    "sha": "8b6193ee65f39f34db223ecfb09c291eaf54f1b2",
-    "url": "https://github.com/jaywcjlove/html-to-markdown-cli/commit/8b6193ee65f39f34db223ecfb09c291eaf54f1b2",
-    "created_at": "2024-05-10T21:12:07.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": 2188086718,
@@ -2329,7 +2318,7 @@
     "created_at": "2023-08-07T03:17:04Z",
     "state": "merged",
     "number": 66,
-    "stars": "185"
+    "stars": "184"
   },
   {
     "id": 1645290043,
@@ -2417,7 +2406,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "207"
+    "stars": "206"
   },
   {
     "id": 1032707507,
