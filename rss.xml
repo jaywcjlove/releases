@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 24 Mar 2025 05:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 17:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/paste-quick released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/paste-quick/commit/eb3b0cc405fa2384c676c060b2dff9071444f212</link>
-            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OmViM2IwY2M0MDVmYTIzODRjNjc2YzA2MGIyZGZmOTA3MTQ0NGYyMTI=</guid>
-            <pubDate>Mon, 24 Mar 2025 03:47:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/eb3b0cc405fa2384c676c060b2dff9071444f212">released v1.6.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/paste-quick released v1.6.1]]></title>
+            <link>https://github.com/jaywcjlove/paste-quick/commit/052572a24a17045079b0212b401ad6ca8959e995</link>
+            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OjA1MjU3MmEyNGExNzA0NTA3OWIwMjEyYjQwMWFkNmNhODk1OWU5OTU=</guid>
+            <pubDate>Mon, 24 Mar 2025 16:44:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/052572a24a17045079b0212b401ad6ca8959e995">released v1.6.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1687,14 +1687,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NDYxNjczOTQyOjBlMDc4YWU0ZDRiYWIzNzc3ZWE0ZjEzN2RlNDk2YWI0NDY4OGY1YWQ=</guid>
             <pubDate>Sun, 12 May 2024 06:00:53 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/generated-badges/commit/0e078ae4d4bab3777ea4f137de496ab44688f5ad">released v1.0.13</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-modify-file-content released v2.0.3]]></title>
-            <link>https://github.com/jaywcjlove/github-action-modify-file-content/commit/2bda464e13bd07d9793d7c9a606ab37e8ad45316</link>
-            <guid>MDY6Q29tbWl0NTU3ODE0NjM0OjJiZGE0NjRlMTNiZDA3ZDk3OTNkN2M5YTYwNmFiMzdlOGFkNDUzMTY=</guid>
-            <pubDate>Sun, 12 May 2024 05:50:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-modify-file-content/commit/2bda464e13bd07d9793d7c9a606ab37e8ad45316">released v2.0.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

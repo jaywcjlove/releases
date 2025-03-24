@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmViM2IwY2M0MDVmYTIzODRjNjc2YzA2MGIyZGZmOTA3MTQ0NGYyMTI=",
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjA1MjU3MmEyNGExNzA0NTA3OWIwMjEyYjQwMWFkNmNhODk1OWU5OTU=",
     "type": "commits",
-    "title": "released v1.6.0",
+    "title": "released v1.6.1",
     "repo": "jaywcjlove/paste-quick",
-    "sha": "eb3b0cc405fa2384c676c060b2dff9071444f212",
-    "url": "https://github.com/jaywcjlove/paste-quick/commit/eb3b0cc405fa2384c676c060b2dff9071444f212",
-    "created_at": "2025-03-24T11:47:36.000+08:00",
+    "sha": "052572a24a17045079b0212b401ad6ca8959e995",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/052572a24a17045079b0212b401ad6ca8959e995",
+    "created_at": "2025-03-25T00:44:40.000+08:00",
     "state": "committer",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjJjNmQ5ZWNkMmZjZmVjNTVkMzZhZDg2MmFkYjEzOTVjYjZjYmFlYWU=",
@@ -2266,17 +2266,6 @@
     "version": "1.0.13"
   },
   {
-    "id": "MDY6Q29tbWl0NTU3ODE0NjM0OjJiZGE0NjRlMTNiZDA3ZDk3OTNkN2M5YTYwNmFiMzdlOGFkNDUzMTY=",
-    "type": "commits",
-    "title": "released v2.0.3",
-    "repo": "jaywcjlove/github-action-modify-file-content",
-    "sha": "2bda464e13bd07d9793d7c9a606ab37e8ad45316",
-    "url": "https://github.com/jaywcjlove/github-action-modify-file-content/commit/2bda464e13bd07d9793d7c9a606ab37e8ad45316",
-    "created_at": "2024-05-12T13:50:36.000+08:00",
-    "state": "committer",
-    "version": "2.0.3"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OmM4MDg0NzVkNTlkYWZlYzk0NjhjYTk5Yjc0NDVhMDczODMyNzMxMDU=",
     "type": "commits",
     "title": "released v1.43.0",
@@ -2626,7 +2615,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "349"
+    "stars": "350"
   },
   {
     "id": 571407407,
