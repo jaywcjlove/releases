@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmNiYWZhMGUxNzVhNjA2Nzc0YzY0OWJmOGFiNTI4ZGJkNTdjY2Y3MDE=",
+    "type": "commits",
+    "title": "released v1.7.4",
+    "repo": "jaywcjlove/IconizeFolder",
+    "sha": "cbafa0e175a606774c649bf8ab528dbd57ccf701",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/cbafa0e175a606774c649bf8ab528dbd57ccf701",
+    "created_at": "2025-03-25T13:03:47.000+08:00",
+    "state": "committer",
+    "version": "1.7.4"
+  },
+  {
     "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjA1MjU3MmEyNGExNzA0NTA3OWIwMjEyYjQwMWFkNmNhODk1OWU5OTU=",
     "type": "commits",
     "title": "released v1.6.1",
@@ -2244,28 +2255,6 @@
     "version": "4.22.1"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjcxNjE3YjM2MjFmMjJjMDk3Y2YzNGEyODcwMDA5ZmYwMDVlZTdhNWI=",
-    "type": "commits",
-    "title": "released v2.3.0",
-    "repo": "uiwjs/react-color",
-    "sha": "71617b3621f22c097cf34a2870009ff005ee7a5b",
-    "url": "https://github.com/uiwjs/react-color/commit/71617b3621f22c097cf34a2870009ff005ee7a5b",
-    "created_at": "2024-05-13T00:39:01.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDYxNjczOTQyOjBlMDc4YWU0ZDRiYWIzNzc3ZWE0ZjEzN2RlNDk2YWI0NDY4OGY1YWQ=",
-    "type": "commits",
-    "title": "released v1.0.13",
-    "repo": "jaywcjlove/generated-badges",
-    "sha": "0e078ae4d4bab3777ea4f137de496ab44688f5ad",
-    "url": "https://github.com/jaywcjlove/generated-badges/commit/0e078ae4d4bab3777ea4f137de496ab44688f5ad",
-    "created_at": "2024-05-12T14:00:53.000+08:00",
-    "state": "committer",
-    "version": "1.0.13"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OmM4MDg0NzVkNTlkYWZlYzk0NjhjYTk5Yjc0NDVhMDczODMyNzMxMDU=",
     "type": "commits",
     "title": "released v1.43.0",
@@ -2615,7 +2604,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "350"
+    "stars": "351"
   },
   {
     "id": 571407407,
