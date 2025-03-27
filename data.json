@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmE2Y2Y0MDAwNDkzZjE2ZTMyNzMwYzgyNzA2OGJlNDY0YzEyZTg4ODQ=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "a6cf4000493f16e32730c827068be464c12e8884",
+    "url": "https://github.com/jaywcjlove/daybar/commit/a6cf4000493f16e32730c827068be464c12e8884",
+    "created_at": "2025-03-27T03:15:53.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjIzMTZjMzJjMzBkMDVhN2JmMDJmZDI0NmRmZDA1MTMyZTkzZThmZTc=",
+    "type": "commits",
+    "title": "released v2.16.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "2316c32c30d05a7bf02fd246dfd05132e93e8fe7",
+    "url": "https://github.com/jaywcjlove/free-font/commit/2316c32c30d05a7bf02fd246dfd05132e93e8fe7",
+    "created_at": "2025-03-27T03:01:55.000+08:00",
+    "state": "committer",
+    "version": "2.16.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjBlYzY0ODU5M2E2NmRhNGRhNWQ3N2U2M2VhM2E5ZWI0NzZjMDhjMzc=",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2233,39 +2255,6 @@
     "version": "2.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0NjM1MzkwNTU6MzVlYzEzN2YzOTRlNWFiYjhkYjIxZGI0MDZhNGU5NmIxMDhiMTcxYQ==",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/awesome-mac",
-    "sha": "35ec137f394e5abb8db21db406a4e96b108b171a",
-    "url": "https://github.com/jaywcjlove/awesome-mac/commit/35ec137f394e5abb8db21db406a4e96b108b171a",
-    "created_at": "2024-05-29T01:42:50.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjBjNDVjODQ4MGE2ZTExMDI5YjQ1ZGVhMDRiZTljOTA0NDc2MTk4YWE=",
-    "type": "commits",
-    "title": "released v2.0.2",
-    "repo": "jaywcjlove/create-tag-action",
-    "sha": "0c45c8480a6e11029b45dea04be9c904476198aa",
-    "url": "https://github.com/jaywcjlove/create-tag-action/commit/0c45c8480a6e11029b45dea04be9c904476198aa",
-    "created_at": "2024-05-29T00:45:05.000+08:00",
-    "state": "committer",
-    "version": "2.0.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjY4M2ZjMDY4NjM0ZWJlMzEzODk2OTAwMTgyMzNhYjMwZjc0ZGIyZWU=",
-    "type": "commits",
-    "title": "released v6.0.4 #357",
-    "repo": "uiwjs/react-amap",
-    "sha": "683fc068634ebe31389690018233ab30f74db2ee",
-    "url": "https://github.com/uiwjs/react-amap/commit/683fc068634ebe31389690018233ab30f74db2ee",
-    "created_at": "2024-05-22T19:18:17.000+08:00",
-    "state": "committer",
-    "version": "6.0.4"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -2582,7 +2571,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "26.0K"
+    "stars": "26.1K"
   },
   {
     "id": 590022379,
@@ -2604,7 +2593,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "351"
+    "stars": "353"
   },
   {
     "id": 571407407,

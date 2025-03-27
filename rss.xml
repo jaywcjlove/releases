@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 26 Mar 2025 17:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 05:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v2.2.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/a6cf4000493f16e32730c827068be464c12e8884</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmE2Y2Y0MDAwNDkzZjE2ZTMyNzMwYzgyNzA2OGJlNDY0YzEyZTg4ODQ=</guid>
+            <pubDate>Wed, 26 Mar 2025 19:15:53 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/a6cf4000493f16e32730c827068be464c12e8884">released v2.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.16.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/2316c32c30d05a7bf02fd246dfd05132e93e8fe7</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjIzMTZjMzJjMzBkMDVhN2JmMDJmZDI0NmRmZDA1MTMyZTkzZThmZTc=</guid>
+            <pubDate>Wed, 26 Mar 2025 19:01:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/2316c32c30d05a7bf02fd246dfd05132e93e8fe7">released v2.16.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/videoer released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/videoer/commit/0ec648593a66da4da5d77e63ea3a9eb476c08c37</link>
@@ -1664,30 +1680,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Wed, 29 May 2024 17:54:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/658bd808d4a0ea5beecea0d7dffda43e117ac5f8">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/awesome-mac released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/awesome-mac/commit/35ec137f394e5abb8db21db406a4e96b108b171a</link>
-            <guid>MDY6Q29tbWl0NjM1MzkwNTU6MzVlYzEzN2YzOTRlNWFiYjhkYjIxZGI0MDZhNGU5NmIxMDhiMTcxYQ==</guid>
-            <pubDate>Tue, 28 May 2024 17:42:50 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/35ec137f394e5abb8db21db406a4e96b108b171a">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/create-tag-action released v2.0.2]]></title>
-            <link>https://github.com/jaywcjlove/create-tag-action/commit/0c45c8480a6e11029b45dea04be9c904476198aa</link>
-            <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjBjNDVjODQ4MGE2ZTExMDI5YjQ1ZGVhMDRiZTljOTA0NDc2MTk4YWE=</guid>
-            <pubDate>Tue, 28 May 2024 16:45:05 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/0c45c8480a6e11029b45dea04be9c904476198aa">released v2.0.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v6.0.4 #357]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/683fc068634ebe31389690018233ab30f74db2ee</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjY4M2ZjMDY4NjM0ZWJlMzEzODk2OTAwMTgyMzNhYjMwZjc0ZGIyZWU=</guid>
-            <pubDate>Wed, 22 May 2024 11:18:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/683fc068634ebe31389690018233ab30f74db2ee">released v6.0.4 #357</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
