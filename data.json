@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOjYyMWYzMDM5NTE2YzFhYzhlNjc4Mzk5ZjRhNzk2NWQ0MDg5YTcwNmU=",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/web-serve",
+    "sha": "621f3039516c1ac8e678399f4a7965d4089a706e",
+    "url": "https://github.com/jaywcjlove/web-serve/commit/621f3039516c1ac8e678399f4a7965d4089a706e",
+    "created_at": "2025-03-28T16:45:58.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMwNDQ5MGQ0MTU0OTI5NGQyOTZhNjM3YmNmMzE1NzRhNGU4OTk4ZWU=",
     "type": "commits",
     "title": "released v1.7.0",
@@ -2362,7 +2373,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "729"
+    "stars": "730"
   },
   {
     "id": 1086792263,
