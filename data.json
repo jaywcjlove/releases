@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmJlMDJiODEzMzBmMzU2MDIyMjRlZDI0ODRjMWViNDJhZmY4ZGVmOTk=",
+    "type": "commits",
+    "title": "released v7.1.4",
+    "repo": "uiwjs/react-amap",
+    "sha": "be02b81330f35602224ed2484c1eb42aff8def99",
+    "url": "https://github.com/uiwjs/react-amap/commit/be02b81330f35602224ed2484c1eb42aff8def99",
+    "created_at": "2025-03-31T02:44:27.000+08:00",
+    "state": "committer",
+    "version": "7.1.4"
+  },
+  {
     "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOjYyMWYzMDM5NTE2YzFhYzhlNjc4Mzk5ZjRhNzk2NWQ0MDg5YTcwNmU=",
     "type": "commits",
     "title": "released v1.5.0",
@@ -2296,7 +2307,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "275"
+    "stars": "276"
   },
   {
     "id": 1838600360,
