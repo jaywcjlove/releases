@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 01 Apr 2025 05:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 17:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/0e7095473c0ce3838d88159102287effb75f5817</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjBlNzA5NTQ3M2MwY2UzODM4ZDg4MTU5MTAyMjg3ZWZmYjc1ZjU4MTc=</guid>
+            <pubDate>Tue, 01 Apr 2025 15:28:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/0e7095473c0ce3838d88159102287effb75f5817">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.4]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/be02b81330f35602224ed2484c1eb42aff8def99</link>
