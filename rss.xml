@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 02 Apr 2025 17:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 05:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -616,6 +616,14 @@
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v2.0.1]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/059b569ff14e59003056f40feae7492a76bc49ab</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OjA1OWI1NjlmZjE0ZTU5MDAzMDU2ZjQwZmVhZTc0OTJhNzZiYzQ5YWI=</guid>
+            <pubDate>Thu, 19 Dec 2024 02:18:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/059b569ff14e59003056f40feae7492a76bc49ab">released v2.0.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.9.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/8ac80554c53523729a39b284117279be81ed1c92</link>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=</guid>
@@ -632,11 +640,27 @@
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/d62c8c23df45def942058f99e43a3c66240b787f</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmQ2MmM4YzIzZGY0NWRlZjk0MjA1OGY5OWU0M2EzYzY2MjQwYjc4N2Y=</guid>
+            <pubDate>Tue, 17 Dec 2024 05:16:31 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/d62c8c23df45def942058f99e43a3c66240b787f">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/idoc released v1.34.0]]></title>
             <link>https://github.com/jaywcjlove/idoc/commit/a7c478e2c350e116776874c5759f4d49473f5aae</link>
             <guid>MDY6Q29tbWl0NDIzODEwNjc6YTdjNDc4ZTJjMzUwZTExNjc3Njg3NGM1NzU5ZjRkNDk0NzNmNWFhZQ==</guid>
             <pubDate>Tue, 17 Dec 2024 04:14:51 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/a7c478e2c350e116776874c5759f4d49473f5aae">released v1.34.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v1.3.0]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/621b699556b3af9197d2910a97090297769bfc58</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjYyMWI2OTk1NTZiM2FmOTE5N2QyOTEwYTk3MDkwMjk3NzY5YmZjNTg=</guid>
+            <pubDate>Tue, 17 Dec 2024 03:18:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/621b699556b3af9197d2910a97090297769bfc58">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -808,6 +832,30 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[uiwjs/react-heat-map released v2.3.1 #133]]></title>
+            <link>https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1</link>
+            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=</guid>
+            <pubDate>Sun, 17 Nov 2024 08:52:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1">released v2.3.1 #133</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.1.0 #238]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=</guid>
+            <pubDate>Sat, 16 Nov 2024 22:33:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55">released v6.1.0 #238</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-heat-map released v2.3.0  #132]]></title>
+            <link>https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b</link>
+            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjBjYmQwMjY3NGE2M2YyYzAyOTU4NTFiNGFlMDhlOTA1NmZlMzk4OWI=</guid>
+            <pubDate>Fri, 08 Nov 2024 10:32:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b">released v2.3.0  #132</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v1.3.0 #4]]></title>
             <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/e9c3ca4b581f743bc0832f3a7425749a19262f2c</link>
             <guid>MDY6Q29tbWl0NzcyNDE4ODQxOmU5YzNjYTRiNTgxZjc0M2JjMDgzMmYzYTc0MjU3NDlhMTkyNjJmMmM=</guid>
@@ -968,6 +1016,14 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.3 #375]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/77f878c02ec4c1c5995b90ad9b9657c7e613d516</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0Ojc3Zjg3OGMwMmVjNGMxYzU5OTViOTBhZDliOTY1N2M3ZTYxM2Q1MTY=</guid>
+            <pubDate>Fri, 20 Sep 2024 11:29:27 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/77f878c02ec4c1c5995b90ad9b9657c7e613d516">released v7.1.3 #375</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/releases fix: fix issue fetching released data.]]></title>
             <link>https://github.com/jaywcjlove/releases/commit/92d790cdd72697fe95f0db0c959620cb2c2958e1</link>
             <guid>MDY6Q29tbWl0ODQ0NTU4MDk3OjkyZDc5MGNkZDcyNjk3ZmU5NWYwZGIwYzk1OTYyMGNiMmMyOTU4ZTE=</guid>
@@ -1120,6 +1176,14 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Fri, 30 Aug 2024 20:26:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/6ca9b70e733f711c2d128beb2c4f94686c69abb4">released v6.0.0 #240 #242</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.1 #373 #372]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjVlZDJkMDg2NDg5YTcxY2YzNzZhMGQ2MzExZTM3MGI5NWE2MWJkZGQ=</guid>
+            <pubDate>Fri, 30 Aug 2024 09:02:18 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd">released v7.1.1 #373 #372</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/uglify-js-export released v3.19.3]]></title>

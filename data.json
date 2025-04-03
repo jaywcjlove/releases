@@ -825,6 +825,17 @@
     "version": "2.3.2"
   },
   {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OjA1OWI1NjlmZjE0ZTU5MDAzMDU2ZjQwZmVhZTc0OTJhNzZiYzQ5YWI=",
+    "type": "commits",
+    "title": "released v2.0.1",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "059b569ff14e59003056f40feae7492a76bc49ab",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/059b569ff14e59003056f40feae7492a76bc49ab",
+    "created_at": "2024-12-19T10:18:40.000+08:00",
+    "state": "committer",
+    "version": "2.0.1"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=",
     "type": "commits",
     "title": "released v1.9.0",
@@ -847,6 +858,17 @@
     "version": "4.0.5"
   },
   {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmQ2MmM4YzIzZGY0NWRlZjk0MjA1OGY5OWU0M2EzYzY2MjQwYjc4N2Y=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "d62c8c23df45def942058f99e43a3c66240b787f",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/d62c8c23df45def942058f99e43a3c66240b787f",
+    "created_at": "2024-12-17T13:16:31.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6YTdjNDc4ZTJjMzUwZTExNjc3Njg3NGM1NzU5ZjRkNDk0NzNmNWFhZQ==",
     "type": "commits",
     "title": "released v1.34.0",
@@ -856,6 +878,17 @@
     "created_at": "2024-12-17T12:14:51.000+08:00",
     "state": "committer",
     "version": "1.34.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjYyMWI2OTk1NTZiM2FmOTE5N2QyOTEwYTk3MDkwMjk3NzY5YmZjNTg=",
+    "type": "commits",
+    "title": "released v1.3.0",
+    "repo": "jaywcjlove/IconizeFolder",
+    "sha": "621b699556b3af9197d2910a97090297769bfc58",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/621b699556b3af9197d2910a97090297769bfc58",
+    "created_at": "2024-12-17T11:18:54.000+08:00",
+    "state": "committer",
+    "version": "1.3.0"
   },
   {
     "id": "MDY6Q29tbWl0NjY2NDgwOTUzOmY3NGU5OTQyMWJhNTViMzFjNjdkNGMxNWZiZjMyZjQ3ZTUxM2E0YmM=",
@@ -1089,6 +1122,39 @@
     "version": "6.1.1"
   },
   {
+    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=",
+    "type": "commits",
+    "title": "released v2.3.1 #133",
+    "repo": "uiwjs/react-heat-map",
+    "sha": "728d195fe05ebf0be3874e3f9287bcf693038fb1",
+    "url": "https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1",
+    "created_at": "2024-11-17T16:52:29.000+08:00",
+    "state": "committer",
+    "version": "2.3.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=",
+    "type": "commits",
+    "title": "released v6.1.0 #238",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55",
+    "created_at": "2024-11-17T06:33:47.000+08:00",
+    "state": "committer",
+    "version": "6.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjBjYmQwMjY3NGE2M2YyYzAyOTU4NTFiNGFlMDhlOTA1NmZlMzk4OWI=",
+    "type": "commits",
+    "title": "released v2.3.0  #132",
+    "repo": "uiwjs/react-heat-map",
+    "sha": "0cbd02674a63f2c0295851b4ae08e9056fe3989b",
+    "url": "https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b",
+    "created_at": "2024-11-08T18:32:40.000+08:00",
+    "state": "committer",
+    "version": "2.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzcyNDE4ODQxOmU5YzNjYTRiNTgxZjc0M2JjMDgzMmYzYTc0MjU3NDlhMTkyNjJmMmM=",
     "type": "commits",
     "title": "released v1.3.0 #4",
@@ -1309,6 +1375,17 @@
     "version": "2.10.0"
   },
   {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0Ojc3Zjg3OGMwMmVjNGMxYzU5OTViOTBhZDliOTY1N2M3ZTYxM2Q1MTY=",
+    "type": "commits",
+    "title": "released v7.1.3 #375",
+    "repo": "uiwjs/react-amap",
+    "sha": "77f878c02ec4c1c5995b90ad9b9657c7e613d516",
+    "url": "https://github.com/uiwjs/react-amap/commit/77f878c02ec4c1c5995b90ad9b9657c7e613d516",
+    "created_at": "2024-09-20T19:29:27.000+08:00",
+    "state": "committer",
+    "version": "7.1.3"
+  },
+  {
     "id": "MDY6Q29tbWl0ODQ0NTU4MDk3OjkyZDc5MGNkZDcyNjk3ZmU5NWYwZGIwYzk1OTYyMGNiMmMyOTU4ZTE=",
     "type": "commits",
     "title": "fix: fix issue fetching released data.",
@@ -1483,6 +1560,17 @@
     "created_at": "2024-08-31T04:26:17.000+08:00",
     "state": "committer",
     "version": "6.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjVlZDJkMDg2NDg5YTcxY2YzNzZhMGQ2MzExZTM3MGI5NWE2MWJkZGQ=",
+    "type": "commits",
+    "title": "released v7.1.1 #373 #372",
+    "repo": "uiwjs/react-amap",
+    "sha": "5ed2d086489a71cf376a0d6311e370b95a61bddd",
+    "url": "https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd",
+    "created_at": "2024-08-30T17:02:18.000+08:00",
+    "state": "committer",
+    "version": "7.1.1"
   },
   {
     "id": "MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=",
@@ -2296,7 +2384,7 @@
     "created_at": "2022-03-05T15:26:27Z",
     "state": "merged",
     "number": 1032,
-    "stars": "6.0K"
+    "stars": "6.1K"
   },
   {
     "id": 1158028063,
@@ -2549,7 +2637,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "355"
+    "stars": "356"
   },
   {
     "id": 571407407,
