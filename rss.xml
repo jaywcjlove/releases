@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 04 Apr 2025 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 05:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/0e7095473c0ce3838d88159102287effb75f5817</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjBlNzA5NTQ3M2MwY2UzODM4ZDg4MTU5MTAyMjg3ZWZmYjc1ZjU4MTc=</guid>
-            <pubDate>Tue, 01 Apr 2025 15:28:44 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/0e7095473c0ce3838d88159102287effb75f5817">released v1.0.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/focus-cursor released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/6d3315ab1d30d25af7976c609d19a25f25e69e5d</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjZkMzMxNWFiMWQzMGQyNWFmNzk3NmM2MDlkMTlhMjVmMjVlNjllNWQ=</guid>
+            <pubDate>Fri, 04 Apr 2025 21:01:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/6d3315ab1d30d25af7976c609d19a25f25e69e5d">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1703,14 +1703,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjY1MzgwZjM5NGZjYmJkZDY4YjQ2MGYxMDM2NTcxNjMxYzI4MTEzYmY=</guid>
             <pubDate>Thu, 06 Jun 2024 02:42:20 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/65380f394fcbbdd68b460f1036571631c28113bf">released v1.5.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/create-tag-action released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/create-tag-action/commit/658bd808d4a0ea5beecea0d7dffda43e117ac5f8</link>
-            <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjY1OGJkODA4ZDRhMGVhNWJlZWNlYTBkN2RmZmRhNDNlMTE3YWM1Zjg=</guid>
-            <pubDate>Wed, 29 May 2024 17:54:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/658bd808d4a0ea5beecea0d7dffda43e117ac5f8">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

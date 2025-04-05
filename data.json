@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjBlNzA5NTQ3M2MwY2UzODM4ZDg4MTU5MTAyMjg3ZWZmYjc1ZjU4MTc=",
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjZkMzMxNWFiMWQzMGQyNWFmNzk3NmM2MDlkMTlhMjVmMjVlNjllNWQ=",
     "type": "commits",
-    "title": "released v1.0.0",
+    "title": "released v1.1.0",
     "repo": "jaywcjlove/focus-cursor",
-    "sha": "0e7095473c0ce3838d88159102287effb75f5817",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/0e7095473c0ce3838d88159102287effb75f5817",
-    "created_at": "2025-04-01T23:28:44.000+08:00",
+    "sha": "6d3315ab1d30d25af7976c609d19a25f25e69e5d",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/6d3315ab1d30d25af7976c609d19a25f25e69e5d",
+    "created_at": "2025-04-05T05:01:33.000+08:00",
     "state": "committer",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmJlMDJiODEzMzBmMzU2MDIyMjRlZDI0ODRjMWViNDJhZmY4ZGVmOTk=",
@@ -2286,17 +2286,6 @@
     "created_at": "2024-06-06T10:42:20.000+08:00",
     "state": "committer",
     "version": "1.5.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjY1OGJkODA4ZDRhMGVhNWJlZWNlYTBkN2RmZmRhNDNlMTE3YWM1Zjg=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/create-tag-action",
-    "sha": "658bd808d4a0ea5beecea0d7dffda43e117ac5f8",
-    "url": "https://github.com/jaywcjlove/create-tag-action/commit/658bd808d4a0ea5beecea0d7dffda43e117ac5f8",
-    "created_at": "2024-05-30T01:54:03.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": 2188086718,
