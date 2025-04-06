@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 05 Apr 2025 17:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 05:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.3.2]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/7dde97d111319d8c6b330584a07a7589df354a8b</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjdkZGU5N2QxMTEzMTlkOGM2YjMzMDU4NGEwN2E3NTg5ZGYzNTRhOGI=</guid>
+            <pubDate>Sun, 06 Apr 2025 02:55:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/7dde97d111319d8c6b330584a07a7589df354a8b">released v6.3.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/6d3315ab1d30d25af7976c609d19a25f25e69e5d</link>

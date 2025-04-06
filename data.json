@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjdkZGU5N2QxMTEzMTlkOGM2YjMzMDU4NGEwN2E3NTg5ZGYzNTRhOGI=",
+    "type": "commits",
+    "title": "released v6.3.2",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "7dde97d111319d8c6b330584a07a7589df354a8b",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/7dde97d111319d8c6b330584a07a7589df354a8b",
+    "created_at": "2025-04-06T10:55:33.000+08:00",
+    "state": "committer",
+    "version": "6.3.2"
+  },
+  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjZkMzMxNWFiMWQzMGQyNWFmNzk3NmM2MDlkMTlhMjVmMjVlNjllNWQ=",
     "type": "commits",
     "title": "released v1.1.0",
