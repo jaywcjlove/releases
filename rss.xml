@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 10 Apr 2025 05:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 17:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/DevHub released v1.37.0]]></title>
+            <link>https://github.com/jaywcjlove/DevHub/commit/930a541ed9fda82c37498792c9baaa53c4240c42</link>
+            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOjkzMGE1NDFlZDlmZGE4MmMzNzQ5ODc5MmM5YmFhYTUzYzQyNDBjNDI=</guid>
+            <pubDate>Thu, 10 Apr 2025 09:28:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/930a541ed9fda82c37498792c9baaa53c4240c42">released v1.37.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v1.8.0]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/31e82a65470eff1406084d2b302627f802543c5b</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjMxZTgyYTY1NDcwZWZmMTQwNjA4NGQyYjMwMjYyN2Y4MDI1NDNjNWI=</guid>
+            <pubDate>Thu, 10 Apr 2025 08:52:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/31e82a65470eff1406084d2b302627f802543c5b">released v1.8.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/palette-genius released v1.6.0]]></title>
             <link>https://github.com/jaywcjlove/palette-genius/commit/3774f0967adfb168a3b0043c279410599823e61f</link>
@@ -1682,44 +1698,12 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v4.2.2 #229]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/cbc1fc5cfde88d49403aba3c2a5df3dd05ae39f9</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OmNiYzFmYzVjZmRlODhkNDk0MDNhYmEzYzJhNWRmM2RkMDVhZTM5Zjk=</guid>
-            <pubDate>Sat, 22 Jun 2024 08:25:26 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/cbc1fc5cfde88d49403aba3c2a5df3dd05ae39f9">released v4.2.2 #229</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/nginx-editor released v2.0.1 #329]]></title>
             <link>https://github.com/jaywcjlove/nginx-editor/commit/f5f2b5817b5e4dc332264493f6b2bbe41d793e58</link>
             <guid>MDY6Q29tbWl0MzM3MTM2MjQwOmY1ZjJiNTgxN2I1ZTRkYzMzMjI2NDQ5M2Y2YjJiYmU0MWQ3OTNlNTg=</guid>
             <pubDate>Tue, 11 Jun 2024 08:35:31 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/nginx-editor/commit/f5f2b5817b5e4dc332264493f6b2bbe41d793e58">released v2.0.1 #329</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/uglify-js-export released v3.18.0 #11]]></title>
-            <link>https://github.com/jaywcjlove/uglify-js-export/commit/83c3162e6d0a0fa7642f9209f0efcba537c4adb7</link>
-            <guid>MDY6Q29tbWl0NDk2NDU2MzI0OjgzYzMxNjJlNmQwYTBmYTc2NDJmOTIwOWYwZWZjYmE1MzdjNGFkYjc=</guid>
-            <pubDate>Mon, 10 Jun 2024 02:59:58 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/uglify-js-export/commit/83c3162e6d0a0fa7642f9209f0efcba537c4adb7">released v3.18.0 #11</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/nginx-editor released v2.0.0 #323]]></title>
-            <link>https://github.com/jaywcjlove/nginx-editor/commit/fcf257fdfdc0946f97411034ca37d4d7e111ad6c</link>
-            <guid>MDY6Q29tbWl0MzM3MTM2MjQwOmZjZjI1N2ZkZmRjMDk0NmY5NzQxMTAzNGNhMzdkNGQ3ZTExMWFkNmM=</guid>
-            <pubDate>Sat, 08 Jun 2024 18:53:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/nginx-editor/commit/fcf257fdfdc0946f97411034ca37d4d7e111ad6c">released v2.0.0 #323</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.22.2 #650]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/62a15d20187dc8bfaf006be0ff8df1f9e30928af</link>
-            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjYyYTE1ZDIwMTg3ZGM4YmZhZjAwNmJlMGZmOGRmMWY5ZTMwOTI4YWY=</guid>
-            <pubDate>Fri, 07 Jun 2024 03:32:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/62a15d20187dc8bfaf006be0ff8df1f9e30928af">released v4.22.2 #650</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/create-tag-action released v2.1.3]]></title>

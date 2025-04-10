@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjkzMGE1NDFlZDlmZGE4MmMzNzQ5ODc5MmM5YmFhYTUzYzQyNDBjNDI=",
+    "type": "commits",
+    "title": "released v1.37.0",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "930a541ed9fda82c37498792c9baaa53c4240c42",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/930a541ed9fda82c37498792c9baaa53c4240c42",
+    "created_at": "2025-04-10T17:28:44.000+08:00",
+    "state": "committer",
+    "version": "1.37.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMxZTgyYTY1NDcwZWZmMTQwNjA4NGQyYjMwMjYyN2Y4MDI1NDNjNWI=",
+    "type": "commits",
+    "title": "released v1.8.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "31e82a65470eff1406084d2b302627f802543c5b",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/31e82a65470eff1406084d2b302627f802543c5b",
+    "created_at": "2025-04-10T16:52:10.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjM3NzRmMDk2N2FkZmIxNjhhM2IwMDQzYzI3OTQxMDU5OTgyM2U2MWY=",
     "type": "commits",
     "title": "released v1.6.0",
@@ -2255,17 +2277,6 @@
     "version": "5.1.2"
   },
   {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmNiYzFmYzVjZmRlODhkNDk0MDNhYmEzYzJhNWRmM2RkMDVhZTM5Zjk=",
-    "type": "commits",
-    "title": "released v4.2.2 #229",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "cbc1fc5cfde88d49403aba3c2a5df3dd05ae39f9",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/cbc1fc5cfde88d49403aba3c2a5df3dd05ae39f9",
-    "created_at": "2024-06-22T16:25:26.000+08:00",
-    "state": "committer",
-    "version": "4.2.2"
-  },
-  {
     "id": "MDY6Q29tbWl0MzM3MTM2MjQwOmY1ZjJiNTgxN2I1ZTRkYzMzMjI2NDQ5M2Y2YjJiYmU0MWQ3OTNlNTg=",
     "type": "commits",
     "title": "released v2.0.1 #329",
@@ -2275,39 +2286,6 @@
     "created_at": "2024-06-11T16:35:31.000+08:00",
     "state": "committer",
     "version": "2.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDk2NDU2MzI0OjgzYzMxNjJlNmQwYTBmYTc2NDJmOTIwOWYwZWZjYmE1MzdjNGFkYjc=",
-    "type": "commits",
-    "title": "released v3.18.0 #11",
-    "repo": "jaywcjlove/uglify-js-export",
-    "sha": "83c3162e6d0a0fa7642f9209f0efcba537c4adb7",
-    "url": "https://github.com/jaywcjlove/uglify-js-export/commit/83c3162e6d0a0fa7642f9209f0efcba537c4adb7",
-    "created_at": "2024-06-10T10:59:58.000+08:00",
-    "state": "committer",
-    "version": "3.18.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzM3MTM2MjQwOmZjZjI1N2ZkZmRjMDk0NmY5NzQxMTAzNGNhMzdkNGQ3ZTExMWFkNmM=",
-    "type": "commits",
-    "title": "released v2.0.0 #323",
-    "repo": "jaywcjlove/nginx-editor",
-    "sha": "fcf257fdfdc0946f97411034ca37d4d7e111ad6c",
-    "url": "https://github.com/jaywcjlove/nginx-editor/commit/fcf257fdfdc0946f97411034ca37d4d7e111ad6c",
-    "created_at": "2024-06-09T02:53:39.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjYyYTE1ZDIwMTg3ZGM4YmZhZjAwNmJlMGZmOGRmMWY5ZTMwOTI4YWY=",
-    "type": "commits",
-    "title": "released v4.22.2 #650",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "62a15d20187dc8bfaf006be0ff8df1f9e30928af",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/62a15d20187dc8bfaf006be0ff8df1f9e30928af",
-    "created_at": "2024-06-07T11:32:48.000+08:00",
-    "state": "committer",
-    "version": "4.22.2"
   },
   {
     "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjdkY2VlM2NiYTkyZWM0MmFiMjc3MGEzMGQ3YTk0ZTY1OTAwMWJhNTk=",
@@ -2340,7 +2318,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "278"
+    "stars": "279"
   },
   {
     "id": 1838600360,
