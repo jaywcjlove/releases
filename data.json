@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjkzMGE1NDFlZDlmZGE4MmMzNzQ5ODc5MmM5YmFhYTUzYzQyNDBjNDI=",
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjYxMGY4OWQ4MTBjOTg2ODE3NTNiNWZjMTFkOTA0YWI4Y2M2OTBkMmY=",
     "type": "commits",
-    "title": "released v1.37.0",
+    "title": "released v1.38.0",
     "repo": "jaywcjlove/DevHub",
-    "sha": "930a541ed9fda82c37498792c9baaa53c4240c42",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/930a541ed9fda82c37498792c9baaa53c4240c42",
-    "created_at": "2025-04-10T17:28:44.000+08:00",
+    "sha": "610f89d810c98681753b5fc11d904ab8cc690d2f",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/610f89d810c98681753b5fc11d904ab8cc690d2f",
+    "created_at": "2025-04-12T08:30:37.000+08:00",
     "state": "committer",
-    "version": "1.37.0"
+    "version": "1.38.0"
   },
   {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMxZTgyYTY1NDcwZWZmMTQwNjA4NGQyYjMwMjYyN2Y4MDI1NDNjNWI=",
