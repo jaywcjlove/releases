@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 13 Apr 2025 17:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 05:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v1.8.1]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/29d19e4973df62cdbe970eb2f9d08eb10e143234</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjI5ZDE5ZTQ5NzNkZjYyY2RiZTk3MGViMmY5ZDA4ZWIxMGUxNDMyMzQ=</guid>
+            <pubDate>Sun, 13 Apr 2025 22:25:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/29d19e4973df62cdbe970eb2f9d08eb10e143234">released v1.8.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/DevHub released v1.38.0]]></title>
             <link>https://github.com/jaywcjlove/DevHub/commit/610f89d810c98681753b5fc11d904ab8cc690d2f</link>
