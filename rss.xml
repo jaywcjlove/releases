@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 16 Apr 2025 17:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 05:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/file-sentinel released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/file-sentinel/commit/ff209fc08c1fe2616ffc85d5762a9e495ac9e98b</link>
+            <guid>MDY6Q29tbWl0OTY3NDkyNDM0OmZmMjA5ZmMwOGMxZmUyNjE2ZmZjODVkNTc2MmE5ZTQ5NWFjOWU5OGI=</guid>
+            <pubDate>Thu, 17 Apr 2025 01:02:27 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/ff209fc08c1fe2616ffc85d5762a9e495ac9e98b">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.5.0 #172]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/116cdb8d325b88b514e6d6fd1f8bf4aa5392c6ba</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjExNmNkYjhkMzI1Yjg4YjUxNGU2ZDZmZDFmOGJmNGFhNTM5MmM2YmE=</guid>
+            <pubDate>Thu, 17 Apr 2025 00:49:53 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/116cdb8d325b88b514e6d6fd1f8bf4aa5392c6ba">released v2.5.0 #172</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/aa5c5d7d74fd6b2b15423178313950ae0122244b</link>
@@ -1650,14 +1666,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/mocker-api released v2.9.11]]></title>
-            <link>https://github.com/jaywcjlove/mocker-api/commit/fbd527944ec9dca89379788729193277009a9258</link>
-            <guid>MDY6Q29tbWl0MTIwNjQxODIzOmZiZDUyNzk0NGVjOWRjYTg5Mzc5Nzg4NzI5MTkzMjc3MDA5YTkyNTg=</guid>
-            <pubDate>Mon, 24 Jun 2024 12:44:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mocker-api/commit/fbd527944ec9dca89379788729193277009a9258">released v2.9.11</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/tsbb released v4.3.0]]></title>
             <link>https://github.com/jaywcjlove/tsbb/commit/6a5bb333f5c14793e0878c9bf76231a303dfd321</link>
             <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjZhNWJiMzMzZjVjMTQ3OTNlMDg3OGM5YmY3NjIzMWEzMDNkZmQzMjE=</guid>
@@ -1712,14 +1720,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <pubDate>Sun, 23 Jun 2024 15:18:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/dc525789ab3a456bb5bae387a90f815e4a560a30">released v5.1.2</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/nginx-editor released v2.0.1 #329]]></title>
-            <link>https://github.com/jaywcjlove/nginx-editor/commit/f5f2b5817b5e4dc332264493f6b2bbe41d793e58</link>
-            <guid>MDY6Q29tbWl0MzM3MTM2MjQwOmY1ZjJiNTgxN2I1ZTRkYzMzMjI2NDQ5M2Y2YjJiYmU0MWQ3OTNlNTg=</guid>
-            <pubDate>Tue, 11 Jun 2024 08:35:31 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/nginx-editor/commit/f5f2b5817b5e4dc332264493f6b2bbe41d793e58">released v2.0.1 #329</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
