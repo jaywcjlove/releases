@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmM5M2MzZGQwNTZmNDRiODkzOWQ1MTUwMTI0Y2FkMzE5NmU2ZGQ2ODM=",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "c93c3dd056f44b8939d5150124cad3196e6dd683",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/c93c3dd056f44b8939d5150124cad3196e6dd683",
+    "created_at": "2025-04-18T01:22:59.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OmZmMjA5ZmMwOGMxZmUyNjE2ZmZjODVkNTc2MmE5ZTQ5NWFjOWU5OGI=",
     "type": "commits",
     "title": "released v1.0.0",
@@ -2266,17 +2277,6 @@
     "version": "1.4.0"
   },
   {
-    "id": "MDY6Q29tbWl0MjIyNDkyMTUxOjY4NWFjODdkYmY0NjdkYzY1MWRkMjNkOTU2OTEyZDBhNWEyMmM0NjE=",
-    "type": "commits",
-    "title": "released v2.7.2",
-    "repo": "uiwjs/react-baidu-map",
-    "sha": "685ac87dbf467dc651dd23d956912d0a5a22c461",
-    "url": "https://github.com/uiwjs/react-baidu-map/commit/685ac87dbf467dc651dd23d956912d0a5a22c461",
-    "created_at": "2024-06-24T01:40:11.000+08:00",
-    "state": "committer",
-    "version": "2.7.2"
-  },
-  {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0Ojg1ZWJmZWJmM2YxYWE0Y2QzMjU1NmExM2NjMTQ5M2U0M2RkZGZhNjc=",
     "type": "commits",
     "title": "released v6.0.5",
@@ -2362,7 +2362,7 @@
     "created_at": "2022-09-03T15:45:17Z",
     "state": "merged",
     "number": 377,
-    "stars": "1.8K"
+    "stars": "1.9K"
   },
   {
     "id": 1339700525,
@@ -2703,7 +2703,7 @@
     "created_at": "2019-10-02T01:23:23Z",
     "state": "merged",
     "number": 686,
-    "stars": "8.4K"
+    "stars": "8.5K"
   },
   {
     "id": 499275637,
@@ -2714,7 +2714,7 @@
     "created_at": "2019-09-27T07:07:46Z",
     "state": "merged",
     "number": 683,
-    "stars": "8.4K"
+    "stars": "8.5K"
   },
   {
     "id": 497432712,
