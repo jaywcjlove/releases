@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 19 Apr 2025 05:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 17:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/palette-genius released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/palette-genius/commit/19f459dac4ad847b2e9a78c7fe42181ad6bbf722</link>
+            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjE5ZjQ1OWRhYzRhZDg0N2IyZTlhNzhjN2ZlNDIxODFhZDZiYmY3MjI=</guid>
+            <pubDate>Sat, 19 Apr 2025 14:42:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/19f459dac4ad847b2e9a78c7fe42181ad6bbf722">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.9.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/c93c3dd056f44b8939d5150124cad3196e6dd683</link>
@@ -1711,14 +1719,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTc4NTg2NzQ1OjBhMWU4MjIyNTA0NjUzMjgzNjRlY2U3ZTQ5NjY5NzdjNjhmNjc4NDA=</guid>
             <pubDate>Sun, 23 Jun 2024 16:03:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-editor/commit/0a1e822250465328364ece7e4966977c68f67840">released v6.1.2</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-preview released v5.1.2]]></title>
-            <link>https://github.com/uiwjs/react-markdown-preview/commit/dc525789ab3a456bb5bae387a90f815e4a560a30</link>
-            <guid>MDY6Q29tbWl0MjU2NzA0MjkxOmRjNTI1Nzg5YWIzYTQ1NmJiNWJhZTM4N2E5MGY4MTVlNGE1NjBhMzA=</guid>
-            <pubDate>Sun, 23 Jun 2024 15:18:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/dc525789ab3a456bb5bae387a90f815e4a560a30">released v5.1.2</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

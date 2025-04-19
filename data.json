@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjE5ZjQ1OWRhYzRhZDg0N2IyZTlhNzhjN2ZlNDIxODFhZDZiYmY3MjI=",
+    "type": "commits",
+    "title": "released v1.7.0",
+    "repo": "jaywcjlove/palette-genius",
+    "sha": "19f459dac4ad847b2e9a78c7fe42181ad6bbf722",
+    "url": "https://github.com/jaywcjlove/palette-genius/commit/19f459dac4ad847b2e9a78c7fe42181ad6bbf722",
+    "created_at": "2025-04-19T22:42:39.000+08:00",
+    "state": "committer",
+    "version": "1.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmM5M2MzZGQwNTZmNDRiODkzOWQ1MTUwMTI0Y2FkMzE5NmU2ZGQ2ODM=",
     "type": "commits",
     "title": "released v1.9.0",
@@ -2297,17 +2308,6 @@
     "created_at": "2024-06-24T00:03:48.000+08:00",
     "state": "committer",
     "version": "6.1.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjU2NzA0MjkxOmRjNTI1Nzg5YWIzYTQ1NmJiNWJhZTM4N2E5MGY4MTVlNGE1NjBhMzA=",
-    "type": "commits",
-    "title": "released v5.1.2",
-    "repo": "uiwjs/react-markdown-preview",
-    "sha": "dc525789ab3a456bb5bae387a90f815e4a560a30",
-    "url": "https://github.com/uiwjs/react-markdown-preview/commit/dc525789ab3a456bb5bae387a90f815e4a560a30",
-    "created_at": "2024-06-23T23:18:17.000+08:00",
-    "state": "committer",
-    "version": "5.1.2"
   },
   {
     "id": 2188086718,
