@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 20 Apr 2025 17:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 05:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,19 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/palette-genius released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/palette-genius/commit/19f459dac4ad847b2e9a78c7fe42181ad6bbf722</link>
-            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjE5ZjQ1OWRhYzRhZDg0N2IyZTlhNzhjN2ZlNDIxODFhZDZiYmY3MjI=</guid>
-            <pubDate>Sat, 19 Apr 2025 14:42:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/19f459dac4ad847b2e9a78c7fe42181ad6bbf722">released v1.7.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/file-sentinel released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/file-sentinel/commit/33d343265346cc854994c6b083b11b6d732e90e8</link>
+            <guid>MDY6Q29tbWl0OTY3NDkyNDM0OjMzZDM0MzI2NTM0NmNjODU0OTk0YzZiMDgzYjExYjZkNzMyZTkwZTg=</guid>
+            <pubDate>Mon, 21 Apr 2025 04:01:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/33d343265346cc854994c6b083b11b6d732e90e8">released v1.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/palette-genius released v1.8.0]]></title>
+            <link>https://github.com/jaywcjlove/palette-genius/commit/adc05644ce2536513d816a7fc45fa450299549b1</link>
+            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OmFkYzA1NjQ0Y2UyNTM2NTEzZDgxNmE3ZmM0NWZhNDUwMjk5NTQ5YjE=</guid>
+            <pubDate>Mon, 21 Apr 2025 03:59:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/adc05644ce2536513d816a7fc45fa450299549b1">released v1.8.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1674,14 +1682,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/typenexus released v0.5.5]]></title>
-            <link>https://github.com/jaywcjlove/typenexus/commit/7decf6fd06008f2d02c27503adfacff04283603f</link>
-            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OjdkZWNmNmZkMDYwMDhmMmQwMmMyNzUwM2FkZmFjZmYwNDI4MzYwM2Y=</guid>
-            <pubDate>Mon, 24 Jun 2024 13:16:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/7decf6fd06008f2d02c27503adfacff04283603f">released v0.5.5</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/tsbb released v4.3.0]]></title>
             <link>https://github.com/jaywcjlove/tsbb/commit/6a5bb333f5c14793e0878c9bf76231a303dfd321</link>
             <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjZhNWJiMzMzZjVjMTQ3OTNlMDg3OGM5YmY3NjIzMWEzMDNkZmQzMjE=</guid>
@@ -1703,14 +1703,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MjkzMTkzNTQwOmQzODFiOWE1ODU5NDVlNTYzNjViN2Y2ZmMyMWU1NGI0MDI5YjE3NDU=</guid>
             <pubDate>Mon, 24 Jun 2024 07:30:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/bootstrap-icons/commit/d381b9a585945e56365b7f6fc21e54b4029b1745">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v6.0.5]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/85ebfebf3f1aa4cd32556a13cc1493e43dddfa67</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0Ojg1ZWJmZWJmM2YxYWE0Y2QzMjU1NmExM2NjMTQ5M2U0M2RkZGZhNjc=</guid>
-            <pubDate>Sun, 23 Jun 2024 17:38:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/85ebfebf3f1aa4cd32556a13cc1493e43dddfa67">released v6.0.5</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

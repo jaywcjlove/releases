@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjE5ZjQ1OWRhYzRhZDg0N2IyZTlhNzhjN2ZlNDIxODFhZDZiYmY3MjI=",
+    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjMzZDM0MzI2NTM0NmNjODU0OTk0YzZiMDgzYjExYjZkNzMyZTkwZTg=",
     "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "19f459dac4ad847b2e9a78c7fe42181ad6bbf722",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/19f459dac4ad847b2e9a78c7fe42181ad6bbf722",
-    "created_at": "2025-04-19T22:42:39.000+08:00",
+    "title": "released v1.1.0",
+    "repo": "jaywcjlove/file-sentinel",
+    "sha": "33d343265346cc854994c6b083b11b6d732e90e8",
+    "url": "https://github.com/jaywcjlove/file-sentinel/commit/33d343265346cc854994c6b083b11b6d732e90e8",
+    "created_at": "2025-04-21T12:01:44.000+08:00",
     "state": "committer",
-    "version": "1.7.0"
+    "version": "1.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmFkYzA1NjQ0Y2UyNTM2NTEzZDgxNmE3ZmM0NWZhNDUwMjk5NTQ5YjE=",
+    "type": "commits",
+    "title": "released v1.8.0",
+    "repo": "jaywcjlove/palette-genius",
+    "sha": "adc05644ce2536513d816a7fc45fa450299549b1",
+    "url": "https://github.com/jaywcjlove/palette-genius/commit/adc05644ce2536513d816a7fc45fa450299549b1",
+    "created_at": "2025-04-21T11:59:11.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
   },
   {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmM5M2MzZGQwNTZmNDRiODkzOWQ1MTUwMTI0Y2FkMzE5NmU2ZGQ2ODM=",
@@ -2244,17 +2255,6 @@
     "version": "1.44.0"
   },
   {
-    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OjdkZWNmNmZkMDYwMDhmMmQwMmMyNzUwM2FkZmFjZmYwNDI4MzYwM2Y=",
-    "type": "commits",
-    "title": "released v0.5.5",
-    "repo": "jaywcjlove/typenexus",
-    "sha": "7decf6fd06008f2d02c27503adfacff04283603f",
-    "url": "https://github.com/jaywcjlove/typenexus/commit/7decf6fd06008f2d02c27503adfacff04283603f",
-    "created_at": "2024-06-24T21:16:21.000+08:00",
-    "state": "committer",
-    "version": "0.5.5"
-  },
-  {
     "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjZhNWJiMzMzZjVjMTQ3OTNlMDg3OGM5YmY3NjIzMWEzMDNkZmQzMjE=",
     "type": "commits",
     "title": "released v4.3.0",
@@ -2286,17 +2286,6 @@
     "created_at": "2024-06-24T15:30:48.000+08:00",
     "state": "committer",
     "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0Ojg1ZWJmZWJmM2YxYWE0Y2QzMjU1NmExM2NjMTQ5M2U0M2RkZGZhNjc=",
-    "type": "commits",
-    "title": "released v6.0.5",
-    "repo": "uiwjs/react-amap",
-    "sha": "85ebfebf3f1aa4cd32556a13cc1493e43dddfa67",
-    "url": "https://github.com/uiwjs/react-amap/commit/85ebfebf3f1aa4cd32556a13cc1493e43dddfa67",
-    "created_at": "2024-06-24T01:38:03.000+08:00",
-    "state": "committer",
-    "version": "6.0.5"
   },
   {
     "id": "MDY6Q29tbWl0MTc4NTg2NzQ1OjBhMWU4MjIyNTA0NjUzMjgzNjRlY2U3ZTQ5NjY5NzdjNjhmNjc4NDA=",
