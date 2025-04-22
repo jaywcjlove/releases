@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 22 Apr 2025 05:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 17:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v2.2.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/7014d4bbc400b44d120ed0f77876ff9eda76ad55</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjcwMTRkNGJiYzQwMGI0NGQxMjBlZDBmNzc4NzZmZjllZGE3NmFkNTU=</guid>
+            <pubDate>Tue, 22 Apr 2025 10:55:36 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/7014d4bbc400b44d120ed0f77876ff9eda76ad55">released v2.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/file-sentinel released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/file-sentinel/commit/33d343265346cc854994c6b083b11b6d732e90e8</link>
@@ -1658,14 +1666,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/rehype-video released v2.2.0 #17]]></title>
-            <link>https://github.com/jaywcjlove/rehype-video/commit/910f1261cfecec4d94c9a1d813c4b81284dd61c6</link>
-            <guid>MDY6Q29tbWl0NDE5NzQ4Njg4OjkxMGYxMjYxY2ZlY2VjNGQ5NGM5YTFkODEzYzRiODEyODRkZDYxYzY=</guid>
-            <pubDate>Mon, 01 Jul 2024 17:07:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-video/commit/910f1261cfecec4d94c9a1d813c4b81284dd61c6">released v2.2.0 #17</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/html-to-markdown-cli released v2.1.1 #21]]></title>
             <link>https://github.com/jaywcjlove/html-to-markdown-cli/commit/32f0128df6b046b94f4e006337cb8ae0a729f6ff</link>
             <guid>MDY6Q29tbWl0NDg1MjIwMjc3OjMyZjAxMjhkZjZiMDQ2Yjk0ZjRlMDA2MzM3Y2I4YWUwYTcyOWY2ZmY=</guid>
@@ -1695,22 +1695,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
             <guid>MDY6Q29tbWl0MTY1NjkzMzA0OmY3YTlhOTE2ZTc1NWUwMWFmOGE3NTA0YmM5OGU0ZmEzNzIwZjIzMDM=</guid>
             <pubDate>Mon, 24 Jun 2024 08:27:37 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/f7a9a916e755e01af8a7504bc98e4fa3720f2303">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/bootstrap-icons released v1.4.0]]></title>
-            <link>https://github.com/uiwjs/bootstrap-icons/commit/d381b9a585945e56365b7f6fc21e54b4029b1745</link>
-            <guid>MDY6Q29tbWl0MjkzMTkzNTQwOmQzODFiOWE1ODU5NDVlNTYzNjViN2Y2ZmMyMWU1NGI0MDI5YjE3NDU=</guid>
-            <pubDate>Mon, 24 Jun 2024 07:30:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/bootstrap-icons/commit/d381b9a585945e56365b7f6fc21e54b4029b1745">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-editor released v6.1.2]]></title>
-            <link>https://github.com/uiwjs/react-markdown-editor/commit/0a1e822250465328364ece7e4966977c68f67840</link>
-            <guid>MDY6Q29tbWl0MTc4NTg2NzQ1OjBhMWU4MjIyNTA0NjUzMjgzNjRlY2U3ZTQ5NjY5NzdjNjhmNjc4NDA=</guid>
-            <pubDate>Sun, 23 Jun 2024 16:03:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-editor/commit/0a1e822250465328364ece7e4966977c68f67840">released v6.1.2</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjcwMTRkNGJiYzQwMGI0NGQxMjBlZDBmNzc4NzZmZjllZGE3NmFkNTU=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "7014d4bbc400b44d120ed0f77876ff9eda76ad55",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/7014d4bbc400b44d120ed0f77876ff9eda76ad55",
+    "created_at": "2025-04-22T18:55:36.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjMzZDM0MzI2NTM0NmNjODU0OTk0YzZiMDgzYjExYjZkNzMyZTkwZTg=",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2222,17 +2233,6 @@
     "version": "7.0.1"
   },
   {
-    "id": "MDY6Q29tbWl0NDE5NzQ4Njg4OjkxMGYxMjYxY2ZlY2VjNGQ5NGM5YTFkODEzYzRiODEyODRkZDYxYzY=",
-    "type": "commits",
-    "title": "released v2.2.0 #17",
-    "repo": "jaywcjlove/rehype-video",
-    "sha": "910f1261cfecec4d94c9a1d813c4b81284dd61c6",
-    "url": "https://github.com/jaywcjlove/rehype-video/commit/910f1261cfecec4d94c9a1d813c4b81284dd61c6",
-    "created_at": "2024-07-02T01:07:23.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NDg1MjIwMjc3OjMyZjAxMjhkZjZiMDQ2Yjk0ZjRlMDA2MzM3Y2I4YWUwYTcyOWY2ZmY=",
     "type": "commits",
     "title": "released v2.1.1 #21",
@@ -2275,28 +2275,6 @@
     "created_at": "2024-06-24T16:27:37.000+08:00",
     "state": "committer",
     "version": "1.8.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjkzMTkzNTQwOmQzODFiOWE1ODU5NDVlNTYzNjViN2Y2ZmMyMWU1NGI0MDI5YjE3NDU=",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "uiwjs/bootstrap-icons",
-    "sha": "d381b9a585945e56365b7f6fc21e54b4029b1745",
-    "url": "https://github.com/uiwjs/bootstrap-icons/commit/d381b9a585945e56365b7f6fc21e54b4029b1745",
-    "created_at": "2024-06-24T15:30:48.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTc4NTg2NzQ1OjBhMWU4MjIyNTA0NjUzMjgzNjRlY2U3ZTQ5NjY5NzdjNjhmNjc4NDA=",
-    "type": "commits",
-    "title": "released v6.1.2",
-    "repo": "uiwjs/react-markdown-editor",
-    "sha": "0a1e822250465328364ece7e4966977c68f67840",
-    "url": "https://github.com/uiwjs/react-markdown-editor/commit/0a1e822250465328364ece7e4966977c68f67840",
-    "created_at": "2024-06-24T00:03:48.000+08:00",
-    "state": "committer",
-    "version": "6.1.2"
   },
   {
     "id": 2188086718,
@@ -2637,7 +2615,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "357"
+    "stars": "358"
   },
   {
     "id": 571407407,
