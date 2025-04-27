@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 27 Apr 2025 05:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 17:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.5.1 #173]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjFiNTBlYmU4YTc5Mzk1NDVjZjkwMjUzYWYxYWUyN2Q5ZWNkZjgyOWQ=</guid>
+            <pubDate>Sun, 27 Apr 2025 12:01:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d">released v2.5.1 #173</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-codemirror released v4.23.11 (#729)]]></title>
             <link>https://github.com/uiwjs/react-codemirror/commit/fe8e356088dca301762812abfe7ffb6027e2b8bb</link>
@@ -1256,37 +1264,11 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/linux-command chore(deps-dev): bump sqlite3 from 5.0.8 to 5.1.5 (#528)
-
-Bumps [sqlite3](https://github.com/TryGhost/node-sqlite3) from 5.0.8 to 5.1.5.
-- [Release notes](https://github.com/TryGhost/node-sqlite3/releases)
-- [Commits](https://github.com/TryGhost/node-sqlite3/compare/v5.0.8...v5.1.5)
-
----
-updated-dependencies:
-- dependency-name: sqlite3
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>]]></title>
-            <link>https://github.com/jaywcjlove/linux-command/commit/0f186819584d47074b67d3981a118c76aaddbdf0</link>
-            <guid>MDY6Q29tbWl0NzM1NjE2NTA6MGYxODY4MTk1ODRkNDcwNzRiNjdkMzk4MWExMThjNzZhYWRkYmRmMA==</guid>
-            <pubDate>Tue, 03 Sep 2024 07:24:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/0f186819584d47074b67d3981a118c76aaddbdf0">chore(deps-dev): bump sqlite3 from 5.0.8 to 5.1.5 (#528)
-
-Bumps [sqlite3](https://github.com/TryGhost/node-sqlite3) from 5.0.8 to 5.1.5.
-- [Release notes](https://github.com/TryGhost/node-sqlite3/releases)
-- [Commits](https://github.com/TryGhost/node-sqlite3/compare/v5.0.8...v5.1.5)
-
----
-updated-dependencies:
-- dependency-name: sqlite3
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com></a>]]></description>
+            <title><![CDATA[jaywcjlove/linux-command released v1.19.1 #601]]></title>
+            <link>https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242</link>
+            <guid>MDY6Q29tbWl0NzM1NjE2NTA6M2M2ZjYxNmM1ZmZkNzRhNWE3NGVmMjU3MzNkYTMwMGQ5ZGViNjI0Mg==</guid>
+            <pubDate>Tue, 03 Sep 2024 07:22:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242">released v1.19.1 #601</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

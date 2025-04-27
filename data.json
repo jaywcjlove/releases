@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjFiNTBlYmU4YTc5Mzk1NDVjZjkwMjUzYWYxYWUyN2Q5ZWNkZjgyOWQ=",
+    "type": "commits",
+    "title": "released v2.5.1 #173",
+    "repo": "uiwjs/react-color",
+    "sha": "1b50ebe8a7939545cf90253af1ae27d9ecdf829d",
+    "url": "https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d",
+    "created_at": "2025-04-27T20:01:02.000+08:00",
+    "state": "committer",
+    "version": "2.5.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmZlOGUzNTYwODhkY2EzMDE3NjI4MTJhYmZlN2ZmYjYwMjdlMmI4YmI=",
     "type": "commits",
     "title": "released v4.23.11 (#729)",
@@ -1705,15 +1716,15 @@
     "version": "2.3.0"
   },
   {
-    "id": "MDY6Q29tbWl0NzM1NjE2NTA6MGYxODY4MTk1ODRkNDcwNzRiNjdkMzk4MWExMThjNzZhYWRkYmRmMA==",
+    "id": "MDY6Q29tbWl0NzM1NjE2NTA6M2M2ZjYxNmM1ZmZkNzRhNWE3NGVmMjU3MzNkYTMwMGQ5ZGViNjI0Mg==",
     "type": "commits",
-    "title": "chore(deps-dev): bump sqlite3 from 5.0.8 to 5.1.5 (#528)\n\nBumps [sqlite3](https://github.com/TryGhost/node-sqlite3) from 5.0.8 to 5.1.5.\r\n- [Release notes](https://github.com/TryGhost/node-sqlite3/releases)\r\n- [Commits](https://github.com/TryGhost/node-sqlite3/compare/v5.0.8...v5.1.5)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: sqlite3\r\n  dependency-type: direct:development\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "title": "released v1.19.1 #601",
     "repo": "jaywcjlove/linux-command",
-    "sha": "0f186819584d47074b67d3981a118c76aaddbdf0",
-    "url": "https://github.com/jaywcjlove/linux-command/commit/0f186819584d47074b67d3981a118c76aaddbdf0",
-    "created_at": "2024-09-03T15:24:22.000+08:00",
+    "sha": "3c6f616c5ffd74a5a74ef25733da300d9deb6242",
+    "url": "https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242",
+    "created_at": "2024-09-03T15:22:47.000+08:00",
     "state": "committer",
-    "version": "5.0.8"
+    "version": "1.19.1"
   },
   {
     "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjVhM2E0NDk3NTQzZmM4YjY1NzJmNmI0NTlkYmU2YmFiZDRkZmEyNTE=",
@@ -2362,7 +2373,7 @@
     "created_at": "2022-03-05T15:26:27Z",
     "state": "merged",
     "number": 1032,
-    "stars": "6.1K"
+    "stars": "6.2K"
   },
   {
     "id": 1158028063,
