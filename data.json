@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTczMzQxMDA3OjU5OGQ0ZjFiMjkxOTYxNjZjMWUwMDU5OGRjNjRmYzhhNmVmYjk1ZDU=",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/audioer",
+    "sha": "598d4f1b29196166c1e00598dc64fc8a6efb95d5",
+    "url": "https://github.com/jaywcjlove/audioer/commit/598d4f1b29196166c1e00598dc64fc8a6efb95d5",
+    "created_at": "2025-04-28T15:21:37.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjM0YmViNmY1ODYzNzk1OGIxMjQ0ZTEwZjRjOTFkNmJlMTBkYWVkMWE=",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/videoer",
+    "sha": "34beb6f58637958b1244e10f4c91d6be10daed1a",
+    "url": "https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a",
+    "created_at": "2025-04-28T14:45:16.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjFiNTBlYmU4YTc5Mzk1NDVjZjkwMjUzYWYxYWUyN2Q5ZWNkZjgyOWQ=",
     "type": "commits",
     "title": "released v2.5.1 #173",
@@ -2264,28 +2286,6 @@
     "created_at": "2024-07-03T21:29:18.000+08:00",
     "state": "committer",
     "version": "7.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OjIyOTE5M2E1ODQ3YjY3MTI5MWM1NDRjZDRhOGE2MGJiOWFlMTVkZTU=",
-    "type": "commits",
-    "title": "released v1.44.0",
-    "repo": "jaywcjlove/reference",
-    "sha": "229193a5847b671291c544cd4a8a60bb9ae15de5",
-    "url": "https://github.com/jaywcjlove/reference/commit/229193a5847b671291c544cd4a8a60bb9ae15de5",
-    "created_at": "2024-06-25T23:49:41.000+08:00",
-    "state": "committer",
-    "version": "1.44.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjZhNWJiMzMzZjVjMTQ3OTNlMDg3OGM5YmY3NjIzMWEzMDNkZmQzMjE=",
-    "type": "commits",
-    "title": "released v4.3.0",
-    "repo": "jaywcjlove/tsbb",
-    "sha": "6a5bb333f5c14793e0878c9bf76231a303dfd321",
-    "url": "https://github.com/jaywcjlove/tsbb/commit/6a5bb333f5c14793e0878c9bf76231a303dfd321",
-    "created_at": "2024-06-24T19:58:32.000+08:00",
-    "state": "committer",
-    "version": "4.3.0"
   },
   {
     "id": 2188086718,

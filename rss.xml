@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 28 Apr 2025 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 17:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/598d4f1b29196166c1e00598dc64fc8a6efb95d5</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3OjU5OGQ0ZjFiMjkxOTYxNjZjMWUwMDU5OGRjNjRmYzhhNmVmYjk1ZDU=</guid>
+            <pubDate>Mon, 28 Apr 2025 07:21:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/598d4f1b29196166c1e00598dc64fc8a6efb95d5">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/videoer released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a</link>
+            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjM0YmViNmY1ODYzNzk1OGIxMjQ0ZTEwZjRjOTFkNmJlMTBkYWVkMWE=</guid>
+            <pubDate>Mon, 28 Apr 2025 06:45:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a">released v1.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-color released v2.5.1 #173]]></title>
             <link>https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d</link>
@@ -1662,22 +1678,6 @@
             <pubDate>Wed, 03 Jul 2024 13:29:18 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/954666c4c175bf242a3d46b7a62103a9d4fdd6dd">released v7.0.1 #367</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/reference released v1.44.0]]></title>
-            <link>https://github.com/jaywcjlove/reference/commit/229193a5847b671291c544cd4a8a60bb9ae15de5</link>
-            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjIyOTE5M2E1ODQ3YjY3MTI5MWM1NDRjZDRhOGE2MGJiOWFlMTVkZTU=</guid>
-            <pubDate>Tue, 25 Jun 2024 15:49:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/229193a5847b671291c544cd4a8a60bb9ae15de5">released v1.44.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/tsbb released v4.3.0]]></title>
-            <link>https://github.com/jaywcjlove/tsbb/commit/6a5bb333f5c14793e0878c9bf76231a303dfd321</link>
-            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjZhNWJiMzMzZjVjMTQ3OTNlMDg3OGM5YmY3NjIzMWEzMDNkZmQzMjE=</guid>
-            <pubDate>Mon, 24 Jun 2024 11:58:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/6a5bb333f5c14793e0878c9bf76231a303dfd321">released v4.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
