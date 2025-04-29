@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjMyNGE3NjYxYzYxYWYyMGEyZGY1ODY4Y2M0MDk4Y2MyZTQyOGEzODg=",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/iconed",
+    "sha": "324a7661c61af20a2df5868cc4098cc2e428a388",
+    "url": "https://github.com/jaywcjlove/iconed/commit/324a7661c61af20a2df5868cc4098cc2e428a388",
+    "created_at": "2025-04-29T12:33:03.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTczMzQxMDA3OjU5OGQ0ZjFiMjkxOTYxNjZjMWUwMDU5OGRjNjRmYzhhNmVmYjk1ZDU=",
     "type": "commits",
     "title": "released v1.0.0",
