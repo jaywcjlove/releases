@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 29 Apr 2025 05:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 17:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.6.1]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjU0MmVlOTY3NTk0ZDY4ZGQzODg2NjkwMzUzOWFmNzVlMTRkNjdiMTY=</guid>
+            <pubDate>Tue, 29 Apr 2025 13:35:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16">released v1.6.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/97e8652100a94fd8b3894c2a6d613c6056a6ead4</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3Ojk3ZTg2NTIxMDBhOTRmZDhiMzg5NGMyYTZkNjEzYzYwNTZhNmVhZDQ=</guid>
+            <pubDate>Tue, 29 Apr 2025 12:56:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/97e8652100a94fd8b3894c2a6d613c6056a6ead4">released v1.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.5.2  #174]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/af6fe7322f31028a042750a69db7a13af45c392a</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmFmNmZlNzMyMmYzMTAyOGEwNDI3NTBhNjlkYjdhMTNhZjQ1YzM5MmE=</guid>
+            <pubDate>Tue, 29 Apr 2025 12:30:32 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/af6fe7322f31028a042750a69db7a13af45c392a">released v2.5.2  #174</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.6.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/324a7661c61af20a2df5868cc4098cc2e428a388</link>
@@ -1632,14 +1656,6 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.25 #52]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/a103b43a51c2aa7240de297b1c93a95c9360f227</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmExMDNiNDNhNTFjMmFhNzI0MGRlMjk3YjFjOTNhOTVjOTM2MGYyMjc=</guid>
-            <pubDate>Sun, 14 Jul 2024 13:10:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/a103b43a51c2aa7240de297b1c93a95c9360f227">released v2.0.0-alpha.25 #52</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.0 #369]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/d74ed3b3fa9631777a727c833e0de3bf3b0476db</link>
             <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmQ3NGVkM2IzZmE5NjMxNzc3YTcyN2M4MzNlMGRlM2JmM2IwNDc2ZGI=</guid>
@@ -1662,30 +1678,6 @@
             <pubDate>Sun, 07 Jul 2024 06:32:39 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/bbc043b376e9ae88c30dd92b28bcb5172df28e09">released v1.3.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v7.0.2 #367]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/3ccd98c201fcd33229a833520cab772f67132168</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjNjY2Q5OGMyMDFmY2QzMzIyOWE4MzM1MjBjYWI3NzJmNjcxMzIxNjg=</guid>
-            <pubDate>Thu, 04 Jul 2024 18:11:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/3ccd98c201fcd33229a833520cab772f67132168">released v7.0.2 #367</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.23.0 #670]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/7019fb732221c26cd7aa9299cf9a9351a0be6552</link>
-            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjcwMTlmYjczMjIyMWMyNmNkN2FhOTI5OWNmOWE5MzUxYTBiZTY1NTI=</guid>
-            <pubDate>Thu, 04 Jul 2024 04:21:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/7019fb732221c26cd7aa9299cf9a9351a0be6552">released v4.23.0 #670</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v7.0.1 #367]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/954666c4c175bf242a3d46b7a62103a9d4fdd6dd</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0Ojk1NDY2NmM0YzE3NWJmMjQyYTNkNDZiN2E2MjEwM2E5ZDRmZGQ2ZGQ=</guid>
-            <pubDate>Wed, 03 Jul 2024 13:29:18 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/954666c4c175bf242a3d46b7a62103a9d4fdd6dd">released v7.0.1 #367</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
