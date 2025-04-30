@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjM3Mzg1NjQ0MDNhMWEzN2NlNDI4NmMxNDg2MjI5ZWVmMjQ2ZGE2MGM=",
+    "type": "commits",
+    "title": "released v2.0.0-alpha.31 #69",
+    "repo": "uiwjs/react-json-view",
+    "sha": "3738564403a1a37ce4286c1486229eef246da60c",
+    "url": "https://github.com/uiwjs/react-json-view/commit/3738564403a1a37ce4286c1486229eef246da60c",
+    "created_at": "2025-04-30T02:36:01.000+08:00",
+    "state": "committer",
+    "version": "2.0.0-alpha.31"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjU0MmVlOTY3NTk0ZDY4ZGQzODg2NjkwMzUzOWFmNzVlMTRkNjdiMTY=",
     "type": "commits",
     "title": "released v1.6.1",

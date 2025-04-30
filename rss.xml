@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 29 Apr 2025 17:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 05:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.31 #69]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/3738564403a1a37ce4286c1486229eef246da60c</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjM3Mzg1NjQ0MDNhMWEzN2NlNDI4NmMxNDg2MjI5ZWVmMjQ2ZGE2MGM=</guid>
+            <pubDate>Tue, 29 Apr 2025 18:36:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/3738564403a1a37ce4286c1486229eef246da60c">released v2.0.0-alpha.31 #69</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.6.1]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16</link>
