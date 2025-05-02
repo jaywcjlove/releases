@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmQ0YzAzZTI5YzA0MDczY2E2YjVlOWQ5ZWVlOWZjZTgxYjgzYzAzODM=",
+    "type": "commits",
+    "title": "released v1.22.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "d4c03e29c04073ca6b5e9d9eee9fce81b83c0383",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/d4c03e29c04073ca6b5e9d9eee9fce81b83c0383",
+    "created_at": "2025-05-02T17:38:35.000+08:00",
+    "state": "committer",
+    "version": "1.22.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MjIzNjk1MDg4OjI1NmIxZDUyNzg5MDdiNmI3N2NkYmVkNDYxZjFjY2EyYTA2M2UwMGM=",
+    "type": "commits",
+    "title": "released v2.0.2",
+    "repo": "uiwjs/react-shields",
+    "sha": "256b1d5278907b6b77cdbed461f1cca2a063e00c",
+    "url": "https://github.com/uiwjs/react-shields/commit/256b1d5278907b6b77cdbed461f1cca2a063e00c",
+    "created_at": "2025-05-02T15:38:32.000+08:00",
+    "state": "committer",
+    "version": "2.0.2"
+  },
+  {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOmI1NWI4YTIwZjAzMjE3MjhiNGIwNWMzMjFmNmQ1OTgyMjJjNDA1NTY=",
     "type": "commits",
     "title": "released v2.3.3",

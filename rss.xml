@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 02 May 2025 05:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 17:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/devtutor released v1.22.0]]></title>
+            <link>https://github.com/jaywcjlove/devtutor/commit/d4c03e29c04073ca6b5e9d9eee9fce81b83c0383</link>
+            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmQ0YzAzZTI5YzA0MDczY2E2YjVlOWQ5ZWVlOWZjZTgxYjgzYzAzODM=</guid>
+            <pubDate>Fri, 02 May 2025 09:38:35 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/d4c03e29c04073ca6b5e9d9eee9fce81b83c0383">released v1.22.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-shields released v2.0.2]]></title>
+            <link>https://github.com/uiwjs/react-shields/commit/256b1d5278907b6b77cdbed461f1cca2a063e00c</link>
+            <guid>MDY6Q29tbWl0MjIzNjk1MDg4OjI1NmIxZDUyNzg5MDdiNmI3N2NkYmVkNDYxZjFjY2EyYTA2M2UwMGM=</guid>
+            <pubDate>Fri, 02 May 2025 07:38:32 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-shields/commit/256b1d5278907b6b77cdbed461f1cca2a063e00c">released v2.0.2</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-heat-map released v2.3.3]]></title>
             <link>https://github.com/uiwjs/react-heat-map/commit/b55b8a20f0321728b4b05c321f6d598222c40556</link>
