@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOjRkYjY2ZjZlMzVlYzM1NWRhOWRmYzVlZjQ4MTVmNTM0YTRjYWExYjc=",
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjlmMmFlNDUyYWIxYTFhMWM0NzI3NjJlNWRhYWVhNjFhYTAyOTc0MzY=",
     "type": "commits",
-    "title": "released v2.2.4",
-    "repo": "jaywcjlove/changelog-generator",
-    "sha": "4db66f6e35ec355da9dfc5ef4815f534a4caa1b7",
-    "url": "https://github.com/jaywcjlove/changelog-generator/commit/4db66f6e35ec355da9dfc5ef4815f534a4caa1b7",
-    "created_at": "2025-05-04T13:05:16.000+08:00",
+    "title": "released v2.3.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "9f2ae452ab1a1a1c472762e5daaea61aa0297436",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/9f2ae452ab1a1a1c472762e5daaea61aa0297436",
+    "created_at": "2025-05-04T14:40:51.000+08:00",
     "state": "committer",
-    "version": "2.2.4"
+    "version": "2.3.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOjg2MDQ5MjkzZGRkMTRkYTA5MzM0MzY4ZDUyZmRiZDNiN2M4OTRlMmU=",
+    "type": "commits",
+    "title": "released v2.2.5",
+    "repo": "jaywcjlove/changelog-generator",
+    "sha": "86049293ddd14da09334368d52fdbd3b7c894e2e",
+    "url": "https://github.com/jaywcjlove/changelog-generator/commit/86049293ddd14da09334368d52fdbd3b7c894e2e",
+    "created_at": "2025-05-04T13:37:33.000+08:00",
+    "state": "committer",
+    "version": "2.2.5"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOmFiNTgxNDA5MWRjZjI4NDVkMmU0NWVmNjE3ZmQyY2JmY2RhMDBmZTI=",
@@ -2407,17 +2418,6 @@
     "created_at": "2024-07-28T21:00:37.000+08:00",
     "state": "committer",
     "version": "1.1.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODM0MzYxMzIxOmJlM2JlOTUyN2NiYzMxYTA3MzZiNzhlYTZjMzA4MGI1YzIwMTM1Yzg=",
-    "type": "commits",
-    "title": "released v0.1.4",
-    "repo": "jaywcjlove/sgo-rs",
-    "sha": "be3be9527cbc31a0736b78ea6c3080b5c20135c8",
-    "url": "https://github.com/jaywcjlove/sgo-rs/commit/be3be9527cbc31a0736b78ea6c3080b5c20135c8",
-    "created_at": "2024-07-28T18:25:03.000+08:00",
-    "state": "committer",
-    "version": "0.1.4"
   },
   {
     "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjY1ZWJmOWQ5MzAyOTk0ZmMxNzQ4MWM3MTI5M2JiYzk3ZDk0YmY4ZTc=",
