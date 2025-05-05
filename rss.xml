@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 04 May 2025 17:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 05:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,38 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/code-image released v1.0.8]]></title>
+            <link>https://github.com/jaywcjlove/code-image/commit/5d3b854b1e6a2de574802eed2f7d33396793392f</link>
+            <guid>MDY6Q29tbWl0NTMzODIxMjc2OjVkM2I4NTRiMWU2YTJkZTU3NDgwMmVlZDJmN2QzMzM5Njc5MzM5MmY=</guid>
+            <pubDate>Mon, 05 May 2025 05:05:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/code-image/commit/5d3b854b1e6a2de574802eed2f7d33396793392f">released v1.0.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/tsbb released v4.5.5]]></title>
+            <link>https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914</link>
+            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=</guid>
+            <pubDate>Mon, 05 May 2025 04:41:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914">released v4.5.5</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/babel-plugin-add-import-extension released v1.0.3]]></title>
+            <link>https://github.com/uiwjs/babel-plugin-add-import-extension/commit/81d2b397fce3cbfa616a62032dd2345fd559727e</link>
+            <guid>MDY6Q29tbWl0OTc1ODc4MTk0OjgxZDJiMzk3ZmNlM2NiZmE2MTZhNjIwMzJkZDIzNDVmZDU1OTcyN2U=</guid>
+            <pubDate>Mon, 05 May 2025 04:26:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/babel-plugin-add-import-extension/commit/81d2b397fce3cbfa616a62032dd2345fd559727e">released v1.0.3</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/tsbb released v4.5.3]]></title>
+            <link>https://github.com/jaywcjlove/tsbb/commit/07d654ab51914824e8e7cc7b230da5c64634711c</link>
+            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjA3ZDY1NGFiNTE5MTQ4MjRlOGU3Y2M3YjIzMGRhNWM2NDYzNDcxMWM=</guid>
+            <pubDate>Mon, 05 May 2025 04:08:18 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/07d654ab51914824e8e7cc7b230da5c64634711c">released v4.5.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v2.3.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/9f2ae452ab1a1a1c472762e5daaea61aa0297436</link>
@@ -1747,14 +1779,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0ODM0OTAyNDQxOmJhNTNkNjhlNTkxMjAwNzIxOTg3MjAxNWE4ZjBmZDUwY2UwYjBkNzE=</guid>
             <pubDate>Sun, 28 Jul 2024 19:53:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-upload-assets/commit/ba53d68e5912007219872015a8f0fd50ce0b0d71">released v1.1.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/sgo-rs released v0.1.8]]></title>
-            <link>https://github.com/jaywcjlove/sgo-rs/commit/0fa29d4dc6b108f9cf3eb00a71da712aa5349ceb</link>
-            <guid>MDY6Q29tbWl0ODM0MzYxMzIxOjBmYTI5ZDRkYzZiMTA4ZjljZjNlYjAwYTcxZGE3MTJhYTUzNDljZWI=</guid>
-            <pubDate>Sun, 28 Jul 2024 15:15:49 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/sgo-rs/commit/0fa29d4dc6b108f9cf3eb00a71da712aa5349ceb">released v0.1.8</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
