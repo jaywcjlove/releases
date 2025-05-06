@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 05 May 2025 17:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 05:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.5.4 #176]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/d5e85776293471112175e11773d3a82521d869bf</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmQ1ZTg1Nzc2MjkzNDcxMTEyMTc1ZTExNzczZDNhODI1MjFkODY5YmY=</guid>
+            <pubDate>Mon, 05 May 2025 18:58:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/d5e85776293471112175e11773d3a82521d869bf">released v2.5.4 #176</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/code-image released v1.0.8]]></title>
             <link>https://github.com/jaywcjlove/code-image/commit/5d3b854b1e6a2de574802eed2f7d33396793392f</link>
@@ -1811,14 +1819,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjY1ZWJmOWQ5MzAyOTk0ZmMxNzQ4MWM3MTI5M2JiYzk3ZDk0YmY4ZTc=</guid>
             <pubDate>Sat, 27 Jul 2024 16:51:49 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/65ebf9d9302994fc17481c71293bbc97d94bf8e7">released v2.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/pinyin-font released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/pinyin-font/commit/ff873e0086c898e670976f5d1e4814d0e02da431</link>
-            <guid>MDY6Q29tbWl0ODMyNTc3NjEwOmZmODczZTAwODZjODk4ZTY3MDk3NmY1ZDFlNDgxNGQwZTAyZGE0MzE=</guid>
-            <pubDate>Thu, 25 Jul 2024 07:26:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/ff873e0086c898e670976f5d1e4814d0e02da431">released v1.8.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

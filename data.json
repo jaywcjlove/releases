@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmQ1ZTg1Nzc2MjkzNDcxMTEyMTc1ZTExNzczZDNhODI1MjFkODY5YmY=",
+    "type": "commits",
+    "title": "released v2.5.4 #176",
+    "repo": "uiwjs/react-color",
+    "sha": "d5e85776293471112175e11773d3a82521d869bf",
+    "url": "https://github.com/uiwjs/react-color/commit/d5e85776293471112175e11773d3a82521d869bf",
+    "created_at": "2025-05-06T02:58:40.000+08:00",
+    "state": "committer",
+    "version": "2.5.4"
+  },
+  {
     "id": "MDY6Q29tbWl0NTMzODIxMjc2OjVkM2I4NTRiMWU2YTJkZTU3NDgwMmVlZDJmN2QzMzM5Njc5MzM5MmY=",
     "type": "commits",
     "title": "released v1.0.8",
@@ -2462,17 +2473,6 @@
     "created_at": "2024-07-28T00:51:49.000+08:00",
     "state": "committer",
     "version": "2.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODMyNTc3NjEwOmZmODczZTAwODZjODk4ZTY3MDk3NmY1ZDFlNDgxNGQwZTAyZGE0MzE=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/pinyin-font",
-    "sha": "ff873e0086c898e670976f5d1e4814d0e02da431",
-    "url": "https://github.com/jaywcjlove/pinyin-font/commit/ff873e0086c898e670976f5d1e4814d0e02da431",
-    "created_at": "2024-07-25T15:26:45.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
   },
   {
     "id": 2188086718,
