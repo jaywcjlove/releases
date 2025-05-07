@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 07 May 2025 05:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 17:36:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.10 fix #512]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/f7d2f99c15c8064e881122dff2945997b7b8ae20</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ZjdkMmY5OWMxNWM4MDY0ZTg4MTEyMmRmZjI5NDU5OTdiN2I4YWUyMA==</guid>
+            <pubDate>Wed, 07 May 2025 15:41:56 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/f7d2f99c15c8064e881122dff2945997b7b8ae20">released v3.13.10 fix #512</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-color released v2.5.4 #176]]></title>
             <link>https://github.com/uiwjs/react-color/commit/d5e85776293471112175e11773d3a82521d869bf</link>
