@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjlmYzU5OWIzNTU5N2RiYzU1ZmMzOTk0OTI2MTIzZWJhYTM2MmFjNDQ=",
+    "type": "commits",
+    "title": "released v1.8.3",
+    "repo": "jaywcjlove/refs-cli",
+    "sha": "9fc599b35597dbc55fc3994926123ebaa362ac44",
+    "url": "https://github.com/jaywcjlove/refs-cli/commit/9fc599b35597dbc55fc3994926123ebaa362ac44",
+    "created_at": "2025-05-12T01:29:18.000+08:00",
+    "state": "committer",
+    "version": "1.8.3"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjllYWMwMTRiM2RjOWJjNWE5NmMxOTE4MzI1ZGQ2YmVhMmUyNjhmZjA=",
     "type": "commits",
     "title": "released v1.0.0",
@@ -2497,17 +2508,6 @@
     "version": "2.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0ODMyNTc3NjEwOmZmODczZTAwODZjODk4ZTY3MDk3NmY1ZDFlNDgxNGQwZTAyZGE0MzE=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/pinyin-font",
-    "sha": "ff873e0086c898e670976f5d1e4814d0e02da431",
-    "url": "https://github.com/jaywcjlove/pinyin-font/commit/ff873e0086c898e670976f5d1e4814d0e02da431",
-    "created_at": "2024-07-25T15:26:45.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -2527,7 +2527,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "285"
+    "stars": "286"
   },
   {
     "id": 1838600360,
