@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjM0NjVkZmUwODE3MmJjNjczZWYwODM0MDlhNWFmNmY1MzA2ZWEzOWU=",
+    "type": "commits",
+    "title": "released v1.1.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "3465dfe08172bc673ef083409a5af6f5306ea39e",
+    "url": "https://github.com/jaywcjlove/musicer/commit/3465dfe08172bc673ef083409a5af6f5306ea39e",
+    "created_at": "2025-05-12T11:22:14.000+08:00",
+    "state": "committer",
+    "version": "1.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjlmYzU5OWIzNTU5N2RiYzU1ZmMzOTk0OTI2MTIzZWJhYTM2MmFjNDQ=",
     "type": "commits",
     "title": "released v1.8.3",
