@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTU3ODE0NjM0OmJlM2NmMWZhMGI4NjRmZGIxZmYwNjU2OTJjOTFhYWI2OTAxMTJjY2I=",
+    "type": "commits",
+    "title": "released v2.0.4",
+    "repo": "jaywcjlove/github-action-modify-file-content",
+    "sha": "be3cf1fa0b864fdb1ff065692c91aab690112ccb",
+    "url": "https://github.com/jaywcjlove/github-action-modify-file-content/commit/be3cf1fa0b864fdb1ff065692c91aab690112ccb",
+    "created_at": "2025-05-13T01:11:41.000+08:00",
+    "state": "committer",
+    "version": "2.0.4"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjM0NjVkZmUwODE3MmJjNjczZWYwODM0MDlhNWFmNmY1MzA2ZWEzOWU=",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2527,7 +2538,7 @@
     "created_at": "2024-03-15T09:30:21Z",
     "state": "merged",
     "number": 1298,
-    "stars": "8.1K"
+    "stars": "8.2K"
   },
   {
     "id": 1899215297,
