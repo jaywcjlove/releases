@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 16 May 2025 05:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 17:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.5.5 fix #178 #179]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/55f98f40ee5e1f3710d75ac8d335b58c0e91dfc1</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjU1Zjk4ZjQwZWU1ZTFmMzcxMGQ3NWFjOGQzMzViNThjMGU5MWRmYzE=</guid>
+            <pubDate>Fri, 16 May 2025 09:47:36 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/55f98f40ee5e1f3710d75ac8d335b58c0e91dfc1">released v2.5.5 fix #178 #179</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/7b0be3999801f71c434a2ed98b57b8cb044e53c5</link>
