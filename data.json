@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjQ2ZDQ4NTNlMDk4Y2E3MGM4NGE4NzkyNThhYTA1NzYyOWMxMDhlMWY=",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "46d4853e098ca70c84a879258aa057629c108e1f",
+    "url": "https://github.com/jaywcjlove/musicer/commit/46d4853e098ca70c84a879258aa057629c108e1f",
+    "created_at": "2025-05-19T07:20:28.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OmRlODgzYWE1M2FiOTcwMTFkNDczZGM2ZjcxZDFlN2JjY2Q3MTFmZTU=",
+    "type": "commits",
+    "title": "released v1.2.1",
+    "repo": "jaywcjlove/file-sentinel",
+    "sha": "de883aa53ab97011d473dc6f71d1e7bccd711fe5",
+    "url": "https://github.com/jaywcjlove/file-sentinel/commit/de883aa53ab97011d473dc6f71d1e7bccd711fe5",
+    "created_at": "2025-05-19T07:11:27.000+08:00",
+    "state": "committer",
+    "version": "1.2.1"
+  },
+  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjJmN2M4ZjhkNTZjYThhZjIwYTQ1NjQ2NzEwZWJmMzdjZDYxZTBhZTg=",
     "type": "commits",
     "title": "released v1.4.0",
