@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmIwNDUxNzQ0NGM0YWNmNjhkOThiM2NjMDU0MmViMTg5YTc3NjExNGY=",
+    "type": "commits",
+    "title": "released v1.7.0",
+    "repo": "jaywcjlove/paste-quick",
+    "sha": "b04517444c4acf68d98b3cc0542eb189a776114f",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/b04517444c4acf68d98b3cc0542eb189a776114f",
+    "created_at": "2025-05-21T04:28:54.000+08:00",
+    "state": "committer",
+    "version": "1.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjY1MDFmNDg0NWIyNjdhZjUxMmUxOTY5ZWYzZjJmOGI0ODhmMGY5Y2E=",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2596,17 +2607,6 @@
     "version": "1.1.2"
   },
   {
-    "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjY1ZWJmOWQ5MzAyOTk0ZmMxNzQ4MWM3MTI5M2JiYzk3ZDk0YmY4ZTc=",
-    "type": "commits",
-    "title": "released v2.2.0",
-    "repo": "jaywcjlove/create-tag-action",
-    "sha": "65ebf9d9302994fc17481c71293bbc97d94bf8e7",
-    "url": "https://github.com/jaywcjlove/create-tag-action/commit/65ebf9d9302994fc17481c71293bbc97d94bf8e7",
-    "created_at": "2024-07-28T00:51:49.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -2692,7 +2692,7 @@
     "created_at": "2022-03-05T15:26:27Z",
     "state": "merged",
     "number": 1032,
-    "stars": "6.2K"
+    "stars": "6.3K"
   },
   {
     "id": 1158028063,
@@ -2945,7 +2945,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "360"
+    "stars": "361"
   },
   {
     "id": 571407407,
