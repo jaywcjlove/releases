@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 21 May 2025 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 17:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.8.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/61dc3d742329c755c965911a4d6698c966609d89</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjYxZGMzZDc0MjMyOWM3NTVjOTY1OTExYTRkNjY5OGM5NjY2MDlkODk=</guid>
+            <pubDate>Wed, 21 May 2025 17:33:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/61dc3d742329c755c965911a4d6698c966609d89">released v1.8.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.14.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/0d81ae104cbb28eecfe67d2b7170f578197380e6</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjBkODFhZTEwNGNiYjI4ZWVjZmU2N2QyYjcxNzBmNTc4MTk3MzgwZTY=</guid>
+            <pubDate>Wed, 21 May 2025 15:57:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/0d81ae104cbb28eecfe67d2b7170f578197380e6">released v2.14.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/paste-quick released v1.7.0]]></title>
             <link>https://github.com/jaywcjlove/paste-quick/commit/b04517444c4acf68d98b3cc0542eb189a776114f</link>
@@ -1862,14 +1878,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.26]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/32b34c1b57a73e9cb46022aea406110b89cb79cb</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjMyYjM0YzFiNTdhNzNlOWNiNDYwMjJhZWE0MDYxMTBiODljYjc5Y2I=</guid>
-            <pubDate>Tue, 06 Aug 2024 02:09:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/32b34c1b57a73e9cb46022aea406110b89cb79cb">released v2.0.0-alpha.26</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/wxmp released v2.4.0]]></title>
             <link>https://github.com/jaywcjlove/wxmp/commit/1b2e3b534d4c3bb3b2150bba063484942921e95d</link>
             <guid>MDY6Q29tbWl0NTI0NTU3MjU6MWIyZTNiNTM0ZDRjM2JiM2IyMTUwYmJhMDYzNDg0OTQyOTIxZTk1ZA==</guid>
@@ -1908,14 +1916,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Tue, 30 Jul 2024 14:54:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/f91a2ae61973e801a66f6de58c37a38c10f12530">released v4.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[kktjs/ncc released v1.1.2]]></title>
-            <link>https://github.com/kktjs/ncc/commit/908bf9e8e12168d5a89607126c630d9a9406d235</link>
-            <guid>MDY6Q29tbWl0NDY2OTkzMTk0OjkwOGJmOWU4ZTEyMTY4ZDVhODk2MDcxMjZjNjMwZDlhOTQwNmQyMzU=</guid>
-            <pubDate>Sun, 28 Jul 2024 13:00:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/kktjs/ncc/commit/908bf9e8e12168d5a89607126c630d9a9406d235">released v1.1.2</a>]]></description>
-            <enclosure url="https://github.com/kktjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
