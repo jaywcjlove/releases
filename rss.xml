@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 22 May 2025 17:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 05:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/awesome-mac released v1.9.0]]></title>
+            <link>https://github.com/jaywcjlove/awesome-mac/commit/143c45b043d21affbe622d00acb1259ac927acc2</link>
+            <guid>MDY6Q29tbWl0NjM1MzkwNTU6MTQzYzQ1YjA0M2QyMWFmZmJlNjIyZDAwYWNiMTI1OWFjOTI3YWNjMg==</guid>
+            <pubDate>Thu, 22 May 2025 21:14:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/143c45b043d21affbe622d00acb1259ac927acc2">released v1.9.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v2.4.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/428e5a7b79239c5723ab6d4597bd5276ee8994d5</link>
@@ -1899,22 +1907,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0ODMyNTc3NjEwOjlmNTYzOGQzMjg0MzdkOWZlZGEzYTY4ZjI1OGRmNTg0MWU0YjI5NWY=</guid>
             <pubDate>Thu, 08 Aug 2024 16:33:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/9f5638d328437d9feda3a68f258df5841e4b295f">released v1.10.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/wxmp released v2.4.0]]></title>
-            <link>https://github.com/jaywcjlove/wxmp/commit/1b2e3b534d4c3bb3b2150bba063484942921e95d</link>
-            <guid>MDY6Q29tbWl0NTI0NTU3MjU6MWIyZTNiNTM0ZDRjM2JiM2IyMTUwYmJhMDYzNDg0OTQyOTIxZTk1ZA==</guid>
-            <pubDate>Sun, 04 Aug 2024 16:56:10 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/wxmp/commit/1b2e3b534d4c3bb3b2150bba063484942921e95d">released v2.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/pinyin-font released v1.9.1]]></title>
-            <link>https://github.com/jaywcjlove/pinyin-font/commit/c1863ca6b869c3acd5f17b87b8d2839147878109</link>
-            <guid>MDY6Q29tbWl0ODMyNTc3NjEwOmMxODYzY2E2Yjg2OWMzYWNkNWYxN2I4N2I4ZDI4MzkxNDc4NzgxMDk=</guid>
-            <pubDate>Sun, 04 Aug 2024 06:34:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/c1863ca6b869c3acd5f17b87b8d2839147878109">released v1.9.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

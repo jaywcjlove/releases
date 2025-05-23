@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjM1MzkwNTU6MTQzYzQ1YjA0M2QyMWFmZmJlNjIyZDAwYWNiMTI1OWFjOTI3YWNjMg==",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/awesome-mac",
+    "sha": "143c45b043d21affbe622d00acb1259ac927acc2",
+    "url": "https://github.com/jaywcjlove/awesome-mac/commit/143c45b043d21affbe622d00acb1259ac927acc2",
+    "created_at": "2025-05-23T05:14:02.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjQyOGU1YTdiNzkyMzljNTcyM2FiNmQ0NTk3YmQ1Mjc2ZWU4OTk0ZDU=",
     "type": "commits",
     "title": "released v2.4.0",
@@ -2583,28 +2594,6 @@
     "created_at": "2024-08-09T00:33:48.000+08:00",
     "state": "committer",
     "version": "1.10.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTI0NTU3MjU6MWIyZTNiNTM0ZDRjM2JiM2IyMTUwYmJhMDYzNDg0OTQyOTIxZTk1ZA==",
-    "type": "commits",
-    "title": "released v2.4.0",
-    "repo": "jaywcjlove/wxmp",
-    "sha": "1b2e3b534d4c3bb3b2150bba063484942921e95d",
-    "url": "https://github.com/jaywcjlove/wxmp/commit/1b2e3b534d4c3bb3b2150bba063484942921e95d",
-    "created_at": "2024-08-05T00:56:10.000+08:00",
-    "state": "committer",
-    "version": "2.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODMyNTc3NjEwOmMxODYzY2E2Yjg2OWMzYWNkNWYxN2I4N2I4ZDI4MzkxNDc4NzgxMDk=",
-    "type": "commits",
-    "title": "released v1.9.1",
-    "repo": "jaywcjlove/pinyin-font",
-    "sha": "c1863ca6b869c3acd5f17b87b8d2839147878109",
-    "url": "https://github.com/jaywcjlove/pinyin-font/commit/c1863ca6b869c3acd5f17b87b8d2839147878109",
-    "created_at": "2024-08-04T14:34:25.000+08:00",
-    "state": "committer",
-    "version": "1.9.1"
   },
   {
     "id": 2188086718,
