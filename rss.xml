@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 23 May 2025 17:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 05:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/4a68493b96a6a8ff841a66ad6cb9fb5544430e1a</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjRhNjg0OTNiOTZhNmE4ZmY4NDFhNjZhZDZjYjlmYjU1NDQ0MzBlMWE=</guid>
+            <pubDate>Sat, 24 May 2025 02:33:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/4a68493b96a6a8ff841a66ad6cb9fb5544430e1a">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.7 #389 #390]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/4bc7e715ee8f4eff4cd806f3b59de5604162bcf7</link>
