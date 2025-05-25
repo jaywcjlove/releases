@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjQ0MTBkMzhjNmI3MTUwZGQ5NjU2MjU2N2JiMGI2YjM1OTg4NDBjMzA=",
+    "type": "commits",
+    "title": "released v2.4.1",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "4410d38c6b7150dd96562567bb0b6b3598840c30",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/4410d38c6b7150dd96562567bb0b6b3598840c30",
+    "created_at": "2025-05-25T10:43:55.000+08:00",
+    "state": "committer",
+    "version": "2.4.1"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjRhNjg0OTNiOTZhNmE4ZmY4NDFhNjZhZDZjYjlmYjU1NDQ0MzBlMWE=",
     "type": "commits",
     "title": "released v1.6.0",
