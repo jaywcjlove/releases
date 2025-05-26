@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjhmY2M3YjVlNWE3ZTU3OWQ4NjVkMjljM2E5ZDY2OWY0YzFiMWYzMDY=",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/IconizeFolder",
+    "sha": "8fcc7b5e5a7e579d865d29c3a9d669f4c1b1f306",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/8fcc7b5e5a7e579d865d29c3a9d669f4c1b1f306",
+    "created_at": "2025-05-26T11:18:24.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjQ0MTBkMzhjNmI3MTUwZGQ5NjU2MjU2N2JiMGI2YjM1OTg4NDBjMzA=",
     "type": "commits",
     "title": "released v2.4.1",
