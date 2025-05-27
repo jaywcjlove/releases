@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 26 May 2025 17:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 05:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.9.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/8fcc7b5e5a7e579d865d29c3a9d669f4c1b1f306</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjhmY2M3YjVlNWE3ZTU3OWQ4NjVkMjljM2E5ZDY2OWY0YzFiMWYzMDY=</guid>
-            <pubDate>Mon, 26 May 2025 03:18:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/8fcc7b5e5a7e579d865d29c3a9d669f4c1b1f306">released v1.9.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v1.10.0]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/4393137fde19bbf639c2400b1729a4aeedc9df33</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjQzOTMxMzdmZGUxOWJiZjYzOWMyNDAwYjE3MjlhNGFlZWRjOWRmMzM=</guid>
+            <pubDate>Tue, 27 May 2025 04:23:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/4393137fde19bbf639c2400b1729a4aeedc9df33">released v1.10.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1931,14 +1931,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmY2ZjJmNjc1N2RlMmIzOTcxN2U3NTZmMDdmMDJmM2QwMjYwOGU4N2Q=</guid>
             <pubDate>Sat, 10 Aug 2024 12:17:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/f6f2f6757de2b39717e756f07f02f3d02608e87d">released v1.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/pinyin-font released v1.10.1]]></title>
-            <link>https://github.com/jaywcjlove/pinyin-font/commit/9f5638d328437d9feda3a68f258df5841e4b295f</link>
-            <guid>MDY6Q29tbWl0ODMyNTc3NjEwOjlmNTYzOGQzMjg0MzdkOWZlZGEzYTY4ZjI1OGRmNTg0MWU0YjI5NWY=</guid>
-            <pubDate>Thu, 08 Aug 2024 16:33:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/9f5638d328437d9feda3a68f258df5841e4b295f">released v1.10.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

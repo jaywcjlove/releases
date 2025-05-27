@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjhmY2M3YjVlNWE3ZTU3OWQ4NjVkMjljM2E5ZDY2OWY0YzFiMWYzMDY=",
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjQzOTMxMzdmZGUxOWJiZjYzOWMyNDAwYjE3MjlhNGFlZWRjOWRmMzM=",
     "type": "commits",
-    "title": "released v1.9.0",
+    "title": "released v1.10.0",
     "repo": "jaywcjlove/IconizeFolder",
-    "sha": "8fcc7b5e5a7e579d865d29c3a9d669f4c1b1f306",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/8fcc7b5e5a7e579d865d29c3a9d669f4c1b1f306",
-    "created_at": "2025-05-26T11:18:24.000+08:00",
+    "sha": "4393137fde19bbf639c2400b1729a4aeedc9df33",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/4393137fde19bbf639c2400b1729a4aeedc9df33",
+    "created_at": "2025-05-27T12:23:26.000+08:00",
     "state": "committer",
-    "version": "1.9.0"
+    "version": "1.10.0"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjQ0MTBkMzhjNmI3MTUwZGQ5NjU2MjU2N2JiMGI2YjM1OTg4NDBjMzA=",
@@ -2627,17 +2627,6 @@
     "created_at": "2024-08-10T20:17:36.000+08:00",
     "state": "committer",
     "version": "1.5.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODMyNTc3NjEwOjlmNTYzOGQzMjg0MzdkOWZlZGEzYTY4ZjI1OGRmNTg0MWU0YjI5NWY=",
-    "type": "commits",
-    "title": "released v1.10.1",
-    "repo": "jaywcjlove/pinyin-font",
-    "sha": "9f5638d328437d9feda3a68f258df5841e4b295f",
-    "url": "https://github.com/jaywcjlove/pinyin-font/commit/9f5638d328437d9feda3a68f258df5841e4b295f",
-    "created_at": "2024-08-09T00:33:48.000+08:00",
-    "state": "committer",
-    "version": "1.10.1"
   },
   {
     "id": 2188086718,
