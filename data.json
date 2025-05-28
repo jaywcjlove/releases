@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjkwZGVjYmE0NGRjZjdjMDg2NTQ1NWQxZDZmM2I5Y2M5MDIzNmY4NTg=",
+    "type": "commits",
+    "title": "released v7.1.8 (#391)",
+    "repo": "uiwjs/react-amap",
+    "sha": "90decba44dcf7c0865455d1d6f3b9cc90236f858",
+    "url": "https://github.com/uiwjs/react-amap/commit/90decba44dcf7c0865455d1d6f3b9cc90236f858",
+    "created_at": "2025-05-28T21:22:48.000+08:00",
+    "state": "committer",
+    "version": "7.1.8"
+  },
+  {
     "id": "MDY6Q29tbWl0NTI0NTU3MjU6Nzk2OWZiMjhhNDkxNmYxMjI5MzhmYjNjOGNhNWNkZWQ5MjdmYzVhNA==",
     "type": "commits",
     "title": "released v2.4.1",
@@ -2495,17 +2506,6 @@
     "created_at": "2024-09-02T01:29:52.000+08:00",
     "state": "committer",
     "version": "2.12.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjZjYTliNzBlNzMzZjcxMWMyZDEyOGJlYjJjNGY5NDY4NmM2OWFiYjQ=",
-    "type": "commits",
-    "title": "released v6.0.0 #240 #242",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "6ca9b70e733f711c2d128beb2c4f94686c69abb4",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/6ca9b70e733f711c2d128beb2c4f94686c69abb4",
-    "created_at": "2024-08-31T04:26:17.000+08:00",
-    "state": "committer",
-    "version": "6.0.0"
   },
   {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjVlZDJkMDg2NDg5YTcxY2YzNzZhMGQ2MzExZTM3MGI5NWE2MWJkZGQ=",
