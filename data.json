@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTI0NTU3MjU6Nzk2OWZiMjhhNDkxNmYxMjI5MzhmYjNjOGNhNWNkZWQ5MjdmYzVhNA==",
+    "type": "commits",
+    "title": "released v2.4.1",
+    "repo": "jaywcjlove/wxmp",
+    "sha": "7969fb28a4916f122938fb3c8ca5cded927fc5a4",
+    "url": "https://github.com/jaywcjlove/wxmp/commit/7969fb28a4916f122938fb3c8ca5cded927fc5a4",
+    "created_at": "2025-05-28T02:45:11.000+08:00",
+    "state": "committer",
+    "version": "2.4.1"
+  },
+  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjU4M2M5MWE4MWIwZDMwZjc5OWI3YzVkYmJlOWQ0ZDQ1YjAzZmYyNDY=",
     "type": "commits",
     "title": "released v1.4.0",
@@ -2618,17 +2629,6 @@
     "version": "1.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmY2ZjJmNjc1N2RlMmIzOTcxN2U3NTZmMDdmMDJmM2QwMjYwOGU4N2Q=",
-    "type": "commits",
-    "title": "released v1.5.0",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "f6f2f6757de2b39717e756f07f02f3d02608e87d",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/f6f2f6757de2b39717e756f07f02f3d02608e87d",
-    "created_at": "2024-08-10T20:17:36.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -2747,7 +2747,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "213"
+    "stars": "214"
   },
   {
     "id": 1032707507,
