@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmIzOTJmYzg3ODEyNTdiNTM4MjE3YmE5NWJlZjkxZTI0NzhkNmYwOTY=",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "b392fc8781257b538217ba95bef91e2478d6f096",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/b392fc8781257b538217ba95bef91e2478d6f096",
+    "created_at": "2025-05-30T10:24:57.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjkwZGVjYmE0NGRjZjdjMDg2NTQ1NWQxZDZmM2I5Y2M5MDIzNmY4NTg=",
     "type": "commits",
     "title": "released v7.1.8 (#391)",
@@ -2528,17 +2539,6 @@
     "created_at": "2024-08-30T00:24:47.000+08:00",
     "state": "committer",
     "version": "3.19.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5Ojk2MzU3NTdmOWUzMTFiOTcwNTRiNzMwOGVhMmE5YWIzNzc1Y2FlZjc=",
-    "type": "commits",
-    "title": "released v5.1.0 (#239)",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "9635757f9e311b97054b7308ea2a9ab3775caef7",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/9635757f9e311b97054b7308ea2a9ab3775caef7",
-    "created_at": "2024-08-29T23:43:10.000+08:00",
-    "state": "committer",
-    "version": "5.1.0"
   },
   {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZGU2NTliZDI2NGNkNjhmMDlhNWU2NzcwZmY1ZGE3NTYzOTIyYzg=",

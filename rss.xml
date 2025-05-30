@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 29 May 2025 17:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 05:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/b392fc8781257b538217ba95bef91e2478d6f096</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOmIzOTJmYzg3ODEyNTdiNTM4MjE3YmE5NWJlZjkxZTI0NzhkNmYwOTY=</guid>
+            <pubDate>Fri, 30 May 2025 02:24:57 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/b392fc8781257b538217ba95bef91e2478d6f096">released v1.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.8 (#391)]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/90decba44dcf7c0865455d1d6f3b9cc90236f858</link>
@@ -1859,14 +1867,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=</guid>
             <pubDate>Thu, 29 Aug 2024 16:24:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084">released v3.19.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v5.1.0 (#239)]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/9635757f9e311b97054b7308ea2a9ab3775caef7</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5Ojk2MzU3NTdmOWUzMTFiOTcwNTRiNzMwOGVhMmE5YWIzNzc1Y2FlZjc=</guid>
-            <pubDate>Thu, 29 Aug 2024 15:43:10 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/9635757f9e311b97054b7308ea2a9ab3775caef7">released v5.1.0 (#239)</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
