@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=",
+    "type": "commits",
+    "title": "released v1.1.0",
+    "repo": "jaywcjlove/swiftui-markdown",
+    "sha": "26e8f0e6884c11a7364ade585c40442ed69c94d6",
+    "url": "https://github.com/jaywcjlove/swiftui-markdown/commit/26e8f0e6884c11a7364ade585c40442ed69c94d6",
+    "created_at": "2025-06-02T12:42:16.000+08:00",
+    "state": "committer",
+    "version": "1.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmIzOTJmYzg3ODEyNTdiNTM4MjE3YmE5NWJlZjkxZTI0NzhkNmYwOTY=",
     "type": "commits",
     "title": "released v1.5.0",
@@ -2618,15 +2629,15 @@
     "version": "1.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0ODM0Nzg3ODUxOmYxN2M5YTEwNjljNjI0NGQ3NGQwMDdjYWYzN2VjZGI5NTJhMmU3YjQ=",
+    "id": "MDY6Q29tbWl0ODM0Nzg3ODUxOmRhZWM0YzU1OWFiOWI1ZTAyNTFjMWM1OWQyNTA4OGYyYzJiYWI2NDc=",
     "type": "commits",
-    "title": "released v1.2.0 #2",
+    "title": "released v1.1.0",
     "repo": "jaywcjlove/github-action-folder-tree",
-    "sha": "f17c9a1069c6244d74d007caf37ecdb952a2e7b4",
-    "url": "https://github.com/jaywcjlove/github-action-folder-tree/commit/f17c9a1069c6244d74d007caf37ecdb952a2e7b4",
-    "created_at": "2024-08-19T22:41:10.000+08:00",
+    "sha": "daec4c559ab9b5e0251c1c59d25088f2c2bab647",
+    "url": "https://github.com/jaywcjlove/github-action-folder-tree/commit/daec4c559ab9b5e0251c1c59d25088f2c2bab647",
+    "created_at": "2024-08-18T22:33:02.000+08:00",
     "state": "committer",
-    "version": "1.2.0"
+    "version": "1.1.0"
   },
   {
     "id": 2188086718,
@@ -2791,7 +2802,7 @@
     "created_at": "2021-07-20T09:31:52Z",
     "state": "merged",
     "number": 310,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 916846708,
@@ -2802,7 +2813,7 @@
     "created_at": "2021-06-10T03:20:20Z",
     "state": "merged",
     "number": 306,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 912615094,
@@ -2813,7 +2824,7 @@
     "created_at": "2021-06-06T04:35:50Z",
     "state": "merged",
     "number": 304,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 912094518,
@@ -2824,7 +2835,7 @@
     "created_at": "2021-06-05T04:09:11Z",
     "state": "merged",
     "number": 303,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 912059291,
@@ -2835,7 +2846,7 @@
     "created_at": "2021-06-05T01:58:22Z",
     "state": "merged",
     "number": 302,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 911688987,
@@ -2846,7 +2857,7 @@
     "created_at": "2021-06-04T16:58:21Z",
     "state": "merged",
     "number": 301,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 911687407,
@@ -2868,7 +2879,7 @@
     "created_at": "2021-06-04T15:00:13Z",
     "state": "merged",
     "number": 300,
-    "stars": "44.5K"
+    "stars": "44.6K"
   },
   {
     "id": 892085347,
