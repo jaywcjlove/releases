@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjczYjkyNTA4MmI3MWJjNmEwODc0OTcyMTM1MDE2MmFlNGZjY2Q0NmE=",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "73b925082b71bc6a08749721350162ae4fccd46a",
+    "url": "https://github.com/jaywcjlove/mousio/commit/73b925082b71bc6a08749721350162ae4fccd46a",
+    "created_at": "2025-06-04T02:19:05.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2596,17 +2607,6 @@
     "version": "2.3.2"
   },
   {
-    "id": "MDY6Q29tbWl0NjM1MzkwNTU6NTZlNTgxMDU2M2VmODQ4ZGNhNjFhZDkxNTM5ZjA5OWQ3N2YyNTc3Nw==",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/awesome-mac",
-    "sha": "56e5810563ef848dca61ad91539f099d77f25777",
-    "url": "https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777",
-    "created_at": "2024-08-22T01:16:59.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
-  },
-  {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmMyOWI0YmU5YmY5NDIwYmZkZTFmNzZhNTU3ODlmMjVkZTNlNTk0MmI=",
     "type": "commits",
     "title": "released v1.6.0",
@@ -2978,7 +2978,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "361"
+    "stars": "362"
   },
   {
     "id": 571407407,

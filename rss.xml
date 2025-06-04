@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 03 Jun 2025 17:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 05:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/73b925082b71bc6a08749721350162ae4fccd46a</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjczYjkyNTA4MmI3MWJjNmEwODc0OTcyMTM1MDE2MmFlNGZjY2Q0NmE=</guid>
+            <pubDate>Tue, 03 Jun 2025 18:19:05 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/73b925082b71bc6a08749721350162ae4fccd46a">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/swiftui-markdown released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/swiftui-markdown/commit/26e8f0e6884c11a7364ade585c40442ed69c94d6</link>
@@ -1907,14 +1915,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Mzk3Njg5Mzc2OjY1NzM5NDkxZDI3NTBiM2VlMjQyNDI1MjY4ZjllMTM4MzQwOTJhNmU=</guid>
             <pubDate>Thu, 22 Aug 2024 03:13:00 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/recursive-readdir-files/commit/65739491d2750b3ee242425268f9e13834092a6e">released v2.3.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/awesome-mac released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777</link>
-            <guid>MDY6Q29tbWl0NjM1MzkwNTU6NTZlNTgxMDU2M2VmODQ4ZGNhNjFhZDkxNTM5ZjA5OWQ3N2YyNTc3Nw==</guid>
-            <pubDate>Wed, 21 Aug 2024 17:16:59 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/56e5810563ef848dca61ad91539f099d77f25777">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
