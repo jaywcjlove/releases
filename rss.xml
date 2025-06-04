@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 04 Jun 2025 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 17:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/73b925082b71bc6a08749721350162ae4fccd46a</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjczYjkyNTA4MmI3MWJjNmEwODc0OTcyMTM1MDE2MmFlNGZjY2Q0NmE=</guid>
-            <pubDate>Tue, 03 Jun 2025 18:19:05 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/73b925082b71bc6a08749721350162ae4fccd46a">released v1.0.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/b1af916e89c2051f95717b0e0727759b758b120e</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmIxYWY5MTZlODljMjA1MWY5NTcxN2IwZTA3Mjc3NTliNzU4YjEyMGU=</guid>
+            <pubDate>Wed, 04 Jun 2025 06:58:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/b1af916e89c2051f95717b0e0727759b758b120e">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1883,14 +1883,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=</guid>
             <pubDate>Thu, 29 Aug 2024 16:24:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084">released v3.19.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.11.0]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/14de659bd264cd68f09a5e6770ff5da7563922c8</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZGU2NTliZDI2NGNkNjhmMDlhNWU2NzcwZmY1ZGE3NTYzOTIyYzg=</guid>
-            <pubDate>Thu, 29 Aug 2024 15:36:44 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/14de659bd264cd68f09a5e6770ff5da7563922c8">released v2.11.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjczYjkyNTA4MmI3MWJjNmEwODc0OTcyMTM1MDE2MmFlNGZjY2Q0NmE=",
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmIxYWY5MTZlODljMjA1MWY5NTcxN2IwZTA3Mjc3NTliNzU4YjEyMGU=",
     "type": "commits",
-    "title": "released v1.0.0",
+    "title": "released v1.1.0",
     "repo": "jaywcjlove/mousio",
-    "sha": "73b925082b71bc6a08749721350162ae4fccd46a",
-    "url": "https://github.com/jaywcjlove/mousio/commit/73b925082b71bc6a08749721350162ae4fccd46a",
-    "created_at": "2025-06-04T02:19:05.000+08:00",
+    "sha": "b1af916e89c2051f95717b0e0727759b758b120e",
+    "url": "https://github.com/jaywcjlove/mousio/commit/b1af916e89c2051f95717b0e0727759b758b120e",
+    "created_at": "2025-06-04T14:58:38.000+08:00",
     "state": "committer",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   {
     "id": "MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=",
@@ -2563,17 +2563,6 @@
     "version": "3.19.3"
   },
   {
-    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZGU2NTliZDI2NGNkNjhmMDlhNWU2NzcwZmY1ZGE3NTYzOTIyYzg=",
-    "type": "commits",
-    "title": "released v2.11.0",
-    "repo": "jaywcjlove/free-font",
-    "sha": "14de659bd264cd68f09a5e6770ff5da7563922c8",
-    "url": "https://github.com/jaywcjlove/free-font/commit/14de659bd264cd68f09a5e6770ff5da7563922c8",
-    "created_at": "2024-08-29T23:36:44.000+08:00",
-    "state": "committer",
-    "version": "2.11.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6OGZmZGZjNDk5Mzg5MTk4NDkxZDM2Mzc3MTNmN2RiNjc1NDJkZDNlMQ==",
     "type": "commits",
     "title": "released v1.32.0",
@@ -2659,7 +2648,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "290"
+    "stars": "291"
   },
   {
     "id": 1838600360,
@@ -2978,7 +2967,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "362"
+    "stars": "361"
   },
   {
     "id": 571407407,
