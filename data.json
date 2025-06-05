@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmIxYWY5MTZlODljMjA1MWY5NTcxN2IwZTA3Mjc3NTliNzU4YjEyMGU=",
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjUzMzA3YWM0MmIxOTdiMTRkMzQzYzRlYjA1NjgwNTVjODk4NDgzMTc=",
     "type": "commits",
-    "title": "released v1.1.0",
+    "title": "released v1.2.0",
     "repo": "jaywcjlove/mousio",
-    "sha": "b1af916e89c2051f95717b0e0727759b758b120e",
-    "url": "https://github.com/jaywcjlove/mousio/commit/b1af916e89c2051f95717b0e0727759b758b120e",
-    "created_at": "2025-06-04T14:58:38.000+08:00",
+    "sha": "53307ac42b197b14d343c4eb0568055c89848317",
+    "url": "https://github.com/jaywcjlove/mousio/commit/53307ac42b197b14d343c4eb0568055c89848317",
+    "created_at": "2025-06-05T09:45:41.000+08:00",
     "state": "committer",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "id": "MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=",
@@ -2614,17 +2614,6 @@
     "sha": "6e4f5a34938759f9cfdc67e66c80d58151f5cfe3",
     "url": "https://github.com/jaywcjlove/releases/commit/6e4f5a34938759f9cfdc67e66c80d58151f5cfe3",
     "created_at": "2024-08-21T14:52:29.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODM0Nzg3ODUxOmRhZWM0YzU1OWFiOWI1ZTAyNTFjMWM1OWQyNTA4OGYyYzJiYWI2NDc=",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/github-action-folder-tree",
-    "sha": "daec4c559ab9b5e0251c1c59d25088f2c2bab647",
-    "url": "https://github.com/jaywcjlove/github-action-folder-tree/commit/daec4c559ab9b5e0251c1c59d25088f2c2bab647",
-    "created_at": "2024-08-18T22:33:02.000+08:00",
     "state": "committer",
     "version": "1.1.0"
   },

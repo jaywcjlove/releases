@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 04 Jun 2025 17:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 05:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/b1af916e89c2051f95717b0e0727759b758b120e</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmIxYWY5MTZlODljMjA1MWY5NTcxN2IwZTA3Mjc3NTliNzU4YjEyMGU=</guid>
-            <pubDate>Wed, 04 Jun 2025 06:58:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/b1af916e89c2051f95717b0e0727759b758b120e">released v1.1.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/53307ac42b197b14d343c4eb0568055c89848317</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjUzMzA3YWM0MmIxOTdiMTRkMzQzYzRlYjA1NjgwNTVjODk4NDgzMTc=</guid>
+            <pubDate>Thu, 05 Jun 2025 01:45:41 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/53307ac42b197b14d343c4eb0568055c89848317">released v1.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1923,14 +1923,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0ODQ0NTU4MDk3OjZlNGY1YTM0OTM4NzU5ZjljZmRjNjdlNjZjODBkNTgxNTFmNWNmZTM=</guid>
             <pubDate>Wed, 21 Aug 2024 06:52:29 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/releases/commit/6e4f5a34938759f9cfdc67e66c80d58151f5cfe3">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-folder-tree released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-folder-tree/commit/daec4c559ab9b5e0251c1c59d25088f2c2bab647</link>
-            <guid>MDY6Q29tbWl0ODM0Nzg3ODUxOmRhZWM0YzU1OWFiOWI1ZTAyNTFjMWM1OWQyNTA4OGYyYzJiYWI2NDc=</guid>
-            <pubDate>Sun, 18 Aug 2024 14:33:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-folder-tree/commit/daec4c559ab9b5e0251c1c59d25088f2c2bab647">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
