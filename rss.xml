@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 05 Jun 2025 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 17:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,15 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.2.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/53307ac42b197b14d343c4eb0568055c89848317</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjUzMzA3YWM0MmIxOTdiMTRkMzQzYzRlYjA1NjgwNTVjODk4NDgzMTc=</guid>
-            <pubDate>Thu, 05 Jun 2025 01:45:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/53307ac42b197b14d343c4eb0568055c89848317">released v1.2.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio released v1.3.0
+
+https://github.com/jaywcjlove/mousio/issues/1]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/02ac44472e241a484f50510b5506a29bb06bec83</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjAyYWM0NDQ3MmUyNDFhNDg0ZjUwNTEwYjU1MDZhMjliYjA2YmVjODM=</guid>
+            <pubDate>Thu, 05 Jun 2025 17:14:43 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/02ac44472e241a484f50510b5506a29bb06bec83">released v1.3.0
+
+https://github.com/jaywcjlove/mousio/issues/1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1899,14 +1903,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OmVhMzM5MTczNGJhZmEzMDU5YmQ5MTQ5NzRmNTg2MDk4NWM4NDcxZWU=</guid>
             <pubDate>Mon, 26 Aug 2024 11:42:59 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/ea3391734bafa3059bd914974f5860985c8471ee">released v1.45.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/recursive-readdir-files released v2.3.2]]></title>
-            <link>https://github.com/jaywcjlove/recursive-readdir-files/commit/65739491d2750b3ee242425268f9e13834092a6e</link>
-            <guid>MDY6Q29tbWl0Mzk3Njg5Mzc2OjY1NzM5NDkxZDI3NTBiM2VlMjQyNDI1MjY4ZjllMTM4MzQwOTJhNmU=</guid>
-            <pubDate>Thu, 22 Aug 2024 03:13:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/recursive-readdir-files/commit/65739491d2750b3ee242425268f9e13834092a6e">released v2.3.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
