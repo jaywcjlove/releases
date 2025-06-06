@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 06 Jun 2025 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,15 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.3.0
-
-https://github.com/jaywcjlove/mousio/issues/1]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/02ac44472e241a484f50510b5506a29bb06bec83</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjAyYWM0NDQ3MmUyNDFhNDg0ZjUwNTEwYjU1MDZhMjliYjA2YmVjODM=</guid>
-            <pubDate>Thu, 05 Jun 2025 17:14:43 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/02ac44472e241a484f50510b5506a29bb06bec83">released v1.3.0
-
-https://github.com/jaywcjlove/mousio/issues/1</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/413152d5d27c12fd2009dd0ae30c143e662d8236</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjQxMzE1MmQ1ZDI3YzEyZmQyMDA5ZGQwYWUzMGMxNDNlNjYyZDgyMzY=</guid>
+            <pubDate>Fri, 06 Jun 2025 07:18:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/413152d5d27c12fd2009dd0ae30c143e662d8236">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1911,14 +1907,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmMyOWI0YmU5YmY5NDIwYmZkZTFmNzZhNTU3ODlmMjVkZTNlNTk0MmI=</guid>
             <pubDate>Wed, 21 Aug 2024 07:41:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/c29b4be9bf9420bfde1f76a55789f25de3e5942b">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/releases released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/releases/commit/6e4f5a34938759f9cfdc67e66c80d58151f5cfe3</link>
-            <guid>MDY6Q29tbWl0ODQ0NTU4MDk3OjZlNGY1YTM0OTM4NzU5ZjljZmRjNjdlNjZjODBkNTgxNTFmNWNmZTM=</guid>
-            <pubDate>Wed, 21 Aug 2024 06:52:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/releases/commit/6e4f5a34938759f9cfdc67e66c80d58151f5cfe3">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
