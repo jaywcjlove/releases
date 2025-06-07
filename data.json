@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjkwYzVhN2UxMjY3NjNjZTdiMjgwYTVhY2YxNzUyOGI3MGUyMDg0Yzc=",
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjNiYWFjOTI0YTZmMmE4M2RhOTFkMDAxMDE4NWQwMzM3OWY3NmU5OTY=",
     "type": "commits",
-    "title": "released v1.5.0",
+    "title": "released v1.6.0",
     "repo": "jaywcjlove/mousio",
-    "sha": "90c5a7e126763ce7b280a5acf17528b70e2084c7",
-    "url": "https://github.com/jaywcjlove/mousio/commit/90c5a7e126763ce7b280a5acf17528b70e2084c7",
-    "created_at": "2025-06-07T08:36:56.000+08:00",
+    "sha": "3baac924a6f2a83da91d0010185d03379f76e996",
+    "url": "https://github.com/jaywcjlove/mousio/commit/3baac924a6f2a83da91d0010185d03379f76e996",
+    "created_at": "2025-06-08T00:15:45.000+08:00",
     "state": "committer",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   {
     "id": "MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=",
@@ -2530,17 +2530,6 @@
     "version": "2.0.0-alpha.27"
   },
   {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjVlZDJkMDg2NDg5YTcxY2YzNzZhMGQ2MzExZTM3MGI5NWE2MWJkZGQ=",
-    "type": "commits",
-    "title": "released v7.1.1 #373 #372",
-    "repo": "uiwjs/react-amap",
-    "sha": "5ed2d086489a71cf376a0d6311e370b95a61bddd",
-    "url": "https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd",
-    "created_at": "2024-08-30T17:02:18.000+08:00",
-    "state": "committer",
-    "version": "7.1.1"
-  },
-  {
     "id": "MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=",
     "type": "commits",
     "title": "released v3.19.3",
@@ -2681,7 +2670,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "732"
+    "stars": "733"
   },
   {
     "id": 1086792263,

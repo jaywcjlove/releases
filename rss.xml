@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 07 Jun 2025 05:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 17:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.5.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/90c5a7e126763ce7b280a5acf17528b70e2084c7</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjkwYzVhN2UxMjY3NjNjZTdiMjgwYTVhY2YxNzUyOGI3MGUyMDg0Yzc=</guid>
-            <pubDate>Sat, 07 Jun 2025 00:36:56 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/90c5a7e126763ce7b280a5acf17528b70e2084c7">released v1.5.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/3baac924a6f2a83da91d0010185d03379f76e996</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjNiYWFjOTI0YTZmMmE4M2RhOTFkMDAxMDE4NWQwMzM3OWY3NmU5OTY=</guid>
+            <pubDate>Sat, 07 Jun 2025 16:15:45 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/3baac924a6f2a83da91d0010185d03379f76e996">released v1.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1859,14 +1859,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjVhM2E0NDk3NTQzZmM4YjY1NzJmNmI0NTlkYmU2YmFiZDRkZmEyNTE=</guid>
             <pubDate>Tue, 03 Sep 2024 03:59:00 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251">released v2.0.0-alpha.27 #53</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v7.1.1 #373 #372]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjVlZDJkMDg2NDg5YTcxY2YzNzZhMGQ2MzExZTM3MGI5NWE2MWJkZGQ=</guid>
-            <pubDate>Fri, 30 Aug 2024 09:02:18 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/5ed2d086489a71cf376a0d6311e370b95a61bddd">released v7.1.1 #373 #372</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
