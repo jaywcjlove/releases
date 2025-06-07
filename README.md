@@ -7,7 +7,7 @@
   <br />
 </div>
 
-Update date: <!--GAMFC-->2025-06-06 17:36:36<!--GAMFC-END-->
+Update date: <!--GAMFC-->2025-06-07 05:36:27<!--GAMFC-END-->
 
 ```sh
 https://wangchujiang.com/releases/
