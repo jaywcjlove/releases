@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 07 Jun 2025 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jun 2025 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/8be4cc9a741cf7130d4f9a0f259138c49a40e635</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjhiZTRjYzlhNzQxY2Y3MTMwZDRmOWEwZjI1OTEzOGM0OWE0MGU2MzU=</guid>
+            <pubDate>Sat, 07 Jun 2025 23:01:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/8be4cc9a741cf7130d4f9a0f259138c49a40e635">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v1.6.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/3baac924a6f2a83da91d0010185d03379f76e996</link>
@@ -1852,14 +1860,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Tue, 03 Sep 2024 07:22:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242">released v1.19.1 #601</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.27 #53]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjVhM2E0NDk3NTQzZmM4YjY1NzJmNmI0NTlkYmU2YmFiZDRkZmEyNTE=</guid>
-            <pubDate>Tue, 03 Sep 2024 03:59:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251">released v2.0.0-alpha.27 #53</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/uglify-js-export released v3.19.3]]></title>

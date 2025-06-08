@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjhiZTRjYzlhNzQxY2Y3MTMwZDRmOWEwZjI1OTEzOGM0OWE0MGU2MzU=",
+    "type": "commits",
+    "title": "released v1.7.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "8be4cc9a741cf7130d4f9a0f259138c49a40e635",
+    "url": "https://github.com/jaywcjlove/musicer/commit/8be4cc9a741cf7130d4f9a0f259138c49a40e635",
+    "created_at": "2025-06-08T07:01:29.000+08:00",
+    "state": "committer",
+    "version": "1.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjNiYWFjOTI0YTZmMmE4M2RhOTFkMDAxMDE4NWQwMzM3OWY3NmU5OTY=",
     "type": "commits",
     "title": "released v1.6.0",
@@ -2517,17 +2528,6 @@
     "created_at": "2024-09-03T15:22:47.000+08:00",
     "state": "committer",
     "version": "1.19.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjVhM2E0NDk3NTQzZmM4YjY1NzJmNmI0NTlkYmU2YmFiZDRkZmEyNTE=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.27 #53",
-    "repo": "uiwjs/react-json-view",
-    "sha": "5a3a4497543fc8b6572f6b459dbe6babd4dfa251",
-    "url": "https://github.com/uiwjs/react-json-view/commit/5a3a4497543fc8b6572f6b459dbe6babd4dfa251",
-    "created_at": "2024-09-03T11:59:00.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.27"
   },
   {
     "id": "MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=",
