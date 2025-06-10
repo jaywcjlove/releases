@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 10 Jun 2025 05:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.11 #514]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/194b93ccb3918dbeacdea22fa50c76953ff16d42</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6MTk0YjkzY2NiMzkxOGRiZWFjZGVhMjJmYTUwYzc2OTUzZmYxNmQ0Mg==</guid>
+            <pubDate>Tue, 10 Jun 2025 07:02:24 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/194b93ccb3918dbeacdea22fa50c76953ff16d42">released v3.13.11 #514</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.10.1]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/9e3f2b155087b98469eb3975931865e7063f129f</link>
@@ -1875,14 +1883,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=</guid>
             <pubDate>Thu, 29 Aug 2024 16:24:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084">released v3.19.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/reference released v1.45.0]]></title>
-            <link>https://github.com/jaywcjlove/reference/commit/ea3391734bafa3059bd914974f5860985c8471ee</link>
-            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OmVhMzM5MTczNGJhZmEzMDU5YmQ5MTQ5NzRmNTg2MDk4NWM4NDcxZWU=</guid>
-            <pubDate>Mon, 26 Aug 2024 11:42:59 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/ea3391734bafa3059bd914974f5860985c8471ee">released v1.45.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
