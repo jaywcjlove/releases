@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 10 Jun 2025 17:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 05:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.23.13 #735 #734]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/642a9c84afc3735ab027b6408064062f90b7e689</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjY0MmE5Yzg0YWZjMzczNWFiMDI3YjY0MDgwNjQwNjJmOTBiN2U2ODk=</guid>
+            <pubDate>Tue, 10 Jun 2025 21:14:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/642a9c84afc3735ab027b6408064062f90b7e689">released v4.23.13 #735 #734</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.11 #514]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/194b93ccb3918dbeacdea22fa50c76953ff16d42</link>
@@ -1875,14 +1883,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NzM1NjE2NTA6M2M2ZjYxNmM1ZmZkNzRhNWE3NGVmMjU3MzNkYTMwMGQ5ZGViNjI0Mg==</guid>
             <pubDate>Tue, 03 Sep 2024 07:22:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/3c6f616c5ffd74a5a74ef25733da300d9deb6242">released v1.19.1 #601</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/uglify-js-export released v3.19.3]]></title>
-            <link>https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084</link>
-            <guid>MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=</guid>
-            <pubDate>Thu, 29 Aug 2024 16:24:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084">released v3.19.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

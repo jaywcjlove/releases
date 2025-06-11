@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjY0MmE5Yzg0YWZjMzczNWFiMDI3YjY0MDgwNjQwNjJmOTBiN2U2ODk=",
+    "type": "commits",
+    "title": "released v4.23.13 #735 #734",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "642a9c84afc3735ab027b6408064062f90b7e689",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/642a9c84afc3735ab027b6408064062f90b7e689",
+    "created_at": "2025-06-11T05:14:40.000+08:00",
+    "state": "committer",
+    "version": "4.23.13"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6MTk0YjkzY2NiMzkxOGRiZWFjZGVhMjJmYTUwYzc2OTUzZmYxNmQ0Mg==",
     "type": "commits",
     "title": "released v3.13.11 #514",
@@ -2550,17 +2561,6 @@
     "created_at": "2024-09-03T15:22:47.000+08:00",
     "state": "committer",
     "version": "1.19.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDk2NDU2MzI0OjM4NjVjNzMyMDJkOWI1YWVlOWIwOTI3OWExNjE3YTAzMjRjZTUwODQ=",
-    "type": "commits",
-    "title": "released v3.19.3",
-    "repo": "jaywcjlove/uglify-js-export",
-    "sha": "3865c73202d9b5aee9b09279a1617a0324ce5084",
-    "url": "https://github.com/jaywcjlove/uglify-js-export/commit/3865c73202d9b5aee9b09279a1617a0324ce5084",
-    "created_at": "2024-08-30T00:24:47.000+08:00",
-    "state": "committer",
-    "version": "3.19.3"
   },
   {
     "id": 2188086718,
