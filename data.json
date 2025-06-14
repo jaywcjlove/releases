@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDo2YjZiMmY0ZmUyZmIzMzk3YjIwMmUwMGRiYjJjMjVmYWYzZTEwNzI1",
+    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDpiMmMyNWQxMTJjMjAyZDU4ZWI4YzU0ZjNjOTdmNTUyNDBiN2E2NmU0",
     "type": "commits",
-    "title": "released v1.4.0",
+    "title": "released v1.5.1",
     "repo": "jaywcjlove/mousio-hint",
-    "sha": "6b6b2f4fe2fb3397b202e00dbb2c25faf3e10725",
-    "url": "https://github.com/jaywcjlove/mousio-hint/commit/6b6b2f4fe2fb3397b202e00dbb2c25faf3e10725",
-    "created_at": "2025-06-14T01:04:55.000+08:00",
+    "sha": "b2c25d112c202d58eb8c54f3c97f55240b7a66e4",
+    "url": "https://github.com/jaywcjlove/mousio-hint/commit/b2c25d112c202d58eb8c54f3c97f55240b7a66e4",
+    "created_at": "2025-06-15T00:38:36.000+08:00",
     "state": "committer",
-    "version": "1.4.0"
+    "version": "1.5.1"
   },
   {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjY0MmE5Yzg0YWZjMzczNWFiMDI3YjY0MDgwNjQwNjJmOTBiN2U2ODk=",

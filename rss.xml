@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Jun 2025 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jun 2025 17:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/mousio-hint released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio-hint/commit/6b6b2f4fe2fb3397b202e00dbb2c25faf3e10725</link>
-            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDo2YjZiMmY0ZmUyZmIzMzk3YjIwMmUwMGRiYjJjMjVmYWYzZTEwNzI1</guid>
-            <pubDate>Fri, 13 Jun 2025 17:04:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/6b6b2f4fe2fb3397b202e00dbb2c25faf3e10725">released v1.4.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio-hint released v1.5.1]]></title>
+            <link>https://github.com/jaywcjlove/mousio-hint/commit/b2c25d112c202d58eb8c54f3c97f55240b7a66e4</link>
+            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDpiMmMyNWQxMTJjMjAyZDU4ZWI4YzU0ZjNjOTdmNTUyNDBiN2E2NmU0</guid>
+            <pubDate>Sat, 14 Jun 2025 16:38:36 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/b2c25d112c202d58eb8c54f3c97f55240b7a66e4">released v1.5.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
