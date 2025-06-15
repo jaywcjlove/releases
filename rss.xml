@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Jun 2025 17:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 05:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.17.1]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/a47962e50c91f4ebaa88a6f34d7715d8625db701</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OmE0Nzk2MmU1MGM5MWY0ZWJhYTg4YTZmMzRkNzcxNWQ4NjI1ZGI3MDE=</guid>
+            <pubDate>Sun, 15 Jun 2025 03:06:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/a47962e50c91f4ebaa88a6f34d7715d8625db701">released v2.17.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio-hint released v1.5.1]]></title>
             <link>https://github.com/jaywcjlove/mousio-hint/commit/b2c25d112c202d58eb8c54f3c97f55240b7a66e4</link>
@@ -1836,14 +1844,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Tue, 10 Sep 2024 18:14:24 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/e26ca151a61bff6d03314e5e52b738285d8d7128">released v4.23.2 #681</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.33.2]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/cb5af8659fc49ec49ba8fe3d8e77970793543072</link>
-            <guid>MDY6Q29tbWl0NDIzODEwNjc6Y2I1YWY4NjU5ZmM0OWVjNDliYThmZTNkOGU3Nzk3MDc5MzU0MzA3Mg==</guid>
-            <pubDate>Thu, 05 Sep 2024 09:23:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/cb5af8659fc49ec49ba8fe3d8e77970793543072">released v1.33.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/province-city-china released v8.5.8]]></title>

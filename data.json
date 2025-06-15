@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmE0Nzk2MmU1MGM5MWY0ZWJhYTg4YTZmMzRkNzcxNWQ4NjI1ZGI3MDE=",
+    "type": "commits",
+    "title": "released v2.17.1",
+    "repo": "jaywcjlove/free-font",
+    "sha": "a47962e50c91f4ebaa88a6f34d7715d8625db701",
+    "url": "https://github.com/jaywcjlove/free-font/commit/a47962e50c91f4ebaa88a6f34d7715d8625db701",
+    "created_at": "2025-06-15T11:06:30.000+08:00",
+    "state": "committer",
+    "version": "2.17.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDpiMmMyNWQxMTJjMjAyZDU4ZWI4YzU0ZjNjOTdmNTUyNDBiN2E2NmU0",
     "type": "commits",
     "title": "released v1.5.1",
@@ -2495,17 +2506,6 @@
     "created_at": "2024-09-11T02:14:24.000+08:00",
     "state": "committer",
     "version": "4.23.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDIzODEwNjc6Y2I1YWY4NjU5ZmM0OWVjNDliYThmZTNkOGU3Nzk3MDc5MzU0MzA3Mg==",
-    "type": "commits",
-    "title": "released v1.33.2",
-    "repo": "jaywcjlove/idoc",
-    "sha": "cb5af8659fc49ec49ba8fe3d8e77970793543072",
-    "url": "https://github.com/jaywcjlove/idoc/commit/cb5af8659fc49ec49ba8fe3d8e77970793543072",
-    "created_at": "2024-09-05T17:23:40.000+08:00",
-    "state": "committer",
-    "version": "1.33.2"
   },
   {
     "id": "MDY6Q29tbWl0ODUyMDg5NzY6YzIxODBkMzg0ZDZjNmIzMzJlMDFhZGViMDgxNWViZDRhNzQxYmU1Zg==",
