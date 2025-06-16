@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 16 Jun 2025 05:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/ce03ed8bdce96e14d3b34856bd785e366d93cd0b</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmNlMDNlZDhiZGNlOTZlMTRkM2IzNDg1NmJkNzg1ZTM2NmQ5M2NkMGI=</guid>
+            <pubDate>Mon, 16 Jun 2025 16:42:57 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/ce03ed8bdce96e14d3b34856bd785e366d93cd0b">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/0a4912a4db03383232500c97810cd72822bb0fe3</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjBhNDkxMmE0ZGIwMzM4MzIzMjUwMGM5NzgxMGNkNzI4MjJiYjBmZTM=</guid>
+            <pubDate>Mon, 16 Jun 2025 13:46:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/0a4912a4db03383232500c97810cd72822bb0fe3">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.12 #515]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/99adbb20b5c1d9780d6e0625de4d9c39c620a8e9</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6OTlhZGJiMjBiNWMxZDk3ODBkNmUwNjI1ZGU0ZDljMzljNjIwYThlOQ==</guid>
+            <pubDate>Mon, 16 Jun 2025 09:03:57 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/99adbb20b5c1d9780d6e0625de4d9c39c620a8e9">released v3.13.12 #515</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.17.1]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/a47962e50c91f4ebaa88a6f34d7715d8625db701</link>
@@ -1806,14 +1830,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.13.0]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/da9dbd0fb15f8a01ffb109e755e6b92c9b639266</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OmRhOWRiZDBmYjE1ZjhhMDFmZmIxMDllNzU1ZTZiOTJjOWI2MzkyNjY=</guid>
-            <pubDate>Tue, 17 Sep 2024 14:13:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/da9dbd0fb15f8a01ffb109e755e6b92c9b639266">released v2.13.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/markdown-to-html released v3.0.3]]></title>
             <link>https://github.com/jaywcjlove/markdown-to-html/commit/8291f2dfa1b59b1f1e183a2b561ec29f88e3a24a</link>
             <guid>MDY6Q29tbWl0NDY5Mzk0MTY5OjgyOTFmMmRmYTFiNTliMWYxZTE4M2EyYjU2MWVjMjlmODhlM2EyNGE=</guid>
@@ -1844,22 +1860,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Tue, 10 Sep 2024 18:14:24 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/e26ca151a61bff6d03314e5e52b738285d8d7128">released v4.23.2 #681</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/province-city-china released v8.5.8]]></title>
-            <link>https://github.com/uiwjs/province-city-china/commit/c2180d384d6c6b332e01adeb0815ebd4a741be5f</link>
-            <guid>MDY6Q29tbWl0ODUyMDg5NzY6YzIxODBkMzg0ZDZjNmIzMzJlMDFhZGViMDgxNWViZDRhNzQxYmU1Zg==</guid>
-            <pubDate>Thu, 05 Sep 2024 07:57:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/province-city-china/commit/c2180d384d6c6b332e01adeb0815ebd4a741be5f">released v8.5.8</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/linux-command released v1.19.0]]></title>
-            <link>https://github.com/jaywcjlove/linux-command/commit/424972567368f0518da79aac5c449afe3e645ffe</link>
-            <guid>MDY6Q29tbWl0NzM1NjE2NTA6NDI0OTcyNTY3MzY4ZjA1MThkYTc5YWFjNWM0NDlhZmUzZTY0NWZmZQ==</guid>
-            <pubDate>Tue, 03 Sep 2024 05:44:57 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/424972567368f0518da79aac5c449afe3e645ffe">released v1.19.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>

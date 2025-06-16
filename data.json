@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmNlMDNlZDhiZGNlOTZlMTRkM2IzNDg1NmJkNzg1ZTM2NmQ5M2NkMGI=",
+    "type": "commits",
+    "title": "released v1.7.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "ce03ed8bdce96e14d3b34856bd785e366d93cd0b",
+    "url": "https://github.com/jaywcjlove/mousio/commit/ce03ed8bdce96e14d3b34856bd785e366d93cd0b",
+    "created_at": "2025-06-17T00:42:57.000+08:00",
+    "state": "committer",
+    "version": "1.7.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjBhNDkxMmE0ZGIwMzM4MzIzMjUwMGM5NzgxMGNkNzI4MjJiYjBmZTM=",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "0a4912a4db03383232500c97810cd72822bb0fe3",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/0a4912a4db03383232500c97810cd72822bb0fe3",
+    "created_at": "2025-06-16T21:46:11.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6OTlhZGJiMjBiNWMxZDk3ODBkNmUwNjI1ZGU0ZDljMzljNjIwYThlOQ==",
+    "type": "commits",
+    "title": "released v3.13.12 #515",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "99adbb20b5c1d9780d6e0625de4d9c39c620a8e9",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/99adbb20b5c1d9780d6e0625de4d9c39c620a8e9",
+    "created_at": "2025-06-16T17:03:57.000+08:00",
+    "state": "committer",
+    "version": "3.13.12"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmE0Nzk2MmU1MGM5MWY0ZWJhYTg4YTZmMzRkNzcxNWQ4NjI1ZGI3MDE=",
     "type": "commits",
     "title": "released v2.17.1",
@@ -2453,17 +2486,6 @@
     "version": ""
   },
   {
-    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmRhOWRiZDBmYjE1ZjhhMDFmZmIxMDllNzU1ZTZiOTJjOWI2MzkyNjY=",
-    "type": "commits",
-    "title": "released v2.13.0",
-    "repo": "jaywcjlove/free-font",
-    "sha": "da9dbd0fb15f8a01ffb109e755e6b92c9b639266",
-    "url": "https://github.com/jaywcjlove/free-font/commit/da9dbd0fb15f8a01ffb109e755e6b92c9b639266",
-    "created_at": "2024-09-17T22:13:14.000+08:00",
-    "state": "committer",
-    "version": "2.13.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NDY5Mzk0MTY5OjgyOTFmMmRmYTFiNTliMWYxZTE4M2EyYjU2MWVjMjlmODhlM2EyNGE=",
     "type": "commits",
     "title": "released v3.0.3",
@@ -2508,28 +2530,6 @@
     "version": "4.23.2"
   },
   {
-    "id": "MDY6Q29tbWl0ODUyMDg5NzY6YzIxODBkMzg0ZDZjNmIzMzJlMDFhZGViMDgxNWViZDRhNzQxYmU1Zg==",
-    "type": "commits",
-    "title": "released v8.5.8",
-    "repo": "uiwjs/province-city-china",
-    "sha": "c2180d384d6c6b332e01adeb0815ebd4a741be5f",
-    "url": "https://github.com/uiwjs/province-city-china/commit/c2180d384d6c6b332e01adeb0815ebd4a741be5f",
-    "created_at": "2024-09-05T15:57:22.000+08:00",
-    "state": "committer",
-    "version": "8.5.8"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzM1NjE2NTA6NDI0OTcyNTY3MzY4ZjA1MThkYTc5YWFjNWM0NDlhZmUzZTY0NWZmZQ==",
-    "type": "commits",
-    "title": "released v1.19.0",
-    "repo": "jaywcjlove/linux-command",
-    "sha": "424972567368f0518da79aac5c449afe3e645ffe",
-    "url": "https://github.com/jaywcjlove/linux-command/commit/424972567368f0518da79aac5c449afe3e645ffe",
-    "created_at": "2024-09-03T13:44:57.000+08:00",
-    "state": "committer",
-    "version": "1.19.0"
-  },
-  {
     "id": 2188086718,
     "type": "Organization",
     "repo": "remarkjs/remark",
@@ -2549,7 +2549,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "295"
+    "stars": "296"
   },
   {
     "id": 1838600360,
