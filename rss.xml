@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 18 Jun 2025 05:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.6.0 #182]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/1018b2e49c2dc0b1e8f7d4f8e8881f880a58f07a</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjEwMThiMmU0OWMyZGMwYjFlOGY3ZDRmOGU4ODgxZjg4MGE1OGYwN2E=</guid>
+            <pubDate>Wed, 18 Jun 2025 17:03:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/1018b2e49c2dc0b1e8f7d4f8e8881f880a58f07a">released v2.6.0 #182</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio-hint released v1.5.2]]></title>
             <link>https://github.com/jaywcjlove/mousio-hint/commit/cee91115b736012b5823ebe48d4fa77c63983e7d</link>
