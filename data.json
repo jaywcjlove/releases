@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjMwODAzMzBhN2Y4ZTQ0NDEzYzcyMzlkNWYxNzg2OTUwZTcwNzI5OWU=",
+    "type": "commits",
+    "title": "released v1.8.1",
+    "repo": "jaywcjlove/iconed",
+    "sha": "3080330a7f8e44413c7239d5f1786950e707299e",
+    "url": "https://github.com/jaywcjlove/iconed/commit/3080330a7f8e44413c7239d5f1786950e707299e",
+    "created_at": "2025-06-19T05:47:10.000+08:00",
+    "state": "committer",
+    "version": "1.8.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjEwMThiMmU0OWMyZGMwYjFlOGY3ZDRmOGU4ODgxZjg4MGE1OGYwN2E=",
     "type": "commits",
     "title": "released v2.6.0 #182",
@@ -2508,17 +2519,6 @@
     "version": "0.5.6"
   },
   {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0Ojc3Zjg3OGMwMmVjNGMxYzU5OTViOTBhZDliOTY1N2M3ZTYxM2Q1MTY=",
-    "type": "commits",
-    "title": "released v7.1.3 #375",
-    "repo": "uiwjs/react-amap",
-    "sha": "77f878c02ec4c1c5995b90ad9b9657c7e613d516",
-    "url": "https://github.com/uiwjs/react-amap/commit/77f878c02ec4c1c5995b90ad9b9657c7e613d516",
-    "created_at": "2024-09-20T19:29:27.000+08:00",
-    "state": "committer",
-    "version": "7.1.3"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2549,7 +2549,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "298"
+    "stars": "299"
   },
   {
     "id": 1838600360,
@@ -2868,7 +2868,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "362"
+    "stars": "363"
   },
   {
     "id": 571407407,
