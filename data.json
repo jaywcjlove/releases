@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "4fdd6bb5b4e260fb4816d7a679e9329b39e6f195",
+    "url": "https://github.com/jaywcjlove/mousio/commit/4fdd6bb5b4e260fb4816d7a679e9329b39e6f195",
+    "created_at": "2025-06-22T04:17:29.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmU5NzBhMjcxZTJlNjgwYTFlNmE4NDk1MzVjNGFjMWVjY2UyNzlkMDI=",
     "type": "commits",
     "title": "released v1.8.0",
@@ -2453,17 +2464,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOmYwZmM4MWExOGUwYThhN2RjZTBhZGM5ZjRiNzQ4YzZlMjQ2Y2VkMDc=",
-    "type": "commits",
-    "title": "released v2.2.2 #126",
-    "repo": "jaywcjlove/changelog-generator",
-    "sha": "f0fc81a18e0a8a7dce0adc9f4b748c6e246ced07",
-    "url": "https://github.com/jaywcjlove/changelog-generator/commit/f0fc81a18e0a8a7dce0adc9f4b748c6e246ced07",
-    "created_at": "2024-09-27T17:22:22.000+08:00",
-    "state": "committer",
-    "version": "2.2.2"
-  },
-  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjQ3MTU3Y2QzNDllZDBiMmYxMWEwMTFmNWQxMjQzNDAyNmZlM2E2Y2U=",
     "type": "commits",
     "title": "released v2.3.2 #159",
@@ -2484,17 +2484,6 @@
     "created_at": "2024-09-24T14:38:13.000+08:00",
     "state": "committer",
     "version": "1.5.6"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmZlZWFiZDc2YTM0NWIwZjdmOGRiMWRlYWNjM2YzMDhkNGNlNWJjZGU=",
-    "type": "commits",
-    "title": "released v0.5.6",
-    "repo": "jaywcjlove/typenexus",
-    "sha": "feeabd76a345b0f7f8db1deacc3f308d4ce5bcde",
-    "url": "https://github.com/jaywcjlove/typenexus/commit/feeabd76a345b0f7f8db1deacc3f308d4ce5bcde",
-    "created_at": "2024-09-22T15:37:11.000+08:00",
-    "state": "committer",
-    "version": "0.5.6"
   },
   {
     "id": 2526870275,
@@ -2604,7 +2593,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "733"
+    "stars": "734"
   },
   {
     "id": 1086792263,
@@ -2813,7 +2802,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "424"
+    "stars": "425"
   },
   {
     "id": 660217683,
