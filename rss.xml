@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 22 Jun 2025 17:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 05:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[homielab/mountmate feat: add Chinese localization.]]></title>
+            <link>https://github.com/homielab/mountmate/pull/5</link>
+            <guid>3166797930</guid>
+            <pubDate>Mon, 23 Jun 2025 05:12:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/homielab/mountmate/pull/5">feat: add Chinese localization.</a>]]></description>
+            <enclosure url="https://github.com/homielab.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v1.9.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/4fdd6bb5b4e260fb4816d7a679e9329b39e6f195</link>

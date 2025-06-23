@@ -1,5 +1,16 @@
 [
   {
+    "id": 3166797930,
+    "type": "Organization",
+    "repo": "homielab/mountmate",
+    "title": "feat: add Chinese localization.",
+    "url": "https://github.com/homielab/mountmate/pull/5",
+    "created_at": "2025-06-23T05:12:39Z",
+    "state": "open",
+    "number": 5,
+    "stars": "168"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
     "type": "commits",
     "title": "released v1.9.0",
