@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 24 Jun 2025 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 17:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -17,10 +17,10 @@
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[homielab/mountmate feat: add Chinese localization.]]></title>
-            <link>https://github.com/homielab/mountmate/pull/5</link>
-            <guid>3166797930</guid>
-            <pubDate>Mon, 23 Jun 2025 05:12:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/homielab/mountmate/pull/5">feat: add Chinese localization.</a>]]></description>
+            <link>https://github.com/homielab/mountmate/pull/6</link>
+            <guid>3172005346</guid>
+            <pubDate>Tue, 24 Jun 2025 13:25:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/homielab/mountmate/pull/6">feat: add Chinese localization.</a>]]></description>
             <enclosure url="https://github.com/homielab.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -1,14 +1,14 @@
 [
   {
-    "id": 3166797930,
+    "id": 3172005346,
     "type": "Organization",
     "repo": "homielab/mountmate",
     "title": "feat: add Chinese localization.",
-    "url": "https://github.com/homielab/mountmate/pull/5",
-    "created_at": "2025-06-23T05:12:39Z",
-    "state": "open",
-    "number": 5,
-    "stars": "172"
+    "url": "https://github.com/homielab/mountmate/pull/6",
+    "created_at": "2025-06-24T13:25:02Z",
+    "state": "merged",
+    "number": 6,
+    "stars": "175"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2527,7 +2527,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "300"
+    "stars": "303"
   },
   {
     "id": 1838600360,
