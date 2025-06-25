@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 24 Jun 2025 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 05:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/59c7a0e5f3c89eafe49e4a6434dcd770b1563b3d</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo1OWM3YTBlNWYzYzg5ZWFmZTQ5ZTRhNjQzNGRjZDc3MGIxNTYzYjNk</guid>
+            <pubDate>Tue, 24 Jun 2025 18:45:42 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/59c7a0e5f3c89eafe49e4a6434dcd770b1563b3d">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[homielab/mountmate feat: add Chinese localization.]]></title>
             <link>https://github.com/homielab/mountmate/pull/6</link>
@@ -1819,22 +1827,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjI3Y2JjNzFlYThmMTY0OGVhMjgwMDRhMGEyOGYzYmYzZjg4OTY2ODQ=</guid>
             <pubDate>Sun, 29 Sep 2024 09:08:37 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/27cbc71ea8f1648ea28004a0a28f3bf3f8896684">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.3.2 #159]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/47157cd349ed0b2f11a011f5d12434026fe3a6ce</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjQ3MTU3Y2QzNDllZDBiMmYxMWEwMTFmNWQxMjQzNDAyNmZlM2E2Y2U=</guid>
-            <pubDate>Fri, 27 Sep 2024 05:53:52 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/47157cd349ed0b2f11a011f5d12434026fe3a6ce">released v2.3.2 #159</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/refs-cli released v1.5.6]]></title>
-            <link>https://github.com/jaywcjlove/refs-cli/commit/96289ee29f57d257f625ce17c5ab7bc29fd2bd33</link>
-            <guid>MDY6Q29tbWl0NTY5OTQwOTE2Ojk2Mjg5ZWUyOWY1N2QyNTdmNjI1Y2UxN2M1YWI3YmMyOWZkMmJkMzM=</guid>
-            <pubDate>Tue, 24 Sep 2024 06:38:13 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/96289ee29f57d257f625ce17c5ab7bc29fd2bd33">released v1.5.6</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

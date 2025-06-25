@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo1OWM3YTBlNWYzYzg5ZWFmZTQ5ZTRhNjQzNGRjZDc3MGIxNTYzYjNk",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "59c7a0e5f3c89eafe49e4a6434dcd770b1563b3d",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/59c7a0e5f3c89eafe49e4a6434dcd770b1563b3d",
+    "created_at": "2025-06-25T02:45:42.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": 3172005346,
     "type": "Organization",
     "repo": "homielab/mountmate",
@@ -8,7 +19,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "175"
+    "stars": "176"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2475,28 +2486,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjQ3MTU3Y2QzNDllZDBiMmYxMWEwMTFmNWQxMjQzNDAyNmZlM2E2Y2U=",
-    "type": "commits",
-    "title": "released v2.3.2 #159",
-    "repo": "uiwjs/react-color",
-    "sha": "47157cd349ed0b2f11a011f5d12434026fe3a6ce",
-    "url": "https://github.com/uiwjs/react-color/commit/47157cd349ed0b2f11a011f5d12434026fe3a6ce",
-    "created_at": "2024-09-27T13:53:52.000+08:00",
-    "state": "committer",
-    "version": "2.3.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTY5OTQwOTE2Ojk2Mjg5ZWUyOWY1N2QyNTdmNjI1Y2UxN2M1YWI3YmMyOWZkMmJkMzM=",
-    "type": "commits",
-    "title": "released v1.5.6",
-    "repo": "jaywcjlove/refs-cli",
-    "sha": "96289ee29f57d257f625ce17c5ab7bc29fd2bd33",
-    "url": "https://github.com/jaywcjlove/refs-cli/commit/96289ee29f57d257f625ce17c5ab7bc29fd2bd33",
-    "created_at": "2024-09-24T14:38:13.000+08:00",
-    "state": "committer",
-    "version": "1.5.6"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2604,7 +2593,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "734"
+    "stars": "735"
   },
   {
     "id": 1086792263,
