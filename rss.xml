@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 28 Jun 2025 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 17:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/4e9e6b60a996cc6eabcbc5a0c0399d1dc62fb742</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjRlOWU2YjYwYTk5NmNjNmVhYmNiYzVhMGMwMzk5ZDFkYzYyZmI3NDI=</guid>
+            <pubDate>Sat, 28 Jun 2025 16:44:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/4e9e6b60a996cc6eabcbc5a0c0399d1dc62fb742">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.17.2]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/47b0f868aba9d63216b12d00f6daa6123d6d5e86</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjQ3YjBmODY4YWJhOWQ2MzIxNmIxMmQwMGY2ZGFhNjEyM2Q2ZDVlODY=</guid>
+            <pubDate>Sat, 28 Jun 2025 13:02:31 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/47b0f868aba9d63216b12d00f6daa6123d6d5e86">released v2.17.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v1.10.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/3a24b526b396ba842b232aa5744108edb7e19906</link>
@@ -1823,22 +1839,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjMxNzE0Y2UzZTRlZjZmMjJhZWQ2ZWQxNjM0ODIwNDAyZGE2MTNmMGE=</guid>
             <pubDate>Mon, 14 Oct 2024 19:56:54 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/31714ce3e4ef6f22aed6ed1634820402da613f0a">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.23.5 #688]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/ed1e51559e0557d987639796233598eb0f211874</link>
-            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OmVkMWU1MTU1OWUwNTU3ZDk4NzYzOTc5NjIzMzU5OGViMGYyMTE4NzQ=</guid>
-            <pubDate>Sat, 05 Oct 2024 01:18:35 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/ed1e51559e0557d987639796233598eb0f211874">released v4.23.5 #688</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/coverage-badges-cli released v2.1.0 #35]]></title>
-            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/798bfe89ba3cca18919cb0937883f4e06bfb54ee</link>
-            <guid>MDY6Q29tbWl0NDA4MjMyNjc0Ojc5OGJmZTg5YmEzY2NhMTg5MTljYjA5Mzc4ODNmNGUwNmJmYjU0ZWU=</guid>
-            <pubDate>Fri, 04 Oct 2024 12:02:52 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/798bfe89ba3cca18919cb0937883f4e06bfb54ee">released v2.1.0 #35</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

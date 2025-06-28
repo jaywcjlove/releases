@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRlOWU2YjYwYTk5NmNjNmVhYmNiYzVhMGMwMzk5ZDFkYzYyZmI3NDI=",
+    "type": "commits",
+    "title": "released v1.11.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "4e9e6b60a996cc6eabcbc5a0c0399d1dc62fb742",
+    "url": "https://github.com/jaywcjlove/mousio/commit/4e9e6b60a996cc6eabcbc5a0c0399d1dc62fb742",
+    "created_at": "2025-06-29T00:44:07.000+08:00",
+    "state": "committer",
+    "version": "1.11.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjQ3YjBmODY4YWJhOWQ2MzIxNmIxMmQwMGY2ZGFhNjEyM2Q2ZDVlODY=",
+    "type": "commits",
+    "title": "released v2.17.2",
+    "repo": "jaywcjlove/free-font",
+    "sha": "47b0f868aba9d63216b12d00f6daa6123d6d5e86",
+    "url": "https://github.com/jaywcjlove/free-font/commit/47b0f868aba9d63216b12d00f6daa6123d6d5e86",
+    "created_at": "2025-06-28T21:02:31.000+08:00",
+    "state": "committer",
+    "version": "2.17.2"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjNhMjRiNTI2YjM5NmJhODQyYjIzMmFhNTc0NDEwOGVkYjdlMTk5MDY=",
     "type": "commits",
     "title": "released v1.10.0",
@@ -52,7 +74,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "182"
+    "stars": "183"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2473,28 +2495,6 @@
     "created_at": "2024-10-15T03:56:54.000+08:00",
     "state": "committer",
     "version": "1.8.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmVkMWU1MTU1OWUwNTU3ZDk4NzYzOTc5NjIzMzU5OGViMGYyMTE4NzQ=",
-    "type": "commits",
-    "title": "released v4.23.5 #688",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "ed1e51559e0557d987639796233598eb0f211874",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/ed1e51559e0557d987639796233598eb0f211874",
-    "created_at": "2024-10-05T09:18:35.000+08:00",
-    "state": "committer",
-    "version": "4.23.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0Ojc5OGJmZTg5YmEzY2NhMTg5MTljYjA5Mzc4ODNmNGUwNmJmYjU0ZWU=",
-    "type": "commits",
-    "title": "released v2.1.0 #35",
-    "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "798bfe89ba3cca18919cb0937883f4e06bfb54ee",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/798bfe89ba3cca18919cb0937883f4e06bfb54ee",
-    "created_at": "2024-10-04T20:02:52.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": 2526870275,
