@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODEzOTg3MDk0OmFiNjg4ODdjYjg3YmI2YjljZDYxMjEwNTk0MjE5MGZmNjg5MWE2ZGY=",
+    "type": "commits",
+    "title": "released v1.10.0",
+    "repo": "jaywcjlove/copybook-generator",
+    "sha": "ab68887cb87bb6b9cd612105942190ff6891a6df",
+    "url": "https://github.com/jaywcjlove/copybook-generator/commit/ab68887cb87bb6b9cd612105942190ff6891a6df",
+    "created_at": "2025-06-29T13:43:13.000+08:00",
+    "state": "committer",
+    "version": "1.10.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRlOWU2YjYwYTk5NmNjNmVhYmNiYzVhMGMwMzk5ZDFkYzYyZmI3NDI=",
     "type": "commits",
     "title": "released v1.11.0",
@@ -74,7 +85,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "184"
+    "stars": "185"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
