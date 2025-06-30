@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjliZDAwNDE2ZDJlODMwZjdmMjMyZjEyZTQ5N2I0YjBiNWQyNTY0MWE=",
+    "type": "commits",
+    "title": "released v1.8.1",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "9bd00416d2e830f7f232f12e497b4b0b5d25641a",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/9bd00416d2e830f7f232f12e497b4b0b5d25641a",
+    "created_at": "2025-06-30T11:24:41.000+08:00",
+    "state": "committer",
+    "version": "1.8.1"
+  },
+  {
     "id": "MDY6Q29tbWl0ODEzOTg3MDk0OmFiNjg4ODdjYjg3YmI2YjljZDYxMjEwNTk0MjE5MGZmNjg5MWE2ZGY=",
     "type": "commits",
     "title": "released v1.10.0",
@@ -85,7 +96,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "185"
+    "stars": "186"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2473,17 +2484,6 @@
     "created_at": "2024-10-22T19:48:08.000+08:00",
     "state": "committer",
     "version": "1.33.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjUwNWY3M2U4NGM3MjYxMTEyNDhmNGJmYjViNzJkNDVlODUzODRiMzc=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.29 #59",
-    "repo": "uiwjs/react-json-view",
-    "sha": "505f73e84c726111248f4bfb5b72d45e85384b37",
-    "url": "https://github.com/uiwjs/react-json-view/commit/505f73e84c726111248f4bfb5b72d45e85384b37",
-    "created_at": "2024-10-17T04:16:34.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.29"
   },
   {
     "id": "MDY6Q29tbWl0Mzc5OTEzNDczOmY4MjgwNzYwZTU4ZWM3YTFhZjE2ZjgxODgwNDk5ZDVhNTc2MmU1ZjE=",
