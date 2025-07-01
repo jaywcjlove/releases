@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 01 Jul 2025 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 17:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v1.12.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/c65c091f6b96da54504d600f917fb3fe7542b321</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmM2NWMwOTFmNmI5NmRhNTQ1MDRkNjAwZjkxN2ZiM2ZlNzU0MmIzMjE=</guid>
+            <pubDate>Tue, 01 Jul 2025 14:14:27 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/c65c091f6b96da54504d600f917fb3fe7542b321">released v1.12.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio-hint released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio-hint/commit/e39318e6c4cbe89c298aefcf46fb7520e958f653</link>
+            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDplMzkzMThlNmM0Y2JlODljMjk4YWVmY2Y0NmZiNzUyMGU5NThmNjUz</guid>
+            <pubDate>Tue, 01 Jul 2025 07:36:14 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/e39318e6c4cbe89c298aefcf46fb7520e958f653">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/86a8bfc5a5096541f82ca991864613832e67f81f</link>
@@ -1856,14 +1872,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Wed, 16 Oct 2024 17:18:28 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-textarea-code-editor/commit/f8280760e58ec7a1af16f81880499d5a5762e5f1">released v3.1.0 #175</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/refs-cli released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/refs-cli/commit/31714ce3e4ef6f22aed6ed1634820402da613f0a</link>
-            <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjMxNzE0Y2UzZTRlZjZmMjJhZWQ2ZWQxNjM0ODIwNDAyZGE2MTNmMGE=</guid>
-            <pubDate>Mon, 14 Oct 2024 19:56:54 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/31714ce3e4ef6f22aed6ed1634820402da613f0a">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>

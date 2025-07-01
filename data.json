@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmM2NWMwOTFmNmI5NmRhNTQ1MDRkNjAwZjkxN2ZiM2ZlNzU0MmIzMjE=",
+    "type": "commits",
+    "title": "released v1.12.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "c65c091f6b96da54504d600f917fb3fe7542b321",
+    "url": "https://github.com/jaywcjlove/mousio/commit/c65c091f6b96da54504d600f917fb3fe7542b321",
+    "created_at": "2025-07-01T22:14:27.000+08:00",
+    "state": "committer",
+    "version": "1.12.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDplMzkzMThlNmM0Y2JlODljMjk4YWVmY2Y0NmZiNzUyMGU5NThmNjUz",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/mousio-hint",
+    "sha": "e39318e6c4cbe89c298aefcf46fb7520e958f653",
+    "url": "https://github.com/jaywcjlove/mousio-hint/commit/e39318e6c4cbe89c298aefcf46fb7520e958f653",
+    "created_at": "2025-07-01T15:36:14.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo4NmE4YmZjNWE1MDk2NTQxZjgyY2E5OTE4NjQ2MTM4MzJlNjdmODFm",
     "type": "commits",
     "title": "released v1.1.0",
@@ -118,7 +140,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "186"
+    "stars": "187"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2519,17 +2541,6 @@
     "version": "3.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjMxNzE0Y2UzZTRlZjZmMjJhZWQ2ZWQxNjM0ODIwNDAyZGE2MTNmMGE=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/refs-cli",
-    "sha": "31714ce3e4ef6f22aed6ed1634820402da613f0a",
-    "url": "https://github.com/jaywcjlove/refs-cli/commit/31714ce3e4ef6f22aed6ed1634820402da613f0a",
-    "created_at": "2024-10-15T03:56:54.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2846,7 +2857,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "425"
+    "stars": "426"
   },
   {
     "id": 660217683,
