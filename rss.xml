@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 03 Jul 2025 05:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/code-image released v1.0.9]]></title>
+            <link>https://github.com/jaywcjlove/code-image/commit/936806c18f79eafec4020a0268df313065f174fd</link>
+            <guid>MDY6Q29tbWl0NTMzODIxMjc2OjkzNjgwNmMxOGY3OWVhZmVjNDAyMGEwMjY4ZGYzMTMwNjVmMTc0ZmQ=</guid>
+            <pubDate>Thu, 03 Jul 2025 06:58:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/code-image/commit/936806c18f79eafec4020a0268df313065f174fd">released v1.0.9</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v1.12.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/c65c091f6b96da54504d600f917fb3fe7542b321</link>
@@ -1864,14 +1872,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Tue, 22 Oct 2024 11:48:08 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/86a12ab27d8b148647724f717586648b06c95a8f">released v1.33.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-textarea-code-editor released v3.1.0 #175]]></title>
-            <link>https://github.com/uiwjs/react-textarea-code-editor/commit/f8280760e58ec7a1af16f81880499d5a5762e5f1</link>
-            <guid>MDY6Q29tbWl0Mzc5OTEzNDczOmY4MjgwNzYwZTU4ZWM3YTFhZjE2ZjgxODgwNDk5ZDVhNTc2MmU1ZjE=</guid>
-            <pubDate>Wed, 16 Oct 2024 17:18:28 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-textarea-code-editor/commit/f8280760e58ec7a1af16f81880499d5a5762e5f1">released v3.1.0 #175</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
