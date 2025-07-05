@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 05 Jul 2025 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jul 2025 17:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.24.0 #740]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/d320d95f1b2c33ebbc9ccbe14f2def5bd8a57539</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OmQzMjBkOTVmMWIyYzMzZWJiYzljY2JlMTRmMmRlZjViZDhhNTc1Mzk=</guid>
+            <pubDate>Sat, 05 Jul 2025 09:35:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/d320d95f1b2c33ebbc9ccbe14f2def5bd8a57539">released v4.24.0 #740</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/code-image released v1.0.9]]></title>
             <link>https://github.com/jaywcjlove/code-image/commit/936806c18f79eafec4020a0268df313065f174fd</link>
@@ -1856,14 +1864,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Thu, 24 Oct 2024 09:42:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/kktjs/markdown-react-code-preview-loader/commit/cf7764840ff8dbc857877be61b45ab8b894f9a69">released v2.1.9</a>]]></description>
             <enclosure url="https://github.com/kktjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.30 #61]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/3208d8269950a17463b9688dc9d7bac9af89aae5</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjMyMDhkODI2OTk1MGExNzQ2M2I5Njg4ZGM5ZDdiYWM5YWY4OWFhZTU=</guid>
-            <pubDate>Wed, 23 Oct 2024 15:53:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/3208d8269950a17463b9688dc9d7bac9af89aae5">released v2.0.0-alpha.30 #61</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/idoc released v1.33.3]]></title>
