@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 08 Jul 2025 17:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 05:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/linux-command released v1.21.0]]></title>
+            <link>https://github.com/jaywcjlove/linux-command/commit/059fcaea4b01779e5d7b34cf825180152afa1945</link>
+            <guid>MDY6Q29tbWl0NzM1NjE2NTA6MDU5ZmNhZWE0YjAxNzc5ZTVkN2IzNGNmODI1MTgwMTUyYWZhMTk0NQ==</guid>
+            <pubDate>Wed, 09 Jul 2025 03:20:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/059fcaea4b01779e5d7b34cf825180152afa1945">released v1.21.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.33 #59]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/74804a5dafe5caa73ce8baf3473aee8a4e071395</link>
@@ -1856,14 +1864,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Fri, 08 Nov 2024 10:32:40 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b">released v2.3.0  #132</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v1.3.0 #4]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/e9c3ca4b581f743bc0832f3a7425749a19262f2c</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOmU5YzNjYTRiNTgxZjc0M2JjMDgzMmYzYTc0MjU3NDlhMTkyNjJmMmM=</guid>
-            <pubDate>Fri, 01 Nov 2024 05:19:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/e9c3ca4b581f743bc0832f3a7425749a19262f2c">released v1.3.0 #4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[kktjs/markdown-react-code-preview-loader released v2.1.9]]></title>
