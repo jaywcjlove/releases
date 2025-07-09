@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 09 Jul 2025 05:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.15]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/b9a15f6dcd35e80d710d042ef4280f49b666242f</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6YjlhMTVmNmRjZDM1ZTgwZDcxMGQwNDJlZjQyODBmNDliNjY2MjQyZg==</guid>
+            <pubDate>Wed, 09 Jul 2025 09:19:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/b9a15f6dcd35e80d710d042ef4280f49b666242f">released v3.13.15</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/linux-command released v1.21.0]]></title>
             <link>https://github.com/jaywcjlove/linux-command/commit/059fcaea4b01779e5d7b34cf825180152afa1945</link>
@@ -1864,14 +1872,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Fri, 08 Nov 2024 10:32:40 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b">released v2.3.0  #132</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[kktjs/markdown-react-code-preview-loader released v2.1.9]]></title>
-            <link>https://github.com/kktjs/markdown-react-code-preview-loader/commit/cf7764840ff8dbc857877be61b45ab8b894f9a69</link>
-            <guid>MDY6Q29tbWl0NDg5NTQ4NTgxOmNmNzc2NDg0MGZmOGRiYzg1Nzg3N2JlNjFiNDVhYjhiODk0ZjlhNjk=</guid>
-            <pubDate>Thu, 24 Oct 2024 09:42:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/kktjs/markdown-react-code-preview-loader/commit/cf7764840ff8dbc857877be61b45ab8b894f9a69">released v2.1.9</a>]]></description>
-            <enclosure url="https://github.com/kktjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
