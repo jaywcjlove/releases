@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 09 Jul 2025 17:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 05:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v1.12.0]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/745ae82796c67ec15206524f9addad59a2babf2a</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3Ojc0NWFlODI3OTZjNjdlYzE1MjA2NTI0ZjlhZGRhZDU5YTJiYWJmMmE=</guid>
+            <pubDate>Thu, 10 Jul 2025 02:47:12 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/745ae82796c67ec15206524f9addad59a2babf2a">released v1.12.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.15]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/b9a15f6dcd35e80d710d042ef4280f49b666242f</link>
@@ -1855,22 +1863,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=</guid>
             <pubDate>Sun, 17 Nov 2024 08:52:29 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1">released v2.3.1 #133</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.1.0 #238]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=</guid>
-            <pubDate>Sat, 16 Nov 2024 22:33:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55">released v6.1.0 #238</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-heat-map released v2.3.0  #132]]></title>
-            <link>https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b</link>
-            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjBjYmQwMjY3NGE2M2YyYzAyOTU4NTFiNGFlMDhlOTA1NmZlMzk4OWI=</guid>
-            <pubDate>Fri, 08 Nov 2024 10:32:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b">released v2.3.0  #132</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

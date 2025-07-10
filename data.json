@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3Ojc0NWFlODI3OTZjNjdlYzE1MjA2NTI0ZjlhZGRhZDU5YTJiYWJmMmE=",
+    "type": "commits",
+    "title": "released v1.12.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "745ae82796c67ec15206524f9addad59a2babf2a",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/745ae82796c67ec15206524f9addad59a2babf2a",
+    "created_at": "2025-07-10T10:47:12.000+08:00",
+    "state": "committer",
+    "version": "1.12.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6YjlhMTVmNmRjZDM1ZTgwZDcxMGQwNDJlZjQyODBmNDliNjY2MjQyZg==",
     "type": "commits",
     "title": "released v3.13.15",
@@ -206,7 +217,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "217"
+    "stars": "219"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2519,28 +2530,6 @@
     "version": "2.3.1"
   },
   {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjllZWViM2MwZWUwZjVmZTk3ZTI4NjBiNGM1MjcwZTE2NjRmZTBmNTU=",
-    "type": "commits",
-    "title": "released v6.1.0 #238",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/9eeeb3c0ee0f5fe97e2860b4c5270e1664fe0f55",
-    "created_at": "2024-11-17T06:33:47.000+08:00",
-    "state": "committer",
-    "version": "6.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjBjYmQwMjY3NGE2M2YyYzAyOTU4NTFiNGFlMDhlOTA1NmZlMzk4OWI=",
-    "type": "commits",
-    "title": "released v2.3.0  #132",
-    "repo": "uiwjs/react-heat-map",
-    "sha": "0cbd02674a63f2c0295851b4ae08e9056fe3989b",
-    "url": "https://github.com/uiwjs/react-heat-map/commit/0cbd02674a63f2c0295851b4ae08e9056fe3989b",
-    "created_at": "2024-11-08T18:32:40.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2868,7 +2857,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "27.0K"
+    "stars": "27.1K"
   },
   {
     "id": 590022379,
