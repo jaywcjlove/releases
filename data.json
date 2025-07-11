@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjJlNjI3NTc0MzZjYTliNzRjYzg5MTg0Mzk0NDY5OGJhYWFhYmY1N2I=",
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjljZTkxYWFiMzJjOWY4MWRkZjdjYTZhZjA0MmEyZjUzZDk1MTgxMDA=",
     "type": "commits",
-    "title": "released v1.13.0",
+    "title": "released v1.14.0",
     "repo": "jaywcjlove/key-clicker",
-    "sha": "2e62757436ca9b74cc891843944698baaaabf57b",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/2e62757436ca9b74cc891843944698baaaabf57b",
-    "created_at": "2025-07-11T11:02:28.000+08:00",
+    "sha": "9ce91aab32c9f81ddf7ca6af042a2f53d9518100",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/9ce91aab32c9f81ddf7ca6af042a2f53d9518100",
+    "created_at": "2025-07-11T22:11:57.000+08:00",
     "state": "committer",
-    "version": "1.13.0"
+    "version": "1.14.0"
   },
   {
     "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjFjNjFkZGQzMjEyOTk1MDllYTJjMDlhZDJiNDBiNDljNmFkY2E3NmE=",
@@ -1265,17 +1265,6 @@
     "version": "1.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmFkYzA1NjQ0Y2UyNTM2NTEzZDgxNmE3ZmM0NWZhNDUwMjk5NTQ5YjE=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "adc05644ce2536513d816a7fc45fa450299549b1",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/adc05644ce2536513d816a7fc45fa450299549b1",
-    "created_at": "2025-04-21T11:59:11.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmM5M2MzZGQwNTZmNDRiODkzOWQ1MTUwMTI0Y2FkMzE5NmU2ZGQ2ODM=",
     "type": "commits",
     "title": "released v1.9.0",
@@ -1362,17 +1351,6 @@
     "created_at": "2025-04-10T16:52:10.000+08:00",
     "state": "committer",
     "version": "1.8.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjM3NzRmMDk2N2FkZmIxNjhhM2IwMDQzYzI3OTQxMDU5OTgyM2U2MWY=",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "3774f0967adfb168a3b0043c279410599823e61f",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/3774f0967adfb168a3b0043c279410599823e61f",
-    "created_at": "2025-04-07T14:51:16.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmY5ZjZjMGVkN2U4NGMzZjZhZmJkOTgxNmI0MGQxZmQ1MTBkNzA1MjU=",
@@ -2530,17 +2508,6 @@
     "version": "1.7.8"
   },
   {
-    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=",
-    "type": "commits",
-    "title": "released v2.3.1 #133",
-    "repo": "uiwjs/react-heat-map",
-    "sha": "728d195fe05ebf0be3874e3f9287bcf693038fb1",
-    "url": "https://github.com/uiwjs/react-heat-map/commit/728d195fe05ebf0be3874e3f9287bcf693038fb1",
-    "created_at": "2024-11-17T16:52:29.000+08:00",
-    "state": "committer",
-    "version": "2.3.1"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2571,7 +2538,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "309"
+    "stars": "310"
   },
   {
     "id": 1838600360,
