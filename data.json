@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjJlNjI3NTc0MzZjYTliNzRjYzg5MTg0Mzk0NDY5OGJhYWFhYmY1N2I=",
+    "type": "commits",
+    "title": "released v1.13.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "2e62757436ca9b74cc891843944698baaaabf57b",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/2e62757436ca9b74cc891843944698baaaabf57b",
+    "created_at": "2025-07-11T11:02:28.000+08:00",
+    "state": "committer",
+    "version": "1.13.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjFjNjFkZGQzMjEyOTk1MDllYTJjMDlhZDJiNDBiNDljNmFkY2E3NmE=",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/refs-cli",
+    "sha": "1c61ddd321299509ea2c09ad2b40b49c6adca76a",
+    "url": "https://github.com/jaywcjlove/refs-cli/commit/1c61ddd321299509ea2c09ad2b40b49c6adca76a",
+    "created_at": "2025-07-11T02:35:15.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3Ojc0NWFlODI3OTZjNjdlYzE1MjA2NTI0ZjlhZGRhZDU5YTJiYWJmMmE=",
     "type": "commits",
     "title": "released v1.12.0",
@@ -217,7 +239,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "219"
+    "stars": "220"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2506,17 +2528,6 @@
     "created_at": "2024-11-21T10:48:59.000+08:00",
     "state": "committer",
     "version": "1.7.8"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmM5YTc4NTU4NTFjN2ZjZTJkNmFlYjNhOTM3ZGJmMjYwYjc5YzI5OGQ=",
-    "type": "commits",
-    "title": "released v6.1.1 (#248)",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "c9a7855851c7fce2d6aeb3a937dbf260b79c298d",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/c9a7855851c7fce2d6aeb3a937dbf260b79c298d",
-    "created_at": "2024-11-20T11:05:09.000+08:00",
-    "state": "committer",
-    "version": "6.1.1"
   },
   {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjcyOGQxOTVmZTA1ZWJmMGJlMzg3NGUzZjkyODdiY2Y2OTMwMzhmYjE=",
