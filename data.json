@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjNhMmE3Y2EyZDI2YjFhMTMzZTVmOGEwMmM3ZWNmZWViOTU3ZTAzM2Q=",
+    "type": "commits",
+    "title": "released v4.24.1",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "3a2a7ca2d26b1a133e5f8a02c7ecfeeb957e033d",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/3a2a7ca2d26b1a133e5f8a02c7ecfeeb957e033d",
+    "created_at": "2025-07-14T00:59:04.000+08:00",
+    "state": "committer",
+    "version": "4.24.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjQ1ODA1NjExNDkwMWZlYWExYjNkMTUxMGM4Mjg1ZGMyNzA5MDJkNDU=",
     "type": "commits",
     "title": "released v2.7.1",
