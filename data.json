@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk2ZDY5N2QyNjk2MjkzMmUyZjkzN2E2OWMxZjM0MTgzOTIzYWIwYjY=",
+    "type": "commits",
+    "title": "released v1.23.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "96d697d26962932e2f937a69c1f34183923ab0b6",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/96d697d26962932e2f937a69c1f34183923ab0b6",
+    "created_at": "2025-07-14T21:49:44.000+08:00",
+    "state": "committer",
+    "version": "1.23.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjNhMmE3Y2EyZDI2YjFhMTMzZTVmOGEwMmM3ZWNmZWViOTU3ZTAzM2Q=",
     "type": "commits",
     "title": "released v4.24.1",
@@ -2495,17 +2506,6 @@
     "created_at": "2024-12-07T22:49:16.000+08:00",
     "state": "committer",
     "version": "3.0.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmM5MDhjNzdhM2EzNWY4NDJlNmZiYTM0MDgyZWZjNmNmZjlhNmUyMGE=",
-    "type": "commits",
-    "title": "chore: update screenshots. released v1.5.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "c908c77a3a35f842e6fba34082efc6cff9a6e20a",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/c908c77a3a35f842e6fba34082efc6cff9a6e20a",
-    "created_at": "2024-12-06T10:50:59.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
   },
   {
     "id": "MDY6Q29tbWl0NjEzNDM1MjM2OjRjMzMwOTk2MWYzOGQ3MDUxYWY3NDZkZTc1Nzk4NDJlM2Y3M2Q3ZmE=",
