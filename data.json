@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjJmNmJiODc0ZDAxOTM2ZDgzZWQ4Yjk5NzlkNWUwMDI0OWFhZDVlZWE=",
+    "type": "commits",
+    "title": "released v1.8.2",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "2f6bb874d01936d83ed8b9979d5e00249aad5eea",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/2f6bb874d01936d83ed8b9979d5e00249aad5eea",
+    "created_at": "2025-07-15T16:48:25.000+08:00",
+    "state": "committer",
+    "version": "1.8.2"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk2ZDY5N2QyNjk2MjkzMmUyZjkzN2E2OWMxZjM0MTgzOTIzYWIwYjY=",
     "type": "commits",
     "title": "released v1.23.0",
@@ -283,7 +294,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "223"
+    "stars": "224"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2582,7 +2593,7 @@
     "created_at": "2022-09-03T15:45:17Z",
     "state": "merged",
     "number": 377,
-    "stars": "1.9K"
+    "stars": "2.0K"
   },
   {
     "id": 1339700525,
