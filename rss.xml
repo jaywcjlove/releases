@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 16 Jul 2025 17:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 05:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v1.13.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/3fe287d176734eccf1e973a5aa81a1bbd6d52ca7</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjNmZTI4N2QxNzY3MzRlY2NmMWU5NzNhNWFhODFhMWJiZDZkNTJjYTc=</guid>
+            <pubDate>Thu, 17 Jul 2025 03:41:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/3fe287d176734eccf1e973a5aa81a1bbd6d52ca7">released v1.13.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v1.8.2]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/2f6bb874d01936d83ed8b9979d5e00249aad5eea</link>
@@ -1847,14 +1855,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=</guid>
             <pubDate>Tue, 10 Dec 2024 12:52:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/7174a2c8d75b28fa6aca642c109eccf8cf2fd06e">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mocker-api released v3.0.2]]></title>
-            <link>https://github.com/jaywcjlove/mocker-api/commit/5427d091d572f0b3f8e43ab1a628c7018ec7bd85</link>
-            <guid>MDY6Q29tbWl0MTIwNjQxODIzOjU0MjdkMDkxZDU3MmYwYjNmOGU0M2FiMWE2MjhjNzAxOGVjN2JkODU=</guid>
-            <pubDate>Sat, 07 Dec 2024 14:49:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mocker-api/commit/5427d091d572f0b3f8e43ab1a628c7018ec7bd85">released v3.0.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
