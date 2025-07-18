@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 18 Jul 2025 05:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 17:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.0.8 #693]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/187070b4a0cac68cc7f7618e1375f3abebfc61fe</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjE4NzA3MGI0YTBjYWM2OGNjN2Y3NjE4ZTEzNzVmM2FiZWJmYzYxZmU=</guid>
+            <pubDate>Fri, 18 Jul 2025 16:51:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/187070b4a0cac68cc7f7618e1375f3abebfc61fe">released v4.0.8 #693</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v3.2.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/342709b0a650c6fa9a92b6d09d5f6aa492a5b5d9</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OjM0MjcwOWIwYTY1MGM2ZmE5YTkyYjZkMDlkNWY2YWE0OTJhNWI1ZDk=</guid>
+            <pubDate>Fri, 18 Jul 2025 06:05:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/342709b0a650c6fa9a92b6d09d5f6aa492a5b5d9">released v3.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v1.14.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/0cd423262a9d96d095440bfbc9f3221a08aa4f4c</link>
@@ -1794,14 +1810,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.8 #502]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/335c15c11e66d5d137d8a9a2661ca9e8d6673e56</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6MzM1YzE1YzExZTY2ZDVkMTM3ZDhhOWEyNjYxY2E5ZThkNjY3M2U1Ng==</guid>
-            <pubDate>Wed, 11 Dec 2024 13:47:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/335c15c11e66d5d137d8a9a2661ca9e8d6673e56">released v3.13.8 #502</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/refs-cli released v1.8.1]]></title>
             <link>https://github.com/jaywcjlove/refs-cli/commit/18f9da93d6aa3d80e3f7358676828757e7117085</link>
             <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjE4ZjlkYTkzZDZhYTNkODBlM2Y3MzU4Njc2ODI4NzU3ZTcxMTcwODU=</guid>
@@ -1855,14 +1863,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=</guid>
             <pubDate>Tue, 10 Dec 2024 12:52:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/7174a2c8d75b28fa6aca642c109eccf8cf2fd06e">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/typenexus released v0.5.7]]></title>
-            <link>https://github.com/jaywcjlove/typenexus/commit/4c3309961f38d7051af746de7579842e3f73d7fa</link>
-            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OjRjMzMwOTk2MWYzOGQ3MDUxYWY3NDZkZTc1Nzk4NDJlM2Y3M2Q3ZmE=</guid>
-            <pubDate>Mon, 02 Dec 2024 06:22:04 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/4c3309961f38d7051af746de7579842e3f73d7fa">released v0.5.7</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
