@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0Ojg1YmYyYmFiNDZkOWU4NTM3Yjk0MTVmODA2MDRhMjY0ZGU4MmNjN2I=",
+    "type": "commits",
+    "title": "released v1.16.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "85bf2bab46d9e8537b9415f80604a264de82cc7b",
+    "url": "https://github.com/jaywcjlove/mousio/commit/85bf2bab46d9e8537b9415f80604a264de82cc7b",
+    "created_at": "2025-07-20T00:34:06.000+08:00",
+    "state": "committer",
+    "version": "1.16.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjE4NzA3MGI0YTBjYWM2OGNjN2Y3NjE4ZTEzNzVmM2FiZWJmYzYxZmU=",
     "type": "commits",
     "title": "released v4.0.8 #693",
@@ -327,7 +338,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "228"
+    "stars": "232"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2431,17 +2442,6 @@
     "version": "1.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NmMwYjZhNjBiZGY3MmU2YmI3YjM4MzQ1NjE4YzU2MWRiMjVjOTM4Mg==",
-    "type": "commits",
-    "title": "released v3.13.9 #504",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "6c0b6a60bdf72e6bb7b38345618c561db25c9382",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/6c0b6a60bdf72e6bb7b38345618c561db25c9382",
-    "created_at": "2024-12-12T13:09:05.000+08:00",
-    "state": "committer",
-    "version": "3.13.9"
-  },
-  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmI2NjgzZjAwZThjMzIxZDI4NGJjOGFkNDBjOTY5MDUyZjBlMzA5YTE=",
     "type": "commits",
     "title": "released v1.8.0",
@@ -2506,17 +2506,6 @@
     "created_at": "2024-12-11T15:58:38.000+08:00",
     "state": "committer",
     "version": "2.0.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjcxMWZiNzBmMDhjZWVmZGY5NTA1YmMwMTc1MjRjZDE2MjljYmI3MzE=",
-    "type": "commits",
-    "title": "released v2.3.4 #164 #153",
-    "repo": "uiwjs/react-color",
-    "sha": "711fb70f08ceefdf9505bc017524cd1629cbb731",
-    "url": "https://github.com/uiwjs/react-color/commit/711fb70f08ceefdf9505bc017524cd1629cbb731",
-    "created_at": "2024-12-11T12:45:27.000+08:00",
-    "state": "committer",
-    "version": "2.3.4"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=",
@@ -2857,7 +2846,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "27.1K"
+    "stars": "27.2K"
   },
   {
     "id": 590022379,
