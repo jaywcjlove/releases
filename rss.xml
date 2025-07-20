@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 20 Jul 2025 05:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v3.3.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/ed23e3eb3615bf91242e2495d7020ddc3cfc5a38</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmVkMjNlM2ViMzYxNWJmOTEyNDJlMjQ5NWQ3MDIwZGRjM2NmYzVhMzg=</guid>
+            <pubDate>Sun, 20 Jul 2025 13:59:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/ed23e3eb3615bf91242e2495d7020ddc3cfc5a38">released v3.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v1.11.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/d027a6bc5ea996518732398d70c1a96243a5a4ff</link>
@@ -1823,14 +1831,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmNkMWUyMWRiNzg4MDg2YzRmYTljNjdmN2YxNDQ4ZjBiMjlhZjZiM2Q=</guid>
             <pubDate>Wed, 11 Dec 2024 10:17:20 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/cd1e21db788086c4fa9c67f7f1448f0b29af6b3d">released v1.6.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.33.4]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/05fb69a983952a492e3534cecdf0e03c6f4e6c9c</link>
-            <guid>MDY6Q29tbWl0NDIzODEwNjc6MDVmYjY5YTk4Mzk1MmE0OTJlMzUzNGNlY2RmMGUwM2M2ZjRlNmM5Yw==</guid>
-            <pubDate>Wed, 11 Dec 2024 10:04:19 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/05fb69a983952a492e3534cecdf0e03c6f4e6c9c">released v1.33.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

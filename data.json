@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmVkMjNlM2ViMzYxNWJmOTEyNDJlMjQ5NWQ3MDIwZGRjM2NmYzVhMzg=",
+    "type": "commits",
+    "title": "released v3.3.0",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "ed23e3eb3615bf91242e2495d7020ddc3cfc5a38",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/ed23e3eb3615bf91242e2495d7020ddc3cfc5a38",
+    "created_at": "2025-07-20T21:59:59.000+08:00",
+    "state": "committer",
+    "version": "3.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmQwMjdhNmJjNWVhOTk2NTE4NzMyMzk4ZDcwYzFhOTYyNDNhNWE0ZmY=",
     "type": "commits",
     "title": "released v1.11.0",
@@ -349,7 +360,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "233"
+    "stars": "234"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2475,17 +2486,6 @@
     "version": "1.6.1"
   },
   {
-    "id": "MDY6Q29tbWl0NDIzODEwNjc6MDVmYjY5YTk4Mzk1MmE0OTJlMzUzNGNlY2RmMGUwM2M2ZjRlNmM5Yw==",
-    "type": "commits",
-    "title": "released v1.33.4",
-    "repo": "jaywcjlove/idoc",
-    "sha": "05fb69a983952a492e3534cecdf0e03c6f4e6c9c",
-    "url": "https://github.com/jaywcjlove/idoc/commit/05fb69a983952a492e3534cecdf0e03c6f4e6c9c",
-    "created_at": "2024-12-11T18:04:19.000+08:00",
-    "state": "committer",
-    "version": "1.33.4"
-  },
-  {
     "id": "MDY6Q29tbWl0MTg0OTE4NDQ2Ojc4NTBjYzkyYThlOTM5NWZlYTRlMDYzM2JlZGY1OGY1ZTU5ODczOWY=",
     "type": "commits",
     "title": "released v4.4.1",
@@ -2549,7 +2549,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "314"
+    "stars": "315"
   },
   {
     "id": 1838600360,
