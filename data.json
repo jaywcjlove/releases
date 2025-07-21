@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZTI3OTBmMThlZDQ2Y2Q5MmVkYmI5NjUyNGQxOTBjNGQ5ZjZjNTU=",
+    "type": "commits",
+    "title": "released v2.18.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "14e2790f18ed46cd92edbb96524d190c4d9f6c55",
+    "url": "https://github.com/jaywcjlove/free-font/commit/14e2790f18ed46cd92edbb96524d190c4d9f6c55",
+    "created_at": "2025-07-21T22:49:18.000+08:00",
+    "state": "committer",
+    "version": "2.18.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmVkMjNlM2ViMzYxNWJmOTEyNDJlMjQ5NWQ3MDIwZGRjM2NmYzVhMzg=",
     "type": "commits",
     "title": "released v3.3.0",
@@ -360,7 +371,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "235"
+    "stars": "238"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2464,17 +2475,6 @@
     "version": "1.8.0"
   },
   {
-    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjE4ZjlkYTkzZDZhYTNkODBlM2Y3MzU4Njc2ODI4NzU3ZTcxMTcwODU=",
-    "type": "commits",
-    "title": "released v1.8.1",
-    "repo": "jaywcjlove/refs-cli",
-    "sha": "18f9da93d6aa3d80e3f7358676828757e7117085",
-    "url": "https://github.com/jaywcjlove/refs-cli/commit/18f9da93d6aa3d80e3f7358676828757e7117085",
-    "created_at": "2024-12-11T19:56:25.000+08:00",
-    "state": "committer",
-    "version": "1.8.1"
-  },
-  {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmNkMWUyMWRiNzg4MDg2YzRmYTljNjdmN2YxNDQ4ZjBiMjlhZjZiM2Q=",
     "type": "commits",
     "title": "released v1.6.1",
@@ -2508,17 +2508,6 @@
     "version": "2.0.2"
   },
   {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "7174a2c8d75b28fa6aca642c109eccf8cf2fd06e",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/7174a2c8d75b28fa6aca642c109eccf8cf2fd06e",
-    "created_at": "2024-12-10T20:52:16.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2549,7 +2538,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "315"
+    "stars": "316"
   },
   {
     "id": 1838600360,
@@ -2648,7 +2637,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "219"
+    "stars": "220"
   },
   {
     "id": 1032707507,

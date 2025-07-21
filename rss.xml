@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 21 Jul 2025 05:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jul 2025 17:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.18.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/14e2790f18ed46cd92edbb96524d190c4d9f6c55</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZTI3OTBmMThlZDQ2Y2Q5MmVkYmI5NjUyNGQxOTBjNGQ5ZjZjNTU=</guid>
+            <pubDate>Mon, 21 Jul 2025 14:49:18 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/14e2790f18ed46cd92edbb96524d190c4d9f6c55">released v2.18.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/regex-mate released v3.3.0]]></title>
             <link>https://github.com/jaywcjlove/regex-mate/commit/ed23e3eb3615bf91242e2495d7020ddc3cfc5a38</link>
@@ -1818,14 +1826,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/refs-cli released v1.8.1]]></title>
-            <link>https://github.com/jaywcjlove/refs-cli/commit/18f9da93d6aa3d80e3f7358676828757e7117085</link>
-            <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjE4ZjlkYTkzZDZhYTNkODBlM2Y3MzU4Njc2ODI4NzU3ZTcxMTcwODU=</guid>
-            <pubDate>Wed, 11 Dec 2024 11:56:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/18f9da93d6aa3d80e3f7358676828757e7117085">released v1.8.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/ejs-cli released v1.6.1]]></title>
             <link>https://github.com/jaywcjlove/ejs-cli/commit/cd1e21db788086c4fa9c67f7f1448f0b29af6b3d</link>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmNkMWUyMWRiNzg4MDg2YzRmYTljNjdmN2YxNDQ4ZjBiMjlhZjZiM2Q=</guid>
@@ -1847,14 +1847,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOmNmZTc4ZjkzNmM0ZDU5MmYwNDMxNDg1MTk3ZWNjZThjOWJhMzZiZWI=</guid>
             <pubDate>Wed, 11 Dec 2024 07:58:38 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/cfe78f936c4d592f0431485197ecce8c9ba36beb">released v2.0.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/7174a2c8d75b28fa6aca642c109eccf8cf2fd06e</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjcxNzRhMmM4ZDc1YjI4ZmE2YWNhNjQyYzEwOWVjY2Y4Y2YyZmQwNmU=</guid>
-            <pubDate>Tue, 10 Dec 2024 12:52:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/7174a2c8d75b28fa6aca642c109eccf8cf2fd06e">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
