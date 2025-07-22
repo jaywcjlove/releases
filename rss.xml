@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 21 Jul 2025 17:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/f495828d636627933d5ec876568c6ded2d8b356b</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3OmY0OTU4MjhkNjM2NjI3OTMzZDVlYzg3NjU2OGM2ZGVkMmQ4YjM1NmI=</guid>
+            <pubDate>Tue, 22 Jul 2025 03:29:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/f495828d636627933d5ec876568c6ded2d8b356b">released v1.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.18.0]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/14e2790f18ed46cd92edbb96524d190c4d9f6c55</link>
@@ -1815,14 +1823,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjM2YjY4MmQyOWE5ZDc3Yzk0ZTc5YjQwZjEyNDY1NGY2MzU0Njk0YjY=</guid>
             <pubDate>Sun, 15 Dec 2024 02:12:05 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/36b682d29a9d77c94e79b40f124654f6354694b6">released v1.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/b6683f00e8c321d284bc8ad40c969052f0e309a1</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmI2NjgzZjAwZThjMzIxZDI4NGJjOGFkNDBjOTY5MDUyZjBlMzA5YTE=</guid>
-            <pubDate>Thu, 12 Dec 2024 04:24:44 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/b6683f00e8c321d284bc8ad40c969052f0e309a1">released v1.8.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

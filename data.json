@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTczMzQxMDA3OmY0OTU4MjhkNjM2NjI3OTMzZDVlYzg3NjU2OGM2ZGVkMmQ4YjM1NmI=",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/audioer",
+    "sha": "f495828d636627933d5ec876568c6ded2d8b356b",
+    "url": "https://github.com/jaywcjlove/audioer/commit/f495828d636627933d5ec876568c6ded2d8b356b",
+    "created_at": "2025-07-22T11:29:13.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZTI3OTBmMThlZDQ2Y2Q5MmVkYmI5NjUyNGQxOTBjNGQ5ZjZjNTU=",
     "type": "commits",
     "title": "released v2.18.0",
@@ -371,7 +382,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "238"
+    "stars": "239"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2462,17 +2473,6 @@
     "created_at": "2024-12-15T10:12:05.000+08:00",
     "state": "committer",
     "version": "1.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmI2NjgzZjAwZThjMzIxZDI4NGJjOGFkNDBjOTY5MDUyZjBlMzA5YTE=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "b6683f00e8c321d284bc8ad40c969052f0e309a1",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/b6683f00e8c321d284bc8ad40c969052f0e309a1",
-    "created_at": "2024-12-12T12:24:44.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
   },
   {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmNkMWUyMWRiNzg4MDg2YzRmYTljNjdmN2YxNDQ4ZjBiMjlhZjZiM2Q=",
