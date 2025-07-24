@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjI5YWM4ZTUwYjdkZDU5MTdmZWIwNmU1ZDdlNWQ4Y2JmYTI3NjM2ODM=",
+    "type": "commits",
+    "title": "released v7.1.9",
+    "repo": "uiwjs/react-amap",
+    "sha": "29ac8e50b7dd5917feb06e5d7e5d8cbfa2763683",
+    "url": "https://github.com/uiwjs/react-amap/commit/29ac8e50b7dd5917feb06e5d7e5d8cbfa2763683",
+    "created_at": "2025-07-24T04:37:44.000+08:00",
+    "state": "committer",
+    "version": "7.1.9"
+  },
+  {
+    "id": "MDY6Q29tbWl0MjIyNDkyMTUxOmQ1NTNkOGQ1ZmJiYTZlZDZmNzhhN2ViMWZiNzllZDRhNDk5ODQ5ZGI=",
+    "type": "commits",
+    "title": "released v2.7.4 #340",
+    "repo": "uiwjs/react-baidu-map",
+    "sha": "d553d8d5fbba6ed6f78a7eb1fb79ed4a499849db",
+    "url": "https://github.com/uiwjs/react-baidu-map/commit/d553d8d5fbba6ed6f78a7eb1fb79ed4a499849db",
+    "created_at": "2025-07-24T04:20:47.000+08:00",
+    "state": "committer",
+    "version": "2.7.4"
+  },
+  {
     "id": "MDY6Q29tbWl0OTczMzQxMDA3Ojk2Yzk0NTk1MTY0YzIwYzNhZjFlYTZkYTFlMWM1ZTY4MGI1OTlhNDU=",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2495,17 +2517,6 @@
     "created_at": "2024-12-11T16:25:46.000+08:00",
     "state": "committer",
     "version": "4.4.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOmNmZTc4ZjkzNmM0ZDU5MmYwNDMxNDg1MTk3ZWNjZThjOWJhMzZiZWI=",
-    "type": "commits",
-    "title": "released v2.0.2",
-    "repo": "jaywcjlove/auto-config-loader",
-    "sha": "cfe78f936c4d592f0431485197ecce8c9ba36beb",
-    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/cfe78f936c4d592f0431485197ecce8c9ba36beb",
-    "created_at": "2024-12-11T15:58:38.000+08:00",
-    "state": "committer",
-    "version": "2.0.2"
   },
   {
     "id": 2526870275,

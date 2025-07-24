@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 23 Jul 2025 17:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 05:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.9]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/29ac8e50b7dd5917feb06e5d7e5d8cbfa2763683</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjI5YWM4ZTUwYjdkZDU5MTdmZWIwNmU1ZDdlNWQ4Y2JmYTI3NjM2ODM=</guid>
+            <pubDate>Wed, 23 Jul 2025 20:37:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/29ac8e50b7dd5917feb06e5d7e5d8cbfa2763683">released v7.1.9</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-baidu-map released v2.7.4 #340]]></title>
+            <link>https://github.com/uiwjs/react-baidu-map/commit/d553d8d5fbba6ed6f78a7eb1fb79ed4a499849db</link>
+            <guid>MDY6Q29tbWl0MjIyNDkyMTUxOmQ1NTNkOGQ1ZmJiYTZlZDZmNzhhN2ViMWZiNzllZDRhNDk5ODQ5ZGI=</guid>
+            <pubDate>Wed, 23 Jul 2025 20:20:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-baidu-map/commit/d553d8d5fbba6ed6f78a7eb1fb79ed4a499849db">released v2.7.4 #340</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/audioer released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/audioer/commit/96c94595164c20c3af1ea6da1e1c5e680b599a45</link>
@@ -1839,14 +1855,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0MTg0OTE4NDQ2Ojc4NTBjYzkyYThlOTM5NWZlYTRlMDYzM2JlZGY1OGY1ZTU5ODczOWY=</guid>
             <pubDate>Wed, 11 Dec 2024 08:25:46 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/7850cc92a8e9395fea4e0633bedf58f5e598739f">released v4.4.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/auto-config-loader released v2.0.2]]></title>
-            <link>https://github.com/jaywcjlove/auto-config-loader/commit/cfe78f936c4d592f0431485197ecce8c9ba36beb</link>
-            <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOmNmZTc4ZjkzNmM0ZDU5MmYwNDMxNDg1MTk3ZWNjZThjOWJhMzZiZWI=</guid>
-            <pubDate>Wed, 11 Dec 2024 07:58:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/cfe78f936c4d592f0431485197ecce8c9ba36beb">released v2.0.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
