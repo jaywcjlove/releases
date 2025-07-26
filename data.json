@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjRhYmE1NDkwNjZkMTlhYjA3MzZkMzMxMGQzMjk0YzEzZTRkNzllNmQ=",
+    "type": "commits",
+    "title": "released v2.19.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "4aba549066d19ab0736d3310d3294c13e4d79e6d",
+    "url": "https://github.com/jaywcjlove/free-font/commit/4aba549066d19ab0736d3310d3294c13e4d79e6d",
+    "created_at": "2025-07-26T17:47:10.000+08:00",
+    "state": "committer",
+    "version": "2.19.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzcyNDE4ODQxOjQ4ZmUwNDNmMGYxYmIyYWU5ZmQ5M2NkNDAyMzViMmM2MDZlNTUxMjk=",
     "type": "commits",
     "title": "released v2.0.0 #8",
@@ -2495,17 +2506,6 @@
     "created_at": "2024-12-15T10:12:05.000+08:00",
     "state": "committer",
     "version": "1.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmNkMWUyMWRiNzg4MDg2YzRmYTljNjdmN2YxNDQ4ZjBiMjlhZjZiM2Q=",
-    "type": "commits",
-    "title": "released v1.6.1",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "cd1e21db788086c4fa9c67f7f1448f0b29af6b3d",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/cd1e21db788086c4fa9c67f7f1448f0b29af6b3d",
-    "created_at": "2024-12-11T18:17:20.000+08:00",
-    "state": "committer",
-    "version": "1.6.1"
   },
   {
     "id": "MDY6Q29tbWl0MTg0OTE4NDQ2Ojc4NTBjYzkyYThlOTM5NWZlYTRlMDYzM2JlZGY1OGY1ZTU5ODczOWY=",
