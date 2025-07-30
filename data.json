@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmEwM2QyNzU5Y2QxOGU0MTZjNDYwNTYzMDc2YmY1OWE4Mjg0ZTI2M2E=",
+    "type": "commits",
+    "title": "released v2.7.3",
+    "repo": "uiwjs/react-color",
+    "sha": "a03d2759cd18e416c460563076bf59a8284e263a",
+    "url": "https://github.com/uiwjs/react-color/commit/a03d2759cd18e416c460563076bf59a8284e263a",
+    "created_at": "2025-07-30T17:58:05.000+08:00",
+    "state": "committer",
+    "version": "2.7.3"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjA4MmM4NWFhNGFkMzAyZTM1MTYyMzBkZTY2YzQxZjZkM2VjMDVjMmU=",
     "type": "commits",
     "title": "released v4.24.2 #742",
@@ -2835,7 +2846,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "27.2K"
+    "stars": "27.3K"
   },
   {
     "id": 590022379,
@@ -2901,7 +2912,7 @@
     "created_at": "2019-11-29T15:46:42Z",
     "state": "merged",
     "number": 2,
-    "stars": "234"
+    "stars": "235"
   },
   {
     "id": 501224283,
