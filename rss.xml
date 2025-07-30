@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 29 Jul 2025 17:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 05:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.24.2 #742]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/082c85aa4ad302e3516230de66c41f6d3ec05c2e</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjA4MmM4NWFhNGFkMzAyZTM1MTYyMzBkZTY2YzQxZjZkM2VjMDVjMmU=</guid>
+            <pubDate>Tue, 29 Jul 2025 20:01:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/082c85aa4ad302e3516230de66c41f6d3ec05c2e">released v4.24.2 #742</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac released v1.10.0]]></title>
             <link>https://github.com/jaywcjlove/awesome-mac/commit/99239d0b9dc340705dbf3f3095275bb5d6f41df7</link>
@@ -1831,14 +1839,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=</guid>
             <pubDate>Thu, 19 Dec 2024 01:46:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/8ac80554c53523729a39b284117279be81ed1c92">released v1.9.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/regex-mate released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/regex-mate/commit/d62c8c23df45def942058f99e43a3c66240b787f</link>
-            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmQ2MmM4YzIzZGY0NWRlZjk0MjA1OGY5OWU0M2EzYzY2MjQwYjc4N2Y=</guid>
-            <pubDate>Tue, 17 Dec 2024 05:16:31 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/d62c8c23df45def942058f99e43a3c66240b787f">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

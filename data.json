@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjA4MmM4NWFhNGFkMzAyZTM1MTYyMzBkZTY2YzQxZjZkM2VjMDVjMmU=",
+    "type": "commits",
+    "title": "released v4.24.2 #742",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "082c85aa4ad302e3516230de66c41f6d3ec05c2e",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/082c85aa4ad302e3516230de66c41f6d3ec05c2e",
+    "created_at": "2025-07-30T04:01:16.000+08:00",
+    "state": "committer",
+    "version": "4.24.2"
+  },
+  {
     "id": "MDY6Q29tbWl0NjM1MzkwNTU6OTkyMzlkMGI5ZGMzNDA3MDVkYmYzZjMwOTUyNzViYjVkNmY0MWRmNw==",
     "type": "commits",
     "title": "released v1.10.0",
@@ -2484,17 +2495,6 @@
     "created_at": "2024-12-19T09:46:36.000+08:00",
     "state": "committer",
     "version": "1.9.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmQ2MmM4YzIzZGY0NWRlZjk0MjA1OGY5OWU0M2EzYzY2MjQwYjc4N2Y=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/regex-mate",
-    "sha": "d62c8c23df45def942058f99e43a3c66240b787f",
-    "url": "https://github.com/jaywcjlove/regex-mate/commit/d62c8c23df45def942058f99e43a3c66240b787f",
-    "created_at": "2024-12-17T13:16:31.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjYyMWI2OTk1NTZiM2FmOTE5N2QyOTEwYTk3MDkwMjk3NzY5YmZjNTg=",
