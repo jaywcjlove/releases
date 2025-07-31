@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmNkMWFiNjkzNzcyZjQ0OWIwYzJjNTM5YWFlNmY1MTFjYzYyN2Q2ZTA=",
+    "type": "commits",
+    "title": "released v1.39.0",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "cd1ab693772f449b0c2c539aae6f511cc627d6e0",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/cd1ab693772f449b0c2c539aae6f511cc627d6e0",
+    "created_at": "2025-07-31T01:43:01.000+08:00",
+    "state": "committer",
+    "version": "1.39.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmEwM2QyNzU5Y2QxOGU0MTZjNDYwNTYzMDc2YmY1OWE4Mjg0ZTI2M2E=",
     "type": "commits",
     "title": "released v2.7.3",
@@ -2484,17 +2495,6 @@
     "created_at": "2024-12-20T20:03:31.000+08:00",
     "state": "committer",
     "version": "2.3.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OjA1OWI1NjlmZjE0ZTU5MDAzMDU2ZjQwZmVhZTc0OTJhNzZiYzQ5YWI=",
-    "type": "commits",
-    "title": "released v2.0.1",
-    "repo": "jaywcjlove/regex-mate",
-    "sha": "059b569ff14e59003056f40feae7492a76bc49ab",
-    "url": "https://github.com/jaywcjlove/regex-mate/commit/059b569ff14e59003056f40feae7492a76bc49ab",
-    "created_at": "2024-12-19T10:18:40.000+08:00",
-    "state": "committer",
-    "version": "2.0.1"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=",
