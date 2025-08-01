@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmFkNGRkMmRkODEyOGQ5YWFjMWIwODEwYTM2YjZkMjdhYjVkNDg4Mjc=",
+    "type": "commits",
+    "title": "released v2.0.0-alpha.34 #74",
+    "repo": "uiwjs/react-json-view",
+    "sha": "ad4dd2dd8128d9aac1b0810a36b6d27ab5d48827",
+    "url": "https://github.com/uiwjs/react-json-view/commit/ad4dd2dd8128d9aac1b0810a36b6d27ab5d48827",
+    "created_at": "2025-08-01T01:47:30.000+08:00",
+    "state": "committer",
+    "version": "2.0.0-alpha.34"
+  },
+  {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmNkMWFiNjkzNzcyZjQ0OWIwYzJjNTM5YWFlNmY1MTFjYzYyN2Q2ZTA=",
     "type": "commits",
     "title": "released v1.39.0",
@@ -2484,17 +2495,6 @@
     "created_at": "2024-12-22T08:52:19.000+08:00",
     "state": "committer",
     "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjY4NDNkZjAzMWFkZWVkZTMyNDRhYTNmNTM4YjRjMmY3ZWUyYjNiM2E=",
-    "type": "commits",
-    "title": "released v2.3.2 #137",
-    "repo": "uiwjs/react-heat-map",
-    "sha": "6843df031adeede3244aa3f538b4c2f7ee2b3b3a",
-    "url": "https://github.com/uiwjs/react-heat-map/commit/6843df031adeede3244aa3f538b4c2f7ee2b3b3a",
-    "created_at": "2024-12-20T20:03:31.000+08:00",
-    "state": "committer",
-    "version": "2.3.2"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=",
