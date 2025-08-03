@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjhiOGRkZTlhNDRkMjMxNWRmOWIxZjc3MjFlZGI2ODlmOTcwMGY3Zjk=",
+    "type": "commits",
+    "title": "released v1.5.1",
+    "repo": "jaywcjlove/file-sentinel",
+    "sha": "8b8dde9a44d2315df9b1f7721edb689f9700f7f9",
+    "url": "https://github.com/jaywcjlove/file-sentinel/commit/8b8dde9a44d2315df9b1f7721edb689f9700f7f9",
+    "created_at": "2025-08-03T23:48:40.000+08:00",
+    "state": "committer",
+    "version": "1.5.1"
+  },
+  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6ZWNjZTJiNGUxMmFiOGNjMmVmNzA1M2I3YzJhNjYyOGM4N2UwZjk2NQ==",
     "type": "commits",
     "title": "released v1.34.2",
@@ -2648,7 +2659,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "222"
+    "stars": "223"
   },
   {
     "id": 1032707507,
