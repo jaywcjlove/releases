@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjRjZTc5YTY0ZDczMDczNzI4MmVhNTYwZDE5ZDE0ZGZjMGI1MDEwZTQ=",
+    "type": "commits",
+    "title": "released v6.4.0 #265 #256",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "4ce79a64d730737282ea560d19d14dfc0b5010e4",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/4ce79a64d730737282ea560d19d14dfc0b5010e4",
+    "created_at": "2025-08-08T12:33:21.000+08:00",
+    "state": "committer",
+    "version": "6.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjhiOGRkZTlhNDRkMjMxNWRmOWIxZjc3MjFlZGI2ODlmOTcwMGY3Zjk=",
     "type": "commits",
     "title": "released v1.5.1",
@@ -2517,17 +2528,6 @@
     "created_at": "2024-12-22T08:52:19.000+08:00",
     "state": "committer",
     "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjhhYzgwNTU0YzUzNTIzNzI5YTM5YjI4NDExNzI3OWJlODFlZDFjOTI=",
-    "type": "commits",
-    "title": "released v1.9.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "8ac80554c53523729a39b284117279be81ed1c92",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/8ac80554c53523729a39b284117279be81ed1c92",
-    "created_at": "2024-12-19T09:46:36.000+08:00",
-    "state": "committer",
-    "version": "1.9.0"
   },
   {
     "id": 2526870275,
