@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 09 Aug 2025 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 17:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio-hint released v1.6.1]]></title>
+            <link>https://github.com/jaywcjlove/mousio-hint/commit/5b8628c5ae54bea204b39a6dc3f29885e67a54fc</link>
+            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDo1Yjg2MjhjNWFlNTRiZWEyMDRiMzlhNmRjM2YyOTg4NWU2N2E1NGZj</guid>
+            <pubDate>Sat, 09 Aug 2025 14:15:36 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/5b8628c5ae54bea204b39a6dc3f29885e67a54fc">released v1.6.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/svgtofont released v6.4.0 #265 #256]]></title>
             <link>https://github.com/jaywcjlove/svgtofont/commit/4ce79a64d730737282ea560d19d14dfc0b5010e4</link>
@@ -1855,14 +1863,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjJjYjEwMjk0ZTFiZGZhYzA0YjdjN2I5MTYzMTM1Yjk1ZjczNDI2MDU=</guid>
             <pubDate>Tue, 24 Dec 2024 11:26:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/5e3f0d4bd33cf05cc4cf7d14c0a843bb24d0c22f</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjVlM2YwZDRiZDMzY2YwNWNjNGNmN2QxNGMwYTg0M2JiMjRkMGMyMmY=</guid>
-            <pubDate>Sun, 22 Dec 2024 00:52:19 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/5e3f0d4bd33cf05cc4cf7d14c0a843bb24d0c22f">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
