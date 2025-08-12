@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 11 Aug 2025 17:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[codemirror/website Add swiftui-codemirror package to community page.]]></title>
+            <link>https://github.com/codemirror/website/pull/79</link>
+            <guid>3312304333</guid>
+            <pubDate>Tue, 12 Aug 2025 02:41:45 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/codemirror/website/pull/79">Add swiftui-codemirror package to community page.</a>]]></description>
+            <enclosure url="https://github.com/codemirror.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/DevHub released v1.40.0]]></title>
+            <link>https://github.com/jaywcjlove/DevHub/commit/cec3272dea54a593b0794cb8e57898d0d092a6ad</link>
+            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmNlYzMyNzJkZWE1NGE1OTNiMDc5NGNiOGU1Nzg5OGQwZDA5MmE2YWQ=</guid>
+            <pubDate>Mon, 11 Aug 2025 17:55:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/cec3272dea54a593b0794cb8e57898d0d092a6ad">released v1.40.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio-hint released v1.6.1]]></title>
             <link>https://github.com/jaywcjlove/mousio-hint/commit/5b8628c5ae54bea204b39a6dc3f29885e67a54fc</link>
@@ -1850,14 +1866,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.10.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/340dca71798c32fc10e09cf1c9174ea9d6082c70</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjM0MGRjYTcxNzk4YzMyZmMxMGUwOWNmMWM5MTc0ZWE5ZDYwODJjNzA=</guid>
-            <pubDate>Tue, 24 Dec 2024 14:58:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/340dca71798c32fc10e09cf1c9174ea9d6082c70">released v1.10.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/iconed released v1.0.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605</link>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjJjYjEwMjk0ZTFiZGZhYzA0YjdjN2I5MTYzMTM1Yjk1ZjczNDI2MDU=</guid>
@@ -2176,14 +2184,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Tue, 24 Sep 2019 03:25:15 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/react-doc/rdoc/pull/1">Merge jaywcjlove/rdoc master</a>]]></description>
             <enclosure url="https://github.com/react-doc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[vkarampinis/awesome-icons Add uiw-icons and svgtofont tools .]]></title>
-            <link>https://github.com/vkarampinis/awesome-icons/pull/16</link>
-            <guid>496622301</guid>
-            <pubDate>Sat, 21 Sep 2019 06:48:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/vkarampinis/awesome-icons/pull/16">Add uiw-icons and svgtofont tools .</a>]]></description>
-            <enclosure url="https://github.com/vkarampinis.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
