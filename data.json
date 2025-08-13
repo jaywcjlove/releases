@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmMwOWQ4ZDIzMWRhMWVkZjkxYTA1ZmQwNzhmMjNmZjdlNWE5MzJlZmM=",
+    "type": "commits",
+    "title": "released v4.25.1",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "c09d8d231da1edf91a05fd078f23ff7e5a932efc",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/c09d8d231da1edf91a05fd078f23ff7e5a932efc",
+    "created_at": "2025-08-13T17:27:33.000+08:00",
+    "state": "committer",
+    "version": "4.25.1"
+  },
+  {
     "id": 3312304333,
     "type": "Organization",
     "repo": "codemirror/website",
@@ -2517,28 +2528,6 @@
     "created_at": "2024-12-27T13:03:45.000+08:00",
     "state": "committer",
     "version": "1.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzgyMTYyOTAzOjkxZWNkODQ4ZWMxYmMzNTIyNTI5YWExOTdjNTY5YWMzMDNkZDI3ZDE=",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/symbol-scribe",
-    "sha": "91ecd848ec1bc3522529aa197c569ac303dd27d1",
-    "url": "https://github.com/jaywcjlove/symbol-scribe/commit/91ecd848ec1bc3522529aa197c569ac303dd27d1",
-    "created_at": "2024-12-27T12:40:39.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjJjYjEwMjk0ZTFiZGZhYzA0YjdjN2I5MTYzMTM1Yjk1ZjczNDI2MDU=",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/iconed",
-    "sha": "2cb10294e1bdfac04b7c7b9163135b95f7342605",
-    "url": "https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605",
-    "created_at": "2024-12-24T19:26:07.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
   },
   {
     "id": 2526870275,

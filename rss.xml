@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 13 Aug 2025 05:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 17:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.25.1]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/c09d8d231da1edf91a05fd078f23ff7e5a932efc</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OmMwOWQ4ZDIzMWRhMWVkZjkxYTA1ZmQwNzhmMjNmZjdlNWE5MzJlZmM=</guid>
+            <pubDate>Wed, 13 Aug 2025 09:27:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/c09d8d231da1edf91a05fd078f23ff7e5a932efc">released v4.25.1</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[codemirror/website Add swiftui-codemirror package to community page.]]></title>
             <link>https://github.com/codemirror/website/pull/79</link>
@@ -1855,22 +1863,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjc5ZWMyYTY1YWU5NzVlYmJiNDhhNWI1NDQ5ZTNlYTc0MjI4NTI3NmU=</guid>
             <pubDate>Fri, 27 Dec 2024 05:03:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/79ec2a65ae975ebbb48a5b5449e3ea742285276e">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/symbol-scribe released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/symbol-scribe/commit/91ecd848ec1bc3522529aa197c569ac303dd27d1</link>
-            <guid>MDY6Q29tbWl0NzgyMTYyOTAzOjkxZWNkODQ4ZWMxYmMzNTIyNTI5YWExOTdjNTY5YWMzMDNkZDI3ZDE=</guid>
-            <pubDate>Fri, 27 Dec 2024 04:40:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/symbol-scribe/commit/91ecd848ec1bc3522529aa197c569ac303dd27d1">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjJjYjEwMjk0ZTFiZGZhYzA0YjdjN2I5MTYzMTM1Yjk1ZjczNDI2MDU=</guid>
-            <pubDate>Tue, 24 Dec 2024 11:26:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/2cb10294e1bdfac04b7c7b9163135b95f7342605">released v1.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
