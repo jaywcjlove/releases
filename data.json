@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmU3MmEzMmY4ZmY0N2Q5YjI5MmJkZjkxMjdkMjRlYzc0OGVmMjFjNmY=",
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjgzZGNkNTM0ZWZmYmRlZTUyYmFiNmNkYjUxYTY5YjcwYTA0ODAxNTI=",
     "type": "commits",
-    "title": "released v1.41.0",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "e72a32f8ff47d9b292bdf9127d24ec748ef21c6f",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/e72a32f8ff47d9b292bdf9127d24ec748ef21c6f",
-    "created_at": "2025-08-16T01:01:23.000+08:00",
+    "title": "released v2.0.0-alpha.35 #76",
+    "repo": "uiwjs/react-json-view",
+    "sha": "83dcd534effbdee52bab6cdb51a69b70a0480152",
+    "url": "https://github.com/uiwjs/react-json-view/commit/83dcd534effbdee52bab6cdb51a69b70a0480152",
+    "created_at": "2025-08-16T12:14:27.000+08:00",
     "state": "committer",
-    "version": "1.41.0"
+    "version": "2.0.0-alpha.35"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjFkYmQ5YThmMGZmNWI1ODI2YTdjYTdmYTVhMDJlY2Q3NTg5OTcyMmE=",
+    "type": "commits",
+    "title": "released v1.42.0",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "1dbd9a8f0ff5b5826a7ca7fa5a02ecd75899722a",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/1dbd9a8f0ff5b5826a7ca7fa5a02ecd75899722a",
+    "created_at": "2025-08-16T01:28:55.000+08:00",
+    "state": "committer",
+    "version": "1.42.0"
   },
   {
     "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjU1YTFmYWYwZGNhMGQyOTZjOTUzODMwMzFlM2YzZDA4ZDFiNDEwNmU=",
@@ -602,7 +613,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "260"
+    "stars": "262"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2528,17 +2539,6 @@
     "created_at": "2025-01-02T15:26:51.000+08:00",
     "state": "committer",
     "version": "1.11.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA5NjY3NzEzOjZjMmQ3ZTk1YTUwMmYzZGU1OTI4YmM5YzkyNDRmYTlkMWY3MTY2OWU=",
-    "type": "commits",
-    "title": "released v5.0.2 #97",
-    "repo": "jaywcjlove/markdown-to-html-cli",
-    "sha": "6c2d7e95a502f3de5928bc9c9244fa9d1f71669e",
-    "url": "https://github.com/jaywcjlove/markdown-to-html-cli/commit/6c2d7e95a502f3de5928bc9c9244fa9d1f71669e",
-    "created_at": "2025-01-01T10:57:48.000+08:00",
-    "state": "committer",
-    "version": "5.0.2"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjc5ZWMyYTY1YWU5NzVlYmJiNDhhNWI1NDQ5ZTNlYTc0MjI4NTI3NmU=",
