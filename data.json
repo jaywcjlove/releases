@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmZlOWM3NWFkNWQwYTExMWY2MGRkNjYyZjBjMjkzYmVjNzNkYzA5Mjk=",
+    "type": "commits",
+    "title": "released v1.42.1",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "fe9c75ad5d0a111f60dd662f0c293bec73dc0929",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/fe9c75ad5d0a111f60dd662f0c293bec73dc0929",
+    "created_at": "2025-08-17T08:52:55.000+08:00",
+    "state": "committer",
+    "version": "1.42.1"
+  },
+  {
     "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjgzZGNkNTM0ZWZmYmRlZTUyYmFiNmNkYjUxYTY5YjcwYTA0ODAxNTI=",
     "type": "commits",
     "title": "released v2.0.0-alpha.35 #76",
@@ -2506,17 +2517,6 @@
     "created_at": "2025-01-03T03:11:28.000+08:00",
     "state": "committer",
     "version": "1.21.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA5NjY3NzEzOmQyYzhmZmQ2NzZkZTE4MDFlMjU4NjkwNGJjNTQwYTkzOGU0YmM0ODA=",
-    "type": "commits",
-    "title": "released v5.0.3 #70",
-    "repo": "jaywcjlove/markdown-to-html-cli",
-    "sha": "d2c8ffd676de1801e2586904bc540a938e4bc480",
-    "url": "https://github.com/jaywcjlove/markdown-to-html-cli/commit/d2c8ffd676de1801e2586904bc540a938e4bc480",
-    "created_at": "2025-01-03T02:05:55.000+08:00",
-    "state": "committer",
-    "version": "5.0.3"
   },
   {
     "id": "MDY6Q29tbWl0NDY5ODYxMTc2OmJjZjI5YjBhMDYyYTczOTEyYjA3YTExZjRiNmZlMzg0ZTMxOTMwN2I=",

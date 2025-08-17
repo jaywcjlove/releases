@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 16 Aug 2025 17:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Aug 2025 05:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/DevHub released v1.42.1]]></title>
+            <link>https://github.com/jaywcjlove/DevHub/commit/fe9c75ad5d0a111f60dd662f0c293bec73dc0929</link>
+            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmZlOWM3NWFkNWQwYTExMWY2MGRkNjYyZjBjMjkzYmVjNzNkYzA5Mjk=</guid>
+            <pubDate>Sun, 17 Aug 2025 00:52:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/fe9c75ad5d0a111f60dd662f0c293bec73dc0929">released v1.42.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.35 #76]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/83dcd534effbdee52bab6cdb51a69b70a0480152</link>
@@ -1847,14 +1855,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmI1YTZkYzIzMTMyYzY3MDZhYjA3NDU2NGIyY2FmYTkxOTBiMDQxZjQ=</guid>
             <pubDate>Thu, 02 Jan 2025 19:11:28 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/b5a6dc23132c6706ab074564b2cafa9190b041f4">released v1.21.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/markdown-to-html-cli released v5.0.3 #70]]></title>
-            <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/d2c8ffd676de1801e2586904bc540a938e4bc480</link>
-            <guid>MDY6Q29tbWl0NDA5NjY3NzEzOmQyYzhmZmQ2NzZkZTE4MDFlMjU4NjkwNGJjNTQwYTkzOGU0YmM0ODA=</guid>
-            <pubDate>Thu, 02 Jan 2025 18:05:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html-cli/commit/d2c8ffd676de1801e2586904bc540a938e4bc480">released v5.0.3 #70</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
