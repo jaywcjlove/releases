@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojc1NjUxODQ2MmFkY2U3YmNkN2RmYjRhYTkzYzUyNzczZDE3Mzg0Njg=",
+    "type": "commits",
+    "title": "released v1.24.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "756518462adce7bcd7dfb4aa93c52773d1738468",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/756518462adce7bcd7dfb4aa93c52773d1738468",
+    "created_at": "2025-08-18T13:59:12.000+08:00",
+    "state": "committer",
+    "version": "1.24.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmQyM2Y5MWJiNjkwZTAzOWY5M2JiZjkyMmViNTlhYmU4MTgyMTQ3NTQ=",
     "type": "commits",
     "title": "released v3.3.1",
@@ -2593,7 +2604,7 @@
     "created_at": "2023-08-07T03:17:04Z",
     "state": "merged",
     "number": 66,
-    "stars": "190"
+    "stars": "191"
   },
   {
     "id": 1645290043,
@@ -2945,7 +2956,7 @@
     "created_at": "2019-11-29T15:46:42Z",
     "state": "merged",
     "number": 2,
-    "stars": "235"
+    "stars": "236"
   },
   {
     "id": 501224283,
