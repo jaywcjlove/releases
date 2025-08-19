@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 19 Aug 2025 05:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 17:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-login-page released v1.0.6]]></title>
+            <link>https://github.com/uiwjs/react-login-page/commit/4f0c77266675dea9c3651b6838c6a6ad8073d370</link>
+            <guid>MDY6Q29tbWl0NjI5MTM4MDAxOjRmMGM3NzI2NjY3NWRlYTljMzY1MWI2ODM4YzZhNmFkODA3M2QzNzA=</guid>
+            <pubDate>Tue, 19 Aug 2025 09:03:53 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-login-page/commit/4f0c77266675dea9c3651b6838c6a6ad8073d370">released v1.0.6</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.36]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/bd1b1f2ea308f1b2b8e01ec2a830d2f9361726f2</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmJkMWIxZjJlYTMwOGYxYjJiOGUwMWVjMmE4MzBkMmY5MzYxNzI2ZjI=</guid>
+            <pubDate>Tue, 19 Aug 2025 08:44:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/bd1b1f2ea308f1b2b8e01ec2a830d2f9361726f2">released v2.0.0-alpha.36</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.8.0 #188]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/7490231fce5e0549e0065f688db0dcf92535c4ee</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4Ojc0OTAyMzFmY2U1ZTA1NDllMDA2NWY2ODhkYjBkY2Y5MjUzNWM0ZWU=</guid>
+            <pubDate>Tue, 19 Aug 2025 08:28:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/7490231fce5e0549e0065f688db0dcf92535c4ee">released v2.8.0 #188</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/DevHub released v1.43.0]]></title>
             <link>https://github.com/jaywcjlove/DevHub/commit/80e23d24be223fd0aa5e694d227c696027dbc846</link>
@@ -1850,14 +1874,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/rehype-attr released v4.0.1]]></title>
-            <link>https://github.com/jaywcjlove/rehype-attr/commit/6d44ddeb836c0055731f854e0532099a0428f37c</link>
-            <guid>MDY6Q29tbWl0MzY3MzMxMzE0OjZkNDRkZGViODM2YzAwNTU3MzFmODU0ZTA1MzIwOTlhMDQyOGYzN2M=</guid>
-            <pubDate>Fri, 03 Jan 2025 06:48:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-attr/commit/6d44ddeb836c0055731f854e0532099a0428f37c">released v4.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/iconed released v1.2.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/50e097f0e878b341b92f286491424957c8b10eb3</link>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjUwZTA5N2YwZTg3OGIzNDFiOTJmMjg2NDkxNDI0OTU3YzhiMTBlYjM=</guid>
@@ -1866,27 +1882,11 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/devtutor released v1.21.0]]></title>
-            <link>https://github.com/jaywcjlove/devtutor/commit/b5a6dc23132c6706ab074564b2cafa9190b041f4</link>
-            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmI1YTZkYzIzMTMyYzY3MDZhYjA3NDU2NGIyY2FmYTkxOTBiMDQxZjQ=</guid>
-            <pubDate>Thu, 02 Jan 2025 19:11:28 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/b5a6dc23132c6706ab074564b2cafa9190b041f4">released v1.21.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/dark-mode released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/dark-mode/commit/bcf29b0a062a73912b07a11f4b6fe384e319307b</link>
             <guid>MDY6Q29tbWl0NDY5ODYxMTc2OmJjZjI5YjBhMDYyYTczOTEyYjA3YTExZjRiNmZlMzg0ZTMxOTMwN2I=</guid>
             <pubDate>Thu, 02 Jan 2025 17:33:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/dark-mode/commit/bcf29b0a062a73912b07a11f4b6fe384e319307b">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.11.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/37050ff8c9fe9fdb0b5d25d9d4800a0ed1050491</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjM3MDUwZmY4YzlmZTlmZGIwYjVkMjVkOWQ0ODAwYTBlZDEwNTA0OTE=</guid>
-            <pubDate>Thu, 02 Jan 2025 07:26:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/37050ff8c9fe9fdb0b5d25d9d4800a0ed1050491">released v1.11.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
