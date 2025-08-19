@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjgwZTIzZDI0YmUyMjNmZDBhYTVlNjk0ZDIyN2M2OTYwMjdkYmM4NDY=",
+    "type": "commits",
+    "title": "released v1.43.0",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "80e23d24be223fd0aa5e694d227c696027dbc846",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/80e23d24be223fd0aa5e694d227c696027dbc846",
+    "created_at": "2025-08-19T11:15:29.000+08:00",
+    "state": "committer",
+    "version": "1.43.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojc1NjUxODQ2MmFkY2U3YmNkN2RmYjRhYTkzYzUyNzczZDE3Mzg0Njg=",
     "type": "commits",
     "title": "released v1.24.0",
@@ -646,7 +657,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "262"
+    "stars": "263"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2497,17 +2508,6 @@
     "version": "1.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0NjM1MzkwNTU6ZjBkZDY2YTlkMjg5N2NkMmI5YmFkYTczNzY2OTg0ZmJmZjk2YjdjNA==",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/awesome-mac",
-    "sha": "f0dd66a9d2897cd2b9bada73766984fbff96b7c4",
-    "url": "https://github.com/jaywcjlove/awesome-mac/commit/f0dd66a9d2897cd2b9bada73766984fbff96b7c4",
-    "created_at": "2025-01-04T14:35:21.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjZkNDRkZGViODM2YzAwNTU3MzFmODU0ZTA1MzIwOTlhMDQyOGYzN2M=",
     "type": "commits",
     "title": "released v4.0.1",
@@ -2593,7 +2593,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "331"
+    "stars": "334"
   },
   {
     "id": 1838600360,
@@ -2670,7 +2670,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "735"
+    "stars": "736"
   },
   {
     "id": 1086792263,
