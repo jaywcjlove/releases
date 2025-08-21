@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 20 Aug 2025 17:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 05:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=</guid>
+            <pubDate>Wed, 20 Aug 2025 18:26:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-login-page released v1.0.6]]></title>
             <link>https://github.com/uiwjs/react-login-page/commit/4f0c77266675dea9c3651b6838c6a6ad8073d370</link>
@@ -1879,14 +1887,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjUwZTA5N2YwZTg3OGIzNDFiOTJmMjg2NDkxNDI0OTU3YzhiMTBlYjM=</guid>
             <pubDate>Fri, 03 Jan 2025 01:22:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/50e097f0e878b341b92f286491424957c8b10eb3">released v1.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/dark-mode released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/dark-mode/commit/bcf29b0a062a73912b07a11f4b6fe384e319307b</link>
-            <guid>MDY6Q29tbWl0NDY5ODYxMTc2OmJjZjI5YjBhMDYyYTczOTEyYjA3YTExZjRiNmZlMzg0ZTMxOTMwN2I=</guid>
-            <pubDate>Thu, 02 Jan 2025 17:33:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/dark-mode/commit/bcf29b0a062a73912b07a11f4b6fe384e319307b">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
