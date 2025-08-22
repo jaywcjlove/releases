@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 22 Aug 2025 05:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 17:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[prettier/prettier doc: update related-projects.md]]></title>
+            <link>https://github.com/prettier/prettier/pull/17804</link>
+            <guid>3344245728</guid>
+            <pubDate>Fri, 22 Aug 2025 05:56:49 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/prettier/prettier/pull/17804">doc: update related-projects.md</a>]]></description>
+            <enclosure url="https://github.com/prettier.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb</link>
@@ -2192,14 +2200,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <pubDate>Fri, 27 Sep 2019 07:07:46 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/rematch/rematch/pull/683">fix: Support TypeScript & Upgrade devDependencies.</a>]]></description>
             <enclosure url="https://github.com/rematch.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[react-doc/rdoc Merge jaywcjlove/rdoc master]]></title>
-            <link>https://github.com/react-doc/rdoc/pull/1</link>
-            <guid>497432712</guid>
-            <pubDate>Tue, 24 Sep 2019 03:25:15 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/react-doc/rdoc/pull/1">Merge jaywcjlove/rdoc master</a>]]></description>
-            <enclosure url="https://github.com/react-doc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

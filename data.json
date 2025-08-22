@@ -1,5 +1,16 @@
 [
   {
+    "id": 3344245728,
+    "type": "Organization",
+    "repo": "prettier/prettier",
+    "title": "doc: update related-projects.md",
+    "url": "https://github.com/prettier/prettier/pull/17804",
+    "created_at": "2025-08-22T05:56:49Z",
+    "state": "open",
+    "number": 17804,
+    "stars": "50.9K"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -701,7 +712,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "269"
+    "stars": "270"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2593,7 +2604,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "337"
+    "stars": "338"
   },
   {
     "id": 1838600360,
@@ -2979,16 +2990,5 @@
     "state": "merged",
     "number": 683,
     "stars": "8.4K"
-  },
-  {
-    "id": 497432712,
-    "type": "Organization",
-    "repo": "react-doc/rdoc",
-    "title": "Merge jaywcjlove/rdoc master",
-    "url": "https://github.com/react-doc/rdoc/pull/1",
-    "created_at": "2019-09-24T03:25:15Z",
-    "state": "merged",
-    "number": 1,
-    "stars": "4"
   }
 ]
