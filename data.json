@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjBiZTFlNWUyMTE1NWM2Mzg5Yzc4NmUzY2FhNjM1MjlhZmU3OGRlODc=",
+    "type": "commits",
+    "title": "released v2.20.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "0be1e5e21155c6389c786e3caa63529afe78de87",
+    "url": "https://github.com/jaywcjlove/free-font/commit/0be1e5e21155c6389c786e3caa63529afe78de87",
+    "created_at": "2025-08-23T13:12:01.000+08:00",
+    "state": "committer",
+    "version": "2.20.0"
+  },
+  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2561,17 +2572,6 @@
     "created_at": "2025-01-06T20:55:39.000+08:00",
     "state": "committer",
     "version": "1.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjUwZTA5N2YwZTg3OGIzNDFiOTJmMjg2NDkxNDI0OTU3YzhiMTBlYjM=",
-    "type": "commits",
-    "title": "released v1.2.0",
-    "repo": "jaywcjlove/iconed",
-    "sha": "50e097f0e878b341b92f286491424957c8b10eb3",
-    "url": "https://github.com/jaywcjlove/iconed/commit/50e097f0e878b341b92f286491424957c8b10eb3",
-    "created_at": "2025-01-03T09:22:17.000+08:00",
-    "state": "committer",
-    "version": "1.2.0"
   },
   {
     "id": 2526870275,

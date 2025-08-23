@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 22 Aug 2025 17:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 05:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.20.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/0be1e5e21155c6389c786e3caa63529afe78de87</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjBiZTFlNWUyMTE1NWM2Mzg5Yzc4NmUzY2FhNjM1MjlhZmU3OGRlODc=</guid>
+            <pubDate>Sat, 23 Aug 2025 05:12:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/0be1e5e21155c6389c786e3caa63529afe78de87">released v2.20.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[prettier/prettier doc: update related-projects.md]]></title>
             <link>https://github.com/prettier/prettier/pull/17804</link>
@@ -1887,14 +1895,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0OTExNzQxNzc0OmJjNTI2ZjRhNGVhMjFmZDUzYmMxMmU2NTkwN2VmMDA4ZWM5NGU5Nzc=</guid>
             <pubDate>Mon, 06 Jan 2025 12:55:39 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/bc526f4a4ea21fd53bc12e65907ef008ec94e977">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.2.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/50e097f0e878b341b92f286491424957c8b10eb3</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjUwZTA5N2YwZTg3OGIzNDFiOTJmMjg2NDkxNDI0OTU3YzhiMTBlYjM=</guid>
-            <pubDate>Fri, 03 Jan 2025 01:22:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/50e097f0e878b341b92f286491424957c8b10eb3">released v1.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
