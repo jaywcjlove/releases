@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjJlZWYyYjE2NmZhZTRmNTAzM2E0NGYwOTNmODY2NjI1NGFiZWE4MGM=",
+    "type": "commits",
+    "title": "released v2.22.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "2eef2b166fae4f5033a44f093f8666254abea80c",
+    "url": "https://github.com/jaywcjlove/free-font/commit/2eef2b166fae4f5033a44f093f8666254abea80c",
+    "created_at": "2025-08-24T22:49:32.000+08:00",
+    "state": "committer",
+    "version": "2.22.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjdkZDcyZjgyMTM4MWZiOWM1NzRkM2MxM2QxZWVhZjg5OWIwOWZjNDg=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/ejs-cli",
+    "sha": "7dd72f821381fb9c574d3c13d1eeaf899b09fc48",
+    "url": "https://github.com/jaywcjlove/ejs-cli/commit/7dd72f821381fb9c574d3c13d1eeaf899b09fc48",
+    "created_at": "2025-08-24T18:08:52.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjIzYzgzZmMzMDhmMmJkODY1ODRhMGI3M2FhOWJiMTI2ZDMyOTlhYzk=",
     "type": "commits",
     "title": "released v1.44.0",
@@ -734,7 +756,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "271"
+    "stars": "272"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2519,61 +2541,6 @@
     "version": "1.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0NzY5NTMyNTg4OmQ0NGJmZmVjOWRlYjRhZjIwN2E2YmE1ODUzMmY2MzBkNjg3Mjc2M2I=",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/time-passage",
-    "sha": "d44bffec9deb4af207a6ba58532f630d6872763b",
-    "url": "https://github.com/jaywcjlove/time-passage/commit/d44bffec9deb4af207a6ba58532f630d6872763b",
-    "created_at": "2025-01-15T00:28:34.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3Ojk0NGE3N2JiYzVmZTA1MmNmNGUxMWRhYWE3YjRhNTUwYzg5ZjUzYWU=",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "944a77bbc5fe052cf4e11daaa7b4a550c89f53ae",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/944a77bbc5fe052cf4e11daaa7b4a550c89f53ae",
-    "created_at": "2025-01-14T22:32:44.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjY5MGMzNGNhNDQxODMzNmZkNjc2MjQ1ZTkwNTg1ZGQ1ZTE0ODgxYjg=",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "690c34ca4418336fd676245e90585dd5e14881b8",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/690c34ca4418336fd676245e90585dd5e14881b8",
-    "created_at": "2025-01-11T11:06:46.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmFjZjgxODYzNzRlYThmY2I3OGYwMWY2NjNmOGVjMmM3MDBmNGE0ZjQ=",
-    "type": "commits",
-    "title": "released v1.5.0",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "acf8186374ea8fcb78f01f663f8ec2c700f4a4f4",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/acf8186374ea8fcb78f01f663f8ec2c700f4a4f4",
-    "created_at": "2025-01-07T12:06:41.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmJjNTI2ZjRhNGVhMjFmZDUzYmMxMmU2NTkwN2VmMDA4ZWM5NGU5Nzc=",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "bc526f4a4ea21fd53bc12e65907ef008ec94e977",
-    "url": "https://github.com/jaywcjlove/daybar/commit/bc526f4a4ea21fd53bc12e65907ef008ec94e977",
-    "created_at": "2025-01-06T20:55:39.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2648,7 +2615,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "350"
+    "stars": "349"
   },
   {
     "id": 1194561099,
