@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 24 Aug 2025 17:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/coverage-badges-cli released v2.2.0]]></title>
+            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/4e8975aa2628e3329126e7eee36724d07ed86fda</link>
+            <guid>MDY6Q29tbWl0NDA4MjMyNjc0OjRlODk3NWFhMjYyOGUzMzI5MTI2ZTdlZWUzNjcyNGQwN2VkODZmZGE=</guid>
+            <pubDate>Mon, 25 Aug 2025 04:37:21 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/4e8975aa2628e3329126e7eee36724d07ed86fda">released v2.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.3.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/5ad8e426f47576ca538ad6e9b142d43c2e0dd57f</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo1YWQ4ZTQyNmY0NzU3NmNhNTM4YWQ2ZTliMTQyZDQzYzJlMGRkNTdm</guid>
+            <pubDate>Mon, 25 Aug 2025 03:19:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/5ad8e426f47576ca538ad6e9b142d43c2e0dd57f">released v1.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v2.4.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/ad0f509a643949430a6f6cb7ff4ad19d5493b9bb</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=</guid>
+            <pubDate>Sun, 24 Aug 2025 19:17:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/ad0f509a643949430a6f6cb7ff4ad19d5493b9bb">released v2.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.22.0]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/2eef2b166fae4f5033a44f093f8666254abea80c</link>
@@ -1834,27 +1858,11 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/regex-mate released v3.0.0]]></title>
-            <link>https://github.com/jaywcjlove/regex-mate/commit/bb8f69d0cc9f2ac1c42e32d407d6362b4ac38036</link>
-            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmJiOGY2OWQwY2M5ZjJhYzFjNDJlMzJkNDA3ZDYzNjJiNGFjMzgwMzY=</guid>
-            <pubDate>Sun, 19 Jan 2025 18:59:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/bb8f69d0cc9f2ac1c42e32d407d6362b4ac38036">released v3.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/ad03cfe92062cb22f522e6d30286eafa53fb0552</link>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OmFkMDNjZmU5MjA2MmNiMjJmNTIyZTZkMzAyODZlYWZhNTNmYjA1NTI=</guid>
             <pubDate>Sun, 19 Jan 2025 09:40:11 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/ad03cfe92062cb22f522e6d30286eafa53fb0552">released v1.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.12.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/bf42e0581b9540d41b3dc334e4ba5c10da42f567</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmJmNDJlMDU4MWI5NTQwZDQxYjNkYzMzNGU0YmE1YzEwZGE0MmY1Njc=</guid>
-            <pubDate>Sat, 18 Jan 2025 03:21:06 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/bf42e0581b9540d41b3dc334e4ba5c10da42f567">released v1.12.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

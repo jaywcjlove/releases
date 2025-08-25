@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjRlODk3NWFhMjYyOGUzMzI5MTI2ZTdlZWUzNjcyNGQwN2VkODZmZGE=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/coverage-badges-cli",
+    "sha": "4e8975aa2628e3329126e7eee36724d07ed86fda",
+    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/4e8975aa2628e3329126e7eee36724d07ed86fda",
+    "created_at": "2025-08-25T12:37:21.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo1YWQ4ZTQyNmY0NzU3NmNhNTM4YWQ2ZTliMTQyZDQzYzJlMGRkNTdm",
+    "type": "commits",
+    "title": "released v1.3.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "5ad8e426f47576ca538ad6e9b142d43c2e0dd57f",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/5ad8e426f47576ca538ad6e9b142d43c2e0dd57f",
+    "created_at": "2025-08-25T11:19:38.000+08:00",
+    "state": "committer",
+    "version": "1.3.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=",
+    "type": "commits",
+    "title": "released v2.4.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "ad0f509a643949430a6f6cb7ff4ad19d5493b9bb",
+    "url": "https://github.com/jaywcjlove/daybar/commit/ad0f509a643949430a6f6cb7ff4ad19d5493b9bb",
+    "created_at": "2025-08-25T03:17:01.000+08:00",
+    "state": "committer",
+    "version": "2.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjJlZWYyYjE2NmZhZTRmNTAzM2E0NGYwOTNmODY2NjI1NGFiZWE4MGM=",
     "type": "commits",
     "title": "released v2.22.0",
@@ -2486,17 +2519,6 @@
     "version": "3.6.1"
   },
   {
-    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmJiOGY2OWQwY2M5ZjJhYzFjNDJlMzJkNDA3ZDYzNjJiNGFjMzgwMzY=",
-    "type": "commits",
-    "title": "released v3.0.0",
-    "repo": "jaywcjlove/regex-mate",
-    "sha": "bb8f69d0cc9f2ac1c42e32d407d6362b4ac38036",
-    "url": "https://github.com/jaywcjlove/regex-mate/commit/bb8f69d0cc9f2ac1c42e32d407d6362b4ac38036",
-    "created_at": "2025-01-20T02:59:39.000+08:00",
-    "state": "committer",
-    "version": "3.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmFkMDNjZmU5MjA2MmNiMjJmNTIyZTZkMzAyODZlYWZhNTNmYjA1NTI=",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2506,17 +2528,6 @@
     "created_at": "2025-01-19T17:40:11.000+08:00",
     "state": "committer",
     "version": "1.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmJmNDJlMDU4MWI5NTQwZDQxYjNkYzMzNGU0YmE1YzEwZGE0MmY1Njc=",
-    "type": "commits",
-    "title": "released v1.12.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "bf42e0581b9540d41b3dc334e4ba5c10da42f567",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/bf42e0581b9540d41b3dc334e4ba5c10da42f567",
-    "created_at": "2025-01-18T11:21:06.000+08:00",
-    "state": "committer",
-    "version": "1.12.0"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmIwYjU1ZDUwNWI1MWJkNWQwOWQ3YjYxMzI2NTYyZjUxZDVhMDgwM2E=",
@@ -2571,7 +2582,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "338"
+    "stars": "339"
   },
   {
     "id": 1838600360,
