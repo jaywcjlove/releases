@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 25 Aug 2025 17:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 05:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/ejs-cli released v3.0.2]]></title>
-            <link>https://github.com/jaywcjlove/ejs-cli/commit/f996ed417c5d5785f57ec4dd426e832dd86dc2c5</link>
-            <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmY5OTZlZDQxN2M1ZDU3ODVmNTdlYzRkZDQyNmU4MzJkZDg2ZGMyYzU=</guid>
-            <pubDate>Mon, 25 Aug 2025 16:16:35 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/f996ed417c5d5785f57ec4dd426e832dd86dc2c5">released v3.0.2</a>]]></description>
+            <title><![CDATA[jaywcjlove/ejs-cli released v3.1.1]]></title>
+            <link>https://github.com/jaywcjlove/ejs-cli/commit/bb11fa79029e61686fe0850a311ed0ed3facf2cb</link>
+            <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmJiMTFmYTc5MDI5ZTYxNjg2ZmUwODUwYTMxMWVkMGVkM2ZhY2YyY2I=</guid>
+            <pubDate>Mon, 25 Aug 2025 20:33:56 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/bb11fa79029e61686fe0850a311ed0ed3facf2cb">released v3.1.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1762,14 +1762,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.3.0 #258]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/e88b9fcedbb66e823eacbf64dbbdb56905ce0521</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OmU4OGI5ZmNlZGJiNjZlODIzZWFjYmY2NGRiYmRiNTY5MDVjZTA1MjE=</guid>
-            <pubDate>Thu, 13 Feb 2025 16:34:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/e88b9fcedbb66e823eacbf64dbbdb56905ce0521">released v6.3.0 #258</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-color released v2.4.0 #166]]></title>
             <link>https://github.com/uiwjs/react-color/commit/cac743203c2054d957981fa1f37e25e94e8a6362</link>
             <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmNhYzc0MzIwM2MyMDU0ZDk1Nzk4MWZhMWYzN2UyNWU5NGU4YTYzNjI=</guid>
@@ -1802,14 +1794,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.14.1]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/9da5086f0d85a7db40fe91b19de6ec8db30a6593</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjlkYTUwODZmMGQ4NWE3ZGI0MGZlOTFiMTlkZTZlYzhkYjMwYTY1OTM=</guid>
-            <pubDate>Thu, 06 Feb 2025 02:47:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/9da5086f0d85a7db40fe91b19de6ec8db30a6593">released v2.14.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/swift-check-update released v1.0.0]]></title>
             <link>https://github.com/jaywcjlove/swift-check-update/commit/d1aa55cf6c5ca25aeedea259db0de59f906179c8</link>
             <guid>MDY6Q29tbWl0OTI3ODExMzAyOmQxYWE1NWNmNmM1Y2EyNWFlZWRlYTI1OWRiMGRlNTlmOTA2MTc5Yzg=</guid>
@@ -1839,14 +1823,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OmQ2OTUxOGJlZmEwNzliNjFiZTIxNTlkYTk4ZTAwZTQwOTYxZmU2ZGY=</guid>
             <pubDate>Mon, 03 Feb 2025 15:28:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/d69518befa079b61be2159da98e00e40961fe6df">released v1.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/3201f309facd33256472ca328e17f8294acf5b59</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjMyMDFmMzA5ZmFjZDMzMjU2NDcyY2EzMjhlMTdmODI5NGFjZjViNTk=</guid>
-            <pubDate>Mon, 27 Jan 2025 15:16:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/3201f309facd33256472ca328e17f8294acf5b59">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
