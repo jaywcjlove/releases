@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmJiMTFmYTc5MDI5ZTYxNjg2ZmUwODUwYTMxMWVkMGVkM2ZhY2YyY2I=",
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjM5M2QyMDJiYjVjZjJkOWU4NzU0ZGRmOTQ2ODE2YmIzNGMwMDExNzI=",
     "type": "commits",
-    "title": "released v3.1.1",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "bb11fa79029e61686fe0850a311ed0ed3facf2cb",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/bb11fa79029e61686fe0850a311ed0ed3facf2cb",
-    "created_at": "2025-08-26T04:33:56.000+08:00",
+    "title": "released v2.0.0-alpha.37 #78",
+    "repo": "uiwjs/react-json-view",
+    "sha": "393d202bb5cf2d9e8754ddf946816bb34c001172",
+    "url": "https://github.com/uiwjs/react-json-view/commit/393d202bb5cf2d9e8754ddf946816bb34c001172",
+    "created_at": "2025-08-27T00:13:00.000+08:00",
     "state": "committer",
-    "version": "3.1.1"
+    "version": "2.0.0-alpha.37"
+  },
+  {
+    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjE4YTk2NDliZmViNTMzMTZhNzM2NTFlMjExNjczZThlNjhkM2FiMjE=",
+    "type": "commits",
+    "title": "released v3.1.4",
+    "repo": "jaywcjlove/ejs-cli",
+    "sha": "18a9649bfeb53316a73651e211673e8e68d3ab21",
+    "url": "https://github.com/jaywcjlove/ejs-cli/commit/18a9649bfeb53316a73651e211673e8e68d3ab21",
+    "created_at": "2025-08-26T15:21:05.000+08:00",
+    "state": "committer",
+    "version": "3.1.4"
   },
   {
     "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOjMxNzEyZWVhNDE4ZmIyMWFhMTM3MjZmMGUxMWE5MWRkNmRiYjFjYmM=",
@@ -811,7 +822,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "274"
+    "stars": "275"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2409,17 +2420,6 @@
     "version": "1.46.0"
   },
   {
-    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjBjYzA0NjEyY2U3MGYyYzRlMmY1MGE5NjhhOTA1YjBjZWMzYTMwOGM=",
-    "type": "commits",
-    "title": "released v2.15.0",
-    "repo": "jaywcjlove/free-font",
-    "sha": "0cc04612ce70f2c4e2f50a968a905b0cec3a308c",
-    "url": "https://github.com/jaywcjlove/free-font/commit/0cc04612ce70f2c4e2f50a968a905b0cec3a308c",
-    "created_at": "2025-02-12T10:18:11.000+08:00",
-    "state": "committer",
-    "version": "2.15.0"
-  },
-  {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmEwYTZiYjNmY2ViYTA4ZTNiMWE2NDU0ODExNjI3ZDkzNDBiN2YwNmQ=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2440,28 +2440,6 @@
     "created_at": "2025-02-06T10:03:45.000+08:00",
     "state": "committer",
     "version": "1.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY0OTExODQwOGQyNzRlZjBmMmE4YzY4NzJhZjFhNjQ3NGFmY2UxOTU=",
-    "type": "commits",
-    "title": "released v1.12.1",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "f49118408d274ef0f2a8c6872af1a6474afce195",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/f49118408d274ef0f2a8c6872af1a6474afce195",
-    "created_at": "2025-02-04T10:46:08.000+08:00",
-    "state": "committer",
-    "version": "1.12.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjFiOTIzYWMxZDIwMmVjNjU5MGIzNGU4Y2I5NGJkMDliNDFmYTEyZWE=",
-    "type": "commits",
-    "title": "released v4.23.8 #712",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "1b923ac1d202ec6590b34e8cb94bd09b41fa12ea",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/1b923ac1d202ec6590b34e8cb94bd09b41fa12ea",
-    "created_at": "2025-02-04T09:16:48.000+08:00",
-    "state": "committer",
-    "version": "4.23.8"
   },
   {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmQ2OTUxOGJlZmEwNzliNjFiZTIxNTlkYTk4ZTAwZTQwOTYxZmU2ZGY=",
