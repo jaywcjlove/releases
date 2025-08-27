@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjBiNzU4OGExNTY3NDAwYTE0Y2JkMzk1Y2NjZjBjZTZlYTc5OTIwOWI=",
+    "type": "commits",
+    "title": "released v1.16.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "0b7588a1567400a14cbd395cccf0ce6ea799209b",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/0b7588a1567400a14cbd395cccf0ce6ea799209b",
+    "created_at": "2025-08-27T11:06:58.000+08:00",
+    "state": "committer",
+    "version": "1.16.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjM5M2QyMDJiYjVjZjJkOWU4NzU0ZGRmOTQ2ODE2YmIzNGMwMDExNzI=",
     "type": "commits",
     "title": "released v2.0.0-alpha.37 #78",
@@ -2429,17 +2440,6 @@
     "created_at": "2025-02-12T07:25:59.000+08:00",
     "state": "committer",
     "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTI3ODExMzAyOmQxYWE1NWNmNmM1Y2EyNWFlZWRlYTI1OWRiMGRlNTlmOTA2MTc5Yzg=",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/swift-check-update",
-    "sha": "d1aa55cf6c5ca25aeedea259db0de59f906179c8",
-    "url": "https://github.com/jaywcjlove/swift-check-update/commit/d1aa55cf6c5ca25aeedea259db0de59f906179c8",
-    "created_at": "2025-02-06T10:03:45.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
   },
   {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmQ2OTUxOGJlZmEwNzliNjFiZTIxNTlkYTk4ZTAwZTQwOTYxZmU2ZGY=",
