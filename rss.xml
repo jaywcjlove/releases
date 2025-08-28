@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 27 Aug 2025 17:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 05:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.23.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/e9714ad978295f4b98121591c7668b2d651a1003</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OmU5NzE0YWQ5NzgyOTVmNGI5ODEyMTU5MWM3NjY4YjJkNjUxYTEwMDM=</guid>
+            <pubDate>Wed, 27 Aug 2025 19:41:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/e9714ad978295f4b98121591c7668b2d651a1003">released v2.23.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.16.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/0b7588a1567400a14cbd395cccf0ce6ea799209b</link>
@@ -1799,14 +1807,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmEwYTZiYjNmY2ViYTA4ZTNiMWE2NDU0ODExNjI3ZDkzNDBiN2YwNmQ=</guid>
             <pubDate>Tue, 11 Feb 2025 23:25:59 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/a0a6bb3fceba08e3b1a6454811627d9340b7f06d">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/palette-genius released v1.5.0]]></title>
-            <link>https://github.com/jaywcjlove/palette-genius/commit/d69518befa079b61be2159da98e00e40961fe6df</link>
-            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OmQ2OTUxOGJlZmEwNzliNjFiZTIxNTlkYTk4ZTAwZTQwOTYxZmU2ZGY=</guid>
-            <pubDate>Mon, 03 Feb 2025 15:28:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/d69518befa079b61be2159da98e00e40961fe6df">released v1.5.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
