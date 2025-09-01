@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 31 Aug 2025 17:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 05:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.24.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/2bcc37ad2561c3c7ce0b8ae853700c4328ba4224</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjJiY2MzN2FkMjU2MWMzYzdjZTBiOGFlODUzNzAwYzQzMjhiYTQyMjQ=</guid>
+            <pubDate>Mon, 01 Sep 2025 05:08:08 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/2bcc37ad2561c3c7ce0b8ae853700c4328ba4224">released v2.24.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/DevHub released v1.45.0]]></title>
+            <link>https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583</link>
+            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmRiNWZjZjA4N2NiOGM3NTc1MTRlZTQwN2VmMDc3NmU0MTRlODQ1ODM=</guid>
+            <pubDate>Mon, 01 Sep 2025 02:42:53 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583">released v1.45.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/musicer released v1.8.0]]></title>
             <link>https://github.com/jaywcjlove/musicer/commit/5ba60812ba22381ed3ecf91dc84c86380a78fe36</link>
@@ -1791,22 +1807,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjY2Zjc1YjlkODJmZmZhZTNkNzBjZGFjNDAwOGNmYWYyMDk1ZDFhMmM=</guid>
             <pubDate>Fri, 14 Feb 2025 11:53:02 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/66f75b9d82fffae3d70cdac4008cfaf2095d1a2c">released v1.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/reference released v1.46.0]]></title>
-            <link>https://github.com/jaywcjlove/reference/commit/61046b519bed12d073717b483e687bd49d7261da</link>
-            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjYxMDQ2YjUxOWJlZDEyZDA3MzcxN2I0ODNlNjg3YmQ0OWQ3MjYxZGE=</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/61046b519bed12d073717b483e687bd49d7261da">released v1.46.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/ejs-cli released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/ejs-cli/commit/a0a6bb3fceba08e3b1a6454811627d9340b7f06d</link>
-            <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmEwYTZiYjNmY2ViYTA4ZTNiMWE2NDU0ODExNjI3ZDkzNDBiN2YwNmQ=</guid>
-            <pubDate>Tue, 11 Feb 2025 23:25:59 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/a0a6bb3fceba08e3b1a6454811627d9340b7f06d">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
