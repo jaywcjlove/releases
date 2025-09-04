@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 04 Sep 2025 05:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 17:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.11 #383]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/d4e424ed702770c38991c8761737c5d2cacdabd1</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmQ0ZTQyNGVkNzAyNzcwYzM4OTkxYzg3NjE3MzdjNWQyY2FjZGFiZDE=</guid>
+            <pubDate>Thu, 04 Sep 2025 15:25:28 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/d4e424ed702770c38991c8761737c5d2cacdabd1">released v7.1.11 #383</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/ejs-cli released v3.1.6]]></title>
             <link>https://github.com/jaywcjlove/ejs-cli/commit/dc8426db343f01cabd35ee91807f5a52c6dd894a</link>
@@ -1807,14 +1815,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0MzY3MzMxMzE0OjYwNTM0NWI4YjUyMjU5OWIwZDAyYTVhZWNmMmExN2Y5MTlkNDYyNTE=</guid>
             <pubDate>Thu, 20 Feb 2025 13:50:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-attr/commit/605345b8b522599b0d02a5aecf2a17f919d46251">released v4.0.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/TextSoundSaver released v2.2.0]]></title>
-            <link>https://github.com/jaywcjlove/TextSoundSaver/commit/67f45ee7864415ccb360bb6751a42c067edb8aee</link>
-            <guid>MDY6Q29tbWl0NzY0MjYyMjg4OjY3ZjQ1ZWU3ODY0NDE1Y2NiMzYwYmI2NzUxYTQyYzA2N2VkYjhhZWU=</guid>
-            <pubDate>Thu, 20 Feb 2025 12:01:05 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/TextSoundSaver/commit/67f45ee7864415ccb360bb6751a42c067edb8aee">released v2.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

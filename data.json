@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmQ0ZTQyNGVkNzAyNzcwYzM4OTkxYzg3NjE3MzdjNWQyY2FjZGFiZDE=",
+    "type": "commits",
+    "title": "released v7.1.11 #383",
+    "repo": "uiwjs/react-amap",
+    "sha": "d4e424ed702770c38991c8761737c5d2cacdabd1",
+    "url": "https://github.com/uiwjs/react-amap/commit/d4e424ed702770c38991c8761737c5d2cacdabd1",
+    "created_at": "2025-09-04T23:25:28.000+08:00",
+    "state": "committer",
+    "version": "7.1.11"
+  },
+  {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OmRjODQyNmRiMzQzZjAxY2FiZDM1ZWU5MTgwN2Y1YTUyYzZkZDg5NGE=",
     "type": "commits",
     "title": "released v3.1.6",
@@ -2453,17 +2464,6 @@
     "version": "4.0.2"
   },
   {
-    "id": "MDY6Q29tbWl0NzY0MjYyMjg4OjY3ZjQ1ZWU3ODY0NDE1Y2NiMzYwYmI2NzUxYTQyYzA2N2VkYjhhZWU=",
-    "type": "commits",
-    "title": "released v2.2.0",
-    "repo": "jaywcjlove/TextSoundSaver",
-    "sha": "67f45ee7864415ccb360bb6751a42c067edb8aee",
-    "url": "https://github.com/jaywcjlove/TextSoundSaver/commit/67f45ee7864415ccb360bb6751a42c067edb8aee",
-    "created_at": "2025-02-20T20:01:05.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmY5NTFiODRlMzNiY2Y0NGFjYjc1YTg2ZmMwNWY1MmEwNzE1ZDQ4MDc=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2505,7 +2505,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "341"
+    "stars": "342"
   },
   {
     "id": 1838600360,
