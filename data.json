@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OjU1Y2MwYmE5ZDRiZDNmNzc5NzE0YjUxZGY2NGUzZDA2YjdiYzE0NmY=",
+    "type": "commits",
+    "title": "released v1.26.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "55cc0ba9d4bd3f779714b51df64e3d06b7bc146f",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/55cc0ba9d4bd3f779714b51df64e3d06b7bc146f",
+    "created_at": "2025-09-05T10:59:59.000+08:00",
+    "state": "committer",
+    "version": "1.26.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmQ0ZTQyNGVkNzAyNzcwYzM4OTkxYzg3NjE3MzdjNWQyY2FjZGFiZDE=",
     "type": "commits",
     "title": "released v7.1.11 #383",
@@ -943,7 +954,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "278"
+    "stars": "279"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2451,28 +2462,6 @@
     "created_at": "2025-02-21T08:44:04.000+08:00",
     "state": "committer",
     "version": "1.20.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjYwNTM0NWI4YjUyMjU5OWIwZDAyYTVhZWNmMmExN2Y5MTlkNDYyNTE=",
-    "type": "commits",
-    "title": "released v4.0.2",
-    "repo": "jaywcjlove/rehype-attr",
-    "sha": "605345b8b522599b0d02a5aecf2a17f919d46251",
-    "url": "https://github.com/jaywcjlove/rehype-attr/commit/605345b8b522599b0d02a5aecf2a17f919d46251",
-    "created_at": "2025-02-20T21:50:09.000+08:00",
-    "state": "committer",
-    "version": "4.0.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmY5NTFiODRlMzNiY2Y0NGFjYjc1YTg2ZmMwNWY1MmEwNzE1ZDQ4MDc=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "f951b84e33bcf44acb75a86fc05f52a0715d4807",
-    "url": "https://github.com/jaywcjlove/daybar/commit/f951b84e33bcf44acb75a86fc05f52a0715d4807",
-    "created_at": "2025-02-19T10:02:37.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": 2526870275,
