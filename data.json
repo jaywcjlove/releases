@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmI3NmQzYmNmYTNkOTE5MGE2ZjRlMTUwY2Y0ZGJlZTI2MTYxNjJkYzA=",
+    "type": "commits",
+    "title": "released v2.25.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "b76d3bcfa3d9190a6f4e150cf4dbee2616162dc0",
+    "url": "https://github.com/jaywcjlove/free-font/commit/b76d3bcfa3d9190a6f4e150cf4dbee2616162dc0",
+    "created_at": "2025-09-07T21:26:03.000+08:00",
+    "state": "committer",
+    "version": "2.25.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjRjMjVmMWQyMTdmMTE2ZDA3ZmNhMjI2MDA5ZDZlYjU4MjY5ZDVmODA=",
     "type": "commits",
     "title": "released v3.2.0",
