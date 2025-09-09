@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjM0NDAxN2FjZjZhMDZkM2E5YzhiNzljMTczOGMzMmUxNWJlNGRlNmI=",
+    "type": "commits",
+    "title": "released v1.10.1",
+    "repo": "jaywcjlove/refs-cli",
+    "sha": "344017acf6a06d3a9c8b79c1738c32e15be4de6b",
+    "url": "https://github.com/jaywcjlove/refs-cli/commit/344017acf6a06d3a9c8b79c1738c32e15be4de6b",
+    "created_at": "2025-09-09T12:44:34.000+08:00",
+    "state": "committer",
+    "version": "1.10.1"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmI3NmQzYmNmYTNkOTE5MGE2ZjRlMTUwY2Y0ZGJlZTI2MTYxNjJkYzA=",
     "type": "commits",
     "title": "released v2.25.0",
@@ -2462,17 +2473,6 @@
     "created_at": "2025-02-27T11:14:51.000+08:00",
     "state": "committer",
     "version": "1.5.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1Ojg2MjFhYzQwN2VhMTY0NmEwZGUxMGQ0NDdkNzcwMTRmOWQ0YjkwMzc=",
-    "type": "commits",
-    "title": "released v1.14.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "8621ac407ea1646a0de10d447d77014f9d4b9037",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/8621ac407ea1646a0de10d447d77014f9d4b9037",
-    "created_at": "2025-02-26T14:15:27.000+08:00",
-    "state": "committer",
-    "version": "1.14.0"
   },
   {
     "id": 2526870275,
