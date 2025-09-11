@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjRlODc0NDBlNmIyNzM5ZDZkNDVjNTEyNmQ2ZDkxZWFhYmFkMjVmYjA=",
+    "type": "commits",
+    "title": "released v1.46.1",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "4e87440e6b2739d6d45c5126d6d91eaabad25fb0",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/4e87440e6b2739d6d45c5126d6d91eaabad25fb0",
+    "created_at": "2025-09-12T00:05:26.000+08:00",
+    "state": "committer",
+    "version": "1.46.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5Ojc4M2ViNjExNThlMGIwNWQxMjg4ZmM1YmJlOTZjNTg3ZjMyNDhjY2Y=",
+    "type": "commits",
+    "title": "released v6.4.1",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "783eb61158e0b05d1288fc5bbe96c587f3248ccf",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/783eb61158e0b05d1288fc5bbe96c587f3248ccf",
+    "created_at": "2025-09-11T21:39:04.000+08:00",
+    "state": "committer",
+    "version": "6.4.1"
+  },
+  {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmQxNzIyMGNhYTQ5NDcwYjU5YTE0Nzg2ZGM4MmYwMWU3MmI5ZTNkOTQ=",
     "type": "commits",
     "title": "released v7.1.12 #395",
@@ -1009,7 +1031,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "280"
+    "stars": "281"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2464,17 +2486,6 @@
     "version": "1.16.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmM0YTBhNWFkZTdmZTUxZTQ0ODRhZjgyYzg2Y2JiNDI3MjNlZDUxYWM=",
-    "type": "commits",
-    "title": "released v4.23.10 #717",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "c4a0a5ade7fe51e4484af82c86cbb42723ed51ac",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/c4a0a5ade7fe51e4484af82c86cbb42723ed51ac",
-    "created_at": "2025-03-04T11:11:46.000+08:00",
-    "state": "committer",
-    "version": "4.23.10"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2516,7 +2527,7 @@
     "created_at": "2023-08-07T03:17:04Z",
     "state": "merged",
     "number": 66,
-    "stars": "192"
+    "stars": "193"
   },
   {
     "id": 1645290043,
