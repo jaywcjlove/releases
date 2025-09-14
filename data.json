@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmE1YzIwNmZmMDhhMzc4ZWY4NmQ2MDFhOTgzMGQ3Njc2NDUwZmE1NjQ=",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "a5c206ff08a378ef86d601a9830d7676450fa564",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/a5c206ff08a378ef86d601a9830d7676450fa564",
+    "created_at": "2025-09-14T14:39:57.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjRlODc0NDBlNmIyNzM5ZDZkNDVjNTEyNmQ2ZDkxZWFhYmFkMjVmYjA=",
     "type": "commits",
     "title": "released v1.46.1",
@@ -1031,7 +1042,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "298"
+    "stars": "303"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2473,17 +2484,6 @@
     "created_at": "2025-03-08T11:30:20.000+08:00",
     "state": "committer",
     "version": "1.7.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY4MGQyOTYzYzJlNzY2ZGNmNGU2NGUwN2Y4OTM1MThhY2IxNmVkN2I=",
-    "type": "commits",
-    "title": "released v1.16.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "f80d2963c2e766dcf4e64e07f893518acb16ed7b",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/f80d2963c2e766dcf4e64e07f893518acb16ed7b",
-    "created_at": "2025-03-05T00:10:59.000+08:00",
-    "state": "committer",
-    "version": "1.16.0"
   },
   {
     "id": 2526870275,
