@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OmJlZDE1NTU4Mzc0NDMwYzk1NjdlOTJjMzcxNGFmMGFiN2E0MmVlMTk=",
+    "type": "commits",
+    "title": "released v2.15.0",
+    "repo": "jaywcjlove/create-custom-symbols",
+    "sha": "bed15558374430c9567e92c3714af0ab7a42ee19",
+    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/bed15558374430c9567e92c3714af0ab7a42ee19",
+    "created_at": "2025-09-18T00:50:09.000+08:00",
+    "state": "committer",
+    "version": "2.15.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmUzNzM0Yzk3MjYxMWJiZmU3ZGFlZTE3NGEzNmM2MDYzYTEzNDM1Y2M=",
     "type": "commits",
     "title": "released v2.0.0-alpha.38 #59 #76",
@@ -2495,17 +2506,6 @@
     "created_at": "2025-03-13T16:57:49.000+08:00",
     "state": "committer",
     "version": "2.12.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmU4NDhkMjc0ZjIyMmI1MTE3ZjZmN2JkNjE3NTg2NTBjYTBiOTg0MTQ=",
-    "type": "commits",
-    "title": "released v1.7.1",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "e848d274f222b5117f6f7bd61758650ca0b98414",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/e848d274f222b5117f6f7bd61758650ca0b98414",
-    "created_at": "2025-03-08T11:30:20.000+08:00",
-    "state": "committer",
-    "version": "1.7.1"
   },
   {
     "id": 2526870275,

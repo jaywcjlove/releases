@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 17 Sep 2025 05:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 17:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.15.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/bed15558374430c9567e92c3714af0ab7a42ee19</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OmJlZDE1NTU4Mzc0NDMwYzk1NjdlOTJjMzcxNGFmMGFiN2E0MmVlMTk=</guid>
+            <pubDate>Wed, 17 Sep 2025 16:50:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/bed15558374430c9567e92c3714af0ab7a42ee19">released v2.15.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.38 #59 #76]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/e3734c972611bbfe7daee174a36c6063a13435cc</link>
@@ -1839,14 +1847,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjVkY2IyZDhkOTY3MmIyM2Y5ZTFiNTg0ZGY5ODgzZGI3MTVlNjgxMDQ=</guid>
             <pubDate>Thu, 13 Mar 2025 08:57:49 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/5dcb2d8d9672b23f9e1b584df9883db715e68104">released v2.12.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.7.1]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/e848d274f222b5117f6f7bd61758650ca0b98414</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmU4NDhkMjc0ZjIyMmI1MTE3ZjZmN2JkNjE3NTg2NTBjYTBiOTg0MTQ=</guid>
-            <pubDate>Sat, 08 Mar 2025 03:30:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/e848d274f222b5117f6f7bd61758650ca0b98414">released v1.7.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
