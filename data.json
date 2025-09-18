@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowYTQwMTA0YzI5NDgyNDg5M2I4MzNhZWQ4YzFhYmUwMTMxYTVlZDZl",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/vidcrop",
+    "sha": "0a40104c294824893b833aed8c1abe0131a5ed6e",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/0a40104c294824893b833aed8c1abe0131a5ed6e",
+    "created_at": "2025-09-18T11:10:44.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OmJlZDE1NTU4Mzc0NDMwYzk1NjdlOTJjMzcxNGFmMGFiN2E0MmVlMTk=",
     "type": "commits",
     "title": "released v2.15.0",
@@ -1075,7 +1086,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "305"
+    "stars": "306"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
