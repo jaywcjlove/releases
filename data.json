@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTY1NjkzMzA0OjI2NjdhMzZjMTA0MmM3OThjMmJkNGExYjRkZmE3YzVlMTIyNDc5Y2U=",
+    "type": "commits",
+    "title": "released v1.8.1",
+    "repo": "uiwjs/babel-plugin-transform-remove-imports",
+    "sha": "2667a36c1042c798c2bd4a1b4dfa7c5e122479ce",
+    "url": "https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/2667a36c1042c798c2bd4a1b4dfa7c5e122479ce",
+    "created_at": "2025-09-18T23:59:06.000+08:00",
+    "state": "committer",
+    "version": "1.8.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUwZWRkNTUzNGZkMzBmNmYyZmI4MzJlOGJlZTY4MGM1MzJjYTAzMzc=",
+    "type": "commits",
+    "title": "released v4.25.2",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "e0edd5534fd30f6f2fb832e8bee680c532ca0337",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/e0edd5534fd30f6f2fb832e8bee680c532ca0337",
+    "created_at": "2025-09-18T23:14:50.000+08:00",
+    "state": "committer",
+    "version": "4.25.2"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowYTQwMTA0YzI5NDgyNDg5M2I4MzNhZWQ4YzFhYmUwMTMxYTVlZDZl",
     "type": "commits",
     "title": "released v1.0.0",
@@ -1086,7 +1108,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "306"
+    "stars": "307"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2506,17 +2528,6 @@
     "created_at": "2025-03-15T12:35:19.000+08:00",
     "state": "committer",
     "version": "2.4.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OjVkY2IyZDhkOTY3MmIyM2Y5ZTFiNTg0ZGY5ODgzZGI3MTVlNjgxMDQ=",
-    "type": "commits",
-    "title": "released v2.12.0",
-    "repo": "jaywcjlove/create-custom-symbols",
-    "sha": "5dcb2d8d9672b23f9e1b584df9883db715e68104",
-    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/5dcb2d8d9672b23f9e1b584df9883db715e68104",
-    "created_at": "2025-03-13T16:57:49.000+08:00",
-    "state": "committer",
-    "version": "2.12.0"
   },
   {
     "id": 2526870275,
