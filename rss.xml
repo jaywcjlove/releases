@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 18 Sep 2025 17:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 05:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/devtutor released v1.28.0]]></title>
+            <link>https://github.com/jaywcjlove/devtutor/commit/97e30ecdf02835cbbb2d03a3e9b98d1ff7685004</link>
+            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk3ZTMwZWNkZjAyODM1Y2JiYjJkMDNhM2U5Yjk4ZDFmZjc2ODUwMDQ=</guid>
+            <pubDate>Thu, 18 Sep 2025 22:58:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/97e30ecdf02835cbbb2d03a3e9b98d1ff7685004">released v1.28.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/babel-plugin-transform-remove-imports released v1.8.1]]></title>
             <link>https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/2667a36c1042c798c2bd4a1b4dfa7c5e122479ce</link>

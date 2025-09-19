@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk3ZTMwZWNkZjAyODM1Y2JiYjJkMDNhM2U5Yjk4ZDFmZjc2ODUwMDQ=",
+    "type": "commits",
+    "title": "released v1.28.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "97e30ecdf02835cbbb2d03a3e9b98d1ff7685004",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/97e30ecdf02835cbbb2d03a3e9b98d1ff7685004",
+    "created_at": "2025-09-19T06:58:16.000+08:00",
+    "state": "committer",
+    "version": "1.28.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTY1NjkzMzA0OjI2NjdhMzZjMTA0MmM3OThjMmJkNGExYjRkZmE3YzVlMTIyNDc5Y2U=",
     "type": "commits",
     "title": "released v1.8.1",
