@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmY4M2VhZmE1ZDI0MjA3NDcyNmU1YjM0OTNhZDY0NDYzYjYyNTZiZjg=",
+    "type": "commits",
+    "title": "released v2.0.0-alpha.39 #59",
+    "repo": "uiwjs/react-json-view",
+    "sha": "f83eafa5d242074726e5b3493ad64463b6256bf8",
+    "url": "https://github.com/uiwjs/react-json-view/commit/f83eafa5d242074726e5b3493ad64463b6256bf8",
+    "created_at": "2025-09-23T13:27:33.000+08:00",
+    "state": "committer",
+    "version": "2.0.0-alpha.39"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjQzMDZmZjY2YTgwZDM2OWI3NDYzNTllMTJjZDZiY2EwNDFmNGJhMjc=",
     "type": "commits",
     "title": "released v1.10.0",
@@ -2517,17 +2528,6 @@
     "created_at": "2025-03-18T00:44:09.000+08:00",
     "state": "committer",
     "version": "2.0.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmQ3N2IwOTlhYjI1ZjZhMDM1MDRjMTlhNGEwZGVlZGY1NzRkNjgxODg=",
-    "type": "commits",
-    "title": "released v1.17.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "d77b099ab25f6a03504c19a4a0deedf574d68188",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/d77b099ab25f6a03504c19a4a0deedf574d68188",
-    "created_at": "2025-03-16T10:56:52.000+08:00",
-    "state": "committer",
-    "version": "1.17.0"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjQwOGQwYWY2NzE0ODY2ZWU0YmQyMmQxMGVhOWU3MjZmOGNmMTlmZDg=",

@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 22 Sep 2025 17:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Sep 2025 05:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.39 #59]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/f83eafa5d242074726e5b3493ad64463b6256bf8</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmY4M2VhZmE1ZDI0MjA3NDcyNmU1YjM0OTNhZDY0NDYzYjYyNTZiZjg=</guid>
+            <pubDate>Tue, 23 Sep 2025 05:27:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/f83eafa5d242074726e5b3493ad64463b6256bf8">released v2.0.0-alpha.39 #59</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.10.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/4306ff66a80d369b746359e12cd6bca041f4ba27</link>
@@ -1855,14 +1863,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjJlNjM3NjM5NWM1MmY3ZDAzMjdhYWEyZmZmMzkzMmQyYWU4N2NmZDU=</guid>
             <pubDate>Mon, 17 Mar 2025 16:44:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5">released v2.0.4 #31</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/d77b099ab25f6a03504c19a4a0deedf574d68188</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmQ3N2IwOTlhYjI1ZjZhMDM1MDRjMTlhNGEwZGVlZGY1NzRkNjgxODg=</guid>
-            <pubDate>Sun, 16 Mar 2025 02:56:52 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/d77b099ab25f6a03504c19a4a0deedf574d68188">released v1.17.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
