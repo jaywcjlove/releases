@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 28 Sep 2025 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 17:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,19 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/vidwall-hub released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall-hub/commit/ac6f7ac0fcdf84aae2d0f486acc856dd2cfa43c8</link>
-            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0NzphYzZmN2FjMGZjZGY4NGFhZTJkMGY0ODZhY2M4NTZkZDJjZmE0M2M4</guid>
-            <pubDate>Sun, 28 Sep 2025 03:34:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/ac6f7ac0fcdf84aae2d0f486acc856dd2cfa43c8">released v1.1.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/mousio-hint released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio-hint/commit/5fcb0bb9809fcd430ccb1ec54f723be32cc952f0</link>
+            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDo1ZmNiMGJiOTgwOWZjZDQzMGNjYjFlYzU0ZjcyM2JlMzJjYzk1MmYw</guid>
+            <pubDate>Sun, 28 Sep 2025 14:15:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/5fcb0bb9809fcd430ccb1ec54f723be32cc952f0">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall-hub released v1.3.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall-hub/commit/3e986825ac718890e50a99a289e8f7b6541915d0</link>
+            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0NzozZTk4NjgyNWFjNzE4ODkwZTUwYTk5YTI4OWU4ZjdiNjU0MTkxNWQw</guid>
+            <pubDate>Sun, 28 Sep 2025 10:14:31 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/3e986825ac718890e50a99a289e8f7b6541915d0">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1826,43 +1834,11 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/symbol-scribe released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/symbol-scribe/commit/ea8e4971ab54d72f2b015a5dea395de5738409d7</link>
-            <guid>MDY6Q29tbWl0NzgyMTYyOTAzOmVhOGU0OTcxYWI1NGQ3MmYyYjAxNWE1ZGVhMzk1ZGU1NzM4NDA5ZDc=</guid>
-            <pubDate>Wed, 19 Mar 2025 01:00:26 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/symbol-scribe/commit/ea8e4971ab54d72f2b015a5dea395de5738409d7">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.2]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe</link>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmI2YmFmNWIwZjU0NjEwMjg4OWUzZWFhZGQyN2JmOWQwODUxMjNiYmU=</guid>
             <pubDate>Tue, 18 Mar 2025 15:09:42 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe">released v1.17.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/videoer released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/videoer/commit/10af52d58522d2372f83cdb31b526c0968664ee8</link>
-            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjEwYWY1MmQ1ODUyMmQyMzcyZjgzY2RiMzFiNTI2YzA5Njg2NjRlZTg=</guid>
-            <pubDate>Tue, 18 Mar 2025 14:36:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/10af52d58522d2372f83cdb31b526c0968664ee8">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.1]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/fd68b02fcd1ae9d92b6f93f6e63fb339a8875adf</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmZkNjhiMDJmY2QxYWU5ZDkyYjZmOTNmNmU2M2ZiMzM5YTg4NzVhZGY=</guid>
-            <pubDate>Tue, 18 Mar 2025 06:46:34 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/fd68b02fcd1ae9d92b6f93f6e63fb339a8875adf">released v1.17.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-contributors released v2.0.4 #31]]></title>
-            <link>https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5</link>
-            <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjJlNjM3NjM5NWM1MmY3ZDAzMjdhYWEyZmZmMzkzMmQyYWU4N2NmZDU=</guid>
-            <pubDate>Mon, 17 Mar 2025 16:44:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/2e6376395c52f7d0327aaa2fff3932d2ae87cfd5">released v2.0.4 #31</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
