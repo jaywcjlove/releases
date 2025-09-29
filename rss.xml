@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 29 Sep 2025 05:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 17:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,38 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzphYTc5ZTQ5M2EwNmI2OWRjODVkMDllYTJmNmIyNzBlNjdiYzgyMjE5</guid>
+            <pubDate>Mon, 29 Sep 2025 16:44:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.8.1 #189]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/3c442028a2dfce5739efd31ae3c7c0ab429cb22b</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjNjNDQyMDI4YTJkZmNlNTczOWVmZDMxYWUzYzdjMGFiNDI5Y2IyMmI=</guid>
+            <pubDate>Mon, 29 Sep 2025 15:59:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/3c442028a2dfce5739efd31ae3c7c0ab429cb22b">released v2.8.1 #189</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/ee62e60a01d36b4cf7c280cdd2bfcb67a35a8472</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzplZTYyZTYwYTAxZDM2YjRjZjdjMjgwY2RkMmJmY2I2N2EzNWE4NDcy</guid>
+            <pubDate>Mon, 29 Sep 2025 13:19:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/ee62e60a01d36b4cf7c280cdd2bfcb67a35a8472">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall-hub released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall-hub/commit/48f6710b938f813529a93c9d09934128d6955167</link>
+            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0Nzo0OGY2NzEwYjkzOGY4MTM1MjlhOTNjOWQwOTkzNDEyOGQ2OTU1MTY3</guid>
+            <pubDate>Mon, 29 Sep 2025 09:10:42 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/48f6710b938f813529a93c9d09934128d6955167">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio-hint released v1.7.0]]></title>
             <link>https://github.com/jaywcjlove/mousio-hint/commit/5fcb0bb9809fcd430ccb1ec54f723be32cc952f0</link>
@@ -1818,27 +1850,11 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.5.1]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/5807fc0908e79ba8301d14cc207081c5428d504e</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjU4MDdmYzA5MDhlNzliYTgzMDFkMTRjYzIwNzA4MWM1NDI4ZDUwNGU=</guid>
-            <pubDate>Thu, 20 Mar 2025 02:29:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/5807fc0908e79ba8301d14cc207081c5428d504e">released v1.5.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.5.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70</link>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OmExZWMxN2ZlNjI2NDE4NjY3MDU0MmY5OWQ3NmZkNWRmMDIzMjZmNzA=</guid>
             <pubDate>Wed, 19 Mar 2025 01:10:23 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70">released v1.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v1.17.2]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmI2YmFmNWIwZjU0NjEwMjg4OWUzZWFhZGQyN2JmOWQwODUxMjNiYmU=</guid>
-            <pubDate>Tue, 18 Mar 2025 15:09:42 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/b6baf5b0f546102889e3eaadd27bf9d085123bbe">released v1.17.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
