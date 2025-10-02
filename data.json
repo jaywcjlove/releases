@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0Ojg2YzhiMjRlNTdkZTJiOTk0Zjc2Yjc3NmM1Zjk0MDMwMmRiYzM5ZTQ=",
+    "type": "commits",
+    "title": "released v3.0.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "86c8b24e57de2b994f76b776c5f940302dbc39e4",
+    "url": "https://github.com/jaywcjlove/daybar/commit/86c8b24e57de2b994f76b776c5f940302dbc39e4",
+    "created_at": "2025-10-02T10:54:37.000+08:00",
+    "state": "committer",
+    "version": "3.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA2NTQ1MDM0Nzo3Njg5MDMyNWM3YzFiMjE2OTY1NDZjOWMxY2Y3NDExNzg0ZWJhOTQy",
     "type": "commits",
     "title": "released v1.5.0",

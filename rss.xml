@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 01 Oct 2025 17:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 05:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v3.0.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/86c8b24e57de2b994f76b776c5f940302dbc39e4</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0Ojg2YzhiMjRlNTdkZTJiOTk0Zjc2Yjc3NmM1Zjk0MDMwMmRiYzM5ZTQ=</guid>
+            <pubDate>Thu, 02 Oct 2025 02:54:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/86c8b24e57de2b994f76b776c5f940302dbc39e4">released v3.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidwall-hub released v1.5.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall-hub/commit/76890325c7c1b21696546c9c1cf7411784eba942</link>
