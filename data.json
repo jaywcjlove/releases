@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOjM3NWVmYjdkY2NjZDYyNGIxOTViODQ2MDMzNjJkNjg5NTBhN2MwN2U=",
+    "type": "commits",
+    "title": "released v2.2.6 #129",
+    "repo": "jaywcjlove/changelog-generator",
+    "sha": "375efb7dcccd624b195b84603362d68950a7c07e",
+    "url": "https://github.com/jaywcjlove/changelog-generator/commit/375efb7dcccd624b195b84603362d68950a7c07e",
+    "created_at": "2025-10-03T22:08:17.000+08:00",
+    "state": "committer",
+    "version": "2.2.6"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjdhYTZjMWEwODlmNGVlNDYwMzVjMTA5ZGU0N2ZjZTQ5NDJmOGE0MTc=",
     "type": "commits",
     "title": "released v2.9.0 #191",
@@ -2571,7 +2582,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "352"
+    "stars": "353"
   },
   {
     "id": 1838600360,
