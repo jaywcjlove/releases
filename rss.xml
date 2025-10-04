@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 03 Oct 2025 17:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 05:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/9bfa6f117182edf90338b7ab71761fcc839e03a2</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjliZmE2ZjExNzE4MmVkZjkwMzM4YjdhYjcxNzYxZmNjODM5ZTAzYTI=</guid>
+            <pubDate>Sat, 04 Oct 2025 04:49:48 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/9bfa6f117182edf90338b7ab71761fcc839e03a2">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/changelog-generator released v2.2.6 #129]]></title>
             <link>https://github.com/jaywcjlove/changelog-generator/commit/375efb7dcccd624b195b84603362d68950a7c07e</link>
@@ -1871,14 +1879,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmNiYWZhMGUxNzVhNjA2Nzc0YzY0OWJmOGFiNTI4ZGJkNTdjY2Y3MDE=</guid>
             <pubDate>Tue, 25 Mar 2025 05:03:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/cbafa0e175a606774c649bf8ab528dbd57ccf701">released v1.7.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v1.5.0]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OmExZWMxN2ZlNjI2NDE4NjY3MDU0MmY5OWQ3NmZkNWRmMDIzMjZmNzA=</guid>
-            <pubDate>Wed, 19 Mar 2025 01:10:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/a1ec17fe6264186670542f99d76fd5df02326f70">released v1.5.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
