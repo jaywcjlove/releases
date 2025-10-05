@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjliZmE2ZjExNzE4MmVkZjkwMzM4YjdhYjcxNzYxZmNjODM5ZTAzYTI=",
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjZhZDgzZmJjZDlkNDYwZWE3MjM5OGZjOTQ3YmRkNGQ4MTgwNDA0YWQ=",
     "type": "commits",
-    "title": "released v2.0.0",
+    "title": "released v2.1.0",
     "repo": "jaywcjlove/mousio",
-    "sha": "9bfa6f117182edf90338b7ab71761fcc839e03a2",
-    "url": "https://github.com/jaywcjlove/mousio/commit/9bfa6f117182edf90338b7ab71761fcc839e03a2",
-    "created_at": "2025-10-04T12:49:48.000+08:00",
+    "sha": "6ad83fbcd9d460ea72398fc947bdd4d8180404ad",
+    "url": "https://github.com/jaywcjlove/mousio/commit/6ad83fbcd9d460ea72398fc947bdd4d8180404ad",
+    "created_at": "2025-10-05T09:18:24.000+08:00",
     "state": "committer",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0MzI2NjgxNjMyOjM3NWVmYjdkY2NjZDYyNGIxOTViODQ2MDMzNjJkNjg5NTBhN2MwN2U=",
@@ -2517,17 +2517,6 @@
     "created_at": "2025-03-27T03:15:53.000+08:00",
     "state": "committer",
     "version": "2.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjBlYzY0ODU5M2E2NmRhNGRhNWQ3N2U2M2VhM2E5ZWI0NzZjMDhjMzc=",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/videoer",
-    "sha": "0ec648593a66da4da5d77e63ea3a9eb476c08c37",
-    "url": "https://github.com/jaywcjlove/videoer/commit/0ec648593a66da4da5d77e63ea3a9eb476c08c37",
-    "created_at": "2025-03-25T19:21:38.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
   },
   {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjkxZjNjMDdkYmMyYWE3NzgzMzhhODcwOWMxYzc5YjJhOTJkZjI2ZDI=",
