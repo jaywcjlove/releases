@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzY0MjYyMjg4OjM2MzcyYzA3YjBlZWZmNzRhNWExYTViNDdmNzlhNmRlN2I4ZmU0ZTM=",
+    "type": "commits",
+    "title": "released v3.0.0",
+    "repo": "jaywcjlove/TextSoundSaver",
+    "sha": "36372c07b0eeff74a5a1a5b47f79a6de7b8fe4e3",
+    "url": "https://github.com/jaywcjlove/TextSoundSaver/commit/36372c07b0eeff74a5a1a5b47f79a6de7b8fe4e3",
+    "created_at": "2025-10-08T19:21:08.000+08:00",
+    "state": "committer",
+    "version": "3.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjZhZDgzZmJjZDlkNDYwZWE3MjM5OGZjOTQ3YmRkNGQ4MTgwNDA0YWQ=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2890,7 +2901,7 @@
     "created_at": "2020-03-02T01:34:53Z",
     "state": "merged",
     "number": 7,
-    "stars": "370"
+    "stars": "371"
   },
   {
     "id": 571407407,
