@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 11 Oct 2025 05:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 17:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iNotify released v2.1.4 #84]]></title>
+            <link>https://github.com/jaywcjlove/iNotify/commit/36305380bde04e8836a1218f6d17e621b70c6149</link>
+            <guid>MDY6Q29tbWl0MzUxNjIwMTA6MzYzMDUzODBiZGUwNGU4ODM2YTEyMThmNmQxN2U2MjFiNzBjNjE0OQ==</guid>
+            <pubDate>Sat, 11 Oct 2025 10:39:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iNotify/commit/36305380bde04e8836a1218f6d17e621b70c6149">released v2.1.4 #84</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/TextSoundSaver released v3.0.0]]></title>
             <link>https://github.com/jaywcjlove/TextSoundSaver/commit/36372c07b0eeff74a5a1a5b47f79a6de7b8fe4e3</link>
@@ -1871,14 +1879,6 @@ https://github.com/uiwjs/react-codemirror/issues/731</a>]]></description>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjkxZjNjMDdkYmMyYWE3NzgzMzhhODcwOWMxYzc5YjJhOTJkZjI2ZDI=</guid>
             <pubDate>Tue, 25 Mar 2025 05:59:37 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/91f3c07dbc2aa778338a8709c1c79b2a92df26d2">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.7.4]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/cbafa0e175a606774c649bf8ab528dbd57ccf701</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmNiYWZhMGUxNzVhNjA2Nzc0YzY0OWJmOGFiNTI4ZGJkNTdjY2Y3MDE=</guid>
-            <pubDate>Tue, 25 Mar 2025 05:03:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/cbafa0e175a606774c649bf8ab528dbd57ccf701">released v1.7.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

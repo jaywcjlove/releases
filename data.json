@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzUxNjIwMTA6MzYzMDUzODBiZGUwNGU4ODM2YTEyMThmNmQxN2U2MjFiNzBjNjE0OQ==",
+    "type": "commits",
+    "title": "released v2.1.4 #84",
+    "repo": "jaywcjlove/iNotify",
+    "sha": "36305380bde04e8836a1218f6d17e621b70c6149",
+    "url": "https://github.com/jaywcjlove/iNotify/commit/36305380bde04e8836a1218f6d17e621b70c6149",
+    "created_at": "2025-10-11T18:39:50.000+08:00",
+    "state": "committer",
+    "version": "2.1.4"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY0MjYyMjg4OjM2MzcyYzA3YjBlZWZmNzRhNWExYTViNDdmNzlhNmRlN2I4ZmU0ZTM=",
     "type": "commits",
     "title": "released v3.0.0",
@@ -2541,17 +2552,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmNiYWZhMGUxNzVhNjA2Nzc0YzY0OWJmOGFiNTI4ZGJkNTdjY2Y3MDE=",
-    "type": "commits",
-    "title": "released v1.7.4",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "cbafa0e175a606774c649bf8ab528dbd57ccf701",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/cbafa0e175a606774c649bf8ab528dbd57ccf701",
-    "created_at": "2025-03-25T13:03:47.000+08:00",
-    "state": "committer",
-    "version": "1.7.4"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2681,7 +2681,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "226"
+    "stars": "227"
   },
   {
     "id": 1032707507,
