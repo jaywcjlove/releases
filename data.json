@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjEzOWI0NjVhNTUxM2IwZmY1MDBhYWIzYTYwN2FlYWJiMWE1YTlkMWQ=",
+    "type": "commits",
+    "title": "released v4.1.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "139b465a5513b0ff500aab3a607aeabb1a5a9d1d",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/139b465a5513b0ff500aab3a607aeabb1a5a9d1d",
+    "created_at": "2025-10-13T14:08:02.000+08:00",
+    "state": "committer",
+    "version": "4.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzUxNjIwMTA6MzYzMDUzODBiZGUwNGU4ODM2YTEyMThmNmQxN2U2MjFiNzBjNjE0OQ==",
     "type": "commits",
     "title": "released v2.1.4 #84",
@@ -2539,17 +2550,6 @@
     "created_at": "2025-03-25T13:59:37.000+08:00",
     "state": "committer",
     "version": "1.6.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmNiYWZhMGUxNzVhNjA2Nzc0YzY0OWJmOGFiNTI4ZGJkNTdjY2Y3MDE=",
-    "type": "commits",
-    "title": "released v1.7.4",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "cbafa0e175a606774c649bf8ab528dbd57ccf701",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/cbafa0e175a606774c649bf8ab528dbd57ccf701",
-    "created_at": "2025-03-25T13:03:47.000+08:00",
-    "state": "committer",
-    "version": "1.7.4"
   },
   {
     "id": 2526870275,
