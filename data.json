@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzY3MzMxMzE0Ojg1MTAyM2JlMzc0MTY3N2ZlMDM2YWUzNmMwMjI5MDA1OWMxODI2NDA=",
+    "type": "commits",
+    "title": "released v4.1.0 #58",
+    "repo": "jaywcjlove/rehype-attr",
+    "sha": "851023be3741677fe036ae36c02290059c182640",
+    "url": "https://github.com/jaywcjlove/rehype-attr/commit/851023be3741677fe036ae36c02290059c182640",
+    "created_at": "2025-10-15T00:33:17.000+08:00",
+    "state": "committer",
+    "version": "4.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjEzOWI0NjVhNTUxM2IwZmY1MDBhYWIzYTYwN2FlYWJiMWE1YTlkMWQ=",
     "type": "commits",
     "title": "released v4.1.0",
@@ -1317,7 +1328,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "328"
+    "stars": "331"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2475,17 +2486,6 @@
     "version": "2.13.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjdkZGU5N2QxMTEzMTlkOGM2YjMzMDU4NGEwN2E3NTg5ZGYzNTRhOGI=",
-    "type": "commits",
-    "title": "released v6.3.2",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "7dde97d111319d8c6b330584a07a7589df354a8b",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/7dde97d111319d8c6b330584a07a7589df354a8b",
-    "created_at": "2025-04-06T10:55:33.000+08:00",
-    "state": "committer",
-    "version": "6.3.2"
-  },
-  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjZkMzMxNWFiMWQzMGQyNWFmNzk3NmM2MDlkMTlhMjVmMjVlNjllNWQ=",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2681,7 +2681,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "228"
+    "stars": "229"
   },
   {
     "id": 1032707507,
