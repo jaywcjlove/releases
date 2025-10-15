@@ -1,14 +1,47 @@
 [
   {
-    "id": "MDY6Q29tbWl0MzY3MzMxMzE0Ojg1MTAyM2JlMzc0MTY3N2ZlMDM2YWUzNmMwMjI5MDA1OWMxODI2NDA=",
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OmVjZjk5NDIxNDM5ZTZkZGNjMGYyMGU3ZmU0YWEyMTlkYTNjNmM4ZTA=",
     "type": "commits",
-    "title": "released v4.1.0 #58",
-    "repo": "jaywcjlove/rehype-attr",
-    "sha": "851023be3741677fe036ae36c02290059c182640",
-    "url": "https://github.com/jaywcjlove/rehype-attr/commit/851023be3741677fe036ae36c02290059c182640",
-    "created_at": "2025-10-15T00:33:17.000+08:00",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "ecf99421439e6ddcc0f20e7fe4aa219da3c6c8e0",
+    "url": "https://github.com/jaywcjlove/musicer/commit/ecf99421439e6ddcc0f20e7fe4aa219da3c6c8e0",
+    "created_at": "2025-10-15T10:10:27.000+08:00",
     "state": "committer",
-    "version": "4.1.0"
+    "version": "2.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmFhNzg1NTU0M2ZjNGEyODdhZWQxY2UyMzI4NGU0M2RlZmQ0NjQzODk=",
+    "type": "commits",
+    "title": "released v7.1.13 #396",
+    "repo": "uiwjs/react-amap",
+    "sha": "aa7855543fc4a287aed1ce23284e43defd464389",
+    "url": "https://github.com/uiwjs/react-amap/commit/aa7855543fc4a287aed1ce23284e43defd464389",
+    "created_at": "2025-10-15T09:25:44.000+08:00",
+    "state": "committer",
+    "version": "7.1.13"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzY3ODA4NDIyOjkwNTY1MWZmZTM2NDEyOGU2ZWU3ZTkzNWQ0MTJjODcwZjkwMDgxOWY=",
+    "type": "commits",
+    "title": "released v4.0.3",
+    "repo": "jaywcjlove/rehype-rewrite",
+    "sha": "905651ffe364128e6ee7e935d412c870f900819f",
+    "url": "https://github.com/jaywcjlove/rehype-rewrite/commit/905651ffe364128e6ee7e935d412c870f900819f",
+    "created_at": "2025-10-15T08:39:23.000+08:00",
+    "state": "committer",
+    "version": "4.0.3"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjY1MDFlZjdkYTdmMjc3Zjk0ZmM1ODRiMWI2NGVmYjZkOGJjODRiNTc=",
+    "type": "commits",
+    "title": "released v4.1.1",
+    "repo": "jaywcjlove/rehype-attr",
+    "sha": "6501ef7da7f277f94fc584b1b64efb6d8bc84b57",
+    "url": "https://github.com/jaywcjlove/rehype-attr/commit/6501ef7da7f277f94fc584b1b64efb6d8bc84b57",
+    "created_at": "2025-10-15T08:35:02.000+08:00",
+    "state": "committer",
+    "version": "4.1.1"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjEzOWI0NjVhNTUxM2IwZmY1MDBhYWIzYTYwN2FlYWJiMWE1YTlkMWQ=",
@@ -2508,17 +2541,6 @@
     "version": "7.1.4"
   },
   {
-    "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOjYyMWYzMDM5NTE2YzFhYzhlNjc4Mzk5ZjRhNzk2NWQ0MDg5YTcwNmU=",
-    "type": "commits",
-    "title": "released v1.5.0",
-    "repo": "jaywcjlove/web-serve",
-    "sha": "621f3039516c1ac8e678399f4a7965d4089a706e",
-    "url": "https://github.com/jaywcjlove/web-serve/commit/621f3039516c1ac8e678399f4a7965d4089a706e",
-    "created_at": "2025-03-28T16:45:58.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMwNDQ5MGQ0MTU0OTI5NGQyOTZhNjM3YmNmMzE1NzRhNGU4OTk4ZWU=",
     "type": "commits",
     "title": "released v1.7.0",
@@ -2528,28 +2550,6 @@
     "created_at": "2025-03-27T17:08:33.000+08:00",
     "state": "committer",
     "version": "1.7.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmE2Y2Y0MDAwNDkzZjE2ZTMyNzMwYzgyNzA2OGJlNDY0YzEyZTg4ODQ=",
-    "type": "commits",
-    "title": "released v2.2.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "a6cf4000493f16e32730c827068be464c12e8884",
-    "url": "https://github.com/jaywcjlove/daybar/commit/a6cf4000493f16e32730c827068be464c12e8884",
-    "created_at": "2025-03-27T03:15:53.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjkxZjNjMDdkYmMyYWE3NzgzMzhhODcwOWMxYzc5YjJhOTJkZjI2ZDI=",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "91f3c07dbc2aa778338a8709c1c79b2a92df26d2",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/91f3c07dbc2aa778338a8709c1c79b2a92df26d2",
-    "created_at": "2025-03-25T13:59:37.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": 2526870275,
