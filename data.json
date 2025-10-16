@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTgwODM2NjE4OmVjZjk5NDIxNDM5ZTZkZGNjMGYyMGU3ZmU0YWEyMTlkYTNjNmM4ZTA=",
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OmUwMmMwZDY1N2VjYzMzNGZhYmUyY2VjY2NmZDI2MzNhZjRkOWNhNDk=",
     "type": "commits",
-    "title": "released v2.0.0",
+    "title": "released v2.1.0",
     "repo": "jaywcjlove/musicer",
-    "sha": "ecf99421439e6ddcc0f20e7fe4aa219da3c6c8e0",
-    "url": "https://github.com/jaywcjlove/musicer/commit/ecf99421439e6ddcc0f20e7fe4aa219da3c6c8e0",
-    "created_at": "2025-10-15T10:10:27.000+08:00",
+    "sha": "e02c0d657ecc334fabe2cecccfd2633af4d9ca49",
+    "url": "https://github.com/jaywcjlove/musicer/commit/e02c0d657ecc334fabe2cecccfd2633af4d9ca49",
+    "created_at": "2025-10-16T02:44:38.000+08:00",
     "state": "committer",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmFhNzg1NTU0M2ZjNGEyODdhZWQxY2UyMzI4NGU0M2RlZmQ0NjQzODk=",
@@ -2541,17 +2541,6 @@
     "version": "7.1.4"
   },
   {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMwNDQ5MGQ0MTU0OTI5NGQyOTZhNjM3YmNmMzE1NzRhNGU4OTk4ZWU=",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "304490d41549294d296a637bcf31574a4e8998ee",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/304490d41549294d296a637bcf31574a4e8998ee",
-    "created_at": "2025-03-27T17:08:33.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2582,7 +2571,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "358"
+    "stars": "359"
   },
   {
     "id": 1838600360,

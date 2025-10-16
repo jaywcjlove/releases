@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 15 Oct 2025 17:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 05:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/musicer released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/ecf99421439e6ddcc0f20e7fe4aa219da3c6c8e0</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmVjZjk5NDIxNDM5ZTZkZGNjMGYyMGU3ZmU0YWEyMTlkYTNjNmM4ZTA=</guid>
-            <pubDate>Wed, 15 Oct 2025 02:10:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/ecf99421439e6ddcc0f20e7fe4aa219da3c6c8e0">released v2.0.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/musicer released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/e02c0d657ecc334fabe2cecccfd2633af4d9ca49</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmUwMmMwZDY1N2VjYzMzNGZhYmUyY2VjY2NmZDI2MzNhZjRkOWNhNDk=</guid>
+            <pubDate>Wed, 15 Oct 2025 18:44:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/e02c0d657ecc334fabe2cecccfd2633af4d9ca49">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1866,14 +1866,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Sun, 30 Mar 2025 18:44:27 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/be02b81330f35602224ed2484c1eb42aff8def99">released v7.1.4</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/304490d41549294d296a637bcf31574a4e8998ee</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjMwNDQ5MGQ0MTU0OTI5NGQyOTZhNjM3YmNmMzE1NzRhNGU4OTk4ZWU=</guid>
-            <pubDate>Thu, 27 Mar 2025 09:08:33 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/304490d41549294d296a637bcf31574a4e8998ee">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
