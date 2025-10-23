@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 22 Oct 2025 17:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 05:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/palette-genius released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126</link>
+            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjVmZjI3MWQ2ZmI3ZjQxYTg1MTQzZGZlMWRiNzQ2YWVlNmU1YzgxMjY=</guid>
+            <pubDate>Wed, 22 Oct 2025 22:45:08 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/c4a58f8f00faf9529feeb51c803473a8b9ae97cd</link>
@@ -765,6 +773,14 @@
             <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjE0ZTI3OTBmMThlZDQ2Y2Q5MmVkYmI5NjUyNGQxOTBjNGQ5ZjZjNTU=</guid>
             <pubDate>Mon, 21 Jul 2025 14:49:18 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/14e2790f18ed46cd92edbb96524d190c4d9f6c55">released v2.18.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/palette-genius released v1.8.1]]></title>
+            <link>https://github.com/jaywcjlove/palette-genius/commit/55513870d572231570a18262418c679d06d628bf</link>
+            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjU1NTEzODcwZDU3MjIzMTU3MGExODI2MjQxOGM2NzlkMDZkNjI4YmY=</guid>
+            <pubDate>Mon, 21 Jul 2025 07:56:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/55513870d572231570a18262418c679d06d628bf">released v1.8.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1849,22 +1865,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjM3NzRmMDk2N2FkZmIxNjhhM2IwMDQzYzI3OTQxMDU5OTgyM2U2MWY=</guid>
             <pubDate>Mon, 07 Apr 2025 06:51:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/3774f0967adfb168a3b0043c279410599823e61f">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/DevHub released v1.35.0]]></title>
-            <link>https://github.com/jaywcjlove/DevHub/commit/f9f6c0ed7e84c3f6afbd9816b40d1fd510d70525</link>
-            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmY5ZjZjMGVkN2U4NGMzZjZhZmJkOTgxNmI0MGQxZmQ1MTBkNzA1MjU=</guid>
-            <pubDate>Mon, 07 Apr 2025 06:43:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/f9f6c0ed7e84c3f6afbd9816b40d1fd510d70525">released v1.35.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.13.0]]></title>
-            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/d18a407baef17f11d653e967f8bdbdc88bf9d54c</link>
-            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OmQxOGE0MDdiYWVmMTdmMTFkNjUzZTk2N2Y4YmRiZGM4OGJmOWQ1NGM=</guid>
-            <pubDate>Sun, 06 Apr 2025 06:58:13 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/d18a407baef17f11d653e967f8bdbdc88bf9d54c">released v2.13.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
