@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 23 Oct 2025 17:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 05:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.9.1 #192]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/769d54ec8db4840d67bf9dfc90896db0964fce22</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4Ojc2OWQ1NGVjOGRiNDg0MGQ2N2JmOWRmYzkwODk2ZGIwOTY0ZmNlMjI=</guid>
+            <pubDate>Fri, 24 Oct 2025 03:48:24 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/769d54ec8db4840d67bf9dfc90896db0964fce22">released v2.9.1 #192</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/palette-genius released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126</link>
