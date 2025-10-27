@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjE3ZGQ2MzdmM2E2NTc4MGU1OWM5ZTg4NDFkZTNlNTdlNmJhYTYxNTQ=",
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjgzNzIwNDU1Yjg5ZWU0Yzc3NDJhZjdlZjdhMjU5NDExNmJjNGFlMTE=",
     "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "17dd637f3a65780e59c9e8841de3e57e6baa6154",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/17dd637f3a65780e59c9e8841de3e57e6baa6154",
-    "created_at": "2025-10-25T17:03:18.000+08:00",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "83720455b89ee4c7742af7ef7a2594116bc4ae11",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/83720455b89ee4c7742af7ef7a2594116bc4ae11",
+    "created_at": "2025-10-28T00:24:50.000+08:00",
     "state": "committer",
-    "version": "2.1.0"
+    "version": "2.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjU4MzMyZjNhYjhjMjI4MmQxZjdkNzdjYzQ4NjZhZDY0MzM1NmUzYWI=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "58332f3ab8c2282d1f7d77cc4866ad643356e3ab",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/58332f3ab8c2282d1f7d77cc4866ad643356e3ab",
+    "created_at": "2025-10-28T00:20:42.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
   },
   {
     "id": "MDY6Q29tbWl0NzIyNjczOTkxOmE4Nzc1MTQwOTczYWQwMDE5MTIwNTMxZDI4ZGI3OTVkMTQwNWNiZTg=",
@@ -1449,7 +1460,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "340"
+    "stars": "341"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2530,39 +2541,6 @@
     "version": "1.8.1"
   },
   {
-    "id": "MDY6Q29tbWl0MTc4NTg2NzQ1OmY4ZWYyNjgyOTAxZmY5ZjJiZmU0ZDgyZWE3ZTM5ZTVjNTkzMmI0MjA=",
-    "type": "commits",
-    "title": "released v6.1.3",
-    "repo": "uiwjs/react-markdown-editor",
-    "sha": "f8ef2682901ff9f2bfe4d82ea7e39e5c5932b420",
-    "url": "https://github.com/uiwjs/react-markdown-editor/commit/f8ef2682901ff9f2bfe4d82ea7e39e5c5932b420",
-    "created_at": "2025-04-12T09:06:12.000+08:00",
-    "state": "committer",
-    "version": "6.1.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjYxMGY4OWQ4MTBjOTg2ODE3NTNiNWZjMTFkOTA0YWI4Y2M2OTBkMmY=",
-    "type": "commits",
-    "title": "released v1.38.0",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "610f89d810c98681753b5fc11d904ab8cc690d2f",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/610f89d810c98681753b5fc11d904ab8cc690d2f",
-    "created_at": "2025-04-12T08:30:37.000+08:00",
-    "state": "committer",
-    "version": "1.38.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjMxZTgyYTY1NDcwZWZmMTQwNjA4NGQyYjMwMjYyN2Y4MDI1NDNjNWI=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "31e82a65470eff1406084d2b302627f802543c5b",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/31e82a65470eff1406084d2b302627f802543c5b",
-    "created_at": "2025-04-10T16:52:10.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjM3NzRmMDk2N2FkZmIxNjhhM2IwMDQzYzI3OTQxMDU5OTgyM2U2MWY=",
     "type": "commits",
     "title": "released v1.6.0",
@@ -2604,7 +2582,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "366"
+    "stars": "367"
   },
   {
     "id": 1838600360,
@@ -2890,7 +2868,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "430"
+    "stars": "429"
   },
   {
     "id": 660217683,
