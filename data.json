@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjZlMmRlODE0Yzc5YzRjOTAyNTc3YWVlNDU1NmVmZjdiODQwZDA4ZjI=",
+    "type": "commits",
+    "title": "released v2.9.2 #193",
+    "repo": "uiwjs/react-color",
+    "sha": "6e2de814c79c4c902577aee4556eff7b840d08f2",
+    "url": "https://github.com/uiwjs/react-color/commit/6e2de814c79c4c902577aee4556eff7b840d08f2",
+    "created_at": "2025-10-28T14:09:24.000+08:00",
+    "state": "committer",
+    "version": "2.9.2"
+  },
+  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjgzNzIwNDU1Yjg5ZWU0Yzc3NDJhZjdlZjdhMjU5NDExNmJjNGFlMTE=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -888,7 +899,7 @@
     "created_at": "2025-08-12T02:41:45Z",
     "state": "merged",
     "number": 79,
-    "stars": "36"
+    "stars": "37"
   },
   {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmNlYzMyNzJkZWE1NGE1OTNiMDc5NGNiOGU1Nzg5OGQwZDA5MmE2YWQ=",
@@ -1460,7 +1471,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "341"
+    "stars": "342"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2539,17 +2550,6 @@
     "created_at": "2025-04-14T06:25:54.000+08:00",
     "state": "committer",
     "version": "1.8.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjM3NzRmMDk2N2FkZmIxNjhhM2IwMDQzYzI3OTQxMDU5OTgyM2U2MWY=",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "3774f0967adfb168a3b0043c279410599823e61f",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/3774f0967adfb168a3b0043c279410599823e61f",
-    "created_at": "2025-04-07T14:51:16.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": 2526870275,

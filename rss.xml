@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 28 Oct 2025 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.9.2 #193]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/6e2de814c79c4c902577aee4556eff7b840d08f2</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjZlMmRlODE0Yzc5YzRjOTAyNTc3YWVlNDU1NmVmZjdiODQwZDA4ZjI=</guid>
+            <pubDate>Tue, 28 Oct 2025 06:09:24 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/6e2de814c79c4c902577aee4556eff7b840d08f2">released v2.9.2 #193</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/83720455b89ee4c7742af7ef7a2594116bc4ae11</link>
@@ -1865,14 +1873,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjI5ZDE5ZTQ5NzNkZjYyY2RiZTk3MGViMmY5ZDA4ZWIxMGUxNDMyMzQ=</guid>
             <pubDate>Sun, 13 Apr 2025 22:25:54 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/29d19e4973df62cdbe970eb2f9d08eb10e143234">released v1.8.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/palette-genius released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/palette-genius/commit/3774f0967adfb168a3b0043c279410599823e61f</link>
-            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjM3NzRmMDk2N2FkZmIxNjhhM2IwMDQzYzI3OTQxMDU5OTgyM2U2MWY=</guid>
-            <pubDate>Mon, 07 Apr 2025 06:51:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/3774f0967adfb168a3b0043c279410599823e61f">released v1.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
