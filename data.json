@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NDY5Mzk0MTY5OjdiYzkxZjg4MjZhYmNlYTRhNjQ0ODZiZmMxMTVmZmYwYzA5ZDY4NWY=",
+    "type": "commits",
+    "title": "released v3.0.5",
+    "repo": "jaywcjlove/markdown-to-html",
+    "sha": "7bc91f8826abcea4a64486bfc115fff0c09d685f",
+    "url": "https://github.com/jaywcjlove/markdown-to-html/commit/7bc91f8826abcea4a64486bfc115fff0c09d685f",
+    "created_at": "2025-10-30T19:22:50.000+08:00",
+    "state": "committer",
+    "version": "3.0.5"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjZlMmRlODE0Yzc5YzRjOTAyNTc3YWVlNDU1NmVmZjdiODQwZDA4ZjI=",
     "type": "commits",
     "title": "released v2.9.2 #193",
