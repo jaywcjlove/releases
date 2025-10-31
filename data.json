@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OjRjMGVhZGNjZjc5ZDNlNjllOTg0ZmE1ZTY0Y2VmMWY2NDBjMWFkNjU=",
+    "type": "commits",
+    "title": "released v1.30.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "4c0eadccf79d3e69e984fa5e64cef1f640c1ad65",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/4c0eadccf79d3e69e984fa5e64cef1f640c1ad65",
+    "created_at": "2025-10-31T18:52:20.000+08:00",
+    "state": "committer",
+    "version": "1.30.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjAzZDFmMTBkMDc2ODM1ZDYzODVmMzhmYjA2ZTI4YWM5MjY4ZTliODQ=",
+    "type": "commits",
+    "title": "released v2.0.1",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "03d1f10d076835d6385f38fb06e28ac9268e9b84",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84",
+    "created_at": "2025-10-31T18:49:12.000+08:00",
+    "state": "committer",
+    "version": "2.0.1"
+  },
+  {
     "id": "MDY6Q29tbWl0NDY5Mzk0MTY5OjdiYzkxZjg4MjZhYmNlYTRhNjQ0ODZiZmMxMTVmZmYwYzA5ZDY4NWY=",
     "type": "commits",
     "title": "released v3.0.5",
@@ -2519,28 +2541,6 @@
     "version": "1.9.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OmZmMjA5ZmMwOGMxZmUyNjE2ZmZjODVkNTc2MmE5ZTQ5NWFjOWU5OGI=",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/file-sentinel",
-    "sha": "ff209fc08c1fe2616ffc85d5762a9e495ac9e98b",
-    "url": "https://github.com/jaywcjlove/file-sentinel/commit/ff209fc08c1fe2616ffc85d5762a9e495ac9e98b",
-    "created_at": "2025-04-17T09:02:27.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjExNmNkYjhkMzI1Yjg4YjUxNGU2ZDZmZDFmOGJmNGFhNTM5MmM2YmE=",
-    "type": "commits",
-    "title": "released v2.5.0 #172",
-    "repo": "uiwjs/react-color",
-    "sha": "116cdb8d325b88b514e6d6fd1f8bf4aa5392c6ba",
-    "url": "https://github.com/uiwjs/react-color/commit/116cdb8d325b88b514e6d6fd1f8bf4aa5392c6ba",
-    "created_at": "2025-04-17T08:49:53.000+08:00",
-    "state": "committer",
-    "version": "2.5.0"
-  },
-  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmFhNWM1ZDdkNzRmZDZiMmIxNTQyMzE3ODMxMzk1MGFlMDEyMjI0NGI=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2670,7 +2670,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "739"
+    "stars": "740"
   },
   {
     "id": 1086792263,

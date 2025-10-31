@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 31 Oct 2025 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 17:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/devtutor released v1.30.0]]></title>
+            <link>https://github.com/jaywcjlove/devtutor/commit/4c0eadccf79d3e69e984fa5e64cef1f640c1ad65</link>
+            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OjRjMGVhZGNjZjc5ZDNlNjllOTg0ZmE1ZTY0Y2VmMWY2NDBjMWFkNjU=</guid>
+            <pubDate>Fri, 31 Oct 2025 10:52:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/4c0eadccf79d3e69e984fa5e64cef1f640c1ad65">released v1.30.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v2.0.1]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjAzZDFmMTBkMDc2ODM1ZDYzODVmMzhmYjA2ZTI4YWM5MjY4ZTliODQ=</guid>
+            <pubDate>Fri, 31 Oct 2025 10:49:12 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84">released v2.0.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/markdown-to-html released v3.0.5]]></title>
             <link>https://github.com/jaywcjlove/markdown-to-html/commit/7bc91f8826abcea4a64486bfc115fff0c09d685f</link>
@@ -1850,22 +1866,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Thu, 17 Apr 2025 17:22:59 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/c93c3dd056f44b8939d5150124cad3196e6dd683">released v1.9.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/file-sentinel released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/file-sentinel/commit/ff209fc08c1fe2616ffc85d5762a9e495ac9e98b</link>
-            <guid>MDY6Q29tbWl0OTY3NDkyNDM0OmZmMjA5ZmMwOGMxZmUyNjE2ZmZjODVkNTc2MmE5ZTQ5NWFjOWU5OGI=</guid>
-            <pubDate>Thu, 17 Apr 2025 01:02:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/ff209fc08c1fe2616ffc85d5762a9e495ac9e98b">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.5.0 #172]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/116cdb8d325b88b514e6d6fd1f8bf4aa5392c6ba</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjExNmNkYjhkMzI1Yjg4YjUxNGU2ZDZmZDFmOGJmNGFhNTM5MmM2YmE=</guid>
-            <pubDate>Thu, 17 Apr 2025 00:49:53 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/116cdb8d325b88b514e6d6fd1f8bf4aa5392c6ba">released v2.5.0 #172</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v2.0.0]]></title>
