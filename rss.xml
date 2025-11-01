@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 31 Oct 2025 17:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 05:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.10.1]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/e274a5e1d984fa0440e14748823bc7a679ed7e8e</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOmUyNzRhNWUxZDk4NGZhMDQ0MGUxNDc0ODgyM2JjN2E2NzllZDdlOGU=</guid>
+            <pubDate>Sat, 01 Nov 2025 02:58:23 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/e274a5e1d984fa0440e14748823bc7a679ed7e8e">released v1.10.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/devtutor released v1.30.0]]></title>
             <link>https://github.com/jaywcjlove/devtutor/commit/4c0eadccf79d3e69e984fa5e64cef1f640c1ad65</link>
@@ -1865,22 +1873,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OmM5M2MzZGQwNTZmNDRiODkzOWQ1MTUwMTI0Y2FkMzE5NmU2ZGQ2ODM=</guid>
             <pubDate>Thu, 17 Apr 2025 17:22:59 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/c93c3dd056f44b8939d5150124cad3196e6dd683">released v1.9.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/aa5c5d7d74fd6b2b15423178313950ae0122244b</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmFhNWM1ZDdkNzRmZDZiMmIxNTQyMzE3ODMxMzk1MGFlMDEyMjI0NGI=</guid>
-            <pubDate>Tue, 15 Apr 2025 01:22:56 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/aa5c5d7d74fd6b2b15423178313950ae0122244b">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v1.8.1]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/29d19e4973df62cdbe970eb2f9d08eb10e143234</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjI5ZDE5ZTQ5NzNkZjYyY2RiZTk3MGViMmY5ZDA4ZWIxMGUxNDMyMzQ=</guid>
-            <pubDate>Sun, 13 Apr 2025 22:25:54 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/29d19e4973df62cdbe970eb2f9d08eb10e143234">released v1.8.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
