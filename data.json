@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOmY0MGRmZTJmNWFlYWNkN2U3NzQ5OTVkNTM1N2VkZWMxNzU5NTYxNWQ=",
+    "type": "commits",
+    "title": "released v3.0.1",
+    "repo": "jaywcjlove/auto-config-loader",
+    "sha": "f40dfe2f5aeacd7e774995d5357edec17595615d",
+    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/f40dfe2f5aeacd7e774995d5357edec17595615d",
+    "created_at": "2025-11-03T15:12:16.000+08:00",
+    "state": "committer",
+    "version": "3.0.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTA4NjU2ODg2NTowM2JkNDM4ZTMyZThjMTlmYTM4ZWNjOWNmZTM1NjM5NWM0ODg3NzM4",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/keyzer",
+    "sha": "03bd438e32e8c19fa38ecc9cfe356395c4887738",
+    "url": "https://github.com/jaywcjlove/keyzer/commit/03bd438e32e8c19fa38ecc9cfe356395c4887738",
+    "created_at": "2025-11-03T15:00:48.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmFmNTdlMjI1MTI0MmYzZmZmMTY2NDEyYzYyMWEyNzRkNjFkNTc3YjQ=",
     "type": "commits",
     "title": "released v4.0.0",
@@ -2530,17 +2552,6 @@
     "version": "2.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjMzZDM0MzI2NTM0NmNjODU0OTk0YzZiMDgzYjExYjZkNzMyZTkwZTg=",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/file-sentinel",
-    "sha": "33d343265346cc854994c6b083b11b6d732e90e8",
-    "url": "https://github.com/jaywcjlove/file-sentinel/commit/33d343265346cc854994c6b083b11b6d732e90e8",
-    "created_at": "2025-04-21T12:01:44.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmFkYzA1NjQ0Y2UyNTM2NTEzZDgxNmE3ZmM0NWZhNDUwMjk5NTQ5YjE=",
     "type": "commits",
     "title": "released v1.8.0",
@@ -2956,7 +2967,7 @@
     "created_at": "2019-11-29T15:46:42Z",
     "state": "merged",
     "number": 2,
-    "stars": "237"
+    "stars": "238"
   },
   {
     "id": 501224283,
