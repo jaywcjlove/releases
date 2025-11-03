@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmFmNTdlMjI1MTI0MmYzZmZmMTY2NDEyYzYyMWEyNzRkNjFkNTc3YjQ=",
+    "type": "commits",
+    "title": "released v4.0.0",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "af57e2251242f3fff166412c621a274d61d577b4",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/af57e2251242f3fff166412c621a274d61d577b4",
+    "created_at": "2025-11-03T10:41:55.000+08:00",
+    "state": "committer",
+    "version": "4.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOmUyNzRhNWUxZDk4NGZhMDQ0MGUxNDc0ODgyM2JjN2E2NzllZDdlOGU=",
     "type": "commits",
     "title": "released v1.10.1",

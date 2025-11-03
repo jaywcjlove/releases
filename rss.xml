@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 02 Nov 2025 17:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 05:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v4.0.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/af57e2251242f3fff166412c621a274d61d577b4</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OmFmNTdlMjI1MTI0MmYzZmZmMTY2NDEyYzYyMWEyNzRkNjFkNTc3YjQ=</guid>
+            <pubDate>Mon, 03 Nov 2025 02:41:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/af57e2251242f3fff166412c621a274d61d577b4">released v4.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.10.1]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/e274a5e1d984fa0440e14748823bc7a679ed7e8e</link>
