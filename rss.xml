@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 03 Nov 2025 17:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 05:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.5.0 (#198) (#269)]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/d47911538cd08d5a762bf362d6787caf41dc29b0</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OmQ0NzkxMTUzOGNkMDhkNWE3NjJiZjM2MmQ2Nzg3Y2FmNDFkYzI5YjA=</guid>
+            <pubDate>Mon, 03 Nov 2025 18:02:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/d47911538cd08d5a762bf362d6787caf41dc29b0">released v6.5.0 (#198) (#269)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/auto-config-loader released v3.0.1]]></title>
             <link>https://github.com/jaywcjlove/auto-config-loader/commit/f40dfe2f5aeacd7e774995d5357edec17595615d</link>
@@ -1785,14 +1793,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTc1ODc4MTk0OmQ5Mzk3NjI4YzhkNmNjYTk2MzliYjRlMmU2NzVhZDI0NDIwNTgxN2E=</guid>
             <pubDate>Thu, 01 May 2025 14:40:46 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/babel-plugin-add-import-extension/commit/d9397628c8d6cca9639bb4e2e675ad244205817a">released v1.0.1</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.31 #69]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/3738564403a1a37ce4286c1486229eef246da60c</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjM3Mzg1NjQ0MDNhMWEzN2NlNDI4NmMxNDg2MjI5ZWVmMjQ2ZGE2MGM=</guid>
-            <pubDate>Tue, 29 Apr 2025 18:36:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/3738564403a1a37ce4286c1486229eef246da60c">released v2.0.0-alpha.31 #69</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
