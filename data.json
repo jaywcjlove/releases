@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmVmYmRkZWQzOGFlYzMyNzBkZDY5ZTNiOGE2OTRiNTIyMjY1MTE0OTk=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "efbdded38aec3270dd69e3b8a694b52226511499",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/efbdded38aec3270dd69e3b8a694b52226511499",
+    "created_at": "2025-11-04T13:42:52.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OmQ0NzkxMTUzOGNkMDhkNWE3NjJiZjM2MmQ2Nzg3Y2FmNDFkYzI5YjA=",
     "type": "commits",
     "title": "released v6.5.0 (#198) (#269)",
@@ -2563,17 +2574,6 @@
     "version": "1.8.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmM5M2MzZGQwNTZmNDRiODkzOWQ1MTUwMTI0Y2FkMzE5NmU2ZGQ2ODM=",
-    "type": "commits",
-    "title": "released v1.9.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "c93c3dd056f44b8939d5150124cad3196e6dd683",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/c93c3dd056f44b8939d5150124cad3196e6dd683",
-    "created_at": "2025-04-18T01:22:59.000+08:00",
-    "state": "committer",
-    "version": "1.9.0"
-  },
-  {
     "id": 2526870275,
     "type": "User",
     "repo": "richardpiazza/SwiftSVG",
@@ -2615,7 +2615,7 @@
     "created_at": "2023-08-07T03:17:04Z",
     "state": "merged",
     "number": 66,
-    "stars": "195"
+    "stars": "196"
   },
   {
     "id": 1645290043,
