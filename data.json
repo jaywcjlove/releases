@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjQ5N2JjMDQxYWViOTU1OWNiZWJiZTIxYTg5Nzk1NWNhMThiOGYwMzI=",
+    "type": "commits",
+    "title": "released v4.25.3 #750",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "497bc041aeb9559cbebbe21a897955ca18b8f032",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/497bc041aeb9559cbebbe21a897955ca18b8f032",
+    "created_at": "2025-11-05T14:56:09.000+08:00",
+    "state": "committer",
+    "version": "4.25.3"
+  },
+  {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjZiOTU4NjY3NDFmOTZhYTBjNzY2ZmIyZDI1ZjhjYmMxZmM3ZGY0MWE=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -855,7 +866,7 @@
     "created_at": "2025-08-22T05:56:49Z",
     "state": "merged",
     "number": 17804,
-    "stars": "51.1K"
+    "stars": "51.2K"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=",
@@ -2637,7 +2648,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "350"
+    "stars": "351"
   },
   {
     "id": 1194561099,
