@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 07 Nov 2025 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 17:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/89f66864d049de35ebd1bee4197fc69a0ea8ac4e</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjg5ZjY2ODY0ZDA0OWRlMzVlYmQxYmVlNDE5N2ZjNjlhMGVhOGFjNGU=</guid>
+            <pubDate>Fri, 07 Nov 2025 13:16:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/89f66864d049de35ebd1bee4197fc69a0ea8ac4e">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/audioer released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/audioer/commit/4a726a8cf97c89240dd79eea874405ed2c75761a</link>
@@ -1769,14 +1777,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjIyYjM1NjZjNGQ5M2I2NjUxZDc5OTc0NTVhZjFiYzFlNWZiODMxYTA=</guid>
             <pubDate>Thu, 01 May 2025 17:18:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/22b3566c4d93b6651d7997455af1bc1e5fb831a0">released v2.5.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-preview released v5.1.4]]></title>
-            <link>https://github.com/uiwjs/react-markdown-preview/commit/c711b5115a1df47203f149280e531680bbedfd6b</link>
-            <guid>MDY6Q29tbWl0MjU2NzA0MjkxOmM3MTFiNTExNWExZGY0NzIwM2YxNDkyODBlNTMxNjgwYmJlZGZkNmI=</guid>
-            <pubDate>Thu, 01 May 2025 16:19:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/c711b5115a1df47203f149280e531680bbedfd6b">released v5.1.4</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
