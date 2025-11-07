@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 06 Nov 2025 17:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 05:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/4a726a8cf97c89240dd79eea874405ed2c75761a</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3OjRhNzI2YThjZjk3Yzg5MjQwZGQ3OWVlYTg3NDQwNWVkMmM3NTc2MWE=</guid>
+            <pubDate>Thu, 06 Nov 2025 19:52:12 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/4a726a8cf97c89240dd79eea874405ed2c75761a">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v3.1.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/65c879659d0165cabf44a0fb692ee35423a50b2a</link>
@@ -1881,14 +1889,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmEzYjlhYzdhNWM1NDM4MGI3MGRlOWE4NzUxM2MwNWY2MjcyOGNlNGU=</guid>
             <pubDate>Wed, 23 Apr 2025 10:00:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/a3b9ac7a5c54380b70de9a87513c05f62728ce4e">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v2.2.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/7014d4bbc400b44d120ed0f77876ff9eda76ad55</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjcwMTRkNGJiYzQwMGI0NGQxMjBlZDBmNzc4NzZmZjllZGE3NmFkNTU=</guid>
-            <pubDate>Tue, 22 Apr 2025 10:55:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/7014d4bbc400b44d120ed0f77876ff9eda76ad55">released v2.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
