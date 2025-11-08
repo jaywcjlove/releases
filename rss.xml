@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 08 Nov 2025 05:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 17:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,19 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.11.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/89f66864d049de35ebd1bee4197fc69a0ea8ac4e</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjg5ZjY2ODY0ZDA0OWRlMzVlYmQxYmVlNDE5N2ZjNjlhMGVhOGFjNGU=</guid>
-            <pubDate>Fri, 07 Nov 2025 13:16:06 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/89f66864d049de35ebd1bee4197fc69a0ea8ac4e">released v1.11.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/devtutor released v1.31.0]]></title>
+            <link>https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d</link>
+            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=</guid>
+            <pubDate>Sat, 08 Nov 2025 15:16:23 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d">released v1.31.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.12.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/986e802b8151a7c9a8bcfd21215f77dad8f3e98a</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjk4NmU4MDJiODE1MWE3YzlhOGJjZmQyMTIxNWY3N2RhZDhmM2U5OGE=</guid>
+            <pubDate>Sat, 08 Nov 2025 15:14:25 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/986e802b8151a7c9a8bcfd21215f77dad8f3e98a">released v1.12.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1764,14 +1772,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.32]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/b1c5b0d53dfd1bc1107e5ec67387fcf9ad23b586</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmIxYzViMGQ1M2RmZDFiYzExMDdlNWVjNjczODdmY2Y5YWQyM2I1ODY=</guid>
-            <pubDate>Thu, 01 May 2025 17:33:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/b1c5b0d53dfd1bc1107e5ec67387fcf9ad23b586">released v2.0.0-alpha.32</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-color released v2.5.3]]></title>
             <link>https://github.com/uiwjs/react-color/commit/22b3566c4d93b6651d7997455af1bc1e5fb831a0</link>
             <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjIyYjM1NjZjNGQ5M2I2NjUxZDc5OTc0NTVhZjFiYzFlNWZiODMxYTA=</guid>
@@ -1882,14 +1882,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Sun, 27 Apr 2025 05:14:49 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/fe8e356088dca301762812abfe7ffb6027e2b8bb">released v4.23.11 (#729)</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/a3b9ac7a5c54380b70de9a87513c05f62728ce4e</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmEzYjlhYzdhNWM1NDM4MGI3MGRlOWE4NzUxM2MwNWY2MjcyOGNlNGU=</guid>
-            <pubDate>Wed, 23 Apr 2025 10:00:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/a3b9ac7a5c54380b70de9a87513c05f62728ce4e">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/palette-genius released v1.8.0]]></title>
