@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OjIxMWZhYTg4ZTRmZTJkZDE1MGZmZTkwNjI3MTFlZTYyY2MyMDUzYzA=",
+    "type": "commits",
+    "title": "released v3.2.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "211faa88e4fe2dd150ffe9062711ee62cc2053c0",
+    "url": "https://github.com/jaywcjlove/daybar/commit/211faa88e4fe2dd150ffe9062711ee62cc2053c0",
+    "created_at": "2025-11-09T12:20:47.000+08:00",
+    "state": "committer",
+    "version": "3.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2Ojg2ZTQyN2U0ZDM2NmYzNGYyYjg1NjA2YzJjZjhkOWFkOTFmNTFkMTA=",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/palette-genius",
+    "sha": "86e427e4d366f34f2b85606c2cf8d9ad91f51d10",
+    "url": "https://github.com/jaywcjlove/palette-genius/commit/86e427e4d366f34f2b85606c2cf8d9ad91f51d10",
+    "created_at": "2025-11-09T11:44:10.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=",
     "type": "commits",
     "title": "released v1.31.0",
@@ -2541,28 +2563,6 @@
     "version": "1.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjFiNTBlYmU4YTc5Mzk1NDVjZjkwMjUzYWYxYWUyN2Q5ZWNkZjgyOWQ=",
-    "type": "commits",
-    "title": "released v2.5.1 #173",
-    "repo": "uiwjs/react-color",
-    "sha": "1b50ebe8a7939545cf90253af1ae27d9ecdf829d",
-    "url": "https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d",
-    "created_at": "2025-04-27T20:01:02.000+08:00",
-    "state": "committer",
-    "version": "2.5.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmZlOGUzNTYwODhkY2EzMDE3NjI4MTJhYmZlN2ZmYjYwMjdlMmI4YmI=",
-    "type": "commits",
-    "title": "released v4.23.11 (#729)",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "fe8e356088dca301762812abfe7ffb6027e2b8bb",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/fe8e356088dca301762812abfe7ffb6027e2b8bb",
-    "created_at": "2025-04-27T13:14:49.000+08:00",
-    "state": "committer",
-    "version": "4.23.11"
-  },
-  {
     "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OmFkYzA1NjQ0Y2UyNTM2NTEzZDgxNmE3ZmM0NWZhNDUwMjk5NTQ5YjE=",
     "type": "commits",
     "title": "released v1.8.0",
@@ -2648,7 +2648,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "351"
+    "stars": "352"
   },
   {
     "id": 1194561099,
@@ -2703,7 +2703,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "232"
+    "stars": "233"
   },
   {
     "id": 1032707507,

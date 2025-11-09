@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 08 Nov 2025 17:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 05:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v3.2.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/211faa88e4fe2dd150ffe9062711ee62cc2053c0</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OjIxMWZhYTg4ZTRmZTJkZDE1MGZmZTkwNjI3MTFlZTYyY2MyMDUzYzA=</guid>
+            <pubDate>Sun, 09 Nov 2025 04:20:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/211faa88e4fe2dd150ffe9062711ee62cc2053c0">released v3.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/palette-genius released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/palette-genius/commit/86e427e4d366f34f2b85606c2cf8d9ad91f51d10</link>
+            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2Ojg2ZTQyN2U0ZDM2NmYzNGYyYjg1NjA2YzJjZjhkOWFkOTFmNTFkMTA=</guid>
+            <pubDate>Sun, 09 Nov 2025 03:44:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/86e427e4d366f34f2b85606c2cf8d9ad91f51d10">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/devtutor released v1.31.0]]></title>
             <link>https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d</link>
@@ -1866,22 +1882,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Mon, 28 Apr 2025 06:45:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a">released v1.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.5.1 #173]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjFiNTBlYmU4YTc5Mzk1NDVjZjkwMjUzYWYxYWUyN2Q5ZWNkZjgyOWQ=</guid>
-            <pubDate>Sun, 27 Apr 2025 12:01:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/1b50ebe8a7939545cf90253af1ae27d9ecdf829d">released v2.5.1 #173</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.23.11 (#729)]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/fe8e356088dca301762812abfe7ffb6027e2b8bb</link>
-            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OmZlOGUzNTYwODhkY2EzMDE3NjI4MTJhYmZlN2ZmYjYwMjdlMmI4YmI=</guid>
-            <pubDate>Sun, 27 Apr 2025 05:14:49 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/fe8e356088dca301762812abfe7ffb6027e2b8bb">released v4.23.11 (#729)</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/palette-genius released v1.8.0]]></title>
