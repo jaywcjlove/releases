@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 11 Nov 2025 17:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 05:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/DevHub released v2.1.1]]></title>
+            <link>https://github.com/jaywcjlove/DevHub/commit/28733907a0454804c562f894945ab4d5c434cdff</link>
+            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOjI4NzMzOTA3YTA0NTQ4MDRjNTYyZjg5NDk0NWFiNGQ1YzQzNGNkZmY=</guid>
+            <pubDate>Tue, 11 Nov 2025 18:54:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/28733907a0454804c562f894945ab4d5c434cdff">released v2.1.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/daybar released v3.2.0]]></title>
             <link>https://github.com/jaywcjlove/daybar/commit/211faa88e4fe2dd150ffe9062711ee62cc2053c0</link>
@@ -1737,14 +1745,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0NDQ4ODQ0MDI4OjhiM2UxNjVjZTY5NzY4YzNmNzA3MmNjNjkyNjY3OTI3NTcwMWM5YjU=</guid>
             <pubDate>Fri, 02 May 2025 01:57:46 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-layout/commit/8b3e165ce69768c3f7072cc6926679275701c9b5">released v4.10.5</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-only-when released v3.0.2]]></title>
-            <link>https://github.com/uiwjs/react-only-when/commit/e6b9d56992958f962ac995410345d7ae4910478c</link>
-            <guid>MDY6Q29tbWl0Mzc4MzE3MDAyOmU2YjlkNTY5OTI5NThmOTYyYWM5OTU0MTAzNDVkN2FlNDkxMDQ3OGM=</guid>
-            <pubDate>Fri, 02 May 2025 01:55:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-only-when/commit/e6b9d56992958f962ac995410345d7ae4910478c">released v3.0.2</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
