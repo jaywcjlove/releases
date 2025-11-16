@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NThiMDE0YWI2MTJlOTUzOWQwMzYxOGU5NTJiMGEyMDU4MjQ5YzgyOA==",
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZmM2NjU1MDE5OTA4M2NmMTQ5Mzk4NjU3NTMwMDQzOWI1MWU5YWZkZg==",
     "type": "commits",
-    "title": "released v4.0.0-beta.2",
+    "title": "released v4.0.0-beta.4",
     "repo": "jaywcjlove/hotkeys-js",
-    "sha": "58b014ab612e9539d03618e952b0a2058249c828",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/58b014ab612e9539d03618e952b0a2058249c828",
-    "created_at": "2025-11-15T11:45:03.000+08:00",
+    "sha": "fc66550199083cf1493986575300439b51e9afdf",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/fc66550199083cf1493986575300439b51e9afdf",
+    "created_at": "2025-11-16T12:39:07.000+08:00",
     "state": "committer",
-    "version": "4.0.0-beta.2"
+    "version": "4.0.0-beta.4"
   },
   {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjI4NzMzOTA3YTA0NTQ4MDRjNTYyZjg5NDk0NWFiNGQ1YzQzNGNkZmY=",
@@ -2539,28 +2539,6 @@
     "created_at": "2025-04-29T12:33:03.000+08:00",
     "state": "committer",
     "version": "1.6.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTczMzQxMDA3OjU5OGQ0ZjFiMjkxOTYxNjZjMWUwMDU5OGRjNjRmYzhhNmVmYjk1ZDU=",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/audioer",
-    "sha": "598d4f1b29196166c1e00598dc64fc8a6efb95d5",
-    "url": "https://github.com/jaywcjlove/audioer/commit/598d4f1b29196166c1e00598dc64fc8a6efb95d5",
-    "created_at": "2025-04-28T15:21:37.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjM0YmViNmY1ODYzNzk1OGIxMjQ0ZTEwZjRjOTFkNmJlMTBkYWVkMWE=",
-    "type": "commits",
-    "title": "released v1.2.0",
-    "repo": "jaywcjlove/videoer",
-    "sha": "34beb6f58637958b1244e10f4c91d6be10daed1a",
-    "url": "https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a",
-    "created_at": "2025-04-28T14:45:16.000+08:00",
-    "state": "committer",
-    "version": "1.2.0"
   },
   {
     "id": 2526870275,

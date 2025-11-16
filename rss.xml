@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 15 Nov 2025 17:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 05:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.2]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/58b014ab612e9539d03618e952b0a2058249c828</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NThiMDE0YWI2MTJlOTUzOWQwMzYxOGU5NTJiMGEyMDU4MjQ5YzgyOA==</guid>
-            <pubDate>Sat, 15 Nov 2025 03:45:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/58b014ab612e9539d03618e952b0a2058249c828">released v4.0.0-beta.2</a>]]></description>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.4]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/fc66550199083cf1493986575300439b51e9afdf</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ZmM2NjU1MDE5OTA4M2NmMTQ5Mzk4NjU3NTMwMDQzOWI1MWU5YWZkZg==</guid>
+            <pubDate>Sun, 16 Nov 2025 04:39:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/fc66550199083cf1493986575300439b51e9afdf">released v4.0.0-beta.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1865,22 +1865,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjMyNGE3NjYxYzYxYWYyMGEyZGY1ODY4Y2M0MDk4Y2MyZTQyOGEzODg=</guid>
             <pubDate>Tue, 29 Apr 2025 04:33:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/324a7661c61af20a2df5868cc4098cc2e428a388">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/audioer released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/audioer/commit/598d4f1b29196166c1e00598dc64fc8a6efb95d5</link>
-            <guid>MDY6Q29tbWl0OTczMzQxMDA3OjU5OGQ0ZjFiMjkxOTYxNjZjMWUwMDU5OGRjNjRmYzhhNmVmYjk1ZDU=</guid>
-            <pubDate>Mon, 28 Apr 2025 07:21:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/598d4f1b29196166c1e00598dc64fc8a6efb95d5">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/videoer released v1.2.0]]></title>
-            <link>https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a</link>
-            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjM0YmViNmY1ODYzNzk1OGIxMjQ0ZTEwZjRjOTFkNmJlMTBkYWVkMWE=</guid>
-            <pubDate>Mon, 28 Apr 2025 06:45:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/34beb6f58637958b1244e10f4c91d6be10daed1a">released v1.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
