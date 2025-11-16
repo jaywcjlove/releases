@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NGY4NDIyZGRlMjRjN2EwOTEwMzI4NjZjZTg3NmNmYzk1YWJjMDBmZg==",
+    "type": "commits",
+    "title": "released v4.0.0-beta.5 (#519)",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "4f8422dde24c7a091032866ce876cfc95abc00ff",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/4f8422dde24c7a091032866ce876cfc95abc00ff",
+    "created_at": "2025-11-16T21:53:58.000+08:00",
+    "state": "committer",
+    "version": "4.0.0-beta.5"
+  },
+  {
+    "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OmM2MjY3MGRkZmQ5M2JhYzJjMjNjN2Y4ZTA2MTljYTMyY2I2NjJiNjM=",
+    "type": "commits",
+    "title": "released v1.47.0",
+    "repo": "jaywcjlove/reference",
+    "sha": "c62670ddfd93bac2c23c7f8e0619ca32cb662b63",
+    "url": "https://github.com/jaywcjlove/reference/commit/c62670ddfd93bac2c23c7f8e0619ca32cb662b63",
+    "created_at": "2025-11-16T21:51:43.000+08:00",
+    "state": "committer",
+    "version": "1.47.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZmM2NjU1MDE5OTA4M2NmMTQ5Mzk4NjU3NTMwMDQzOWI1MWU5YWZkZg==",
     "type": "commits",
     "title": "released v4.0.0-beta.4",
@@ -2506,39 +2528,6 @@
     "created_at": "2025-04-29T21:35:40.000+08:00",
     "state": "committer",
     "version": "1.6.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTczMzQxMDA3Ojk3ZTg2NTIxMDBhOTRmZDhiMzg5NGMyYTZkNjEzYzYwNTZhNmVhZDQ=",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/audioer",
-    "sha": "97e8652100a94fd8b3894c2a6d613c6056a6ead4",
-    "url": "https://github.com/jaywcjlove/audioer/commit/97e8652100a94fd8b3894c2a6d613c6056a6ead4",
-    "created_at": "2025-04-29T20:56:30.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmFmNmZlNzMyMmYzMTAyOGEwNDI3NTBhNjlkYjdhMTNhZjQ1YzM5MmE=",
-    "type": "commits",
-    "title": "released v2.5.2  #174",
-    "repo": "uiwjs/react-color",
-    "sha": "af6fe7322f31028a042750a69db7a13af45c392a",
-    "url": "https://github.com/uiwjs/react-color/commit/af6fe7322f31028a042750a69db7a13af45c392a",
-    "created_at": "2025-04-29T20:30:32.000+08:00",
-    "state": "committer",
-    "version": "2.5.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjMyNGE3NjYxYzYxYWYyMGEyZGY1ODY4Y2M0MDk4Y2MyZTQyOGEzODg=",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/iconed",
-    "sha": "324a7661c61af20a2df5868cc4098cc2e428a388",
-    "url": "https://github.com/jaywcjlove/iconed/commit/324a7661c61af20a2df5868cc4098cc2e428a388",
-    "created_at": "2025-04-29T12:33:03.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": 2526870275,

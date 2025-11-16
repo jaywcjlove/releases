@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 16 Nov 2025 05:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 17:34:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.5 (#519)]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/4f8422dde24c7a091032866ce876cfc95abc00ff</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NGY4NDIyZGRlMjRjN2EwOTEwMzI4NjZjZTg3NmNmYzk1YWJjMDBmZg==</guid>
+            <pubDate>Sun, 16 Nov 2025 13:53:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/4f8422dde24c7a091032866ce876cfc95abc00ff">released v4.0.0-beta.5 (#519)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/reference released v1.47.0]]></title>
+            <link>https://github.com/jaywcjlove/reference/commit/c62670ddfd93bac2c23c7f8e0619ca32cb662b63</link>
+            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OmM2MjY3MGRkZmQ5M2JhYzJjMjNjN2Y4ZTA2MTljYTMyY2I2NjJiNjM=</guid>
+            <pubDate>Sun, 16 Nov 2025 13:51:43 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/c62670ddfd93bac2c23c7f8e0619ca32cb662b63">released v1.47.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.4]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/fc66550199083cf1493986575300439b51e9afdf</link>
@@ -1841,30 +1857,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjU0MmVlOTY3NTk0ZDY4ZGQzODg2NjkwMzUzOWFmNzVlMTRkNjdiMTY=</guid>
             <pubDate>Tue, 29 Apr 2025 13:35:40 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16">released v1.6.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/audioer released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/audioer/commit/97e8652100a94fd8b3894c2a6d613c6056a6ead4</link>
-            <guid>MDY6Q29tbWl0OTczMzQxMDA3Ojk3ZTg2NTIxMDBhOTRmZDhiMzg5NGMyYTZkNjEzYzYwNTZhNmVhZDQ=</guid>
-            <pubDate>Tue, 29 Apr 2025 12:56:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/97e8652100a94fd8b3894c2a6d613c6056a6ead4">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.5.2  #174]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/af6fe7322f31028a042750a69db7a13af45c392a</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmFmNmZlNzMyMmYzMTAyOGEwNDI3NTBhNjlkYjdhMTNhZjQ1YzM5MmE=</guid>
-            <pubDate>Tue, 29 Apr 2025 12:30:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/af6fe7322f31028a042750a69db7a13af45c392a">released v2.5.2  #174</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/324a7661c61af20a2df5868cc4098cc2e428a388</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjMyNGE3NjYxYzYxYWYyMGEyZGY1ODY4Y2M0MDk4Y2MyZTQyOGEzODg=</guid>
-            <pubDate>Tue, 29 Apr 2025 04:33:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/324a7661c61af20a2df5868cc4098cc2e428a388">released v1.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
