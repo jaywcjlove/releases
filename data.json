@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjA5NWYzMWZiYmM1NTc5ZDRkOTlhYzIxNTU3M2M2MzA3MzY1ZDFkNjE=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/videoer",
+    "sha": "095f31fbbc5579d4d99ac215573c6307365d1d61",
+    "url": "https://github.com/jaywcjlove/videoer/commit/095f31fbbc5579d4d99ac215573c6307365d1d61",
+    "created_at": "2025-11-20T11:01:48.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjMxOWQ4MDY3ODFhZTI2NzNiYjU2ODk0N2JiNTQ0YWE4ZjEyMWZjYTk=",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "319d806781ae2673bb568947bb544aa8f121fca9",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/319d806781ae2673bb568947bb544aa8f121fca9",
+    "created_at": "2025-11-20T04:15:44.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTczMzQxMDA3OmQ3YzRhODg3YzAzYTI0NmRjZDA4YTZiNWM1MWVlNDY1OTkyMzdjYTU=",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/audioer",
+    "sha": "d7c4a887c03a246dcd08a6b5c51ee46599237ca5",
+    "url": "https://github.com/jaywcjlove/audioer/commit/d7c4a887c03a246dcd08a6b5c51ee46599237ca5",
+    "created_at": "2025-11-20T04:13:58.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6M2RiMzY0NzA4ZDkzZWQwYWQ1ZDQ0YWIzY2JiZGYxNTBjYjg3MmM1Zg==",
     "type": "commits",
     "title": "released v4.0.0-beta.6 #520",
@@ -2255,17 +2288,6 @@
     "version": "2.5.4"
   },
   {
-    "id": "MDY6Q29tbWl0NTMzODIxMjc2OjVkM2I4NTRiMWU2YTJkZTU3NDgwMmVlZDJmN2QzMzM5Njc5MzM5MmY=",
-    "type": "commits",
-    "title": "released v1.0.8",
-    "repo": "jaywcjlove/code-image",
-    "sha": "5d3b854b1e6a2de574802eed2f7d33396793392f",
-    "url": "https://github.com/jaywcjlove/code-image/commit/5d3b854b1e6a2de574802eed2f7d33396793392f",
-    "created_at": "2025-05-05T13:05:10.000+08:00",
-    "state": "committer",
-    "version": "1.0.8"
-  },
-  {
     "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=",
     "type": "commits",
     "title": "released v4.5.5",
@@ -2495,17 +2517,6 @@
     "created_at": "2025-05-01T22:40:46.000+08:00",
     "state": "committer",
     "version": "1.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjU0MmVlOTY3NTk0ZDY4ZGQzODg2NjkwMzUzOWFmNzVlMTRkNjdiMTY=",
-    "type": "commits",
-    "title": "released v1.6.1",
-    "repo": "jaywcjlove/iconed",
-    "sha": "542ee967594d68dd38866903539af75e14d67b16",
-    "url": "https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16",
-    "created_at": "2025-04-29T21:35:40.000+08:00",
-    "state": "committer",
-    "version": "1.6.1"
   },
   {
     "id": 2526870275,

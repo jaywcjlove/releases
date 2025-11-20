@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 19 Nov 2025 17:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 05:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/videoer released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/videoer/commit/095f31fbbc5579d4d99ac215573c6307365d1d61</link>
+            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjA5NWYzMWZiYmM1NTc5ZDRkOTlhYzIxNTU3M2M2MzA3MzY1ZDFkNjE=</guid>
+            <pubDate>Thu, 20 Nov 2025 03:01:48 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/095f31fbbc5579d4d99ac215573c6307365d1d61">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/319d806781ae2673bb568947bb544aa8f121fca9</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjMxOWQ4MDY3ODFhZTI2NzNiYjU2ODk0N2JiNTQ0YWE4ZjEyMWZjYTk=</guid>
+            <pubDate>Wed, 19 Nov 2025 20:15:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/319d806781ae2673bb568947bb544aa8f121fca9">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/d7c4a887c03a246dcd08a6b5c51ee46599237ca5</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3OmQ3YzRhODg3YzAzYTI0NmRjZDA4YTZiNWM1MWVlNDY1OTkyMzdjYTU=</guid>
+            <pubDate>Wed, 19 Nov 2025 20:13:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/d7c4a887c03a246dcd08a6b5c51ee46599237ca5">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.6 #520]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/3db364708d93ed0ad5d44ab3cbbdf150cb872c5f</link>
@@ -1660,14 +1684,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/code-image released v1.0.8]]></title>
-            <link>https://github.com/jaywcjlove/code-image/commit/5d3b854b1e6a2de574802eed2f7d33396793392f</link>
-            <guid>MDY6Q29tbWl0NTMzODIxMjc2OjVkM2I4NTRiMWU2YTJkZTU3NDgwMmVlZDJmN2QzMzM5Njc5MzM5MmY=</guid>
-            <pubDate>Mon, 05 May 2025 05:05:10 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/code-image/commit/5d3b854b1e6a2de574802eed2f7d33396793392f">released v1.0.8</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/tsbb released v4.5.5]]></title>
             <link>https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914</link>
             <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=</guid>
@@ -1834,14 +1850,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Thu, 01 May 2025 14:40:46 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/babel-plugin-add-import-extension/commit/d9397628c8d6cca9639bb4e2e675ad244205817a">released v1.0.1</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.6.1]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjU0MmVlOTY3NTk0ZDY4ZGQzODg2NjkwMzUzOWFmNzVlMTRkNjdiMTY=</guid>
-            <pubDate>Tue, 29 Apr 2025 13:35:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/542ee967594d68dd38866903539af75e14d67b16">released v1.6.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
