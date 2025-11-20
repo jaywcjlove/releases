@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjA2MWE4NjdhM2JlOGUwYTgwZmNjZmI4MjU5Mjk2ZmJmMzQzZDc4YjA=",
+    "type": "commits",
+    "title": "released v3.0.3",
+    "repo": "jaywcjlove/auto-config-loader",
+    "sha": "061a867a3be8e0a80fccfb8259296fbf343d78b0",
+    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/061a867a3be8e0a80fccfb8259296fbf343d78b0",
+    "created_at": "2025-11-20T21:09:27.000+08:00",
+    "state": "committer",
+    "version": "3.0.3"
+  },
+  {
     "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjA5NWYzMWZiYmM1NTc5ZDRkOTlhYzIxNTU3M2M2MzA3MzY1ZDFkNjE=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -1724,7 +1735,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "353"
+    "stars": "354"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2354,17 +2365,6 @@
     "version": "1.7.0"
   },
   {
-    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmQ0YzAzZTI5YzA0MDczY2E2YjVlOWQ5ZWVlOWZjZTgxYjgzYzAzODM=",
-    "type": "commits",
-    "title": "released v1.22.0",
-    "repo": "jaywcjlove/devtutor",
-    "sha": "d4c03e29c04073ca6b5e9d9eee9fce81b83c0383",
-    "url": "https://github.com/jaywcjlove/devtutor/commit/d4c03e29c04073ca6b5e9d9eee9fce81b83c0383",
-    "created_at": "2025-05-02T17:38:35.000+08:00",
-    "state": "committer",
-    "version": "1.22.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MjIzNjk1MDg4OjI1NmIxZDUyNzg5MDdiNmI3N2NkYmVkNDYxZjFjY2EyYTA2M2UwMGM=",
     "type": "commits",
     "title": "released v2.0.2",
@@ -2396,17 +2396,6 @@
     "created_at": "2025-05-02T10:13:35.000+08:00",
     "state": "committer",
     "version": "1.0.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzIyNjczOTkxOjUyYzI5NjM3OTI1ZGQ1NTIwNzE0ZDc1NmE5NDBkZmY0NTZkYjgzZGE=",
-    "type": "commits",
-    "title": "released v1.3.2",
-    "repo": "uiwjs/react-signature",
-    "sha": "52c29637925dd5520714d756a940dff456db83da",
-    "url": "https://github.com/uiwjs/react-signature/commit/52c29637925dd5520714d756a940dff456db83da",
-    "created_at": "2025-05-02T10:07:37.000+08:00",
-    "state": "committer",
-    "version": "1.3.2"
   },
   {
     "id": "MDY6Q29tbWl0MjIyNDkyMTUxOmNhNjI4ZjAyNjEzMTBkZTRiMWRhMGFjZjk4NzAzODAzYjhmOWI3ZDM=",
@@ -2846,7 +2835,7 @@
     "created_at": "2020-07-18T15:40:05Z",
     "state": "merged",
     "number": 93,
-    "stars": "28.4K"
+    "stars": "28.5K"
   },
   {
     "id": 590022379,
