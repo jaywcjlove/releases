@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 20 Nov 2025 17:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 05:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.9.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/805232958e5144a05848261f60cbfcee893d903d</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo4MDUyMzI5NThlNTE0NGEwNTg0ODI2MWY2MGNiZmNlZTg5M2Q5MDNk</guid>
+            <pubDate>Fri, 21 Nov 2025 03:43:23 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/805232958e5144a05848261f60cbfcee893d903d">released v1.9.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/auto-config-loader released v3.0.3]]></title>
             <link>https://github.com/jaywcjlove/auto-config-loader/commit/061a867a3be8e0a80fccfb8259296fbf343d78b0</link>

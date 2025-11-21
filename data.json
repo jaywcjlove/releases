@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo4MDUyMzI5NThlNTE0NGEwNTg0ODI2MWY2MGNiZmNlZTg5M2Q5MDNk",
+    "type": "commits",
+    "title": "released v1.9.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "805232958e5144a05848261f60cbfcee893d903d",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/805232958e5144a05848261f60cbfcee893d903d",
+    "created_at": "2025-11-21T11:43:23.000+08:00",
+    "state": "committer",
+    "version": "1.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjA2MWE4NjdhM2JlOGUwYTgwZmNjZmI4MjU5Mjk2ZmJmMzQzZDc4YjA=",
     "type": "commits",
     "title": "released v3.0.3",
