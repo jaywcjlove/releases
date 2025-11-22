@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo4MDUyMzI5NThlNTE0NGEwNTg0ODI2MWY2MGNiZmNlZTg5M2Q5MDNk",
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo2ZjJmZWQyMGQ1Yjg4OTU5NWY5ZGE2MzliMmQxMWRlMjg1Mzc2NGZk",
     "type": "commits",
-    "title": "released v1.9.0",
+    "title": "released v1.11.0",
     "repo": "jaywcjlove/vidwall",
-    "sha": "805232958e5144a05848261f60cbfcee893d903d",
-    "url": "https://github.com/jaywcjlove/vidwall/commit/805232958e5144a05848261f60cbfcee893d903d",
-    "created_at": "2025-11-21T11:43:23.000+08:00",
+    "sha": "6f2fed20d5b889595f9da639b2d11de2853764fd",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/6f2fed20d5b889595f9da639b2d11de2853764fd",
+    "created_at": "2025-11-22T18:16:17.000+08:00",
     "state": "committer",
-    "version": "1.9.0"
+    "version": "1.11.0"
   },
   {
     "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjA2MWE4NjdhM2JlOGUwYTgwZmNjZmI4MjU5Mjk2ZmJmMzQzZDc4YjA=",
@@ -1746,7 +1746,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "355"
+    "stars": "357"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2506,17 +2506,6 @@
     "created_at": "2025-05-01T22:54:25.000+08:00",
     "state": "committer",
     "version": "4.5.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTc1ODc4MTk0OmQ5Mzk3NjI4YzhkNmNjYTk2MzliYjRlMmU2NzVhZDI0NDIwNTgxN2E=",
-    "type": "commits",
-    "title": "released v1.0.1",
-    "repo": "uiwjs/babel-plugin-add-import-extension",
-    "sha": "d9397628c8d6cca9639bb4e2e675ad244205817a",
-    "url": "https://github.com/uiwjs/babel-plugin-add-import-extension/commit/d9397628c8d6cca9639bb4e2e675ad244205817a",
-    "created_at": "2025-05-01T22:40:46.000+08:00",
-    "state": "committer",
-    "version": "1.0.1"
   },
   {
     "id": 2526870275,
