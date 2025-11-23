@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NGMxY2M1MWJmMTMwZjg3YzAyMWVlNDg5N2QwN2I3YzE3ZTgyMDdiMQ==",
+    "type": "commits",
+    "title": "released v4.0.0-beta.7 #521",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "4c1cc51bf130f87c021ee4897d07b7c17e8207b1",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/4c1cc51bf130f87c021ee4897d07b7c17e8207b1",
+    "created_at": "2025-11-23T10:01:45.000+08:00",
+    "state": "committer",
+    "version": "4.0.0-beta.7"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo2ZjJmZWQyMGQ1Yjg4OTU5NWY5ZGE2MzliMmQxMWRlMjg1Mzc2NGZk",
     "type": "commits",
     "title": "released v1.11.0",
@@ -1746,7 +1757,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "357"
+    "stars": "360"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2484,28 +2495,6 @@
     "created_at": "2025-05-01T23:45:30.000+08:00",
     "state": "committer",
     "version": "4.5.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTc1ODc4MTk0OmQzNjhhZWNiODUyOTJmN2IyODBlNjk3NmY1NmJiNGNkODAxYjk3MjI=",
-    "type": "commits",
-    "title": "released v1.0.2",
-    "repo": "uiwjs/babel-plugin-add-import-extension",
-    "sha": "d368aecb85292f7b280e6976f56bb4cd801b9722",
-    "url": "https://github.com/uiwjs/babel-plugin-add-import-extension/commit/d368aecb85292f7b280e6976f56bb4cd801b9722",
-    "created_at": "2025-05-01T23:31:22.000+08:00",
-    "state": "committer",
-    "version": "1.0.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjUxOThkZjQyOWVkZmExODEzN2UyZGIxYmMzNDU2NDZjY2Q4NTY4NDg=",
-    "type": "commits",
-    "title": "released v4.5.0",
-    "repo": "jaywcjlove/tsbb",
-    "sha": "5198df429edfa18137e2db1bc345646ccd856848",
-    "url": "https://github.com/jaywcjlove/tsbb/commit/5198df429edfa18137e2db1bc345646ccd856848",
-    "created_at": "2025-05-01T22:54:25.000+08:00",
-    "state": "committer",
-    "version": "4.5.0"
   },
   {
     "id": 2526870275,
