@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 24 Nov 2025 05:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/IconizeFolder released v3.2.0]]></title>
+            <link>https://github.com/jaywcjlove/IconizeFolder/commit/aa844f0d11085237fb6eda1135a10c49b57d916d</link>
+            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmFhODQ0ZjBkMTEwODUyMzdmYjZlZGExMTM1YTEwYzQ5YjU3ZDkxNmQ=</guid>
+            <pubDate>Mon, 24 Nov 2025 08:55:15 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/aa844f0d11085237fb6eda1135a10c49b57d916d">released v3.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.7 #521]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/4c1cc51bf130f87c021ee4897d07b7c17e8207b1</link>
@@ -1801,14 +1809,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0Mzc5OTEzNDczOjRhZjI1YzA1YWYyNTA1NDYwYjY4ODgzOGE5YWY3NWIxZTVlZmRlMTg=</guid>
             <pubDate>Thu, 01 May 2025 17:46:35 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-textarea-code-editor/commit/4af25c05af2505460b688838a9af75b1e5efde18">released v3.1.1</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-editor released v6.1.4]]></title>
-            <link>https://github.com/uiwjs/react-markdown-editor/commit/1cbf59f3545bab102618754ad39f19a2c0408b9d</link>
-            <guid>MDY6Q29tbWl0MTc4NTg2NzQ1OjFjYmY1OWYzNTQ1YmFiMTAyNjE4NzU0YWQzOWYxOWEyYzA0MDhiOWQ=</guid>
-            <pubDate>Thu, 01 May 2025 17:46:33 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-editor/commit/1cbf59f3545bab102618754ad39f19a2c0408b9d">released v6.1.4</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
