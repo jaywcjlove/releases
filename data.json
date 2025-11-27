@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjIwOTA3YWNmN2U1NjAxMjFjNGNlMjA5YzViZGJiMWQyZDFlM2FhYWM=",
+    "type": "commits",
+    "title": "released v4.2.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "20907acf7e560121c4ce209c5bdbb1d2d1e3aaac",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/20907acf7e560121c4ce209c5bdbb1d2d1e3aaac",
+    "created_at": "2025-11-27T20:16:32.000+08:00",
+    "state": "committer",
+    "version": "4.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpiYzQzYjhjNWFiMzI2MDE5MTVhYjY3ZTY2Zjg5NDU5YjhmNTczMjRj",
     "type": "commits",
     "title": "released v1.1.0",
@@ -1779,7 +1790,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "375"
+    "stars": "376"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2571,7 +2582,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "353"
+    "stars": "354"
   },
   {
     "id": 1194561099,
