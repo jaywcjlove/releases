@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 30 Nov 2025 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 05:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/devtutor released v1.32.0]]></title>
+            <link>https://github.com/jaywcjlove/devtutor/commit/ca5f2d9ded868a5233ca4caac55fe26f0b75ebd7</link>
+            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmNhNWYyZDlkZWQ4NjhhNTIzM2NhNGNhYWM1NWZlMjZmMGI3NWViZDc=</guid>
+            <pubDate>Mon, 01 Dec 2025 03:19:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/ca5f2d9ded868a5233ca4caac55fe26f0b75ebd7">released v1.32.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.16.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/eed8dd774ee6417b6d60cc792a6a87de82a06163</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OmVlZDhkZDc3NGVlNjQxN2I2ZDYwY2M3OTJhNmE4N2RlODJhMDYxNjM=</guid>
+            <pubDate>Sun, 30 Nov 2025 17:58:12 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/eed8dd774ee6417b6d60cc792a6a87de82a06163">released v2.16.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v4.2.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/20907acf7e560121c4ce209c5bdbb1d2d1e3aaac</link>
@@ -1793,22 +1809,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmI1NWI4YTIwZjAzMjE3MjhiNGIwNWMzMjFmNmQ1OTgyMjJjNDA1NTY=</guid>
             <pubDate>Fri, 02 May 2025 02:23:35 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/b55b8a20f0321728b4b05c321f6d598222c40556">released v2.3.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-baidu-map released v2.7.3]]></title>
-            <link>https://github.com/uiwjs/react-baidu-map/commit/ca628f0261310de4b1da0acf98703803b8f9b7d3</link>
-            <guid>MDY6Q29tbWl0MjIyNDkyMTUxOmNhNjI4ZjAyNjEzMTBkZTRiMWRhMGFjZjk4NzAzODAzYjhmOWI3ZDM=</guid>
-            <pubDate>Fri, 02 May 2025 01:41:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-baidu-map/commit/ca628f0261310de4b1da0acf98703803b8f9b7d3">released v2.7.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released 7.1.5]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/6617007df9bf512c811b02744b1078d62e991103</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjY2MTcwMDdkZjliZjUxMmM4MTFiMDI3NDRiMTA3OGQ2MmU5OTExMDM=</guid>
-            <pubDate>Fri, 02 May 2025 01:21:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/6617007df9bf512c811b02744b1078d62e991103">released 7.1.5</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

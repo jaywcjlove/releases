@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmNhNWYyZDlkZWQ4NjhhNTIzM2NhNGNhYWM1NWZlMjZmMGI3NWViZDc=",
+    "type": "commits",
+    "title": "released v1.32.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "ca5f2d9ded868a5233ca4caac55fe26f0b75ebd7",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/ca5f2d9ded868a5233ca4caac55fe26f0b75ebd7",
+    "created_at": "2025-12-01T11:19:06.000+08:00",
+    "state": "committer",
+    "version": "1.32.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OmVlZDhkZDc3NGVlNjQxN2I2ZDYwY2M3OTJhNmE4N2RlODJhMDYxNjM=",
+    "type": "commits",
+    "title": "released v2.16.0",
+    "repo": "jaywcjlove/create-custom-symbols",
+    "sha": "eed8dd774ee6417b6d60cc792a6a87de82a06163",
+    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/eed8dd774ee6417b6d60cc792a6a87de82a06163",
+    "created_at": "2025-12-01T01:58:12.000+08:00",
+    "state": "committer",
+    "version": "2.16.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjIwOTA3YWNmN2U1NjAxMjFjNGNlMjA5YzViZGJiMWQyZDFlM2FhYWM=",
     "type": "commits",
     "title": "released v4.2.0",
@@ -1790,7 +1812,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "379"
+    "stars": "380"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2440,28 +2462,6 @@
     "created_at": "2025-05-02T10:23:35.000+08:00",
     "state": "committer",
     "version": "2.3.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjIyNDkyMTUxOmNhNjI4ZjAyNjEzMTBkZTRiMWRhMGFjZjk4NzAzODAzYjhmOWI3ZDM=",
-    "type": "commits",
-    "title": "released v2.7.3",
-    "repo": "uiwjs/react-baidu-map",
-    "sha": "ca628f0261310de4b1da0acf98703803b8f9b7d3",
-    "url": "https://github.com/uiwjs/react-baidu-map/commit/ca628f0261310de4b1da0acf98703803b8f9b7d3",
-    "created_at": "2025-05-02T09:41:41.000+08:00",
-    "state": "committer",
-    "version": "2.7.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjY2MTcwMDdkZjliZjUxMmM4MTFiMDI3NDRiMTA3OGQ2MmU5OTExMDM=",
-    "type": "commits",
-    "title": "released 7.1.5",
-    "repo": "uiwjs/react-amap",
-    "sha": "6617007df9bf512c811b02744b1078d62e991103",
-    "url": "https://github.com/uiwjs/react-amap/commit/6617007df9bf512c811b02744b1078d62e991103",
-    "created_at": "2025-05-02T09:21:14.000+08:00",
-    "state": "committer",
-    "version": "7.1.5"
   },
   {
     "id": "MDY6Q29tbWl0Mzc5OTEzNDczOjRhZjI1YzA1YWYyNTA1NDYwYjY4ODgzOGE5YWY3NWIxZTVlZmRlMTg=",
