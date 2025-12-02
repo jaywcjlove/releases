@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 01 Dec 2025 17:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 05:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/paste-quick released v2.0.0]]></title>
+            <link>https://github.com/jaywcjlove/paste-quick/commit/b4ae38cc867410788904eb0b47a214c81bc06875</link>
+            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OmI0YWUzOGNjODY3NDEwNzg4OTA0ZWIwYjQ3YTIxNGM4MWJjMDY4NzU=</guid>
+            <pubDate>Tue, 02 Dec 2025 03:39:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/b4ae38cc867410788904eb0b47a214c81bc06875">released v2.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-md-editor released v4.0.9 #697]]></title>
             <link>https://github.com/uiwjs/react-md-editor/commit/8baee5b75ec3bb61634a859ec325eb942c1addf9</link>
@@ -1817,14 +1825,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmI1NWI4YTIwZjAzMjE3MjhiNGIwNWMzMjFmNmQ1OTgyMjJjNDA1NTY=</guid>
             <pubDate>Fri, 02 May 2025 02:23:35 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/b55b8a20f0321728b4b05c321f6d598222c40556">released v2.3.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-textarea-code-editor released v3.1.1]]></title>
-            <link>https://github.com/uiwjs/react-textarea-code-editor/commit/4af25c05af2505460b688838a9af75b1e5efde18</link>
-            <guid>MDY6Q29tbWl0Mzc5OTEzNDczOjRhZjI1YzA1YWYyNTA1NDYwYjY4ODgzOGE5YWY3NWIxZTVlZmRlMTg=</guid>
-            <pubDate>Thu, 01 May 2025 17:46:35 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-textarea-code-editor/commit/4af25c05af2505460b688838a9af75b1e5efde18">released v3.1.1</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>

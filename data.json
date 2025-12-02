@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmI0YWUzOGNjODY3NDEwNzg4OTA0ZWIwYjQ3YTIxNGM4MWJjMDY4NzU=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/paste-quick",
+    "sha": "b4ae38cc867410788904eb0b47a214c81bc06875",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/b4ae38cc867410788904eb0b47a214c81bc06875",
+    "created_at": "2025-12-02T11:39:16.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjhiYWVlNWI3NWVjM2JiNjE2MzRhODU5ZWMzMjVlYjk0MmMxYWRkZjk=",
     "type": "commits",
     "title": "released v4.0.9 #697",
@@ -1823,7 +1834,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "380"
+    "stars": "381"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2473,17 +2484,6 @@
     "created_at": "2025-05-02T10:23:35.000+08:00",
     "state": "committer",
     "version": "2.3.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mzc5OTEzNDczOjRhZjI1YzA1YWYyNTA1NDYwYjY4ODgzOGE5YWY3NWIxZTVlZmRlMTg=",
-    "type": "commits",
-    "title": "released v3.1.1",
-    "repo": "uiwjs/react-textarea-code-editor",
-    "sha": "4af25c05af2505460b688838a9af75b1e5efde18",
-    "url": "https://github.com/uiwjs/react-textarea-code-editor/commit/4af25c05af2505460b688838a9af75b1e5efde18",
-    "created_at": "2025-05-02T01:46:35.000+08:00",
-    "state": "committer",
-    "version": "3.1.1"
   },
   {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjcwMGYwNjkwZmFlNTk0NjRjODY3N2Q3Njg0ZGYwZTI3NjkwNjhkMDU=",
