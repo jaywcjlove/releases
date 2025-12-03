@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTo0ZDAyNDBiYmI0YmE4ZGU2NDE5NmFiYjgwZTExNjAxNmRmMzRlNTdi",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/deskmark",
+    "sha": "4d0240bbb4ba8de64196abb80e116016df34e57b",
+    "url": "https://github.com/jaywcjlove/deskmark/commit/4d0240bbb4ba8de64196abb80e116016df34e57b",
+    "created_at": "2025-12-03T10:13:30.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmI0YWUzOGNjODY3NDEwNzg4OTA0ZWIwYjQ3YTIxNGM4MWJjMDY4NzU=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -1834,7 +1845,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "381"
+    "stars": "382"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2484,17 +2495,6 @@
     "created_at": "2025-05-02T10:23:35.000+08:00",
     "state": "committer",
     "version": "2.3.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjcwMGYwNjkwZmFlNTk0NjRjODY3N2Q3Njg0ZGYwZTI3NjkwNjhkMDU=",
-    "type": "commits",
-    "title": "released v4.0.6",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "700f0690fae59464c8677d7684df0e2769068d05",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/700f0690fae59464c8677d7684df0e2769068d05",
-    "created_at": "2025-05-02T00:06:02.000+08:00",
-    "state": "committer",
-    "version": "4.0.6"
   },
   {
     "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjA1ZmRiMDlmOWVhYThiOTZmMmMwZmI3ZmU4ZWIxMDcyOWNjNDU4NjI=",

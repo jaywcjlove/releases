@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 02 Dec 2025 17:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/deskmark released v1.0.0]]></title>
+            <link>https://github.com/jaywcjlove/deskmark/commit/4d0240bbb4ba8de64196abb80e116016df34e57b</link>
+            <guid>MDY6Q29tbWl0MTEwNzgxNDE2NTo0ZDAyNDBiYmI0YmE4ZGU2NDE5NmFiYjgwZTExNjAxNmRmMzRlNTdi</guid>
+            <pubDate>Wed, 03 Dec 2025 02:13:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/deskmark/commit/4d0240bbb4ba8de64196abb80e116016df34e57b">released v1.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/paste-quick released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/paste-quick/commit/b4ae38cc867410788904eb0b47a214c81bc06875</link>
@@ -1825,14 +1833,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmI1NWI4YTIwZjAzMjE3MjhiNGIwNWMzMjFmNmQ1OTgyMjJjNDA1NTY=</guid>
             <pubDate>Fri, 02 May 2025 02:23:35 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/b55b8a20f0321728b4b05c321f6d598222c40556">released v2.3.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-md-editor released v4.0.6]]></title>
-            <link>https://github.com/uiwjs/react-md-editor/commit/700f0690fae59464c8677d7684df0e2769068d05</link>
-            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjcwMGYwNjkwZmFlNTk0NjRjODY3N2Q3Njg0ZGYwZTI3NjkwNjhkMDU=</guid>
-            <pubDate>Thu, 01 May 2025 16:06:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/700f0690fae59464c8677d7684df0e2769068d05">released v4.0.6</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
