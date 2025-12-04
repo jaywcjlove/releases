@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 03 Dec 2025 17:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 05:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/2adcc176262a14d977bebfd3d8b4ce084975376e</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzoyYWRjYzE3NjI2MmExNGQ5NzdiZWJmZDNkOGI0Y2UwODQ5NzUzNzZl</guid>
+            <pubDate>Thu, 04 Dec 2025 03:55:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/2adcc176262a14d977bebfd3d8b4ce084975376e">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/idoc released v1.34.4]]></title>
             <link>https://github.com/jaywcjlove/idoc/commit/f088c3e00f56bc4d43c4adb1cdebbab9ee81c22a</link>
@@ -1772,35 +1780,11 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-color released v2.5.4 #176]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/d5e85776293471112175e11773d3a82521d869bf</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmQ1ZTg1Nzc2MjkzNDcxMTEyMTc1ZTExNzczZDNhODI1MjFkODY5YmY=</guid>
-            <pubDate>Mon, 05 May 2025 18:58:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/d5e85776293471112175e11773d3a82521d869bf">released v2.5.4 #176</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/tsbb released v4.5.5]]></title>
             <link>https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914</link>
             <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=</guid>
             <pubDate>Mon, 05 May 2025 04:41:01 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914">released v4.5.5</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/babel-plugin-add-import-extension released v1.0.3]]></title>
-            <link>https://github.com/uiwjs/babel-plugin-add-import-extension/commit/81d2b397fce3cbfa616a62032dd2345fd559727e</link>
-            <guid>MDY6Q29tbWl0OTc1ODc4MTk0OjgxZDJiMzk3ZmNlM2NiZmE2MTZhNjIwMzJkZDIzNDVmZDU1OTcyN2U=</guid>
-            <pubDate>Mon, 05 May 2025 04:26:34 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/babel-plugin-add-import-extension/commit/81d2b397fce3cbfa616a62032dd2345fd559727e">released v1.0.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/tsbb released v4.5.3]]></title>
-            <link>https://github.com/jaywcjlove/tsbb/commit/07d654ab51914824e8e7cc7b230da5c64634711c</link>
-            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjA3ZDY1NGFiNTE5MTQ4MjRlOGU3Y2M3YjIzMGRhNWM2NDYzNDcxMWM=</guid>
-            <pubDate>Mon, 05 May 2025 04:08:18 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/07d654ab51914824e8e7cc7b230da5c64634711c">released v4.5.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1818,22 +1802,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Sat, 03 May 2025 10:44:26 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/ab5814091dcf2845d2e45ef617fd2cbfcda00fe2">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-shields released v2.0.2]]></title>
-            <link>https://github.com/uiwjs/react-shields/commit/256b1d5278907b6b77cdbed461f1cca2a063e00c</link>
-            <guid>MDY6Q29tbWl0MjIzNjk1MDg4OjI1NmIxZDUyNzg5MDdiNmI3N2NkYmVkNDYxZjFjY2EyYTA2M2UwMGM=</guid>
-            <pubDate>Fri, 02 May 2025 07:38:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-shields/commit/256b1d5278907b6b77cdbed461f1cca2a063e00c">released v2.0.2</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-heat-map released v2.3.3]]></title>
-            <link>https://github.com/uiwjs/react-heat-map/commit/b55b8a20f0321728b4b05c321f6d598222c40556</link>
-            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmI1NWI4YTIwZjAzMjE3MjhiNGIwNWMzMjFmNmQ1OTgyMjJjNDA1NTY=</guid>
-            <pubDate>Fri, 02 May 2025 02:23:35 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/b55b8a20f0321728b4b05c321f6d598222c40556">released v2.3.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/tsbb released v4.5.1]]></title>
