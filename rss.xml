@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 04 Dec 2025 17:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 05:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1772,14 +1772,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/3465dfe08172bc673ef083409a5af6f5306ea39e</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjM0NjVkZmUwODE3MmJjNjczZWYwODM0MDlhNWFmNmY1MzA2ZWEzOWU=</guid>
-            <pubDate>Mon, 12 May 2025 03:22:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/3465dfe08172bc673ef083409a5af6f5306ea39e">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/refs-cli released v1.8.3]]></title>
             <link>https://github.com/jaywcjlove/refs-cli/commit/9fc599b35597dbc55fc3994926123ebaa362ac44</link>
             <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjlmYzU5OWIzNTU5N2RiYzU1ZmMzOTk0OTI2MTIzZWJhYTM2MmFjNDQ=</guid>
@@ -1793,6 +1785,22 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=</guid>
             <pubDate>Mon, 05 May 2025 04:41:01 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914">released v4.5.5</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v2.3.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/9f2ae452ab1a1a1c472762e5daaea61aa0297436</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjlmMmFlNDUyYWIxYTFhMWM0NzI3NjJlNWRhYWVhNjFhYTAyOTc0MzY=</guid>
+            <pubDate>Sun, 04 May 2025 06:40:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/9f2ae452ab1a1a1c472762e5daaea61aa0297436">released v2.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/tsbb released v4.5.1]]></title>
+            <link>https://github.com/jaywcjlove/tsbb/commit/05fdb09f9eaa8b96f2c0fb7fe8eb10729cc45862</link>
+            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjA1ZmRiMDlmOWVhYThiOTZmMmMwZmI3ZmU4ZWIxMDcyOWNjNDU4NjI=</guid>
+            <pubDate>Thu, 01 May 2025 15:45:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/05fdb09f9eaa8b96f2c0fb7fe8eb10729cc45862">released v4.5.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
