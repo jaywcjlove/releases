@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTozNmQ0ZDQ0OTE5YWZjNTQwZWJlNThlN2NiNWIyZGI4OTQzMmI5NDQ0",
+    "type": "commits",
+    "title": "released v1.1.0",
+    "repo": "jaywcjlove/deskmark",
+    "sha": "36d4d44919afc540ebe58e7cb5b2db89432b9444",
+    "url": "https://github.com/jaywcjlove/deskmark/commit/36d4d44919afc540ebe58e7cb5b2db89432b9444",
+    "created_at": "2025-12-05T17:39:22.000+08:00",
+    "state": "committer",
+    "version": "1.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjJjZjEwZTZjN2RjZjRmNDkwMzcxMDcwZjYxYWI4MGYzZDQxYzM0YmY=",
     "type": "commits",
     "title": "released v4.0.11 #699",
@@ -2429,28 +2440,6 @@
     "created_at": "2025-05-05T12:41:01.000+08:00",
     "state": "committer",
     "version": "4.5.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjlmMmFlNDUyYWIxYTFhMWM0NzI3NjJlNWRhYWVhNjFhYTAyOTc0MzY=",
-    "type": "commits",
-    "title": "released v2.3.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "9f2ae452ab1a1a1c472762e5daaea61aa0297436",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/9f2ae452ab1a1a1c472762e5daaea61aa0297436",
-    "created_at": "2025-05-04T14:40:51.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjA1ZmRiMDlmOWVhYThiOTZmMmMwZmI3ZmU4ZWIxMDcyOWNjNDU4NjI=",
-    "type": "commits",
-    "title": "released v4.5.1",
-    "repo": "jaywcjlove/tsbb",
-    "sha": "05fdb09f9eaa8b96f2c0fb7fe8eb10729cc45862",
-    "url": "https://github.com/jaywcjlove/tsbb/commit/05fdb09f9eaa8b96f2c0fb7fe8eb10729cc45862",
-    "created_at": "2025-05-01T23:45:30.000+08:00",
-    "state": "committer",
-    "version": "4.5.1"
   },
   {
     "id": 2526870275,
