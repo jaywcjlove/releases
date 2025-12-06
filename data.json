@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NToxOGFmYWU2ZWUxOWRmYjY0NTZmYThiZWNkMWRiNjQ1MDkxNGZiY2Y3",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/deskmark",
+    "sha": "18afae6ee19dfb6456fa8becd1db6450914fbcf7",
+    "url": "https://github.com/jaywcjlove/deskmark/commit/18afae6ee19dfb6456fa8becd1db6450914fbcf7",
+    "created_at": "2025-12-06T18:01:48.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmEyYjk3ZjNkMDFiZWVjMzNmNjE0NWQ3MmM0YTBiNDFjMTZjMjkxYWY=",
     "type": "commits",
     "title": "released v2.2.0",

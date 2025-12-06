@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 06 Dec 2025 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 17:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/deskmark released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/deskmark/commit/18afae6ee19dfb6456fa8becd1db6450914fbcf7</link>
+            <guid>MDY6Q29tbWl0MTEwNzgxNDE2NToxOGFmYWU2ZWUxOWRmYjY0NTZmYThiZWNkMWRiNjQ1MDkxNGZiY2Y3</guid>
+            <pubDate>Sat, 06 Dec 2025 10:01:48 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/deskmark/commit/18afae6ee19dfb6456fa8becd1db6450914fbcf7">released v1.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v2.2.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/a2b97f3d01beec33f6145d72c4a0b41c16c291af</link>
