@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 09 Dec 2025 05:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 17:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -53,6 +53,22 @@
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo3OWQ0ZTU4ZTkyN2VmYzEwOGNlYzBmZDg0ZTFjOTIwYzA1ZmQ1ODM4</guid>
             <pubDate>Thu, 04 Dec 2025 07:48:23 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/79d4e58e927efc108cec0fd84e1c920c05fd5838">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/app-rejection-fixes released v0.0.3]]></title>
+            <link>https://github.com/jaywcjlove/app-rejection-fixes/commit/9ec47244e36d7694a5383222ba865c1ad4984bd9</link>
+            <guid>MDY6Q29tbWl0ODU2NzUzNTk3OjllYzQ3MjQ0ZTM2ZDc2OTRhNTM4MzIyMmJhODY1YzFhZDQ5ODRiZDk=</guid>
+            <pubDate>Thu, 04 Dec 2025 04:29:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-rejection-fixes/commit/9ec47244e36d7694a5383222ba865c1ad4984bd9">released v0.0.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/2adcc176262a14d977bebfd3d8b4ce084975376e</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzoyYWRjYzE3NjI2MmExNGQ5NzdiZWJmZDNkOGI0Y2UwODQ5NzUzNzZl</guid>
+            <pubDate>Thu, 04 Dec 2025 03:55:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/2adcc176262a14d977bebfd3d8b4ce084975376e">released v1.11.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

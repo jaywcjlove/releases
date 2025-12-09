@@ -55,6 +55,28 @@
     "version": "1.11.0"
   },
   {
+    "id": "MDY6Q29tbWl0ODU2NzUzNTk3OjllYzQ3MjQ0ZTM2ZDc2OTRhNTM4MzIyMmJhODY1YzFhZDQ5ODRiZDk=",
+    "type": "commits",
+    "title": "released v0.0.3",
+    "repo": "jaywcjlove/app-rejection-fixes",
+    "sha": "9ec47244e36d7694a5383222ba865c1ad4984bd9",
+    "url": "https://github.com/jaywcjlove/app-rejection-fixes/commit/9ec47244e36d7694a5383222ba865c1ad4984bd9",
+    "created_at": "2025-12-04T12:29:44.000+08:00",
+    "state": "committer",
+    "version": "0.0.3"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzoyYWRjYzE3NjI2MmExNGQ5NzdiZWJmZDNkOGI0Y2UwODQ5NzUzNzZl",
+    "type": "commits",
+    "title": "released v1.11.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "2adcc176262a14d977bebfd3d8b4ce084975376e",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/2adcc176262a14d977bebfd3d8b4ce084975376e",
+    "created_at": "2025-12-04T11:55:47.000+08:00",
+    "state": "committer",
+    "version": "1.11.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NDIzODEwNjc6ZjA4OGMzZTAwZjU2YmM0ZDQzYzRhZGIxY2RlYmJhYjllZTgxYzIyYQ==",
     "type": "commits",
     "title": "released v1.34.4",
@@ -1922,7 +1944,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "383"
+    "stars": "389"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2780,7 +2802,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "429"
+    "stars": "428"
   },
   {
     "id": 660217683,
