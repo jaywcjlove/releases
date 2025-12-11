@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 10 Dec 2025 17:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 05:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v2.2.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/d921d91ee639e9292654508240aeb436008ad418</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmQ5MjFkOTFlZTYzOWU5MjkyNjU0NTA4MjQwYWViNDM2MDA4YWQ0MTg=</guid>
+            <pubDate>Wed, 10 Dec 2025 19:30:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/d921d91ee639e9292654508240aeb436008ad418">released v2.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rehype-ignore released v2.0.3]]></title>
+            <link>https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9</link>
+            <guid>MDY6Q29tbWl0NDc4NDIxMDI1OjllYzg3M2M2ZmZkMjJkNDM2YmVlOGM2OTE0NWZjNjFlZGZmZGY1Yzk=</guid>
+            <pubDate>Wed, 10 Dec 2025 18:38:03 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9">released v2.0.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/deskmark released v1.2.0]]></title>
             <link>https://github.com/jaywcjlove/deskmark/commit/18afae6ee19dfb6456fa8becd1db6450914fbcf7</link>
@@ -1764,14 +1780,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-color released v2.5.5 fix #178 #179]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/55f98f40ee5e1f3710d75ac8d335b58c0e91dfc1</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjU1Zjk4ZjQwZWU1ZTFmMzcxMGQ3NWFjOGQzMzViNThjMGU5MWRmYzE=</guid>
-            <pubDate>Fri, 16 May 2025 09:47:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/55f98f40ee5e1f3710d75ac8d335b58c0e91dfc1">released v2.5.5 fix #178 #179</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/7b0be3999801f71c434a2ed98b57b8cb044e53c5</link>
             <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjdiMGJlMzk5OTgwMWY3MWM0MzRhMmVkOThiNTdiOGNiMDQ0ZTUzYzU=</guid>
@@ -1793,14 +1801,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOjUwNmEyMTdlZjQwYjRjNzc1NDZlMjAyMGQ1N2VlMzA5MDkyODFjMjg=</guid>
             <pubDate>Wed, 14 May 2025 02:07:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/506a217ef40b4c77546e2020d57ee30909281c28">released v1.38.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.3.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/d6fcbb609d5d65727dcb226d8613a5398c6076db</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmQ2ZmNiYjYwOWQ1ZDY1NzI3ZGNiMjI2ZDg2MTNhNTM5OGM2MDc2ZGI=</guid>
-            <pubDate>Wed, 14 May 2025 01:58:53 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/d6fcbb609d5d65727dcb226d8613a5398c6076db">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
