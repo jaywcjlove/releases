@@ -1,5 +1,60 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjJhZDE3OTk5OGNlMzlmMzAyMDVlYmZkZmNlYWZlNzEzNTJhY2MyYmU=",
+    "type": "commits",
+    "title": "released v4.25.4",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "2ad179998ce39f30205ebfdfceafe71352acc2be",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/2ad179998ce39f30205ebfdfceafe71352acc2be",
+    "created_at": "2025-12-13T00:04:10.000+08:00",
+    "state": "committer",
+    "version": "4.25.4"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTQ3NjAyNzAxOjE0OTYzNjYwZDYzNzQ5Y2Q0YmIzM2RlODBiYjA2YzI2OGRkMTBkZjA=",
+    "type": "commits",
+    "title": "released v1.0.19",
+    "repo": "uiwjs/copy-to-clipboard",
+    "sha": "14963660d63749cd4bb33de80bb06c268dd10df0",
+    "url": "https://github.com/uiwjs/copy-to-clipboard/commit/14963660d63749cd4bb33de80bb06c268dd10df0",
+    "created_at": "2025-12-12T23:10:09.000+08:00",
+    "state": "committer",
+    "version": "1.0.19"
+  },
+  {
+    "id": "MDY6Q29tbWl0NDE5NzQ4Njg4OjBiYjFhNWU3OWY5YjhkMzliM2RkMDIxZjBmYWQ2ODRmNjlmN2UxNGQ=",
+    "type": "commits",
+    "title": "released v2.3.1",
+    "repo": "jaywcjlove/rehype-video",
+    "sha": "0bb1a5e79f9b8d39b3dd021f0fad684f69f7e14d",
+    "url": "https://github.com/jaywcjlove/rehype-video/commit/0bb1a5e79f9b8d39b3dd021f0fad684f69f7e14d",
+    "created_at": "2025-12-12T22:41:11.000+08:00",
+    "state": "committer",
+    "version": "2.3.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzcyNDE4ODQxOjA4MWU3MGU5NmZlZTcwNmM2NDc3YjRmMWY5ZWYwMTQwNmYyYjJhMDM=",
+    "type": "commits",
+    "title": "released v2.0.1",
+    "repo": "jaywcjlove/remark-github-blockquote-alert",
+    "sha": "081e70e96fee706c6477b4f1f9ef01406f2b2a03",
+    "url": "https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/081e70e96fee706c6477b4f1f9ef01406f2b2a03",
+    "created_at": "2025-12-12T22:34:42.000+08:00",
+    "state": "committer",
+    "version": "2.0.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzY3ODA4NDIyOjE2MzAzNmMyNTFjNjk2ZGNlOGFhNzNhYzQwNGQzNTg2NjM0MjQyMDk=",
+    "type": "commits",
+    "title": "released v4.0.4",
+    "repo": "jaywcjlove/rehype-rewrite",
+    "sha": "163036c251c696dce8aa73ac404d358663424209",
+    "url": "https://github.com/jaywcjlove/rehype-rewrite/commit/163036c251c696dce8aa73ac404d358663424209",
+    "created_at": "2025-12-12T21:48:26.000+08:00",
+    "state": "committer",
+    "version": "4.0.4"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OmQ5MjFkOTFlZTYzOWU5MjkyNjU0NTA4MjQwYWViNDM2MDA4YWQ0MTg=",
     "type": "commits",
     "title": "released v2.2.0",
@@ -1966,7 +2021,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "394"
+    "stars": "397"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2409,28 +2464,6 @@
     "version": "1.4.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjgxMTdmODI4M2ZlZjlkZWFkZjczZGNiZjA0YmQzMTQ5NjQwODY1NDI=",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/musicer",
-    "sha": "8117f8283fef9deadf73dcbf04bd314964086542",
-    "url": "https://github.com/jaywcjlove/musicer/commit/8117f8283fef9deadf73dcbf04bd314964086542",
-    "created_at": "2025-05-18T02:19:48.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjdiMGJlMzk5OTgwMWY3MWM0MzRhMmVkOThiNTdiOGNiMDQ0ZTUzYzU=",
-    "type": "commits",
-    "title": "released v1.3.0",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "7b0be3999801f71c434a2ed98b57b8cb044e53c5",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/7b0be3999801f71c434a2ed98b57b8cb044e53c5",
-    "created_at": "2025-05-16T10:37:37.000+08:00",
-    "state": "committer",
-    "version": "1.3.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFhMTYxZGQ1N2M5MDBkZjk5ZDY2MTNhM2MyZDQ5MDFkZjIxM2I5ZWU=",
     "type": "commits",
     "title": "released v2.3.0",
@@ -2473,17 +2506,6 @@
     "created_at": "2025-05-12T01:29:18.000+08:00",
     "state": "committer",
     "version": "1.8.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=",
-    "type": "commits",
-    "title": "released v4.5.5",
-    "repo": "jaywcjlove/tsbb",
-    "sha": "0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914",
-    "url": "https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914",
-    "created_at": "2025-05-05T12:41:01.000+08:00",
-    "state": "committer",
-    "version": "4.5.5"
   },
   {
     "id": 2526870275,

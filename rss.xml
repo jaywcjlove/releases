@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 12 Dec 2025 05:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,46 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.25.4]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/2ad179998ce39f30205ebfdfceafe71352acc2be</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjJhZDE3OTk5OGNlMzlmMzAyMDVlYmZkZmNlYWZlNzEzNTJhY2MyYmU=</guid>
+            <pubDate>Fri, 12 Dec 2025 16:04:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/2ad179998ce39f30205ebfdfceafe71352acc2be">released v4.25.4</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/copy-to-clipboard released v1.0.19]]></title>
+            <link>https://github.com/uiwjs/copy-to-clipboard/commit/14963660d63749cd4bb33de80bb06c268dd10df0</link>
+            <guid>MDY6Q29tbWl0MTQ3NjAyNzAxOjE0OTYzNjYwZDYzNzQ5Y2Q0YmIzM2RlODBiYjA2YzI2OGRkMTBkZjA=</guid>
+            <pubDate>Fri, 12 Dec 2025 15:10:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/copy-to-clipboard/commit/14963660d63749cd4bb33de80bb06c268dd10df0">released v1.0.19</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rehype-video released v2.3.1]]></title>
+            <link>https://github.com/jaywcjlove/rehype-video/commit/0bb1a5e79f9b8d39b3dd021f0fad684f69f7e14d</link>
+            <guid>MDY6Q29tbWl0NDE5NzQ4Njg4OjBiYjFhNWU3OWY5YjhkMzliM2RkMDIxZjBmYWQ2ODRmNjlmN2UxNGQ=</guid>
+            <pubDate>Fri, 12 Dec 2025 14:41:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-video/commit/0bb1a5e79f9b8d39b3dd021f0fad684f69f7e14d">released v2.3.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v2.0.1]]></title>
+            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/081e70e96fee706c6477b4f1f9ef01406f2b2a03</link>
+            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOjA4MWU3MGU5NmZlZTcwNmM2NDc3YjRmMWY5ZWYwMTQwNmYyYjJhMDM=</guid>
+            <pubDate>Fri, 12 Dec 2025 14:34:42 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/081e70e96fee706c6477b4f1f9ef01406f2b2a03">released v2.0.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rehype-rewrite released v4.0.4]]></title>
+            <link>https://github.com/jaywcjlove/rehype-rewrite/commit/163036c251c696dce8aa73ac404d358663424209</link>
+            <guid>MDY6Q29tbWl0MzY3ODA4NDIyOjE2MzAzNmMyNTFjNjk2ZGNlOGFhNzNhYzQwNGQzNTg2NjM0MjQyMDk=</guid>
+            <pubDate>Fri, 12 Dec 2025 13:48:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-rewrite/commit/163036c251c696dce8aa73ac404d358663424209">released v4.0.4</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/musicer released v2.2.0]]></title>
             <link>https://github.com/jaywcjlove/musicer/commit/d921d91ee639e9292654508240aeb436008ad418</link>
@@ -1772,22 +1812,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/8117f8283fef9deadf73dcbf04bd314964086542</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjgxMTdmODI4M2ZlZjlkZWFkZjczZGNiZjA0YmQzMTQ5NjQwODY1NDI=</guid>
-            <pubDate>Sat, 17 May 2025 18:19:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/8117f8283fef9deadf73dcbf04bd314964086542">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.3.0]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/7b0be3999801f71c434a2ed98b57b8cb044e53c5</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjdiMGJlMzk5OTgwMWY3MWM0MzRhMmVkOThiNTdiOGNiMDQ0ZTUzYzU=</guid>
-            <pubDate>Fri, 16 May 2025 02:37:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/7b0be3999801f71c434a2ed98b57b8cb044e53c5">released v1.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/daybar released v2.3.0]]></title>
             <link>https://github.com/jaywcjlove/daybar/commit/aa161dd57c900df99d6613a3c2d4901df213b9ee</link>
             <guid>MDY6Q29tbWl0OTExNzQxNzc0OmFhMTYxZGQ1N2M5MDBkZjk5ZDY2MTNhM2MyZDQ5MDFkZjIxM2I5ZWU=</guid>
@@ -1817,14 +1841,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjlmYzU5OWIzNTU5N2RiYzU1ZmMzOTk0OTI2MTIzZWJhYTM2MmFjNDQ=</guid>
             <pubDate>Sun, 11 May 2025 17:29:18 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/9fc599b35597dbc55fc3994926123ebaa362ac44">released v1.8.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/tsbb released v4.5.5]]></title>
-            <link>https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914</link>
-            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjBkODM5NGU4OGM5YzY1Y2NmZDRkY2M4YzI2OGFhNGFkNGNhYzA5MTQ=</guid>
-            <pubDate>Mon, 05 May 2025 04:41:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/0d8394e88c9c65ccfd4dcc8c268aa4ad4cac0914">released v4.5.5</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
