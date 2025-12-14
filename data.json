@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmJlMjdiNTg0ZWQ0OGM1ZWUyZDY1OWIzZWJmMTY5ZWZiNGVhYzA2ZWI=",
+    "type": "commits",
+    "title": "released v2.3.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "be27b584ed48c5ee2d659b3ebf169efb4eac06eb",
+    "url": "https://github.com/jaywcjlove/mousio/commit/be27b584ed48c5ee2d659b3ebf169efb4eac06eb",
+    "created_at": "2025-12-14T04:11:30.000+08:00",
+    "state": "committer",
+    "version": "2.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODU2NTAyNTE4OmY3YTEzZWFlYWYwOWM5OTcwZjBkYTA0ZTU1MDNmZjJjMGE3NGRmOWU=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2495,17 +2506,6 @@
     "created_at": "2025-05-15T11:07:58.000+08:00",
     "state": "committer",
     "version": "2.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjUwNmEyMTdlZjQwYjRjNzc1NDZlMjAyMGQ1N2VlMzA5MDkyODFjMjg=",
-    "type": "commits",
-    "title": "released v1.38.1",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "506a217ef40b4c77546e2020d57ee30909281c28",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/506a217ef40b4c77546e2020d57ee30909281c28",
-    "created_at": "2025-05-14T10:07:17.000+08:00",
-    "state": "committer",
-    "version": "1.38.1"
   },
   {
     "id": 2526870275,
