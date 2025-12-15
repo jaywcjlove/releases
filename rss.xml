@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 15 Dec 2025 05:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 17:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v3.3.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/7a17878f02cf5d97f6cc00d92d5e4c2a3f90c1e9</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OjdhMTc4NzhmMDJjZjVkOTdmNmNjMDBkOTJkNWU0YzJhM2Y5MGMxZTk=</guid>
+            <pubDate>Mon, 15 Dec 2025 16:29:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/7a17878f02cf5d97f6cc00d92d5e4c2a3f90c1e9">released v3.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/mousio released v2.3.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/be27b584ed48c5ee2d659b3ebf169efb4eac06eb</link>
@@ -1793,22 +1801,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTY3NDkyNDM0OjY1MDFmNDg0NWIyNjdhZjUxMmUxOTY5ZWYzZjJmOGI0ODhmMGY5Y2E=</guid>
             <pubDate>Tue, 20 May 2025 13:27:13 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/6501f4845b267af512e1969ef3f2f8b488f0f9ca">released v1.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.5.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/46d4853e098ca70c84a879258aa057629c108e1f</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjQ2ZDQ4NTNlMDk4Y2E3MGM4NGE4NzkyNThhYTA1NzYyOWMxMDhlMWY=</guid>
-            <pubDate>Sun, 18 May 2025 23:20:28 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/46d4853e098ca70c84a879258aa057629c108e1f">released v1.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/file-sentinel released v1.2.1]]></title>
-            <link>https://github.com/jaywcjlove/file-sentinel/commit/de883aa53ab97011d473dc6f71d1e7bccd711fe5</link>
-            <guid>MDY6Q29tbWl0OTY3NDkyNDM0OmRlODgzYWE1M2FiOTcwMTFkNDczZGM2ZjcxZDFlN2JjY2Q3MTFmZTU=</guid>
-            <pubDate>Sun, 18 May 2025 23:11:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/de883aa53ab97011d473dc6f71d1e7bccd711fe5">released v1.2.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
