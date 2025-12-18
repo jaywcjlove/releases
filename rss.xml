@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 18 Dec 2025 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 17:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/colors-named-decimal released v1.0.3]]></title>
+            <link>https://github.com/jaywcjlove/colors-named-decimal/commit/2de9e77a0c33d4593c40da7ca1bd8f460084025c</link>
+            <guid>MDY6Q29tbWl0NTEyNDM5MjQyOjJkZTllNzdhMGMzM2Q0NTkzYzQwZGE3Y2ExYmQ4ZjQ2MDA4NDAyNWM=</guid>
+            <pubDate>Thu, 18 Dec 2025 13:30:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named-decimal/commit/2de9e77a0c33d4593c40da7ca1bd8f460084025c">released v1.0.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/awesome-mac released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/awesome-mac/commit/63287cb9751d9015329ac4aeb2950e904210e293</link>
+            <guid>MDY6Q29tbWl0NjM1MzkwNTU6NjMyODdjYjk3NTFkOTAxNTMyOWFjNGFlYjI5NTBlOTA0MjEwZTI5Mw==</guid>
+            <pubDate>Thu, 18 Dec 2025 12:03:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/63287cb9751d9015329ac4aeb2950e904210e293">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/colors-named-hex released v1.0.3]]></title>
             <link>https://github.com/jaywcjlove/colors-named-hex/commit/09d556b97b3c2daa8fc1f4b246ef54349594a5d9</link>
@@ -1756,14 +1772,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/awesome-mac released v1.9.0]]></title>
-            <link>https://github.com/jaywcjlove/awesome-mac/commit/143c45b043d21affbe622d00acb1259ac927acc2</link>
-            <guid>MDY6Q29tbWl0NjM1MzkwNTU6MTQzYzQ1YjA0M2QyMWFmZmJlNjIyZDAwYWNiMTI1OWFjOTI3YWNjMg==</guid>
-            <pubDate>Thu, 22 May 2025 21:14:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/143c45b043d21affbe622d00acb1259ac927acc2">released v1.9.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v2.4.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/428e5a7b79239c5723ab6d4597bd5276ee8994d5</link>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjQyOGU1YTdiNzkyMzljNTcyM2FiNmQ0NTk3YmQ1Mjc2ZWU4OTk0ZDU=</guid>
@@ -1817,14 +1825,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTY3NDkyNDM0OjY1MDFmNDg0NWIyNjdhZjUxMmUxOTY5ZWYzZjJmOGI0ODhmMGY5Y2E=</guid>
             <pubDate>Tue, 20 May 2025 13:27:13 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/6501f4845b267af512e1969ef3f2f8b488f0f9ca">released v1.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/2f7c8f8d56ca8af20a45646710ebf37cd61e0ae8</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjJmN2M4ZjhkNTZjYThhZjIwYTQ1NjQ2NzEwZWJmMzdjZDYxZTBhZTg=</guid>
-            <pubDate>Sun, 18 May 2025 02:15:59 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/2f7c8f8d56ca8af20a45646710ebf37cd61e0ae8">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
