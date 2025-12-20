@@ -2398,6 +2398,17 @@
     "version": "2.4.1"
   },
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjRhNjg0OTNiOTZhNmE4ZmY4NDFhNjZhZDZjYjlmYjU1NDQ0MzBlMWE=",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "4a68493b96a6a8ff841a66ad6cb9fb5544430e1a",
+    "url": "https://github.com/jaywcjlove/musicer/commit/4a68493b96a6a8ff841a66ad6cb9fb5544430e1a",
+    "created_at": "2025-05-24T10:33:30.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjRiYzdlNzE1ZWU4ZjRlZmY0Y2Q4MDZmM2I1OWRlNTYwNDE2MmJjZjc=",
     "type": "commits",
     "title": "released v7.1.7 #389 #390",
@@ -2429,17 +2440,6 @@
     "created_at": "2025-05-23T00:46:27.000+08:00",
     "state": "committer",
     "version": "4.0.7"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmEwODNmZDQzNzdhMDgwYTlmOTY3OGQ2NDJmNmMzMTlhODM1NzRjYTE=",
-    "type": "commits",
-    "title": "released v7.1.6 #387 #386",
-    "repo": "uiwjs/react-amap",
-    "sha": "a083fd4377a080a9f9678d642f6c319a83574ca1",
-    "url": "https://github.com/uiwjs/react-amap/commit/a083fd4377a080a9f9678d642f6c319a83574ca1",
-    "created_at": "2025-05-22T18:47:42.000+08:00",
-    "state": "committer",
-    "version": "7.1.6"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjYxZGMzZDc0MjMyOWM3NTVjOTY1OTExYTRkNjY5OGM5NjY2MDlkODk=",
@@ -2527,7 +2527,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "383"
+    "stars": "384"
   },
   {
     "id": 1838600360,

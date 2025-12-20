@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 19 Dec 2025 17:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 05:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1764,6 +1764,14 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/musicer released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/4a68493b96a6a8ff841a66ad6cb9fb5544430e1a</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjRhNjg0OTNiOTZhNmE4ZmY4NDFhNjZhZDZjYjlmYjU1NDQ0MzBlMWE=</guid>
+            <pubDate>Sat, 24 May 2025 02:33:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/4a68493b96a6a8ff841a66ad6cb9fb5544430e1a">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.7 #389 #390]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/4bc7e715ee8f4eff4cd806f3b59de5604162bcf7</link>
             <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjRiYzdlNzE1ZWU4ZjRlZmY0Y2Q4MDZmM2I1OWRlNTYwNDE2MmJjZjc=</guid>
@@ -1785,14 +1793,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjAyNWViNDk3Mjc5Zjg0NjY3NmFjZjdiZWE4OGI4YmI3OTJlMDk2NWY=</guid>
             <pubDate>Thu, 22 May 2025 16:46:27 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/025eb497279f846676acf7bea88b8bb792e0965f">released v4.0.7 #688</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-amap released v7.1.6 #387 #386]]></title>
-            <link>https://github.com/uiwjs/react-amap/commit/a083fd4377a080a9f9678d642f6c319a83574ca1</link>
-            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmEwODNmZDQzNzdhMDgwYTlmOTY3OGQ2NDJmNmMzMTlhODM1NzRjYTE=</guid>
-            <pubDate>Thu, 22 May 2025 10:47:42 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/a083fd4377a080a9f9678d642f6c319a83574ca1">released v7.1.6 #387 #386</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
