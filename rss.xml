@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 21 Dec 2025 17:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 05:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/quick-rss released v2.2.0]]></title>
-            <link>https://github.com/jaywcjlove/quick-rss/commit/572490a29919a4b3ce24a952c734609eab4f0f27</link>
-            <guid>MDY6Q29tbWl0ODU2NTAyNTE4OjU3MjQ5MGEyOTkxOWE0YjNjZTI0YTk1MmM3MzQ2MDllYWI0ZjBmMjc=</guid>
-            <pubDate>Sat, 20 Dec 2025 18:38:54 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/quick-rss/commit/572490a29919a4b3ce24a952c734609eab4f0f27">released v2.2.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/quick-rss released v2.3.0]]></title>
+            <link>https://github.com/jaywcjlove/quick-rss/commit/4515d24e31c97948f656d6cb4637f4f965e81c30</link>
+            <guid>MDY6Q29tbWl0ODU2NTAyNTE4OjQ1MTVkMjRlMzFjOTc5NDhmNjU2ZDZjYjQ2MzdmNGY5NjVlODFjMzA=</guid>
+            <pubDate>Mon, 22 Dec 2025 00:33:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/quick-rss/commit/4515d24e31c97948f656d6cb4637f4f965e81c30">released v2.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

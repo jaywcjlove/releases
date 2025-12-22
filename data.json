@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjU3MjQ5MGEyOTkxOWE0YjNjZTI0YTk1MmM3MzQ2MDllYWI0ZjBmMjc=",
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjQ1MTVkMjRlMzFjOTc5NDhmNjU2ZDZjYjQ2MzdmNGY5NjVlODFjMzA=",
     "type": "commits",
-    "title": "released v2.2.0",
+    "title": "released v2.3.0",
     "repo": "jaywcjlove/quick-rss",
-    "sha": "572490a29919a4b3ce24a952c734609eab4f0f27",
-    "url": "https://github.com/jaywcjlove/quick-rss/commit/572490a29919a4b3ce24a952c734609eab4f0f27",
-    "created_at": "2025-12-21T02:38:54.000+08:00",
+    "sha": "4515d24e31c97948f656d6cb4637f4f965e81c30",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/4515d24e31c97948f656d6cb4637f4f965e81c30",
+    "created_at": "2025-12-22T08:33:34.000+08:00",
     "state": "committer",
-    "version": "2.2.0"
+    "version": "2.3.0"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDM5MjQyOjJkZTllNzdhMGMzM2Q0NTkzYzQwZGE3Y2ExYmQ4ZjQ2MDA4NDAyNWM=",
