@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZmIzODczMGI1MmViYmU4ZGM1ZTVlOGVjMTVmNmM0MTdlOGNlNDM0ZA==",
+    "type": "commits",
+    "title": "released v4.0.0",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "fb38730b52ebbe8dc5e5e8ec15f6c417e8ce434d",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/fb38730b52ebbe8dc5e5e8ec15f6c417e8ce434d",
+    "created_at": "2025-12-23T01:34:40.000+08:00",
+    "state": "committer",
+    "version": "4.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjQ1MTVkMjRlMzFjOTc5NDhmNjU2ZDZjYjQ2MzdmNGY5NjVlODFjMzA=",
     "type": "commits",
     "title": "released v2.3.0",
@@ -2398,28 +2409,6 @@
     "version": "2.4.1"
   },
   {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjRiYzdlNzE1ZWU4ZjRlZmY0Y2Q4MDZmM2I1OWRlNTYwNDE2MmJjZjc=",
-    "type": "commits",
-    "title": "released v7.1.7 #389 #390",
-    "repo": "uiwjs/react-amap",
-    "sha": "4bc7e715ee8f4eff4cd806f3b59de5604162bcf7",
-    "url": "https://github.com/uiwjs/react-amap/commit/4bc7e715ee8f4eff4cd806f3b59de5604162bcf7",
-    "created_at": "2025-05-23T15:08:35.000+08:00",
-    "state": "committer",
-    "version": "7.1.7"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjQyOGU1YTdiNzkyMzljNTcyM2FiNmQ0NTk3YmQ1Mjc2ZWU4OTk0ZDU=",
-    "type": "commits",
-    "title": "released v2.4.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "428e5a7b79239c5723ab6d4597bd5276ee8994d5",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/428e5a7b79239c5723ab6d4597bd5276ee8994d5",
-    "created_at": "2025-05-23T01:06:43.000+08:00",
-    "state": "committer",
-    "version": "2.4.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjAyNWViNDk3Mjc5Zjg0NjY3NmFjZjdiZWE4OGI4YmI3OTJlMDk2NWY=",
     "type": "commits",
     "title": "released v4.0.7 #688",
@@ -2462,17 +2451,6 @@
     "created_at": "2025-05-21T04:28:54.000+08:00",
     "state": "committer",
     "version": "1.7.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjY1MDFmNDg0NWIyNjdhZjUxMmUxOTY5ZWYzZjJmOGI0ODhmMGY5Y2E=",
-    "type": "commits",
-    "title": "released v1.3.0",
-    "repo": "jaywcjlove/file-sentinel",
-    "sha": "6501f4845b267af512e1969ef3f2f8b488f0f9ca",
-    "url": "https://github.com/jaywcjlove/file-sentinel/commit/6501f4845b267af512e1969ef3f2f8b488f0f9ca",
-    "created_at": "2025-05-20T21:27:13.000+08:00",
-    "state": "committer",
-    "version": "1.3.0"
   },
   {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFhMTYxZGQ1N2M5MDBkZjk5ZDY2MTNhM2MyZDQ5MDFkZjIxM2I5ZWU=",
@@ -2615,7 +2593,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "235"
+    "stars": "236"
   },
   {
     "id": 1032707507,
