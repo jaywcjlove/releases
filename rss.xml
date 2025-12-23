@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 23 Dec 2025 05:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/quick-rss released v2.4.0]]></title>
+            <link>https://github.com/jaywcjlove/quick-rss/commit/5a7d653b8167129ee00c594efceb563041e8e8b4</link>
+            <guid>MDY6Q29tbWl0ODU2NTAyNTE4OjVhN2Q2NTNiODE2NzEyOWVlMDBjNTk0ZWZjZWI1NjMwNDFlOGU4YjQ=</guid>
+            <pubDate>Tue, 23 Dec 2025 17:07:25 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/quick-rss/commit/5a7d653b8167129ee00c594efceb563041e8e8b4">released v2.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/fb38730b52ebbe8dc5e5e8ec15f6c417e8ce434d</link>
@@ -1793,14 +1801,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjBkODFhZTEwNGNiYjI4ZWVjZmU2N2QyYjcxNzBmNTc4MTk3MzgwZTY=</guid>
             <pubDate>Wed, 21 May 2025 15:57:33 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/0d81ae104cbb28eecfe67d2b7170f578197380e6">released v2.14.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/paste-quick released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/paste-quick/commit/b04517444c4acf68d98b3cc0542eb189a776114f</link>
-            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OmIwNDUxNzQ0NGM0YWNmNjhkOThiM2NjMDU0MmViMTg5YTc3NjExNGY=</guid>
-            <pubDate>Tue, 20 May 2025 20:28:54 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/b04517444c4acf68d98b3cc0542eb189a776114f">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

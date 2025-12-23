@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjVhN2Q2NTNiODE2NzEyOWVlMDBjNTk0ZWZjZWI1NjMwNDFlOGU4YjQ=",
+    "type": "commits",
+    "title": "released v2.4.0",
+    "repo": "jaywcjlove/quick-rss",
+    "sha": "5a7d653b8167129ee00c594efceb563041e8e8b4",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/5a7d653b8167129ee00c594efceb563041e8e8b4",
+    "created_at": "2025-12-24T01:07:25.000+08:00",
+    "state": "committer",
+    "version": "2.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZmIzODczMGI1MmViYmU4ZGM1ZTVlOGVjMTVmNmM0MTdlOGNlNDM0ZA==",
     "type": "commits",
     "title": "released v4.0.0",
@@ -2440,17 +2451,6 @@
     "created_at": "2025-05-21T23:57:33.000+08:00",
     "state": "committer",
     "version": "2.14.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmIwNDUxNzQ0NGM0YWNmNjhkOThiM2NjMDU0MmViMTg5YTc3NjExNGY=",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/paste-quick",
-    "sha": "b04517444c4acf68d98b3cc0542eb189a776114f",
-    "url": "https://github.com/jaywcjlove/paste-quick/commit/b04517444c4acf68d98b3cc0542eb189a776114f",
-    "created_at": "2025-05-21T04:28:54.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
   },
   {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFhMTYxZGQ1N2M5MDBkZjk5ZDY2MTNhM2MyZDQ5MDFkZjIxM2I5ZWU=",
