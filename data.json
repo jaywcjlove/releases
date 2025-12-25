@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjExODIyNDM5OmEyYTlkZWI4MmU1ODFkNDBlMDMwMzBkYTViNmI4NzVlZWEyMzQwMTY=",
+    "type": "commits",
+    "title": "released v2.0.2",
+    "repo": "jaywcjlove/chmod-cli",
+    "sha": "a2a9deb82e581d40e03030da5b6b875eea234016",
+    "url": "https://github.com/jaywcjlove/chmod-cli/commit/a2a9deb82e581d40e03030da5b6b875eea234016",
+    "created_at": "2025-12-26T00:13:04.000+08:00",
+    "state": "committer",
+    "version": "2.0.2"
+  },
+  {
     "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjVhN2Q2NTNiODE2NzEyOWVlMDBjNTk0ZWZjZWI1NjMwNDFlOGU4YjQ=",
     "type": "commits",
     "title": "released v2.4.0",
@@ -2451,17 +2462,6 @@
     "created_at": "2025-05-21T23:57:33.000+08:00",
     "state": "committer",
     "version": "2.14.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFhMTYxZGQ1N2M5MDBkZjk5ZDY2MTNhM2MyZDQ5MDFkZjIxM2I5ZWU=",
-    "type": "commits",
-    "title": "released v2.3.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "aa161dd57c900df99d6613a3c2d4901df213b9ee",
-    "url": "https://github.com/jaywcjlove/daybar/commit/aa161dd57c900df99d6613a3c2d4901df213b9ee",
-    "created_at": "2025-05-15T11:07:58.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
   },
   {
     "id": 2526870275,
