@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 27 Dec 2025 05:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 17:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.40 #79]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/39c47c2c35ed26550adc01388001205ccf83fce9</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjM5YzQ3YzJjMzVlZDI2NTUwYWRjMDEzODgwMDEyMDVjY2Y4M2ZjZTk=</guid>
+            <pubDate>Sat, 27 Dec 2025 12:59:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/39c47c2c35ed26550adc01388001205ccf83fce9">released v2.0.0-alpha.40 #79</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/chmod-cli released v2.0.2]]></title>
             <link>https://github.com/jaywcjlove/chmod-cli/commit/a2a9deb82e581d40e03030da5b6b875eea234016</link>
@@ -1801,14 +1809,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjYxZGMzZDc0MjMyOWM3NTVjOTY1OTExYTRkNjY5OGM5NjY2MDlkODk=</guid>
             <pubDate>Wed, 21 May 2025 17:33:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/61dc3d742329c755c965911a4d6698c966609d89">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.14.0]]></title>
-            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/0d81ae104cbb28eecfe67d2b7170f578197380e6</link>
-            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjBkODFhZTEwNGNiYjI4ZWVjZmU2N2QyYjcxNzBmNTc4MTk3MzgwZTY=</guid>
-            <pubDate>Wed, 21 May 2025 15:57:33 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/0d81ae104cbb28eecfe67d2b7170f578197380e6">released v2.14.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
