@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 01 Jan 2026 17:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 05:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v4.1.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/2df59fad0cbf5801f1cafdd5500ae53b53083097</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OjJkZjU5ZmFkMGNiZjU4MDFmMWNhZmRkNTUwMGFlNTNiNTMwODMwOTc=</guid>
+            <pubDate>Thu, 01 Jan 2026 22:26:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/2df59fad0cbf5801f1cafdd5500ae53b53083097">released v4.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.40 #79]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/39c47c2c35ed26550adc01388001205ccf83fce9</link>
@@ -1794,14 +1802,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <pubDate>Sun, 25 May 2025 02:43:55 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/4410d38c6b7150dd96562567bb0b6b3598840c30">released v2.4.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-md-editor released v4.0.7 #688]]></title>
-            <link>https://github.com/uiwjs/react-md-editor/commit/025eb497279f846676acf7bea88b8bb792e0965f</link>
-            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjAyNWViNDk3Mjc5Zjg0NjY3NmFjZjdiZWE4OGI4YmI3OTJlMDk2NWY=</guid>
-            <pubDate>Thu, 22 May 2025 16:46:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/025eb497279f846676acf7bea88b8bb792e0965f">released v4.0.7 #688</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.8.0]]></title>
