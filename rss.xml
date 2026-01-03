@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 03 Jan 2026 05:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jan 2026 17:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -17,10 +17,10 @@
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[jaywcjlove/ScreenTestApp released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/ScreenTestApp/commit/50599d1895d42963896ba2295098eb250860fe5d</link>
-            <guid>MDY6Q29tbWl0MTEyNDk1OTg0Mzo1MDU5OWQxODk1ZDQyOTYzODk2YmEyMjk1MDk4ZWIyNTA4NjBmZTVk</guid>
-            <pubDate>Fri, 02 Jan 2026 22:00:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/ScreenTestApp/commit/50599d1895d42963896ba2295098eb250860fe5d">released v1.0.0</a>]]></description>
+            <link>https://github.com/jaywcjlove/ScreenTestApp/commit/f90fc23a6fce05c0460c922ec62d41d6af4b9396</link>
+            <guid>MDY6Q29tbWl0MTEyNDk1OTg0MzpmOTBmYzIzYTZmY2UwNWMwNDYwYzkyMmVjNjJkNDFkNmFmNGI5Mzk2</guid>
+            <pubDate>Sat, 03 Jan 2026 14:24:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/ScreenTestApp/commit/f90fc23a6fce05c0460c922ec62d41d6af4b9396">released v1.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

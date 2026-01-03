@@ -1,12 +1,12 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTEyNDk1OTg0Mzo1MDU5OWQxODk1ZDQyOTYzODk2YmEyMjk1MDk4ZWIyNTA4NjBmZTVk",
+    "id": "MDY6Q29tbWl0MTEyNDk1OTg0MzpmOTBmYzIzYTZmY2UwNWMwNDYwYzkyMmVjNjJkNDFkNmFmNGI5Mzk2",
     "type": "commits",
     "title": "released v1.0.0",
     "repo": "jaywcjlove/ScreenTestApp",
-    "sha": "50599d1895d42963896ba2295098eb250860fe5d",
-    "url": "https://github.com/jaywcjlove/ScreenTestApp/commit/50599d1895d42963896ba2295098eb250860fe5d",
-    "created_at": "2026-01-03T06:00:32.000+08:00",
+    "sha": "f90fc23a6fce05c0460c922ec62d41d6af4b9396",
+    "url": "https://github.com/jaywcjlove/ScreenTestApp/commit/f90fc23a6fce05c0460c922ec62d41d6af4b9396",
+    "created_at": "2026-01-03T22:24:38.000+08:00",
     "state": "committer",
     "version": "1.0.0"
   },
