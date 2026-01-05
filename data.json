@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowNTZhNTJhNmY1NDRkZDE1OWQyNDEwYjNkMmEwMDgxM2QzNDAyMWQ5",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/vidcrop",
+    "sha": "056a52a6f544dd159d2410b3d2a00813d34021d9",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/056a52a6f544dd159d2410b3d2a00813d34021d9",
+    "created_at": "2026-01-05T11:31:26.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTEyNDk1OTg0MzpmOTBmYzIzYTZmY2UwNWMwNDYwYzkyMmVjNjJkNDFkNmFmNGI5Mzk2",
     "type": "commits",
     "title": "released v1.0.0",
