@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjNlMWM0Y2U5ODc5YjlkY2RkMjUyYTIwMGM2OWE1OTA0OTU0YjU1NzU=",
+    "type": "commits",
+    "title": "released v2.6.0",
+    "repo": "jaywcjlove/quick-rss",
+    "sha": "3e1c4ce9879b9dcdd252a200c69a5904954b5575",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/3e1c4ce9879b9dcdd252a200c69a5904954b5575",
+    "created_at": "2026-01-06T00:31:09.000+08:00",
+    "state": "committer",
+    "version": "2.6.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjBlOGJlOTM3ODk5Zjg5ZGMzMzBjZjBmMjY5YmQxMDM2YTlhYTJhODM=",
+    "type": "commits",
+    "title": "released v4.4.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "0e8be937899f89dc330cf0f269bd1036a9aa2a83",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/0e8be937899f89dc330cf0f269bd1036a9aa2a83",
+    "created_at": "2026-01-05T22:28:12.000+08:00",
+    "state": "committer",
+    "version": "4.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowNTZhNTJhNmY1NDRkZDE1OWQyNDEwYjNkMmEwMDgxM2QzNDAyMWQ5",
     "type": "commits",
     "title": "released v1.2.0",
@@ -1482,7 +1504,7 @@
     "created_at": "2025-08-22T05:56:49Z",
     "state": "merged",
     "number": 17804,
-    "stars": "51.3K"
+    "stars": "51.4K"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=",
@@ -2409,28 +2431,6 @@
     "version": "1.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmIzOTJmYzg3ODEyNTdiNTM4MjE3YmE5NWJlZjkxZTI0NzhkNmYwOTY=",
-    "type": "commits",
-    "title": "released v1.5.0",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "b392fc8781257b538217ba95bef91e2478d6f096",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/b392fc8781257b538217ba95bef91e2478d6f096",
-    "created_at": "2025-05-30T10:24:57.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjkwZGVjYmE0NGRjZjdjMDg2NTQ1NWQxZDZmM2I5Y2M5MDIzNmY4NTg=",
-    "type": "commits",
-    "title": "released v7.1.8 (#391)",
-    "repo": "uiwjs/react-amap",
-    "sha": "90decba44dcf7c0865455d1d6f3b9cc90236f858",
-    "url": "https://github.com/uiwjs/react-amap/commit/90decba44dcf7c0865455d1d6f3b9cc90236f858",
-    "created_at": "2025-05-28T21:22:48.000+08:00",
-    "state": "committer",
-    "version": "7.1.8"
-  },
-  {
     "id": "MDY6Q29tbWl0NTI0NTU3MjU6Nzk2OWZiMjhhNDkxNmYxMjI5MzhmYjNjOGNhNWNkZWQ5MjdmYzVhNA==",
     "type": "commits",
     "title": "released v2.4.1",
@@ -2442,17 +2442,6 @@
     "version": "2.4.1"
   },
   {
-    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjU4M2M5MWE4MWIwZDMwZjc5OWI3YzVkYmJlOWQ0ZDQ1YjAzZmYyNDY=",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/file-sentinel",
-    "sha": "583c91a81b0d30f799b7c5dbbe9d4d45b03ff246",
-    "url": "https://github.com/jaywcjlove/file-sentinel/commit/583c91a81b0d30f799b7c5dbbe9d4d45b03ff246",
-    "created_at": "2025-05-28T00:49:38.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjQzOTMxMzdmZGUxOWJiZjYzOWMyNDAwYjE3MjlhNGFlZWRjOWRmMzM=",
     "type": "commits",
     "title": "released v1.10.0",
@@ -2462,17 +2451,6 @@
     "created_at": "2025-05-27T12:23:26.000+08:00",
     "state": "committer",
     "version": "1.10.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjQ0MTBkMzhjNmI3MTUwZGQ5NjU2MjU2N2JiMGI2YjM1OTg4NDBjMzA=",
-    "type": "commits",
-    "title": "released v2.4.1",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "4410d38c6b7150dd96562567bb0b6b3598840c30",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/4410d38c6b7150dd96562567bb0b6b3598840c30",
-    "created_at": "2025-05-25T10:43:55.000+08:00",
-    "state": "committer",
-    "version": "2.4.1"
   },
   {
     "id": 2526870275,
@@ -2791,7 +2769,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "428"
+    "stars": "429"
   },
   {
     "id": 660217683,
