@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 05 Jan 2026 17:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 05:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall-hub released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall-hub/commit/13f3abf6f72465304f8722c75f645babb52326ad</link>
+            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0NzoxM2YzYWJmNmY3MjQ2NTMwNGY4NzIyYzc1ZjY0NWJhYmI1MjMyNmFk</guid>
+            <pubDate>Mon, 05 Jan 2026 17:40:17 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/13f3abf6f72465304f8722c75f645babb52326ad">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/quick-rss released v2.6.0]]></title>
             <link>https://github.com/jaywcjlove/quick-rss/commit/3e1c4ce9879b9dcdd252a200c69a5904954b5575</link>
@@ -1785,14 +1793,6 @@ https://github.com/Arize-ai/phoenix/pull/6218</a>]]></description>
             <guid>MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=</guid>
             <pubDate>Mon, 02 Jun 2025 04:42:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/swiftui-markdown/commit/26e8f0e6884c11a7364ade585c40442ed69c94d6">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/wxmp released v2.4.1]]></title>
-            <link>https://github.com/jaywcjlove/wxmp/commit/7969fb28a4916f122938fb3c8ca5cded927fc5a4</link>
-            <guid>MDY6Q29tbWl0NTI0NTU3MjU6Nzk2OWZiMjhhNDkxNmYxMjI5MzhmYjNjOGNhNWNkZWQ5MjdmYzVhNA==</guid>
-            <pubDate>Tue, 27 May 2025 18:45:11 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/wxmp/commit/7969fb28a4916f122938fb3c8ca5cded927fc5a4">released v2.4.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

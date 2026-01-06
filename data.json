@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA2NTQ1MDM0NzoxM2YzYWJmNmY3MjQ2NTMwNGY4NzIyYzc1ZjY0NWJhYmI1MjMyNmFk",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/vidwall-hub",
+    "sha": "13f3abf6f72465304f8722c75f645babb52326ad",
+    "url": "https://github.com/jaywcjlove/vidwall-hub/commit/13f3abf6f72465304f8722c75f645babb52326ad",
+    "created_at": "2026-01-06T01:40:17.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjNlMWM0Y2U5ODc5YjlkY2RkMjUyYTIwMGM2OWE1OTA0OTU0YjU1NzU=",
     "type": "commits",
     "title": "released v2.6.0",
@@ -2219,7 +2230,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "406"
+    "stars": "409"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2429,17 +2440,6 @@
     "created_at": "2025-06-02T12:42:16.000+08:00",
     "state": "committer",
     "version": "1.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTI0NTU3MjU6Nzk2OWZiMjhhNDkxNmYxMjI5MzhmYjNjOGNhNWNkZWQ5MjdmYzVhNA==",
-    "type": "commits",
-    "title": "released v2.4.1",
-    "repo": "jaywcjlove/wxmp",
-    "sha": "7969fb28a4916f122938fb3c8ca5cded927fc5a4",
-    "url": "https://github.com/jaywcjlove/wxmp/commit/7969fb28a4916f122938fb3c8ca5cded927fc5a4",
-    "created_at": "2025-05-28T02:45:11.000+08:00",
-    "state": "committer",
-    "version": "2.4.1"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjQzOTMxMzdmZGUxOWJiZjYzOWMyNDAwYjE3MjlhNGFlZWRjOWRmMzM=",
@@ -2769,7 +2769,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "429"
+    "stars": "430"
   },
   {
     "id": 660217683,
