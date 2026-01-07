@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmU1MGQwZDRlMzcyYmQ0OTIxZDkzODU0ZjcwZWU0Yjk1MmEwNDkzNDU=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/DevHub",
+    "sha": "e50d0d4e372bd4921d93854f70ee4b952a049345",
+    "url": "https://github.com/jaywcjlove/DevHub/commit/e50d0d4e372bd4921d93854f70ee4b952a049345",
+    "created_at": "2026-01-07T03:50:26.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA2NTQ1MDM0NzoxM2YzYWJmNmY3MjQ2NTMwNGY4NzIyYzc1ZjY0NWJhYmI1MjMyNmFk",
     "type": "commits",
     "title": "released v1.6.0",
@@ -2230,7 +2241,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "409"
+    "stars": "410"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
