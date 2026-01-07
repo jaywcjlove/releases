@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTEyNjg5NjA0MDoyMDNmMTBhZTBjN2E4MGViNDkwOTcyYTYxZGMxYzY1Y2MzY2Y2MTQ2",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/screen-test",
+    "sha": "203f10ae0c7a80eb490972a61dc1c65cc3cf6146",
+    "url": "https://github.com/jaywcjlove/screen-test/commit/203f10ae0c7a80eb490972a61dc1c65cc3cf6146",
+    "created_at": "2026-01-07T19:54:49.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmU1MGQwZDRlMzcyYmQ0OTIxZDkzODU0ZjcwZWU0Yjk1MmEwNDkzNDU=",
     "type": "commits",
     "title": "released v2.2.0",
@@ -53,17 +64,6 @@
     "created_at": "2026-01-05T11:31:26.000+08:00",
     "state": "committer",
     "version": "1.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTEyNDk1OTg0MzpmOTBmYzIzYTZmY2UwNWMwNDYwYzkyMmVjNjJkNDFkNmFmNGI5Mzk2",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/ScreenTestApp",
-    "sha": "f90fc23a6fce05c0460c922ec62d41d6af4b9396",
-    "url": "https://github.com/jaywcjlove/ScreenTestApp/commit/f90fc23a6fce05c0460c922ec62d41d6af4b9396",
-    "created_at": "2026-01-03T22:24:38.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
   },
   {
     "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OjJkZjU5ZmFkMGNiZjU4MDFmMWNhZmRkNTUwMGFlNTNiNTMwODMwOTc=",
