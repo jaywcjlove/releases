@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 08 Jan 2026 05:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 17:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.17.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/085426f02826a2096f9b22c56979ff1d7f57baf8</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjA4NTQyNmYwMjgyNmEyMDk2ZjliMjJjNTY5NzlmZjFkN2Y1N2JhZjg=</guid>
+            <pubDate>Thu, 08 Jan 2026 06:09:00 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/085426f02826a2096f9b22c56979ff1d7f57baf8">released v2.17.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/screen-test released v1.0.0]]></title>
             <link>https://github.com/jaywcjlove/screen-test/commit/203f10ae0c7a80eb490972a61dc1c65cc3cf6146</link>
