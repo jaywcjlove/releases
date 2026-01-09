@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 09 Jan 2026 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 17:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/keyzer released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/keyzer/commit/ca11768c0df006639c65b5a96334292cdbcc7d50</link>
+            <guid>MDY6Q29tbWl0MTA4NjU2ODg2NTpjYTExNzY4YzBkZjAwNjYzOWM2NWI1YTk2MzM0MjkyY2RiY2M3ZDUw</guid>
+            <pubDate>Fri, 09 Jan 2026 15:02:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/keyzer/commit/ca11768c0df006639c65b5a96334292cdbcc7d50">released v1.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/TextSoundSaver released v3.2.0]]></title>
+            <link>https://github.com/jaywcjlove/TextSoundSaver/commit/3ae374e66d6e5590719107e7c4e82b2b875b621b</link>
+            <guid>MDY6Q29tbWl0NzY0MjYyMjg4OjNhZTM3NGU2NmQ2ZTU1OTA3MTkxMDdlN2M0ZTgyYjJiODc1YjYyMWI=</guid>
+            <pubDate>Fri, 09 Jan 2026 09:01:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/TextSoundSaver/commit/3ae374e66d6e5590719107e7c4e82b2b875b621b">released v3.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v3.3.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/8a317f12e2d4969785cc40cb961a1ee783c5a9e3</link>
@@ -1784,14 +1800,6 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/8be4cc9a741cf7130d4f9a0f259138c49a40e635</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjhiZTRjYzlhNzQxY2Y3MTMwZDRmOWEwZjI1OTEzOGM0OWE0MGU2MzU=</guid>
-            <pubDate>Sat, 07 Jun 2025 23:01:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/8be4cc9a741cf7130d4f9a0f259138c49a40e635">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/mousio released v1.6.0]]></title>
             <link>https://github.com/jaywcjlove/mousio/commit/3baac924a6f2a83da91d0010185d03379f76e996</link>
             <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjNiYWFjOTI0YTZmMmE4M2RhOTFkMDAxMDE4NWQwMzM3OWY3NmU5OTY=</guid>
@@ -1805,14 +1813,6 @@
             <guid>MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=</guid>
             <pubDate>Mon, 02 Jun 2025 04:42:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/swiftui-markdown/commit/26e8f0e6884c11a7364ade585c40442ed69c94d6">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.10.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/4393137fde19bbf639c2400b1729a4aeedc9df33</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OjQzOTMxMzdmZGUxOWJiZjYzOWMyNDAwYjE3MjlhNGFlZWRjOWRmMzM=</guid>
-            <pubDate>Tue, 27 May 2025 04:23:26 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/4393137fde19bbf639c2400b1729a4aeedc9df33">released v1.10.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
