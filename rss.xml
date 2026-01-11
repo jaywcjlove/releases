@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 11 Jan 2026 05:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 17:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/devtutor released vv1.33.0]]></title>
+            <link>https://github.com/jaywcjlove/devtutor/commit/912223d8fe899f1e25e680f5182127f6bc1cc413</link>
+            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OjkxMjIyM2Q4ZmU4OTlmMWUyNWU2ODBmNTE4MjEyN2Y2YmMxY2M0MTM=</guid>
+            <pubDate>Sun, 11 Jan 2026 16:22:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/912223d8fe899f1e25e680f5182127f6bc1cc413">released vv1.33.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.13.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/741fa6c7f6e8e5d5837573dc2b0535c6e0338d18</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjc0MWZhNmM3ZjZlOGU1ZDU4Mzc1NzNkYzJiMDUzNWM2ZTAzMzhkMTg=</guid>
+            <pubDate>Sun, 11 Jan 2026 15:01:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/741fa6c7f6e8e5d5837573dc2b0535c6e0338d18">released v1.13.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/keyzer released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/keyzer/commit/ca11768c0df006639c65b5a96334292cdbcc7d50</link>
@@ -1805,14 +1821,6 @@
             <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjNiYWFjOTI0YTZmMmE4M2RhOTFkMDAxMDE4NWQwMzM3OWY3NmU5OTY=</guid>
             <pubDate>Sat, 07 Jun 2025 16:15:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/3baac924a6f2a83da91d0010185d03379f76e996">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/swiftui-markdown released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/swiftui-markdown/commit/26e8f0e6884c11a7364ade585c40442ed69c94d6</link>
-            <guid>MDY6Q29tbWl0NDY4NDM2MTE0OjI2ZThmMGU2ODg0YzExYTczNjRhZGU1ODVjNDA0NDJlZDY5Yzk0ZDY=</guid>
-            <pubDate>Mon, 02 Jun 2025 04:42:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/swiftui-markdown/commit/26e8f0e6884c11a7364ade585c40442ed69c94d6">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
