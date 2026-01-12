@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjg5MjQ0N2ViZjllM2ZjNTdlZTViMWZmM2I5MThlMTRhYzRhM2JiOGE=",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/videoer",
+    "sha": "892447ebf9e3fc57ee5b1ff3b918e14ac4a3bb8a",
+    "url": "https://github.com/jaywcjlove/videoer/commit/892447ebf9e3fc57ee5b1ff3b918e14ac4a3bb8a",
+    "created_at": "2026-01-13T00:03:07.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OjkxMjIyM2Q4ZmU4OTlmMWUyNWU2ODBmNTE4MjEyN2Y2YmMxY2M0MTM=",
     "type": "commits",
     "title": "released vv1.33.0",
