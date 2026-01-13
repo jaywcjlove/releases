@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTczMzQxMDA3OjVmZjMzMGZjMDk5M2I0NmEwNDkxN2IwMDMxYjMwNjcxMDBkYjBiN2Q=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/audioer",
+    "sha": "5ff330fc0993b46a04917b0031b3067100db0b7d",
+    "url": "https://github.com/jaywcjlove/audioer/commit/5ff330fc0993b46a04917b0031b3067100db0b7d",
+    "created_at": "2026-01-13T19:16:29.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjg5MjQ0N2ViZjllM2ZjNTdlZTViMWZmM2I5MThlMTRhYzRhM2JiOGE=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2464,17 +2475,6 @@
     "version": "4.23.13"
   },
   {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6MTk0YjkzY2NiMzkxOGRiZWFjZGVhMjJmYTUwYzc2OTUzZmYxNmQ0Mg==",
-    "type": "commits",
-    "title": "released v3.13.11 #514",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "194b93ccb3918dbeacdea22fa50c76953ff16d42",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/194b93ccb3918dbeacdea22fa50c76953ff16d42",
-    "created_at": "2025-06-10T15:02:24.000+08:00",
-    "state": "committer",
-    "version": "3.13.11"
-  },
-  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjllM2YyYjE1NTA4N2I5ODQ2OWViMzk3NTkzMTg2NWU3MDYzZjEyOWY=",
     "type": "commits",
     "title": "released v1.10.1",
@@ -2813,7 +2813,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "431"
+    "stars": "432"
   },
   {
     "id": 660217683,
