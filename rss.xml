@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 17 Jan 2026 05:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 17:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v3.4.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/d7d136b0a34aca65aba2d74bc9b82c5faab4916f</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmQ3ZDEzNmIwYTM0YWNhNjVhYmEyZDc0YmM5YjgyYzVmYWFiNDkxNmY=</guid>
+            <pubDate>Sat, 17 Jan 2026 13:04:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/d7d136b0a34aca65aba2d74bc9b82c5faab4916f">released v3.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/audioer released v2.2.0]]></title>
             <link>https://github.com/jaywcjlove/audioer/commit/5ff330fc0993b46a04917b0031b3067100db0b7d</link>
