@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ3NjAyNzAxOjQxYWIzYjM1ZDEwM2JjZTFhNDM1YTg0NjM2ZTQ5NTE3Njc4Y2YwZDA=",
+    "type": "commits",
+    "title": "released v1.0.20",
+    "repo": "uiwjs/copy-to-clipboard",
+    "sha": "41ab3b35d103bce1a435a84636e49517678cf0d0",
+    "url": "https://github.com/uiwjs/copy-to-clipboard/commit/41ab3b35d103bce1a435a84636e49517678cf0d0",
+    "created_at": "2026-01-24T14:10:44.000+08:00",
+    "state": "committer",
+    "version": "1.0.20"
+  },
+  {
     "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTo3ZjEyZmE4NjE2ZGQxOThlYzc4ZTg3MDIxZDk2NDBlMzcwODFkZTY5",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2495,17 +2506,6 @@
     "created_at": "2025-06-16T17:03:57.000+08:00",
     "state": "committer",
     "version": "3.13.12"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmE0Nzk2MmU1MGM5MWY0ZWJhYTg4YTZmMzRkNzcxNWQ4NjI1ZGI3MDE=",
-    "type": "commits",
-    "title": "released v2.17.1",
-    "repo": "jaywcjlove/free-font",
-    "sha": "a47962e50c91f4ebaa88a6f34d7715d8625db701",
-    "url": "https://github.com/jaywcjlove/free-font/commit/a47962e50c91f4ebaa88a6f34d7715d8625db701",
-    "created_at": "2025-06-15T11:06:30.000+08:00",
-    "state": "committer",
-    "version": "2.17.1"
   },
   {
     "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDpiMmMyNWQxMTJjMjAyZDU4ZWI4YzU0ZjNjOTdmNTUyNDBiN2E2NmU0",
