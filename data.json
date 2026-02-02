@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmZiYWIwM2ZmMjgyMzFjZmUxMmMxZTZhMzg1NTY1YWYxMThkMjZkNWE=",
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmY3MmU3NzllZWNkZGVkNzkzYzNjYzgxZjU1ZWM1ZDhiZmFjNjc2ZTQ=",
     "type": "commits",
-    "title": "released v2.9.3 #196",
+    "title": "released v2.9.4 #198",
     "repo": "uiwjs/react-color",
-    "sha": "fbab03ff28231cfe12c1e6a385565af118d26d5a",
-    "url": "https://github.com/uiwjs/react-color/commit/fbab03ff28231cfe12c1e6a385565af118d26d5a",
-    "created_at": "2026-01-29T16:53:00.000+08:00",
+    "sha": "f72e779eecdded793c3cc81f55ec5d8bfac676e4",
+    "url": "https://github.com/uiwjs/react-color/commit/f72e779eecdded793c3cc81f55ec5d8bfac676e4",
+    "created_at": "2026-02-02T02:09:05.000+08:00",
     "state": "committer",
-    "version": "2.9.3"
+    "version": "2.9.4"
   },
   {
     "id": "MDY6Q29tbWl0MTQ3NjAyNzAxOjQxYWIzYjM1ZDEwM2JjZTFhNDM1YTg0NjM2ZTQ5NTE3Njc4Y2YwZDA=",
@@ -2571,7 +2571,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "394"
+    "stars": "395"
   },
   {
     "id": 1838600360,

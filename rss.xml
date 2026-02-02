@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 01 Feb 2026 17:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 05:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[uiwjs/react-color released v2.9.3 #196]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/fbab03ff28231cfe12c1e6a385565af118d26d5a</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmZiYWIwM2ZmMjgyMzFjZmUxMmMxZTZhMzg1NTY1YWYxMThkMjZkNWE=</guid>
-            <pubDate>Thu, 29 Jan 2026 08:53:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/fbab03ff28231cfe12c1e6a385565af118d26d5a">released v2.9.3 #196</a>]]></description>
+            <title><![CDATA[uiwjs/react-color released v2.9.4 #198]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/f72e779eecdded793c3cc81f55ec5d8bfac676e4</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmY3MmU3NzllZWNkZGVkNzkzYzNjYzgxZjU1ZWM1ZDhiZmFjNjc2ZTQ=</guid>
+            <pubDate>Sun, 01 Feb 2026 18:09:05 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/f72e779eecdded793c3cc81f55ec5d8bfac676e4">released v2.9.4 #198</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
