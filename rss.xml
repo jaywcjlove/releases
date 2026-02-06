@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 05 Feb 2026 17:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 05:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-signature released v1.3.4 #9]]></title>
+            <link>https://github.com/uiwjs/react-signature/commit/e51ddbd1b3f19d9ca68f44175014ea7387081d7a</link>
+            <guid>MDY6Q29tbWl0NzIyNjczOTkxOmU1MWRkYmQxYjNmMTlkOWNhNjhmNDQxNzUwMTRlYTczODcwODFkN2E=</guid>
+            <pubDate>Thu, 05 Feb 2026 19:23:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-signature/commit/e51ddbd1b3f19d9ca68f44175014ea7387081d7a">released v1.3.4 #9</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/markdown-to-html-cli released v5.0.4]]></title>
             <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/cff9330af4ca8048b197a76d9eb1db189c2a7cee</link>
@@ -1873,14 +1881,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjBhNDkxMmE0ZGIwMzM4MzIzMjUwMGM5NzgxMGNkNzI4MjJiYjBmZTM=</guid>
             <pubDate>Mon, 16 Jun 2025 13:46:11 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/0a4912a4db03383232500c97810cd72822bb0fe3">released v1.6.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.12 #515]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/99adbb20b5c1d9780d6e0625de4d9c39c620a8e9</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6OTlhZGJiMjBiNWMxZDk3ODBkNmUwNjI1ZGU0ZDljMzljNjIwYThlOQ==</guid>
-            <pubDate>Mon, 16 Jun 2025 09:03:57 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/99adbb20b5c1d9780d6e0625de4d9c39c620a8e9">released v3.13.12 #515</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

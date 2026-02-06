@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzIyNjczOTkxOmU1MWRkYmQxYjNmMTlkOWNhNjhmNDQxNzUwMTRlYTczODcwODFkN2E=",
+    "type": "commits",
+    "title": "released v1.3.4 #9",
+    "repo": "uiwjs/react-signature",
+    "sha": "e51ddbd1b3f19d9ca68f44175014ea7387081d7a",
+    "url": "https://github.com/uiwjs/react-signature/commit/e51ddbd1b3f19d9ca68f44175014ea7387081d7a",
+    "created_at": "2026-02-06T03:23:04.000+08:00",
+    "state": "committer",
+    "version": "1.3.4"
+  },
+  {
     "id": "MDY6Q29tbWl0NDA5NjY3NzEzOmNmZjkzMzBhZjRjYTgwNDhiMTk3YTc2ZDllYjFkYjE4OWMyYTdjZWU=",
     "type": "commits",
     "title": "released v5.0.4",
@@ -2439,7 +2450,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "415"
+    "stars": "416"
   },
   {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=",
@@ -2550,17 +2561,6 @@
     "created_at": "2025-06-16T21:46:11.000+08:00",
     "state": "committer",
     "version": "1.6.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6OTlhZGJiMjBiNWMxZDk3ODBkNmUwNjI1ZGU0ZDljMzljNjIwYThlOQ==",
-    "type": "commits",
-    "title": "released v3.13.12 #515",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "99adbb20b5c1d9780d6e0625de4d9c39c620a8e9",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/99adbb20b5c1d9780d6e0625de4d9c39c620a8e9",
-    "created_at": "2025-06-16T17:03:57.000+08:00",
-    "state": "committer",
-    "version": "3.13.12"
   },
   {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjllM2YyYjE1NTA4N2I5ODQ2OWViMzk3NTkzMTg2NWU3MDYzZjEyOWY=",
