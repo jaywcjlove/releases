@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 10 Feb 2026 05:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 17:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-split released v5.9.4  (#159)]]></title>
+            <link>https://github.com/uiwjs/react-split/commit/f96392e215950f40b86d28db85ea35d800368b7a</link>
+            <guid>MDY6Q29tbWl0MjU1ODI4Mjg4OmY5NjM5MmUyMTU5NTBmNDBiODZkMjhkYjg1ZWEzNWQ4MDAzNjhiN2E=</guid>
+            <pubDate>Tue, 10 Feb 2026 11:56:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-split/commit/f96392e215950f40b86d28db85ea35d800368b7a">released v5.9.4  (#159)</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.9.5 #199]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/b6b75db5993c6062660fc20d139ca62df04640d4</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmI2Yjc1ZGI1OTkzYzYwNjI2NjBmYzIwZDEzOWNhNjJkZjA0NjQwZDQ=</guid>
+            <pubDate>Tue, 10 Feb 2026 08:41:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/b6b75db5993c6062660fc20d139ca62df04640d4">released v2.9.5 #199</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-signature released v1.3.4 #9]]></title>
             <link>https://github.com/uiwjs/react-signature/commit/e51ddbd1b3f19d9ca68f44175014ea7387081d7a</link>
@@ -1873,14 +1889,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmNlMDNlZDhiZGNlOTZlMTRkM2IzNDg1NmJkNzg1ZTM2NmQ5M2NkMGI=</guid>
             <pubDate>Mon, 16 Jun 2025 16:42:57 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/ce03ed8bdce96e14d3b34856bd785e366d93cd0b">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/0a4912a4db03383232500c97810cd72822bb0fe3</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjBhNDkxMmE0ZGIwMzM4MzIzMjUwMGM5NzgxMGNkNzI4MjJiYjBmZTM=</guid>
-            <pubDate>Mon, 16 Jun 2025 13:46:11 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/0a4912a4db03383232500c97810cd72822bb0fe3">released v1.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
