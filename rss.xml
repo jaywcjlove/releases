@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 10 Feb 2026 17:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 05:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/free-font released v2.26.0]]></title>
+            <link>https://github.com/jaywcjlove/free-font/commit/d43c47921b02fc16743df5712294e2f691e2a7f5</link>
+            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OmQ0M2M0NzkyMWIwMmZjMTY3NDNkZjU3MTIyOTRlMmY2OTFlMmE3ZjU=</guid>
+            <pubDate>Tue, 10 Feb 2026 18:36:35 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/d43c47921b02fc16743df5712294e2f691e2a7f5">released v2.26.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-split released v5.9.4  (#159)]]></title>
             <link>https://github.com/uiwjs/react-split/commit/f96392e215950f40b86d28db85ea35d800368b7a</link>
@@ -1865,14 +1873,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTY3NDkyNDM0OmEyZjMzZDg4ZWJhYThjZDNiM2UxN2Q3OGNmMDdhZmY5Y2E5YmM0ZjM=</guid>
             <pubDate>Tue, 17 Jun 2025 09:09:11 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/a2f33d88ebaa8cd3b3e17d78cf07aff9ca9bc4f3">released v1.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/7d2e8399b314e316a0e75fc64d8cd6324402169b</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjdkMmU4Mzk5YjMxNGUzMTZhMGU3NWZjNjRkOGNkNjMyNDQwMjE2OWI=</guid>
-            <pubDate>Tue, 17 Jun 2025 06:49:43 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/7d2e8399b314e316a0e75fc64d8cd6324402169b">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

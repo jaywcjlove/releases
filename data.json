@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmQ0M2M0NzkyMWIwMmZjMTY3NDNkZjU3MTIyOTRlMmY2OTFlMmE3ZjU=",
+    "type": "commits",
+    "title": "released v2.26.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "d43c47921b02fc16743df5712294e2f691e2a7f5",
+    "url": "https://github.com/jaywcjlove/free-font/commit/d43c47921b02fc16743df5712294e2f691e2a7f5",
+    "created_at": "2026-02-11T02:36:35.000+08:00",
+    "state": "committer",
+    "version": "2.26.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MjU1ODI4Mjg4OmY5NjM5MmUyMTU5NTBmNDBiODZkMjhkYjg1ZWEzNWQ4MDAzNjhiN2E=",
     "type": "commits",
     "title": "released v5.9.4  (#159)",
@@ -2539,17 +2550,6 @@
     "created_at": "2025-06-17T17:09:11.000+08:00",
     "state": "committer",
     "version": "1.5.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjdkMmU4Mzk5YjMxNGUzMTZhMGU3NWZjNjRkOGNkNjMyNDQwMjE2OWI=",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "7d2e8399b314e316a0e75fc64d8cd6324402169b",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/7d2e8399b314e316a0e75fc64d8cd6324402169b",
-    "created_at": "2025-06-17T14:49:43.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
   },
   {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6MzZlYWVkMjA3ZTIzMDQ1MDkwNzg5NDlhOWU0NzQyYTUxZmY1MTE1OQ==",
