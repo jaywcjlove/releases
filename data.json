@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6OWE2YWU1NzlmZTNlOGZhYjVlMmFhNjlkMjMxOWQ4YmNmMTI2NDFhMA==",
+    "type": "commits",
+    "title": "released v4.0.1 #521",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "9a6ae579fe3e8fab5e2aa69d2319d8bcf12641a0",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/9a6ae579fe3e8fab5e2aa69d2319d8bcf12641a0",
+    "created_at": "2026-02-24T05:50:23.000+08:00",
+    "state": "committer",
+    "version": "4.0.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpmOGFhNWZhMzMzMWYyOTE0NjA5OWFiZDY3YmViZmFlMmYzZjUyYWU1",
     "type": "commits",
     "title": "released v1.0.0",
@@ -2659,7 +2670,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "360"
+    "stars": "361"
   },
   {
     "id": 1194561099,

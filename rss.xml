@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 23 Feb 2026 17:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 05:49:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.1 #521]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/9a6ae579fe3e8fab5e2aa69d2319d8bcf12641a0</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6OWE2YWU1NzlmZTNlOGZhYjVlMmFhNjlkMjMxOWQ4YmNmMTI2NDFhMA==</guid>
+            <pubDate>Mon, 23 Feb 2026 21:50:23 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/9a6ae579fe3e8fab5e2aa69d2319d8bcf12641a0">released v4.0.1 #521</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/scap released v1.0.0]]></title>
             <link>https://github.com/jaywcjlove/scap/commit/f8aa5fa3331f29146099abd67bebfae2f3f52ae5</link>
