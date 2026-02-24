@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUxZjY3YzQyNjRmNWFkNGQzYTY0OTgzYjZlZjhkY2VmOWVlOGU4MDE=",
+    "type": "commits",
+    "title": "released v4.25.5 #758",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "e1f67c4264f5ad4d3a64983b6ef8dcef9ee8e801",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/e1f67c4264f5ad4d3a64983b6ef8dcef9ee8e801",
+    "created_at": "2026-02-24T19:48:41.000+08:00",
+    "state": "committer",
+    "version": "4.25.5"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6OWE2YWU1NzlmZTNlOGZhYjVlMmFhNjlkMjMxOWQ4YmNmMTI2NDFhMA==",
     "type": "commits",
     "title": "released v4.0.1 #521",
@@ -2583,17 +2594,6 @@
     "created_at": "2025-06-17T00:42:57.000+08:00",
     "state": "committer",
     "version": "1.7.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjllM2YyYjE1NTA4N2I5ODQ2OWViMzk3NTkzMTg2NWU3MDYzZjEyOWY=",
-    "type": "commits",
-    "title": "released v1.10.1",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "9e3f2b155087b98469eb3975931865e7063f129f",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/9e3f2b155087b98469eb3975931865e7063f129f",
-    "created_at": "2025-06-09T23:17:20.000+08:00",
-    "state": "committer",
-    "version": "1.10.1"
   },
   {
     "id": 2526870275,
