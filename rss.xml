@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 25 Feb 2026 05:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 17:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.2 #524]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/866282e019ea29b1e191d4360b910ce33c652418</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ODY2MjgyZTAxOWVhMjliMWUxOTFkNDM2MGI5MTBjZTMzYzY1MjQxOA==</guid>
+            <pubDate>Wed, 25 Feb 2026 09:27:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/866282e019ea29b1e191d4360b910ce33c652418">released v4.0.2 #524</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-codemirror released v4.25.5 #758]]></title>
             <link>https://github.com/uiwjs/react-codemirror/commit/e1f67c4264f5ad4d3a64983b6ef8dcef9ee8e801</link>
@@ -1882,14 +1890,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Wed, 18 Jun 2025 17:03:37 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/1018b2e49c2dc0b1e8f7d4f8e8881f880a58f07a">released v2.6.0 #182</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mousio-hint released v1.5.2]]></title>
-            <link>https://github.com/jaywcjlove/mousio-hint/commit/cee91115b736012b5823ebe48d4fa77c63983e7d</link>
-            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDpjZWU5MTExNWI3MzYwMTJiNTgyM2ViZTQ4ZDRmYTc3YzYzOTgzZTdk</guid>
-            <pubDate>Tue, 17 Jun 2025 16:15:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/cee91115b736012b5823ebe48d4fa77c63983e7d">released v1.5.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.14]]></title>

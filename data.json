@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ODY2MjgyZTAxOWVhMjliMWUxOTFkNDM2MGI5MTBjZTMzYzY1MjQxOA==",
+    "type": "commits",
+    "title": "released v4.0.2 #524",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "866282e019ea29b1e191d4360b910ce33c652418",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/866282e019ea29b1e191d4360b910ce33c652418",
+    "created_at": "2026-02-25T17:27:13.000+08:00",
+    "state": "committer",
+    "version": "4.0.2"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUxZjY3YzQyNjRmNWFkNGQzYTY0OTgzYjZlZjhkY2VmOWVlOGU4MDE=",
     "type": "commits",
     "title": "released v4.25.5 #758",
@@ -2561,17 +2572,6 @@
     "created_at": "2025-06-19T01:03:37.000+08:00",
     "state": "committer",
     "version": "2.6.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDpjZWU5MTExNWI3MzYwMTJiNTgyM2ViZTQ4ZDRmYTc3YzYzOTgzZTdk",
-    "type": "commits",
-    "title": "released v1.5.2",
-    "repo": "jaywcjlove/mousio-hint",
-    "sha": "cee91115b736012b5823ebe48d4fa77c63983e7d",
-    "url": "https://github.com/jaywcjlove/mousio-hint/commit/cee91115b736012b5823ebe48d4fa77c63983e7d",
-    "created_at": "2025-06-18T00:15:55.000+08:00",
-    "state": "committer",
-    "version": "1.5.2"
   },
   {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6MzZlYWVkMjA3ZTIzMDQ1MDkwNzg5NDlhOWU0NzQyYTUxZmY1MTE1OQ==",
