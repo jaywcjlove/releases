@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 27 Feb 2026 05:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 17:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.1.1]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/7c0bac64319bd046f07046958a33a8c415c4181d</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDo3YzBiYWM2NDMxOWJkMDQ2ZjA3MDQ2OTU4YTMzYThjNDE1YzQxODFk</guid>
+            <pubDate>Fri, 27 Feb 2026 14:07:17 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/7c0bac64319bd046f07046958a33a8c415c4181d">released v1.1.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/app-i18n released v1.1.1]]></title>
+            <link>https://github.com/jaywcjlove/app-i18n/commit/1c7276c0f00838eed8fecc237ca60a5b075fd1e3</link>
+            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNToxYzcyNzZjMGYwMDgzOGVlZDhmZWNjMjM3Y2E2MGE1YjA3NWZkMWUz</guid>
+            <pubDate>Fri, 27 Feb 2026 13:54:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/1c7276c0f00838eed8fecc237ca60a5b075fd1e3">released v1.1.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/sgo-rs released v0.6.0]]></title>
             <link>https://github.com/jaywcjlove/sgo-rs/commit/84e96f760218a001452f7fd4fb6776fb83bcb6d6</link>
@@ -1876,35 +1892,11 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/e970a271e2e680a1e6a849535c4ac1ecce279d02</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOmU5NzBhMjcxZTJlNjgwYTFlNmE4NDk1MzVjNGFjMWVjY2UyNzlkMDI=</guid>
-            <pubDate>Thu, 19 Jun 2025 10:15:35 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/e970a271e2e680a1e6a849535c4ac1ecce279d02">released v1.8.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/iconed released v1.9.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/955e62092455fda96faff76f55216966956587af</link>
             <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjk1NWU2MjA5MjQ1NWZkYTk2ZmFmZjc2ZjU1MjE2OTY2OTU2NTg3YWY=</guid>
             <pubDate>Thu, 19 Jun 2025 08:07:11 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/955e62092455fda96faff76f55216966956587af">released v1.9.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.6.0 #182]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/1018b2e49c2dc0b1e8f7d4f8e8881f880a58f07a</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjEwMThiMmU0OWMyZGMwYjFlOGY3ZDRmOGU4ODgxZjg4MGE1OGYwN2E=</guid>
-            <pubDate>Wed, 18 Jun 2025 17:03:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/1018b2e49c2dc0b1e8f7d4f8e8881f880a58f07a">released v2.6.0 #182</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v3.13.14]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/36eaed207e2304509078949a9e4742a51ff51159</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6MzZlYWVkMjA3ZTIzMDQ1MDkwNzg5NDlhOWU0NzQyYTUxZmY1MTE1OQ==</guid>
-            <pubDate>Tue, 17 Jun 2025 06:30:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/36eaed207e2304509078949a9e4742a51ff51159">released v3.13.14</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
