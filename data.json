@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODM0MzYxMzIxOjg0ZTk2Zjc2MDIxOGEwMDE0NTJmN2ZkNGZiNjc3NmZiODNiY2I2ZDY=",
+    "type": "commits",
+    "title": "released v0.6.0",
+    "repo": "jaywcjlove/sgo-rs",
+    "sha": "84e96f760218a001452f7fd4fb6776fb83bcb6d6",
+    "url": "https://github.com/jaywcjlove/sgo-rs/commit/84e96f760218a001452f7fd4fb6776fb83bcb6d6",
+    "created_at": "2026-02-27T08:44:58.000+08:00",
+    "state": "committer",
+    "version": "0.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ODY2MjgyZTAxOWVhMjliMWUxOTFkNDM2MGI5MTBjZTMzYzY1MjQxOA==",
     "type": "commits",
     "title": "released v4.0.2 #524",
