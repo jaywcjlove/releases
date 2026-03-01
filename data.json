@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo0ZGNkNGFlYWFiMDI0ZjJiYzJjY2IyMGYwYjk4MGMyY2YwMDYwMWQz",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/app-i18n",
+    "sha": "4dcd4aeaab024f2bc2ccb20f0b980c2cf00601d3",
+    "url": "https://github.com/jaywcjlove/app-i18n/commit/4dcd4aeaab024f2bc2ccb20f0b980c2cf00601d3",
+    "created_at": "2026-03-01T10:39:29.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo3YzBiYWM2NDMxOWJkMDQ2ZjA3MDQ2OTU4YTMzYThjNDE1YzQxODFk",
     "type": "commits",
     "title": "released v1.1.1",
@@ -2583,17 +2594,6 @@
     "created_at": "2025-06-19T16:07:11.000+08:00",
     "state": "committer",
     "version": "1.9.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmNlMDNlZDhiZGNlOTZlMTRkM2IzNDg1NmJkNzg1ZTM2NmQ5M2NkMGI=",
-    "type": "commits",
-    "title": "released v1.7.0",
-    "repo": "jaywcjlove/mousio",
-    "sha": "ce03ed8bdce96e14d3b34856bd785e366d93cd0b",
-    "url": "https://github.com/jaywcjlove/mousio/commit/ce03ed8bdce96e14d3b34856bd785e366d93cd0b",
-    "created_at": "2025-06-17T00:42:57.000+08:00",
-    "state": "committer",
-    "version": "1.7.0"
   },
   {
     "id": 2526870275,
