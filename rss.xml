@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 04 Mar 2026 17:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 05:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,38 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/deskmark released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b</link>
+            <guid>MDY6Q29tbWl0MTEwNzgxNDE2NTplOWM3M2I2MWM5YWU3NzExN2Q1ODFjYjdhZGVmYTRhMDdjOWZiZjJi</guid>
+            <pubDate>Wed, 04 Mar 2026 22:57:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall-hub released v1.6.1]]></title>
+            <link>https://github.com/jaywcjlove/vidwall-hub/commit/6822732c137268aefbc2dc22ab7e736821f055ea</link>
+            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0Nzo2ODIyNzMyYzEzNzI2OGFlZmJjMmRjMjJhYjdlNzM2ODIxZjA1NWVh</guid>
+            <pubDate>Wed, 04 Mar 2026 22:24:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/6822732c137268aefbc2dc22ab7e736821f055ea">released v1.6.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/cookie.js released v2.1.4]]></title>
+            <link>https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9</link>
+            <guid>MDY6Q29tbWl0MjY5MDA4MDg6NjIzZjJiODhmOTFhMmZkNmI2YjIwYTM3ZTY0Mzc4MTUxNzRhMjdlOQ==</guid>
+            <pubDate>Wed, 04 Mar 2026 20:38:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9">released v2.1.4</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/store.js released v2.1.1]]></title>
+            <link>https://github.com/jaywcjlove/store.js/commit/5146232b387d7ec1334d0cd47b59ab6d8c1208bc</link>
+            <guid>MDY6Q29tbWl0MjY4MDE3NTc6NTE0NjIzMmIzODdkN2VjMTMzNGQwY2Q0N2I1OWFiNmQ4YzEyMDhiYw==</guid>
+            <pubDate>Wed, 04 Mar 2026 20:28:17 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/store.js/commit/5146232b387d7ec1334d0cd47b59ab6d8c1208bc">released v2.1.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-codemirror released v4.25.7 fix #761]]></title>
             <link>https://github.com/uiwjs/react-codemirror/commit/d61fc4f751540d2548e03293812beae94c9fe59d</link>
@@ -1860,35 +1892,11 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.17.2]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/47b0f868aba9d63216b12d00f6daa6123d6d5e86</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjQ3YjBmODY4YWJhOWQ2MzIxNmIxMmQwMGY2ZGFhNjEyM2Q2ZDVlODY=</guid>
-            <pubDate>Sat, 28 Jun 2025 13:02:31 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/47b0f868aba9d63216b12d00f6daa6123d6d5e86">released v2.17.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.10.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/3a24b526b396ba842b232aa5744108edb7e19906</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjNhMjRiNTI2YjM5NmJhODQyYjIzMmFhNTc0NDEwOGVkYjdlMTk5MDY=</guid>
-            <pubDate>Sat, 28 Jun 2025 02:23:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/3a24b526b396ba842b232aa5744108edb7e19906">released v1.10.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v3.0.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/8afff8f2d9b1273292f9c3de6ad7dce6096e41f1</link>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjhhZmZmOGYyZDliMTI3MzI5MmY5YzNkZTZhZDdkY2U2MDk2ZTQxZjE=</guid>
             <pubDate>Wed, 25 Jun 2025 06:36:17 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/8afff8f2d9b1273292f9c3de6ad7dce6096e41f1">released v3.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/59c7a0e5f3c89eafe49e4a6434dcd770b1563b3d</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo1OWM3YTBlNWYzYzg5ZWFmZTQ5ZTRhNjQzNGRjZDc3MGIxNTYzYjNk</guid>
-            <pubDate>Tue, 24 Jun 2025 18:45:42 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/59c7a0e5f3c89eafe49e4a6434dcd770b1563b3d">released v1.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1898,14 +1906,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Tue, 24 Jun 2025 13:25:02 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/homielab/mountmate/pull/6">feat: add Chinese localization.</a>]]></description>
             <enclosure url="https://github.com/homielab.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mousio released v1.9.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/4fdd6bb5b4e260fb4816d7a679e9329b39e6f195</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjRmZGQ2YmI1YjRlMjYwZmI0ODE2ZDdhNjc5ZTkzMjliMzllNmYxOTU=</guid>
-            <pubDate>Sat, 21 Jun 2025 20:17:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/4fdd6bb5b4e260fb4816d7a679e9329b39e6f195">released v1.9.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
