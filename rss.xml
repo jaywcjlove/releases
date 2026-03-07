@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 07 Mar 2026 05:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 17:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,18 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.9.6
+
+https://github.com/uiwjs/react-color/issues/139]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/f1996f7ab5a35739fdd90b5b98fd7cb76ee6507e</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmYxOTk2ZjdhYjVhMzU3MzlmZGQ5MGI1Yjk4ZmQ3Y2I3NmVlNjUwN2U=</guid>
+            <pubDate>Sat, 07 Mar 2026 06:52:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/f1996f7ab5a35739fdd90b5b98fd7cb76ee6507e">released v2.9.6
+
+https://github.com/uiwjs/react-color/issues/139</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/deskmark released v1.4.0]]></title>
             <link>https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b</link>
@@ -1889,14 +1901,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjRlOWU2YjYwYTk5NmNjNmVhYmNiYzVhMGMwMzk5ZDFkYzYyZmI3NDI=</guid>
             <pubDate>Sat, 28 Jun 2025 16:44:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/4e9e6b60a996cc6eabcbc5a0c0399d1dc62fb742">released v1.11.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v3.0.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/8afff8f2d9b1273292f9c3de6ad7dce6096e41f1</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjhhZmZmOGYyZDliMTI3MzI5MmY5YzNkZTZhZDdkY2U2MDk2ZTQxZjE=</guid>
-            <pubDate>Wed, 25 Jun 2025 06:36:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/8afff8f2d9b1273292f9c3de6ad7dce6096e41f1">released v3.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
