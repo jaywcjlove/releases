@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjM1MzkwNTU6YjQwYjMwMTViMGE3MDg3YmVlZDQ2ZWMwN2E1ODVmYzBlNWE5NzhjNA==",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/awesome-mac",
+    "sha": "b40b3015b0a7087beed46ec07a585fc0e5a978c4",
+    "url": "https://github.com/jaywcjlove/awesome-mac/commit/b40b3015b0a7087beed46ec07a585fc0e5a978c4",
+    "created_at": "2026-03-12T22:50:49.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjRkN2ZiZWJlYzBkZGM2NTE2Yjc3MDY5OTU1MzY2ODNmNDVhY2I3Yzg=",
     "type": "commits",
     "title": "released v4.25.8\n\nhttps://github.com/uiwjs/react-codemirror/pull/764\nhttps://github.com/uiwjs/react-codemirror/pull/763",
@@ -2637,7 +2648,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "400"
+    "stars": "402"
   },
   {
     "id": 1838600360,
