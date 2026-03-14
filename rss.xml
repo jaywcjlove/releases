@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Mar 2026 05:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 17:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-mac-keyboard released v1.1.7]]></title>
+            <link>https://github.com/uiwjs/react-mac-keyboard/commit/fc469833d874c3ed7b1d337c2c4b9a3ec19bb8e9</link>
+            <guid>MDY6Q29tbWl0MjYwMTc0NTIyOmZjNDY5ODMzZDg3NGMzZWQ3YjFkMzM3YzJjNGI5YTNlYzE5YmI4ZTk=</guid>
+            <pubDate>Sat, 14 Mar 2026 16:29:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-mac-keyboard/commit/fc469833d874c3ed7b1d337c2c4b9a3ec19bb8e9">released v1.1.7</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v2.1.0 #9 #10]]></title>
+            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170</link>
+            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOjE5YzUxMTYxYTNhOWZmOGY2ZDRlYzY0OTQzOWEyZTQ3NWYwZTgxNzA=</guid>
+            <pubDate>Sat, 14 Mar 2026 13:11:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170">released v2.1.0 #9 #10</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-csv-reader released v1.0.4]]></title>
+            <link>https://github.com/uiwjs/react-csv-reader/commit/06b113e11aa449e22bd8e138f2eeebd905632a6e</link>
+            <guid>MDY6Q29tbWl0NjYxNzg1ODkwOjA2YjExM2UxMWFhNDQ5ZTIyYmQ4ZTEzOGYyZWVlYmQ5MDU2MzJhNmU=</guid>
+            <pubDate>Sat, 14 Mar 2026 11:01:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-csv-reader/commit/06b113e11aa449e22bd8e138f2eeebd905632a6e">released v1.0.4</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/awesome-mac/commit/b40b3015b0a7087beed46ec07a585fc0e5a978c4</link>
@@ -1838,14 +1862,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.33 #59]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/74804a5dafe5caa73ce8baf3473aee8a4e071395</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1Ojc0ODA0YTVkYWZlNWNhYTczY2U4YmFmMzQ3M2FlZThhNGUwNzEzOTU=</guid>
-            <pubDate>Mon, 07 Jul 2025 13:05:28 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/74804a5dafe5caa73ce8baf3473aee8a4e071395">released v2.0.0-alpha.33 #59</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v3.1.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/0ba59ac43197117b5556ea83c88a65387978a177</link>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjBiYTU5YWM0MzE5NzExN2I1NTU2ZWE4M2M4OGE2NTM4Nzk3OGExNzc=</guid>
@@ -1886,27 +1902,11 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/86a8bfc5a5096541f82ca991864613832e67f81f</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo4NmE4YmZjNWE1MDk2NTQxZjgyY2E5OTE4NjQ2MTM4MzJlNjdmODFm</guid>
-            <pubDate>Tue, 01 Jul 2025 03:28:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/86a8bfc5a5096541f82ca991864613832e67f81f">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v3.0.1]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/17c303209f968687fa889c4a86e68e53451ed464</link>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjE3YzMwMzIwOWY5Njg2ODdmYTg4OWM0YTg2ZTY4ZTUzNDUxZWQ0NjQ=</guid>
             <pubDate>Mon, 30 Jun 2025 16:26:08 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/17c303209f968687fa889c4a86e68e53451ed464">released v3.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v1.8.1]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/9bd00416d2e830f7f232f12e497b4b0b5d25641a</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjliZDAwNDE2ZDJlODMwZjdmMjMyZjEyZTQ5N2I0YjBiNWQyNTY0MWE=</guid>
-            <pubDate>Mon, 30 Jun 2025 03:24:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/9bd00416d2e830f7f232f12e497b4b0b5d25641a">released v1.8.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
