@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=",
+    "type": "commits",
+    "title": "released v1.0.1",
+    "repo": "uiwjs/react-keywords",
+    "sha": "5601153de62b8ad6c8eacad651455494b354ef5d",
+    "url": "https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d",
+    "created_at": "2026-03-15T09:33:24.000+08:00",
+    "state": "committer",
+    "version": "1.0.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MjYwMTc0NTIyOmZjNDY5ODMzZDg3NGMzZWQ3YjFkMzM3YzJjNGI5YTNlYzE5YmI4ZTk=",
     "type": "commits",
     "title": "released v1.1.7",
@@ -2561,17 +2572,6 @@
     "created_at": "2025-07-01T22:14:27.000+08:00",
     "state": "committer",
     "version": "1.12.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDplMzkzMThlNmM0Y2JlODljMjk4YWVmY2Y0NmZiNzUyMGU5NThmNjUz",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/mousio-hint",
-    "sha": "e39318e6c4cbe89c298aefcf46fb7520e958f653",
-    "url": "https://github.com/jaywcjlove/mousio-hint/commit/e39318e6c4cbe89c298aefcf46fb7520e958f653",
-    "created_at": "2025-07-01T15:36:14.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjE3YzMwMzIwOWY5Njg2ODdmYTg4OWM0YTg2ZTY4ZTUzNDUxZWQ0NjQ=",

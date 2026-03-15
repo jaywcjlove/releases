@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Mar 2026 17:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 05:55:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-keywords released v1.0.1]]></title>
+            <link>https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d</link>
+            <guid>MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=</guid>
+            <pubDate>Sun, 15 Mar 2026 01:33:24 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d">released v1.0.1</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-mac-keyboard released v1.1.7]]></title>
             <link>https://github.com/uiwjs/react-mac-keyboard/commit/fc469833d874c3ed7b1d337c2c4b9a3ec19bb8e9</link>
@@ -1891,14 +1899,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmM2NWMwOTFmNmI5NmRhNTQ1MDRkNjAwZjkxN2ZiM2ZlNzU0MmIzMjE=</guid>
             <pubDate>Tue, 01 Jul 2025 14:14:27 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/c65c091f6b96da54504d600f917fb3fe7542b321">released v1.12.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mousio-hint released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio-hint/commit/e39318e6c4cbe89c298aefcf46fb7520e958f653</link>
-            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDplMzkzMThlNmM0Y2JlODljMjk4YWVmY2Y0NmZiNzUyMGU5NThmNjUz</guid>
-            <pubDate>Tue, 01 Jul 2025 07:36:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/e39318e6c4cbe89c298aefcf46fb7520e958f653">released v1.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
