@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjhlMTIyZmIxNmIyNGRiNWE3MTk3MjNmZWYxMjI3MzUzZmMxNGFkN2Q=",
+    "type": "commits",
+    "title": "released v4.1.3",
+    "repo": "jaywcjlove/rehype-attr",
+    "sha": "8e122fb16b24db5a719723fef1227353fc14ad7d",
+    "url": "https://github.com/jaywcjlove/rehype-attr/commit/8e122fb16b24db5a719723fef1227353fc14ad7d",
+    "created_at": "2026-03-16T09:09:45.000+08:00",
+    "state": "committer",
+    "version": "4.1.3"
+  },
+  {
     "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjFiNzRhNTNkOTE5OTViYTFiOTEwYTk5NzkwOGJkODZlYzQ4NjlmZWQ=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2131,7 +2142,7 @@
     "created_at": "2025-08-22T05:56:49Z",
     "state": "merged",
     "number": 17804,
-    "stars": "51.7K"
+    "stars": "51.8K"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=",
@@ -2552,17 +2563,6 @@
     "version": "1.14.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjJmNmJiODc0ZDAxOTM2ZDgzZWQ4Yjk5NzlkNWUwMDI0OWFhZDVlZWE=",
-    "type": "commits",
-    "title": "released v1.8.2",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "2f6bb874d01936d83ed8b9979d5e00249aad5eea",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/2f6bb874d01936d83ed8b9979d5e00249aad5eea",
-    "created_at": "2025-07-15T16:48:25.000+08:00",
-    "state": "committer",
-    "version": "1.8.2"
-  },
-  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk2ZDY5N2QyNjk2MjkzMmUyZjkzN2E2OWMxZjM0MTgzOTIzYWIwYjY=",
     "type": "commits",
     "title": "released v1.23.0",
@@ -2934,7 +2934,7 @@
     "created_at": "2020-08-15T00:52:46Z",
     "state": "merged",
     "number": 4,
-    "stars": "433"
+    "stars": "434"
   },
   {
     "id": 660217683,
