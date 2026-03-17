@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 17 Mar 2026 05:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 17:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/typenexus released v0.5.8]]></title>
+            <link>https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c</link>
+            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=</guid>
+            <pubDate>Tue, 17 Mar 2026 07:35:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c">released v0.5.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/local-ip-url released v1.0.11]]></title>
+            <link>https://github.com/jaywcjlove/local-ip-url/commit/764b0054a7521ceb52288c3f0c0387db190db1e2</link>
+            <guid>MDY6Q29tbWl0MTM4MTkyNDE4Ojc2NGIwMDU0YTc1MjFjZWI1MjI4OGMzZjBjMDM4N2RiMTkwZGIxZTI=</guid>
+            <pubDate>Tue, 17 Mar 2026 06:02:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/local-ip-url/commit/764b0054a7521ceb52288c3f0c0387db190db1e2">released v1.0.11</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/sgo-rs released v0.7.0]]></title>
             <link>https://github.com/jaywcjlove/sgo-rs/commit/bfb98d1145735d74a7877f7b2b79a1c904abfcd4</link>
@@ -1830,14 +1846,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v2.0.0 #8]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/48fe043f0f1bb2ae9fd93cd40235b2c606e55129</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOjQ4ZmUwNDNmMGYxYmIyYWU5ZmQ5M2NkNDAyMzViMmM2MDZlNTUxMjk=</guid>
-            <pubDate>Fri, 25 Jul 2025 06:58:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/48fe043f0f1bb2ae9fd93cd40235b2c606e55129">released v2.0.0 #8</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.9]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/29ac8e50b7dd5917feb06e5d7e5d8cbfa2763683</link>
             <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjI5YWM4ZTUwYjdkZDU5MTdmZWIwNmU1ZDdlNWQ4Y2JmYTI3NjM2ODM=</guid>
@@ -2182,12 +2190,12 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/willin.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[saturn-abhishek/awesome-github-profile-readme Add 小弟调调™'s profile.]]></title>
-            <link>https://github.com/saturn-abhishek/awesome-github-profile-readme/pull/93</link>
+            <title><![CDATA[abhisheknaiidu/awesome-github-profile-readme Add 小弟调调™'s profile.]]></title>
+            <link>https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/93</link>
             <guid>660217683</guid>
             <pubDate>Sat, 18 Jul 2020 15:40:05 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/saturn-abhishek/awesome-github-profile-readme/pull/93">Add 小弟调调™'s profile.</a>]]></description>
-            <enclosure url="https://github.com/saturn-abhishek.png" length="0" type="image/png"/>
+            <description><![CDATA[<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/93">Add 小弟调调™'s profile.</a>]]></description>
+            <enclosure url="https://github.com/abhisheknaiidu.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[forksss/awesome-react [pull] master from enaqx/awesome-react:master]]></title>
