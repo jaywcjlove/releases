@@ -1,5 +1,49 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
+    "type": "commits",
+    "title": "released v1.0.4",
+    "repo": "jaywcjlove/colors-named-hex",
+    "sha": "ce2d66887d3c2c4fe9e5b9bbcd61ba7605f6745e",
+    "url": "https://github.com/jaywcjlove/colors-named-hex/commit/ce2d66887d3c2c4fe9e5b9bbcd61ba7605f6745e",
+    "created_at": "2026-03-19T11:42:50.000+08:00",
+    "state": "committer",
+    "version": "1.0.4"
+  },
+  {
+    "id": "MDY6Q29tbWl0NTEyNDM5MjQyOmMxMzQyMjU0ZmVhN2Y4YzBkZDAxM2FlN2FkYTc3NmNmYTA5M2EzMDA=",
+    "type": "commits",
+    "title": "released v1.0.4",
+    "repo": "jaywcjlove/colors-named-decimal",
+    "sha": "c1342254fea7f8c0dd013ae7ada776cfa093a300",
+    "url": "https://github.com/jaywcjlove/colors-named-decimal/commit/c1342254fea7f8c0dd013ae7ada776cfa093a300",
+    "created_at": "2026-03-19T11:34:35.000+08:00",
+    "state": "committer",
+    "version": "1.0.4"
+  },
+  {
+    "id": "MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=",
+    "type": "commits",
+    "title": "released v1.0.5",
+    "repo": "jaywcjlove/colors-named",
+    "sha": "7abe70bfa4323da64ccd102891ef873df087ce65",
+    "url": "https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65",
+    "created_at": "2026-03-19T11:31:44.000+08:00",
+    "state": "committer",
+    "version": "1.0.5"
+  },
+  {
+    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjFmMzBkN2FiYTYwNmM4ZDcwMGFkMWFlN2U1ZmUwYmQwNWQ0NzMyOGQ=",
+    "type": "commits",
+    "title": "released v3.0.4",
+    "repo": "jaywcjlove/auto-config-loader",
+    "sha": "1f30d7aba606c8d700ad1ae7e5fe0bd05d47328d",
+    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/1f30d7aba606c8d700ad1ae7e5fe0bd05d47328d",
+    "created_at": "2026-03-19T11:02:41.000+08:00",
+    "state": "committer",
+    "version": "3.0.4"
+  },
+  {
     "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=",
     "type": "commits",
     "title": "released v0.5.8",
@@ -2616,28 +2660,6 @@
     "created_at": "2025-07-17T20:06:16.000+08:00",
     "state": "committer",
     "version": "1.14.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjNhMmE3Y2EyZDI2YjFhMTMzZTVmOGEwMmM3ZWNmZWViOTU3ZTAzM2Q=",
-    "type": "commits",
-    "title": "released v4.24.1",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "3a2a7ca2d26b1a133e5f8a02c7ecfeeb957e033d",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/3a2a7ca2d26b1a133e5f8a02c7ecfeeb957e033d",
-    "created_at": "2025-07-14T00:59:04.000+08:00",
-    "state": "committer",
-    "version": "4.24.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjQ1MWIyODM0ODU2YzYwNzFlMzA3YjkwNjc1ZTI2NTI0NGI1OTI1N2I=",
-    "type": "commits",
-    "title": "released v1.15.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "451b2834856c6071e307b90675e265244b59257b",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/451b2834856c6071e307b90675e265244b59257b",
-    "created_at": "2025-07-12T03:05:02.000+08:00",
-    "state": "committer",
-    "version": "1.15.0"
   },
   {
     "id": 3172005346,
