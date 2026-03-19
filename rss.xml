@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 19 Mar 2026 05:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 17:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,70 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Videoer]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1155</link>
+            <guid>4101342958</guid>
+            <pubDate>Thu, 19 Mar 2026 12:23:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1155">apps wall: add Videoer</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Audioer: Convert Audio Formats]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1153</link>
+            <guid>4101340977</guid>
+            <pubDate>Thu, 19 Mar 2026 12:23:17 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1153">apps wall: add Audioer: Convert Audio Formats</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add DevHub]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1152</link>
+            <guid>4101336030</guid>
+            <pubDate>Thu, 19 Mar 2026 12:22:15 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1152">apps wall: add DevHub</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Musicer: Simple music player]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1151</link>
+            <guid>4101325858</guid>
+            <pubDate>Thu, 19 Mar 2026 12:20:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1151">apps wall: add Musicer: Simple music player</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add DevTutor: Learn Swift, SwiftUl]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1150</link>
+            <guid>4101323235</guid>
+            <pubDate>Thu, 19 Mar 2026 12:19:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1150">apps wall: add DevTutor: Learn Swift, SwiftUl</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Quick RSS - RSS Reader]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1149</link>
+            <guid>4101318030</guid>
+            <pubDate>Thu, 19 Mar 2026 12:18:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1149">apps wall: add Quick RSS - RSS Reader</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Menuist: Right-Click & MenuBar]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1148</link>
+            <guid>4100966126</guid>
+            <pubDate>Thu, 19 Mar 2026 11:08:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1148">apps wall: add Menuist: Right-Click & MenuBar</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Scap: Screenshot & Markup Edit]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1147</link>
+            <guid>4100952563</guid>
+            <pubDate>Thu, 19 Mar 2026 11:06:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1147">apps wall: add Scap: Screenshot & Markup Edit</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/colors-named-hex released v1.0.4]]></title>
             <link>https://github.com/jaywcjlove/colors-named-hex/commit/ce2d66887d3c2c4fe9e5b9bbcd61ba7605f6745e</link>
@@ -2212,70 +2276,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Sat, 18 Jul 2020 15:40:05 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/93">Add 小弟调调™'s profile.</a>]]></description>
             <enclosure url="https://github.com/abhisheknaiidu.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[forksss/awesome-react [pull] master from enaqx/awesome-react:master]]></title>
-            <link>https://github.com/forksss/awesome-react/pull/1</link>
-            <guid>590022379</guid>
-            <pubDate>Mon, 30 Mar 2020 06:14:19 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/forksss/awesome-react/pull/1">[pull] master from enaqx/awesome-react:master</a>]]></description>
-            <enclosure url="https://github.com/forksss.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-markdown-editor Create LICENSE]]></title>
-            <link>https://github.com/uiwjs/react-markdown-editor/pull/7</link>
-            <guid>573664254</guid>
-            <pubDate>Mon, 02 Mar 2020 01:34:53 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-editor/pull/7">Create LICENSE</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jobbole/awesome-javascript-cn Add hotkeys.js]]></title>
-            <link>https://github.com/jobbole/awesome-javascript-cn/pull/34</link>
-            <guid>571407407</guid>
-            <pubDate>Wed, 26 Feb 2020 14:15:44 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jobbole/awesome-javascript-cn/pull/34">Add hotkeys.js</a>]]></description>
-            <enclosure url="https://github.com/jobbole.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[kktjs/kkt-next Create LICENSE]]></title>
-            <link>https://github.com/kktjs/kkt-next/pull/2</link>
-            <guid>551723572</guid>
-            <pubDate>Sat, 18 Jan 2020 05:17:13 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/kktjs/kkt-next/pull/2">Create LICENSE</a>]]></description>
-            <enclosure url="https://github.com/kktjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[tsbbjs/tsbb Update]]></title>
-            <link>https://github.com/tsbbjs/tsbb/pull/4</link>
-            <guid>530587378</guid>
-            <pubDate>Sat, 30 Nov 2019 14:45:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/tsbbjs/tsbb/pull/4">Update</a>]]></description>
-            <enclosure url="https://github.com/tsbbjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-baidu-map Create LICENSE]]></title>
-            <link>https://github.com/uiwjs/react-baidu-map/pull/2</link>
-            <guid>530406809</guid>
-            <pubDate>Fri, 29 Nov 2019 15:46:42 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-baidu-map/pull/2">Create LICENSE</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[rematch/rematch Modify the files field in package.json]]></title>
-            <link>https://github.com/rematch/rematch/pull/686</link>
-            <guid>501224283</guid>
-            <pubDate>Wed, 02 Oct 2019 01:23:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/rematch/rematch/pull/686">Modify the files field in package.json</a>]]></description>
-            <enclosure url="https://github.com/rematch.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[rematch/rematch fix: Support TypeScript & Upgrade devDependencies.]]></title>
-            <link>https://github.com/rematch/rematch/pull/683</link>
-            <guid>499275637</guid>
-            <pubDate>Fri, 27 Sep 2019 07:07:46 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/rematch/rematch/pull/683">fix: Support TypeScript & Upgrade devDependencies.</a>]]></description>
-            <enclosure url="https://github.com/rematch.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
