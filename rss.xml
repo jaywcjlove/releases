@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 23 Mar 2026 05:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 17:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,46 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add DayBar]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1205</link>
+            <guid>4121004782</guid>
+            <pubDate>Mon, 23 Mar 2026 13:43:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1205">apps wall: add DayBar</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add FocusCursor: Highlight &Markup]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1204</link>
+            <guid>4120997046</guid>
+            <pubDate>Mon, 23 Mar 2026 13:42:21 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1204">apps wall: add FocusCursor: Highlight &Markup</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add RegexMate]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1203</link>
+            <guid>4120957830</guid>
+            <pubDate>Mon, 23 Mar 2026 13:36:56 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1203">apps wall: add RegexMate</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add KeyClicker]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1202</link>
+            <guid>4120948338</guid>
+            <pubDate>Mon, 23 Mar 2026 13:35:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1202">apps wall: add KeyClicker</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Iconize Folder]]></title>
+            <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1201</link>
+            <guid>4120791922</guid>
+            <pubDate>Mon, 23 Mar 2026 13:14:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1201">apps wall: add Iconize Folder</a>]]></description>
+            <enclosure url="https://github.com/rudrankriyam.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[rudrankriyam/App-Store-Connect-CLI apps wall: add Videoer]]></title>
             <link>https://github.com/rudrankriyam/App-Store-Connect-CLI/pull/1155</link>
@@ -2244,38 +2284,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Sat, 12 Dec 2020 14:35:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/npm-unpkg/pull/20">Create LICENSE</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[forksss/awesome-github-profile-readme Update upstream.]]></title>
-            <link>https://github.com/forksss/awesome-github-profile-readme/pull/2</link>
-            <guid>682294618</guid>
-            <pubDate>Thu, 20 Aug 2020 02:08:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/forksss/awesome-github-profile-readme/pull/2">Update upstream.</a>]]></description>
-            <enclosure url="https://github.com/forksss.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[forksss/awesome-github-profile-readme Update upstream code.]]></title>
-            <link>https://github.com/forksss/awesome-github-profile-readme/pull/1</link>
-            <guid>682292256</guid>
-            <pubDate>Thu, 20 Aug 2020 02:01:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/forksss/awesome-github-profile-readme/pull/1">Update upstream code.</a>]]></description>
-            <enclosure url="https://github.com/forksss.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[willin/js.cool Add uiwjs.github.io]]></title>
-            <link>https://github.com/willin/js.cool/pull/4</link>
-            <guid>679468414</guid>
-            <pubDate>Sat, 15 Aug 2020 00:52:46 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/willin/js.cool/pull/4">Add uiwjs.github.io</a>]]></description>
-            <enclosure url="https://github.com/willin.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[abhisheknaiidu/awesome-github-profile-readme Add 小弟调调™'s profile.]]></title>
-            <link>https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/93</link>
-            <guid>660217683</guid>
-            <pubDate>Sat, 18 Jul 2020 15:40:05 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/93">Add 小弟调调™'s profile.</a>]]></description>
-            <enclosure url="https://github.com/abhisheknaiidu.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
