@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MjU2NzA0MjkxOjk0NTMxM2IyYTA4YWY3MjgyZDMxMjMzYzAzNzJkZjIxM2FjZmJjMDM=",
+    "type": "commits",
+    "title": "released v5.2.0 #291",
+    "repo": "uiwjs/react-markdown-preview",
+    "sha": "945313b2a08af7282d31233c0372df213acfbc03",
+    "url": "https://github.com/uiwjs/react-markdown-preview/commit/945313b2a08af7282d31233c0372df213acfbc03",
+    "created_at": "2026-03-28T22:35:51.000+08:00",
+    "state": "committer",
+    "version": "5.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTQyMTc0MzI2OjAyZGZiNzIxZWZiZTRkMTMwNzA2Mzg3NGEzYTJmZTg3MDk3YjMwMWU=",
     "type": "commits",
     "title": "released v3.3.8",
@@ -2761,17 +2772,6 @@
     "version": "1.8.1"
   },
   {
-    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmVkMjNlM2ViMzYxNWJmOTEyNDJlMjQ5NWQ3MDIwZGRjM2NmYzVhMzg=",
-    "type": "commits",
-    "title": "released v3.3.0",
-    "repo": "jaywcjlove/regex-mate",
-    "sha": "ed23e3eb3615bf91242e2495d7020ddc3cfc5a38",
-    "url": "https://github.com/jaywcjlove/regex-mate/commit/ed23e3eb3615bf91242e2495d7020ddc3cfc5a38",
-    "created_at": "2025-07-20T21:59:59.000+08:00",
-    "state": "committer",
-    "version": "3.3.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmQwMjdhNmJjNWVhOTk2NTE4NzMyMzk4ZDcwYzFhOTYyNDNhNWE0ZmY=",
     "type": "commits",
     "title": "released v1.11.0",
@@ -2781,17 +2781,6 @@
     "created_at": "2025-07-20T10:53:38.000+08:00",
     "state": "committer",
     "version": "1.11.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTk1NDI4MjY0Ojg1YmYyYmFiNDZkOWU4NTM3Yjk0MTVmODA2MDRhMjY0ZGU4MmNjN2I=",
-    "type": "commits",
-    "title": "released v1.16.0",
-    "repo": "jaywcjlove/mousio",
-    "sha": "85bf2bab46d9e8537b9415f80604a264de82cc7b",
-    "url": "https://github.com/jaywcjlove/mousio/commit/85bf2bab46d9e8537b9415f80604a264de82cc7b",
-    "created_at": "2025-07-20T00:34:06.000+08:00",
-    "state": "committer",
-    "version": "1.16.0"
   },
   {
     "id": 3172005346,
@@ -2934,7 +2923,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "238"
+    "stars": "239"
   },
   {
     "id": 1032707507,
