@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 28 Mar 2026 17:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 05:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.1.0 #704]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/a9e7a7f9df87df345032b8f7af3855d6b29011d2</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OmE5ZTdhN2Y5ZGY4N2RmMzQ1MDMyYjhmN2FmMzg1NWQ2YjI5MDExZDI=</guid>
+            <pubDate>Sun, 29 Mar 2026 04:16:24 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/a9e7a7f9df87df345032b8f7af3855d6b29011d2">released v4.1.0 #704</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-markdown-preview-example released v2.1.6]]></title>
+            <link>https://github.com/uiwjs/react-markdown-preview-example/commit/aff8bd91ee76c4884b1baa14679758ce0d99bd63</link>
+            <guid>MDY6Q29tbWl0NjY2NDgwOTUzOmFmZjhiZDkxZWU3NmM0ODg0YjFiYWExNDY3OTc1OGNlMGQ5OWJkNjM=</guid>
+            <pubDate>Sun, 29 Mar 2026 04:02:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview-example/commit/aff8bd91ee76c4884b1baa14679758ce0d99bd63">released v2.1.6</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-markdown-preview released v5.2.0 #291]]></title>
             <link>https://github.com/uiwjs/react-markdown-preview/commit/945313b2a08af7282d31233c0372df213acfbc03</link>
@@ -1958,14 +1974,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.34 #74]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/ad4dd2dd8128d9aac1b0810a36b6d27ab5d48827</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmFkNGRkMmRkODEyOGQ5YWFjMWIwODEwYTM2YjZkMjdhYjVkNDg4Mjc=</guid>
-            <pubDate>Thu, 31 Jul 2025 17:47:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/ad4dd2dd8128d9aac1b0810a36b6d27ab5d48827">released v2.0.0-alpha.34 #74</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/DevHub released v1.39.0]]></title>
             <link>https://github.com/jaywcjlove/DevHub/commit/cd1ab693772f449b0c2c539aae6f511cc627d6e0</link>
             <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmNkMWFiNjkzNzcyZjQ0OWIwYzJjNTM5YWFlNmY1MTFjYzYyN2Q2ZTA=</guid>
@@ -2003,14 +2011,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjgzNWRlY2YyODYyNDQyYWI4MWQ3MzQwZGZlZjY4N2Q5NWZmYWU4ZTU=</guid>
             <pubDate>Sun, 27 Jul 2025 16:15:12 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/835decf2862442ab81d7340dfef687d95ffae8e5">released v3.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.19.0]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/4aba549066d19ab0736d3310d3294c13e4d79e6d</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjRhYmE1NDkwNjZkMTlhYjA3MzZkMzMxMGQzMjk0YzEzZTRkNzllNmQ=</guid>
-            <pubDate>Sat, 26 Jul 2025 09:47:10 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/4aba549066d19ab0736d3310d3294c13e4d79e6d">released v2.19.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
