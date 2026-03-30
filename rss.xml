@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 30 Mar 2026 06:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 17:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/awesome-mac released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/awesome-mac/commit/cf291a7aa96f21f8d2afcf031fca80e867c15751</link>
+            <guid>MDY6Q29tbWl0NjM1MzkwNTU6Y2YyOTFhN2FhOTZmMjFmOGQyYWZjZjAzMWZjYTgwZTg2N2MxNTc1MQ==</guid>
+            <pubDate>Mon, 30 Mar 2026 16:51:52 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/cf291a7aa96f21f8d2afcf031fca80e867c15751">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-md-editor released v4.1.0 #704]]></title>
             <link>https://github.com/uiwjs/react-md-editor/commit/a9e7a7f9df87df345032b8f7af3855d6b29011d2</link>

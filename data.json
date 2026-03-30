@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjM1MzkwNTU6Y2YyOTFhN2FhOTZmMjFmOGQyYWZjZjAzMWZjYTgwZTg2N2MxNTc1MQ==",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/awesome-mac",
+    "sha": "cf291a7aa96f21f8d2afcf031fca80e867c15751",
+    "url": "https://github.com/jaywcjlove/awesome-mac/commit/cf291a7aa96f21f8d2afcf031fca80e867c15751",
+    "created_at": "2026-03-31T00:51:52.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmE5ZTdhN2Y5ZGY4N2RmMzQ1MDMyYjhmN2FmMzg1NWQ2YjI5MDExZDI=",
     "type": "commits",
     "title": "released v4.1.0 #704",
@@ -85,7 +96,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4120997046,
@@ -96,7 +107,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4120957830,
@@ -107,7 +118,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4120948338,
@@ -118,7 +129,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4120791922,
@@ -129,7 +140,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4101342958,
@@ -140,7 +151,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4101340977,
@@ -151,7 +162,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4101336030,
@@ -162,7 +173,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4101325858,
@@ -173,7 +184,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4101323235,
@@ -184,7 +195,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4101318030,
@@ -195,7 +206,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4100966126,
@@ -206,7 +217,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": 4100952563,
@@ -217,7 +228,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "3.4K"
+    "stars": "3.5K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2802,7 +2813,7 @@
     "created_at": "2024-09-15T11:31:13Z",
     "state": "merged",
     "number": 17,
-    "stars": "10"
+    "stars": "9"
   },
   {
     "id": 2188086718,
@@ -2824,7 +2835,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "403"
+    "stars": "404"
   },
   {
     "id": 1838600360,
