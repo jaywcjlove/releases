@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 31 Mar 2026 06:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 17:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/oscnews released v1.17.0]]></title>
+            <link>https://github.com/jaywcjlove/oscnews/commit/33fe1e20e2ce5fbe638149775f58d1aa189e0221</link>
+            <guid>MDY6Q29tbWl0MTE4NDA5NjAyOjMzZmUxZTIwZTJjZTVmYmU2MzgxNDk3NzVmNThkMWFhMTg5ZTAyMjE=</guid>
+            <pubDate>Tue, 31 Mar 2026 13:41:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/oscnews/commit/33fe1e20e2ce5fbe638149775f58d1aa189e0221">released v1.17.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac released v2.1.0]]></title>
             <link>https://github.com/jaywcjlove/awesome-mac/commit/cf291a7aa96f21f8d2afcf031fca80e867c15751</link>
@@ -2027,14 +2035,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjI5YWM4ZTUwYjdkZDU5MTdmZWIwNmU1ZDdlNWQ4Y2JmYTI3NjM2ODM=</guid>
             <pubDate>Wed, 23 Jul 2025 20:37:44 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/29ac8e50b7dd5917feb06e5d7e5d8cbfa2763683">released v7.1.9</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-baidu-map released v2.7.4 #340]]></title>
-            <link>https://github.com/uiwjs/react-baidu-map/commit/d553d8d5fbba6ed6f78a7eb1fb79ed4a499849db</link>
-            <guid>MDY6Q29tbWl0MjIyNDkyMTUxOmQ1NTNkOGQ1ZmJiYTZlZDZmNzhhN2ViMWZiNzllZDRhNDk5ODQ5ZGI=</guid>
-            <pubDate>Wed, 23 Jul 2025 20:20:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-baidu-map/commit/d553d8d5fbba6ed6f78a7eb1fb79ed4a499849db">released v2.7.4 #340</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
