@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 01 Apr 2026 06:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 17:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.3 fix #536]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/6a760ac867fd20c0f503c733a9513abd10715c8f</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NmE3NjBhYzg2N2ZkMjBjMGY1MDNjNzMzYTk1MTNhYmQxMDcxNWM4Zg==</guid>
+            <pubDate>Wed, 01 Apr 2026 10:02:33 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/6a760ac867fd20c0f503c733a9513abd10715c8f">released v4.0.3 fix #536</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/oscnews released v1.17.0]]></title>
             <link>https://github.com/jaywcjlove/oscnews/commit/33fe1e20e2ce5fbe638149775f58d1aa189e0221</link>
@@ -2051,14 +2059,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjU1NTEzODcwZDU3MjIzMTU3MGExODI2MjQxOGM2NzlkMDZkNjI4YmY=</guid>
             <pubDate>Mon, 21 Jul 2025 07:56:37 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/55513870d572231570a18262418c679d06d628bf">released v1.8.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v1.11.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/d027a6bc5ea996518732398d70c1a96243a5a4ff</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmQwMjdhNmJjNWVhOTk2NTE4NzMyMzk4ZDcwYzFhOTYyNDNhNWE0ZmY=</guid>
-            <pubDate>Sun, 20 Jul 2025 02:53:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/d027a6bc5ea996518732398d70c1a96243a5a4ff">released v1.11.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
