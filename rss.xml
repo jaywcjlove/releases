@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 08 Apr 2026 17:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 06:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.5.0 (appi18n)]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDpmNGUwM2ZkMzQ2MjMyNWQ1ZjFhMGU1ZjE5NzZhNGJjMWViZDY0MjNh</guid>
+            <pubDate>Thu, 09 Apr 2026 04:34:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a">released v1.5.0 (appi18n)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/app-i18n Verify Linux release artifact before upload]]></title>
+            <link>https://github.com/jaywcjlove/app-i18n/commit/45cb36f4ccdd8f7e85764e2cf6f5e60be5da9f0d</link>
+            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo0NWNiMzZmNGNjZGQ4ZjdlODU3NjRlMmNmNmY1ZTYwYmU1ZGE5ZjBk</guid>
+            <pubDate>Thu, 09 Apr 2026 03:51:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/45cb36f4ccdd8f7e85764e2cf6f5e60be5da9f0d">Verify Linux release artifact before upload</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-color released v2.10.1 #202]]></title>
             <link>https://github.com/uiwjs/react-color/commit/d6959f95e9746be78d48b061b04d123572b7aa8f</link>
@@ -1998,14 +2014,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.4.0 #265 #256]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/4ce79a64d730737282ea560d19d14dfc0b5010e4</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjRjZTc5YTY0ZDczMDczNzI4MmVhNTYwZDE5ZDE0ZGZjMGI1MDEwZTQ=</guid>
-            <pubDate>Fri, 08 Aug 2025 04:33:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/4ce79a64d730737282ea560d19d14dfc0b5010e4">released v6.4.0 #265 #256</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/file-sentinel released v1.5.1]]></title>
             <link>https://github.com/jaywcjlove/file-sentinel/commit/8b8dde9a44d2315df9b1f7721edb689f9700f7f9</link>
             <guid>MDY6Q29tbWl0OTY3NDkyNDM0OjhiOGRkZTlhNDRkMjMxNWRmOWIxZjc3MjFlZGI2ODlmOTcwMGY3Zjk=</guid>
@@ -2036,30 +2044,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Wed, 30 Jul 2025 09:58:05 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/a03d2759cd18e416c460563076bf59a8284e263a">released v2.7.3</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-codemirror released v4.24.2 #742]]></title>
-            <link>https://github.com/uiwjs/react-codemirror/commit/082c85aa4ad302e3516230de66c41f6d3ec05c2e</link>
-            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjA4MmM4NWFhNGFkMzAyZTM1MTYyMzBkZTY2YzQxZjZkM2VjMDVjMmU=</guid>
-            <pubDate>Tue, 29 Jul 2025 20:01:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/082c85aa4ad302e3516230de66c41f6d3ec05c2e">released v4.24.2 #742</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v3.2.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/835decf2862442ab81d7340dfef687d95ffae8e5</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjgzNWRlY2YyODYyNDQyYWI4MWQ3MzQwZGZlZjY4N2Q5NWZmYWU4ZTU=</guid>
-            <pubDate>Sun, 27 Jul 2025 16:15:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/835decf2862442ab81d7340dfef687d95ffae8e5">released v3.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/palette-genius released v1.8.1]]></title>
-            <link>https://github.com/jaywcjlove/palette-genius/commit/55513870d572231570a18262418c679d06d628bf</link>
-            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjU1NTEzODcwZDU3MjIzMTU3MGExODI2MjQxOGM2NzlkMDZkNjI4YmY=</guid>
-            <pubDate>Mon, 21 Jul 2025 07:56:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/55513870d572231570a18262418c679d06d628bf">released v1.8.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[homielab/mountmate feat: add Chinese localization.]]></title>

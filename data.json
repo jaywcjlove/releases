@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpmNGUwM2ZkMzQ2MjMyNWQ1ZjFhMGU1ZjE5NzZhNGJjMWViZDY0MjNh",
+    "type": "commits",
+    "title": "released v1.5.0 (appi18n)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a",
+    "created_at": "2026-04-09T12:34:39.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo0NWNiMzZmNGNjZGQ4ZjdlODU3NjRlMmNmNmY1ZTYwYmU1ZGE5ZjBk",
+    "type": "commits",
+    "title": "Verify Linux release artifact before upload",
+    "repo": "jaywcjlove/app-i18n",
+    "sha": "45cb36f4ccdd8f7e85764e2cf6f5e60be5da9f0d",
+    "url": "https://github.com/jaywcjlove/app-i18n/commit/45cb36f4ccdd8f7e85764e2cf6f5e60be5da9f0d",
+    "created_at": "2026-04-09T11:51:06.000+08:00",
+    "state": "committer",
+    "version": ""
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmQ2OTU5Zjk1ZTk3NDZiZTc4ZDQ4YjA2MWIwNGQxMjM1NzJiN2FhOGY=",
     "type": "commits",
     "title": "released v2.10.1 #202",
@@ -2706,17 +2728,6 @@
     "version": "1.6.1"
   },
   {
-    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjRjZTc5YTY0ZDczMDczNzI4MmVhNTYwZDE5ZDE0ZGZjMGI1MDEwZTQ=",
-    "type": "commits",
-    "title": "released v6.4.0 #265 #256",
-    "repo": "jaywcjlove/svgtofont",
-    "sha": "4ce79a64d730737282ea560d19d14dfc0b5010e4",
-    "url": "https://github.com/jaywcjlove/svgtofont/commit/4ce79a64d730737282ea560d19d14dfc0b5010e4",
-    "created_at": "2025-08-08T12:33:21.000+08:00",
-    "state": "committer",
-    "version": "6.4.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjhiOGRkZTlhNDRkMjMxNWRmOWIxZjc3MjFlZGI2ODlmOTcwMGY3Zjk=",
     "type": "commits",
     "title": "released v1.5.1",
@@ -2761,39 +2772,6 @@
     "version": "2.7.3"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjA4MmM4NWFhNGFkMzAyZTM1MTYyMzBkZTY2YzQxZjZkM2VjMDVjMmU=",
-    "type": "commits",
-    "title": "released v4.24.2 #742",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "082c85aa4ad302e3516230de66c41f6d3ec05c2e",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/082c85aa4ad302e3516230de66c41f6d3ec05c2e",
-    "created_at": "2025-07-30T04:01:16.000+08:00",
-    "state": "committer",
-    "version": "4.24.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjgzNWRlY2YyODYyNDQyYWI4MWQ3MzQwZGZlZjY4N2Q5NWZmYWU4ZTU=",
-    "type": "commits",
-    "title": "released v3.2.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "835decf2862442ab81d7340dfef687d95ffae8e5",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/835decf2862442ab81d7340dfef687d95ffae8e5",
-    "created_at": "2025-07-28T00:15:12.000+08:00",
-    "state": "committer",
-    "version": "3.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2OjU1NTEzODcwZDU3MjIzMTU3MGExODI2MjQxOGM2NzlkMDZkNjI4YmY=",
-    "type": "commits",
-    "title": "released v1.8.1",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "55513870d572231570a18262418c679d06d628bf",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/55513870d572231570a18262418c679d06d628bf",
-    "created_at": "2025-07-21T15:56:37.000+08:00",
-    "state": "committer",
-    "version": "1.8.1"
-  },
-  {
     "id": 3172005346,
     "type": "Organization",
     "repo": "homielab/mountmate",
@@ -2802,7 +2780,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "450"
+    "stars": "451"
   },
   {
     "id": 2526870275,
