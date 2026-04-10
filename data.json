@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzo4OWY5NzZlNzFlODU0MmViMTRjN2ZhYjgwZjgwYjFhOGJmY2Q1ODUz",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "89f976e71e8542eb14c7fab80f80b1a8bfcd5853",
+    "url": "https://github.com/jaywcjlove/scap/commit/89f976e71e8542eb14c7fab80f80b1a8bfcd5853",
+    "created_at": "2026-04-10T09:03:51.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpmNGUwM2ZkMzQ2MjMyNWQ1ZjFhMGU1ZjE5NzZhNGJjMWViZDY0MjNh",
     "type": "commits",
     "title": "released v1.5.0 (appi18n)",
@@ -2737,17 +2748,6 @@
     "created_at": "2025-08-03T23:48:40.000+08:00",
     "state": "committer",
     "version": "1.5.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDIzODEwNjc6ZWNjZTJiNGUxMmFiOGNjMmVmNzA1M2I3YzJhNjYyOGM4N2UwZjk2NQ==",
-    "type": "commits",
-    "title": "released v1.34.2",
-    "repo": "jaywcjlove/idoc",
-    "sha": "ecce2b4e12ab8cc2ef7053b7c2a6628c87e0f965",
-    "url": "https://github.com/jaywcjlove/idoc/commit/ecce2b4e12ab8cc2ef7053b7c2a6628c87e0f965",
-    "created_at": "2025-08-03T07:25:41.000+08:00",
-    "state": "committer",
-    "version": "1.34.2"
   },
   {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmNkMWFiNjkzNzcyZjQ0OWIwYzJjNTM5YWFlNmY1MTFjYzYyN2Q2ZTA=",

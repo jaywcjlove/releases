@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 09 Apr 2026 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 06:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/scap released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/scap/commit/89f976e71e8542eb14c7fab80f80b1a8bfcd5853</link>
+            <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzo4OWY5NzZlNzFlODU0MmViMTRjN2ZhYjgwZjgwYjFhOGJmY2Q1ODUz</guid>
+            <pubDate>Fri, 10 Apr 2026 01:03:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/89f976e71e8542eb14c7fab80f80b1a8bfcd5853">released v1.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/homebrew-tap released v1.5.0 (appi18n)]]></title>
             <link>https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a</link>
@@ -2019,14 +2027,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTY3NDkyNDM0OjhiOGRkZTlhNDRkMjMxNWRmOWIxZjc3MjFlZGI2ODlmOTcwMGY3Zjk=</guid>
             <pubDate>Sun, 03 Aug 2025 15:48:40 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/8b8dde9a44d2315df9b1f7721edb689f9700f7f9">released v1.5.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.34.2]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/ecce2b4e12ab8cc2ef7053b7c2a6628c87e0f965</link>
-            <guid>MDY6Q29tbWl0NDIzODEwNjc6ZWNjZTJiNGUxMmFiOGNjMmVmNzA1M2I3YzJhNjYyOGM4N2UwZjk2NQ==</guid>
-            <pubDate>Sat, 02 Aug 2025 23:25:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/ecce2b4e12ab8cc2ef7053b7c2a6628c87e0f965">released v1.34.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
