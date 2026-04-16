@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 16 Apr 2026 06:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 17:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.14 #397]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/811527e2c5792ed3252267578a8c264f5260daa6</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjgxMTUyN2UyYzU3OTJlZDMyNTIyNjc1NzhhOGMyNjRmNTI2MGRhYTY=</guid>
+            <pubDate>Thu, 16 Apr 2026 15:54:28 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/811527e2c5792ed3252267578a8c264f5260daa6">released v7.1.14 #397</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidcrop released v1.3.1]]></title>
             <link>https://github.com/jaywcjlove/vidcrop/commit/f380a7e759a52e0764a5ecd59909ddba54408277</link>
@@ -2028,14 +2036,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Sat, 09 Aug 2025 14:15:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/5b8628c5ae54bea204b39a6dc3f29885e67a54fc">released v1.6.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.7.3]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/a03d2759cd18e416c460563076bf59a8284e263a</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmEwM2QyNzU5Y2QxOGU0MTZjNDYwNTYzMDc2YmY1OWE4Mjg0ZTI2M2E=</guid>
-            <pubDate>Wed, 30 Jul 2025 09:58:05 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/a03d2759cd18e416c460563076bf59a8284e263a">released v2.7.3</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[homielab/mountmate feat: add Chinese localization.]]></title>
