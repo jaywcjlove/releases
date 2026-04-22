@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 22 Apr 2026 06:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 17:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.5.2 (appi18n)]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/f7f3268031f19fc98061ffa63d4d8aae19694cf3</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDpmN2YzMjY4MDMxZjE5ZmM5ODA2MWZmYTYzZDRkOGFhZTE5Njk0Y2Yz</guid>
+            <pubDate>Wed, 22 Apr 2026 10:05:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/f7f3268031f19fc98061ffa63d4d8aae19694cf3">released v1.5.2 (appi18n)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/app-i18n released v1.5.2]]></title>
+            <link>https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0</link>
+            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw</guid>
+            <pubDate>Wed, 22 Apr 2026 10:01:57 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0">released v1.5.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidcrop released v1.4.0]]></title>
             <link>https://github.com/jaywcjlove/vidcrop/commit/d4b2970f7384c5770698f439a42ee3da1db87b3c</link>
@@ -56,11 +72,11 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/homebrew-tap released v1.5.0 (appi18n)]]></title>
-            <link>https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a</link>
-            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDpmNGUwM2ZkMzQ2MjMyNWQ1ZjFhMGU1ZjE5NzZhNGJjMWViZDY0MjNh</guid>
-            <pubDate>Thu, 09 Apr 2026 04:34:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a">released v1.5.0 (appi18n)</a>]]></description>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.5.1 (appi18n)]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/692f82ca5ac40b496371875626cd2497e0d5d373</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDo2OTJmODJjYTVhYzQwYjQ5NjM3MTg3NTYyNmNkMjQ5N2UwZDVkMzcz</guid>
+            <pubDate>Thu, 09 Apr 2026 17:26:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/692f82ca5ac40b496371875626cd2497e0d5d373">released v1.5.1 (appi18n)</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1950,14 +1966,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.36]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/bd1b1f2ea308f1b2b8e01ec2a830d2f9361726f2</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmJkMWIxZjJlYTMwOGYxYjJiOGUwMWVjMmE4MzBkMmY5MzYxNzI2ZjI=</guid>
-            <pubDate>Tue, 19 Aug 2025 08:44:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/bd1b1f2ea308f1b2b8e01ec2a830d2f9361726f2">released v2.0.0-alpha.36</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-color released v2.8.0 #188]]></title>
             <link>https://github.com/uiwjs/react-color/commit/7490231fce5e0549e0065f688db0dcf92535c4ee</link>
             <guid>MDY6Q29tbWl0MzgyMzI3NjY4Ojc0OTAyMzFmY2U1ZTA1NDllMDA2NWY2ODhkYjBkY2Y5MjUzNWM0ZWU=</guid>
@@ -2020,14 +2028,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Tue, 12 Aug 2025 02:41:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/codemirror/website/pull/79">Add swiftui-codemirror package to community page.</a>]]></description>
             <enclosure url="https://github.com/codemirror.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/DevHub released v1.40.0]]></title>
-            <link>https://github.com/jaywcjlove/DevHub/commit/cec3272dea54a593b0794cb8e57898d0d092a6ad</link>
-            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmNlYzMyNzJkZWE1NGE1OTNiMDc5NGNiOGU1Nzg5OGQwZDA5MmE2YWQ=</guid>
-            <pubDate>Mon, 11 Aug 2025 17:55:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/cec3272dea54a593b0794cb8e57898d0d092a6ad">released v1.40.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[homielab/mountmate feat: add Chinese localization.]]></title>

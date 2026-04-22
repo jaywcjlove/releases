@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpmN2YzMjY4MDMxZjE5ZmM5ODA2MWZmYTYzZDRkOGFhZTE5Njk0Y2Yz",
+    "type": "commits",
+    "title": "released v1.5.2 (appi18n)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "f7f3268031f19fc98061ffa63d4d8aae19694cf3",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/f7f3268031f19fc98061ffa63d4d8aae19694cf3",
+    "created_at": "2026-04-22T18:05:13.000+08:00",
+    "state": "committer",
+    "version": "1.5.2"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw",
+    "type": "commits",
+    "title": "released v1.5.2",
+    "repo": "jaywcjlove/app-i18n",
+    "sha": "7974320904f9e2b4ba29bab71175dc704f3c1be0",
+    "url": "https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0",
+    "created_at": "2026-04-22T18:01:57.000+08:00",
+    "state": "committer",
+    "version": "1.5.2"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpkNGIyOTcwZjczODRjNTc3MDY5OGY0MzlhNDJlZTNkYTFkYjg3YjNj",
     "type": "commits",
     "title": "released v1.4.0",
@@ -55,15 +77,15 @@
     "version": "1.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpmNGUwM2ZkMzQ2MjMyNWQ1ZjFhMGU1ZjE5NzZhNGJjMWViZDY0MjNh",
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo2OTJmODJjYTVhYzQwYjQ5NjM3MTg3NTYyNmNkMjQ5N2UwZDVkMzcz",
     "type": "commits",
-    "title": "released v1.5.0 (appi18n)",
+    "title": "released v1.5.1 (appi18n)",
     "repo": "jaywcjlove/homebrew-tap",
-    "sha": "f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/f4e03fd3462325d5f1a0e5f1976a4bc1ebd6423a",
-    "created_at": "2026-04-09T12:34:39.000+08:00",
+    "sha": "692f82ca5ac40b496371875626cd2497e0d5d373",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/692f82ca5ac40b496371875626cd2497e0d5d373",
+    "created_at": "2026-04-10T01:26:55.000+08:00",
     "state": "committer",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo0NWNiMzZmNGNjZGQ4ZjdlODU3NjRlMmNmNmY1ZTYwYmU1ZGE5ZjBk",
@@ -2640,17 +2662,6 @@
     "version": "1.0.6"
   },
   {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmJkMWIxZjJlYTMwOGYxYjJiOGUwMWVjMmE4MzBkMmY5MzYxNzI2ZjI=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.36",
-    "repo": "uiwjs/react-json-view",
-    "sha": "bd1b1f2ea308f1b2b8e01ec2a830d2f9361726f2",
-    "url": "https://github.com/uiwjs/react-json-view/commit/bd1b1f2ea308f1b2b8e01ec2a830d2f9361726f2",
-    "created_at": "2025-08-19T16:44:47.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.36"
-  },
-  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojc0OTAyMzFmY2U1ZTA1NDllMDA2NWY2ODhkYjBkY2Y5MjUzNWM0ZWU=",
     "type": "commits",
     "title": "released v2.8.0 #188",
@@ -2739,17 +2750,6 @@
     "stars": "39"
   },
   {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmNlYzMyNzJkZWE1NGE1OTNiMDc5NGNiOGU1Nzg5OGQwZDA5MmE2YWQ=",
-    "type": "commits",
-    "title": "released v1.40.0",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "cec3272dea54a593b0794cb8e57898d0d092a6ad",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/cec3272dea54a593b0794cb8e57898d0d092a6ad",
-    "created_at": "2025-08-12T01:55:09.000+08:00",
-    "state": "committer",
-    "version": "1.40.0"
-  },
-  {
     "id": 3172005346,
     "type": "Organization",
     "repo": "homielab/mountmate",
@@ -2758,7 +2758,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "452"
+    "stars": "453"
   },
   {
     "id": 2526870275,
