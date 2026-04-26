@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOmJhZmNlYjVkM2IzMTM2ZTViYmJiMDYyMjA2ZmExM2EzZGJjNDBjODA=",
+    "type": "commits",
+    "title": "released v2.3.0",
+    "repo": "jaywcjlove/web-serve",
+    "sha": "bafceb5d3b3136e5bbbb062206fa13a3dbc40c80",
+    "url": "https://github.com/jaywcjlove/web-serve/commit/bafceb5d3b3136e5bbbb062206fa13a3dbc40c80",
+    "created_at": "2026-04-26T04:00:25.000+08:00",
+    "state": "committer",
+    "version": "2.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzphZTY2MzYyZjViYzViYTk5YzExY2UzMzIwNzE2ZGZmOTFjY2MzMjQ0",
     "type": "commits",
     "title": "released v1.13.0",
@@ -2682,17 +2693,6 @@
     "created_at": "2025-08-21T02:26:34.000+08:00",
     "state": "committer",
     "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojc0OTAyMzFmY2U1ZTA1NDllMDA2NWY2ODhkYjBkY2Y5MjUzNWM0ZWU=",
-    "type": "commits",
-    "title": "released v2.8.0 #188",
-    "repo": "uiwjs/react-color",
-    "sha": "7490231fce5e0549e0065f688db0dcf92535c4ee",
-    "url": "https://github.com/uiwjs/react-color/commit/7490231fce5e0549e0065f688db0dcf92535c4ee",
-    "created_at": "2025-08-19T16:28:20.000+08:00",
-    "state": "committer",
-    "version": "2.8.0"
   },
   {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjgwZTIzZDI0YmUyMjNmZDBhYTVlNjk0ZDIyN2M2OTYwMjdkYmM4NDY=",
