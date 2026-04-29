@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 29 Apr 2026 06:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 18:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-signature released v1.3.4 #10]]></title>
+            <link>https://github.com/uiwjs/react-signature/commit/148eccc40d6dd6b8cdb8b6bfa0d44328b10815bc</link>
+            <guid>MDY6Q29tbWl0NzIyNjczOTkxOjE0OGVjY2M0MGQ2ZGQ2YjhjZGI4YjZiZmEwZDQ0MzI4YjEwODE1YmM=</guid>
+            <pubDate>Wed, 29 Apr 2026 13:28:22 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-signature/commit/148eccc40d6dd6b8cdb8b6bfa0d44328b10815bc">released v1.3.4 #10</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v2.4.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/408963a5f789bfb92a18952abe5d7168cf8f464b</link>
@@ -1902,14 +1910,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.37 #78]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/393d202bb5cf2d9e8754ddf946816bb34c001172</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjM5M2QyMDJiYjVjZjJkOWU4NzU0ZGRmOTQ2ODE2YmIzNGMwMDExNzI=</guid>
-            <pubDate>Tue, 26 Aug 2025 16:13:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/393d202bb5cf2d9e8754ddf946816bb34c001172">released v2.0.0-alpha.37 #78</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/ejs-cli released v3.1.4]]></title>
             <link>https://github.com/jaywcjlove/ejs-cli/commit/18a9649bfeb53316a73651e211673e8e68d3ab21</link>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjE4YTk2NDliZmViNTMzMTZhNzM2NTFlMjExNjczZThlNjhkM2FiMjE=</guid>
@@ -2030,6 +2030,14 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/homielab.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[richardpiazza/SwiftSVG Corrected 'Line' Description Syntax]]></title>
+            <link>https://github.com/richardpiazza/SwiftSVG/pull/17</link>
+            <guid>2526870275</guid>
+            <pubDate>Sun, 15 Sep 2024 11:31:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/richardpiazza/SwiftSVG/pull/17">Corrected 'Line' Description Syntax</a>]]></description>
+            <enclosure url="https://github.com/richardpiazza.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[remarkjs/remark Add `remark-github-blockquote-alert` to list of plugins]]></title>
             <link>https://github.com/remarkjs/remark/pull/1298</link>
             <guid>2188086718</guid>
@@ -2052,6 +2060,14 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Mon, 07 Aug 2023 03:17:04 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/timlrx/rehype-prism-plus/pull/66">fix: support nextjs 13 (fix #65)</a>]]></description>
             <enclosure url="https://github.com/timlrx.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[tsbbjs/tsbb refactor: refactor tsbb v4.]]></title>
+            <link>https://github.com/tsbbjs/tsbb/pull/11</link>
+            <guid>1645290043</guid>
+            <pubDate>Wed, 29 Mar 2023 08:33:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/tsbbjs/tsbb/pull/11">refactor: refactor tsbb v4.</a>]]></description>
+            <enclosure url="https://github.com/tsbbjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-codemirror Revert "feat: Add a way to provide serialized initial state for the e…]]></title>
@@ -2220,22 +2236,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Thu, 20 Aug 2020 02:08:27 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/forksss/awesome-github-profile-readme/pull/2">Update upstream.</a>]]></description>
             <enclosure url="https://github.com/forksss.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[forksss/awesome-github-profile-readme Update upstream code.]]></title>
-            <link>https://github.com/forksss/awesome-github-profile-readme/pull/1</link>
-            <guid>682292256</guid>
-            <pubDate>Thu, 20 Aug 2020 02:01:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/forksss/awesome-github-profile-readme/pull/1">Update upstream code.</a>]]></description>
-            <enclosure url="https://github.com/forksss.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[willin/js.cool Add uiwjs.github.io]]></title>
-            <link>https://github.com/willin/js.cool/pull/4</link>
-            <guid>679468414</guid>
-            <pubDate>Sat, 15 Aug 2020 00:52:46 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/willin/js.cool/pull/4">Add uiwjs.github.io</a>]]></description>
-            <enclosure url="https://github.com/willin.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
