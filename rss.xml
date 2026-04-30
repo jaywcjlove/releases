@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 30 Apr 2026 06:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 17:55:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.4]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/d04ca2d908d38f0becbf45752361c6fe02f98b1b</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ZDA0Y2EyZDkwOGQzOGYwYmVjYmY0NTc1MjM2MWM2ZmUwMmY5OGIxYg==</guid>
+            <pubDate>Thu, 30 Apr 2026 07:07:32 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/d04ca2d908d38f0becbf45752361c6fe02f98b1b">released v4.0.4</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-signature released v1.3.4 #10]]></title>
             <link>https://github.com/uiwjs/react-signature/commit/148eccc40d6dd6b8cdb8b6bfa0d44328b10815bc</link>
@@ -1995,14 +2003,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=</guid>
             <pubDate>Wed, 20 Aug 2025 18:26:34 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/DevHub released v1.43.0]]></title>
-            <link>https://github.com/jaywcjlove/DevHub/commit/80e23d24be223fd0aa5e694d227c696027dbc846</link>
-            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOjgwZTIzZDI0YmUyMjNmZDBhYTVlNjk0ZDIyN2M2OTYwMjdkYmM4NDY=</guid>
-            <pubDate>Tue, 19 Aug 2025 03:15:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/80e23d24be223fd0aa5e694d227c696027dbc846">released v1.43.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
