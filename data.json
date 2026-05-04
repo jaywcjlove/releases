@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjlkZjk2MzdkMWVmYWU4ODFjZDc4NGE2ZmRkZDYwZmYyNjM2NGQ1MDY=",
+    "type": "commits",
+    "title": "released v6.5.2 #276",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "9df9637d1efae881cd784a6fddd60ff26364d506",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/9df9637d1efae881cd784a6fddd60ff26364d506",
+    "created_at": "2026-05-04T23:05:55.000+08:00",
+    "state": "committer",
+    "version": "6.5.2"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZDA0Y2EyZDkwOGQzOGYwYmVjYmY0NTc1MjM2MWM2ZmUwMmY5OGIxYg==",
     "type": "commits",
     "title": "released v4.0.4",
@@ -2717,17 +2728,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojc1NjUxODQ2MmFkY2U3YmNkN2RmYjRhYTkzYzUyNzczZDE3Mzg0Njg=",
-    "type": "commits",
-    "title": "released v1.24.0",
-    "repo": "jaywcjlove/devtutor",
-    "sha": "756518462adce7bcd7dfb4aa93c52773d1738468",
-    "url": "https://github.com/jaywcjlove/devtutor/commit/756518462adce7bcd7dfb4aa93c52773d1738468",
-    "created_at": "2025-08-18T13:59:12.000+08:00",
-    "state": "committer",
-    "version": "1.24.0"
-  },
-  {
     "id": 3312304333,
     "type": "Organization",
     "repo": "codemirror/website",
@@ -2747,7 +2747,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "458"
+    "stars": "459"
   },
   {
     "id": 2526870275,
