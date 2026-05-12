@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 11 May 2026 18:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 06:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/pinyin-font released v1.10.2]]></title>
+            <link>https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340</link>
+            <guid>MDY6Q29tbWl0ODMyNTc3NjEwOjUzZjQyMWFjZDRlODExY2RhNDI3ZTA0NzhhMmFiYzVjYWQ5ZmIzNDA=</guid>
+            <pubDate>Mon, 11 May 2026 20:06:03 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340">released v1.10.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.27.0]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/a5e7c49ef035a4c9c806bd557543b6a0c7725fb0</link>
@@ -1987,14 +1995,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjdkZDcyZjgyMTM4MWZiOWM1NzRkM2MxM2QxZWVhZjg5OWIwOWZjNDg=</guid>
             <pubDate>Sun, 24 Aug 2025 10:08:52 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/7dd72f821381fb9c574d3c13d1eeaf899b09fc48">released v2.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/DevHub released v1.44.0]]></title>
-            <link>https://github.com/jaywcjlove/DevHub/commit/23c83fc308f2bd86584a0b73aa9bb126d3299ac9</link>
-            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOjIzYzgzZmMzMDhmMmJkODY1ODRhMGI3M2FhOWJiMTI2ZDMyOTlhYzk=</guid>
-            <pubDate>Sun, 24 Aug 2025 03:34:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/23c83fc308f2bd86584a0b73aa9bb126d3299ac9">released v1.44.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

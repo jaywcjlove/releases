@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODMyNTc3NjEwOjUzZjQyMWFjZDRlODExY2RhNDI3ZTA0NzhhMmFiYzVjYWQ5ZmIzNDA=",
+    "type": "commits",
+    "title": "released v1.10.2",
+    "repo": "jaywcjlove/pinyin-font",
+    "sha": "53f421acd4e811cda427e0478a2abc5cad9fb340",
+    "url": "https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340",
+    "created_at": "2026-05-12T04:06:03.000+08:00",
+    "state": "committer",
+    "version": "1.10.2"
+  },
+  {
     "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmE1ZTdjNDllZjAzNWE0YzljODA2YmQ1NTc1NDNiNmEwYzc3MjVmYjA=",
     "type": "commits",
     "title": "released v2.27.0",
@@ -2693,17 +2704,6 @@
     "created_at": "2025-08-24T18:08:52.000+08:00",
     "state": "committer",
     "version": "2.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjIzYzgzZmMzMDhmMmJkODY1ODRhMGI3M2FhOWJiMTI2ZDMyOTlhYzk=",
-    "type": "commits",
-    "title": "released v1.44.0",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "23c83fc308f2bd86584a0b73aa9bb126d3299ac9",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/23c83fc308f2bd86584a0b73aa9bb126d3299ac9",
-    "created_at": "2025-08-24T11:34:38.000+08:00",
-    "state": "committer",
-    "version": "1.44.0"
   },
   {
     "id": 3344245728,
