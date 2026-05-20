@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjE3M2FhN2ZmNzRlOTRjYjYwNTQ4NmRhNjI2N2JkZDNkYTJjZDRhNTE=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.5.20",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "173aa7ff74e94cb605486da6267bdd3da2cd4a51",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/173aa7ff74e94cb605486da6267bdd3da2cd4a51",
+    "created_at": "2026-05-20T03:13:05.000Z",
+    "state": "committer",
+    "version": "26.5.20"
+  },
+  {
     "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzphNWIwMWJhODA3OWFhZjQzOTcwNmMzNWNhYjNhYzQzOTYzYzBjZGMx",
     "type": "commits",
     "title": "released v1.0.0",
