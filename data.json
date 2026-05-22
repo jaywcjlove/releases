@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmNiYzRjYTYwZmYxY2YyZThjNmZkYzc2N2Y0YTYzMThhMWQyMTBmNzA=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.5.22",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70",
+    "created_at": "2026-05-22T01:19:22.000Z",
+    "state": "committer",
+    "version": "26.5.22"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmE1NDUwZDA5YTE5NzM1ZTUyZmMxOTk5MjAxM2RhZTI3NDgxZTE3ZjA=",
     "type": "commits",
     "title": "released v2.10.2",
@@ -2813,7 +2824,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "463"
+    "stars": "462"
   },
   {
     "id": 2526870275,
