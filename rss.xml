@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 23 May 2026 17:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 06:43:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/zipora released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/zipora/commit/ec19fd2ef6da5bc3cca8427e11d85e2149ecf658</link>
+            <guid>MDY6Q29tbWl0MTIzMDg1MTYyNzplYzE5ZmQyZWY2ZGE1YmMzY2NhODQyN2UxMWQ4NWUyMTQ5ZWNmNjU4</guid>
+            <pubDate>Sat, 23 May 2026 19:54:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/zipora/commit/ec19fd2ef6da5bc3cca8427e11d85e2149ecf658">released v1.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.5.22]]></title>
             <link>https://github.com/jaywcjlove/github-rank/commit/cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70</link>

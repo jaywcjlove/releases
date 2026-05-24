@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzplYzE5ZmQyZWY2ZGE1YmMzY2NhODQyN2UxMWQ4NWUyMTQ5ZWNmNjU4",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/zipora",
+    "sha": "ec19fd2ef6da5bc3cca8427e11d85e2149ecf658",
+    "url": "https://github.com/jaywcjlove/zipora/commit/ec19fd2ef6da5bc3cca8427e11d85e2149ecf658",
+    "created_at": "2026-05-24T03:54:09.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmNiYzRjYTYwZmYxY2YyZThjNmZkYzc2N2Y0YTYzMThhMWQyMTBmNzA=",
     "type": "commits",
     "title": "chore(release): bump version to 26.5.22",
@@ -2824,7 +2835,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "462"
+    "stars": "463"
   },
   {
     "id": 2526870275,
