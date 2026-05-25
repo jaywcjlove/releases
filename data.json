@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojg5ZmE4MGU5YmRkM2JkZGQyNGJhMWMwMDJmNTg1NjYwZDhjYjZjNTM=",
+    "type": "commits",
+    "title": "released v2.10.3 #204 #203",
+    "repo": "uiwjs/react-color",
+    "sha": "89fa80e9bdd3bddd24ba1c002f585660d8cb6c53",
+    "url": "https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53",
+    "created_at": "2026-05-25T02:56:38.000+08:00",
+    "state": "committer",
+    "version": "2.10.3"
+  },
+  {
     "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzpiYTk5NzI1MzIyMzI3NDBiMjQ2NzAwNjZiNWU0MzY4MjliMzdmMGMy",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2783,17 +2794,6 @@
     "version": "1.5.2"
   },
   {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0OjRlODk3NWFhMjYyOGUzMzI5MTI2ZTdlZWUzNjcyNGQwN2VkODZmZGE=",
-    "type": "commits",
-    "title": "released v2.2.0",
-    "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "4e8975aa2628e3329126e7eee36724d07ed86fda",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/4e8975aa2628e3329126e7eee36724d07ed86fda",
-    "created_at": "2025-08-25T12:37:21.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=",
     "type": "commits",
     "title": "released v2.4.0",
@@ -2912,7 +2912,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "361"
+    "stars": "360"
   },
   {
     "id": 1194561099,

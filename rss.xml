@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 24 May 2026 17:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 06:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.10.3 #204 #203]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4Ojg5ZmE4MGU5YmRkM2JkZGQyNGJhMWMwMDJmNTg1NjYwZDhjYjZjNTM=</guid>
+            <pubDate>Sun, 24 May 2026 18:56:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53">released v2.10.3 #204 #203</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/zipora released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/zipora/commit/ba9972532232740b24670066b5e436829b37f0c2</link>
@@ -2051,14 +2059,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0ODQ4NDM0NTAwOjMxNzEyZWVhNDE4ZmIyMWFhMTM3MjZmMGUxMWE5MWRkNmRiYjFjYmM=</guid>
             <pubDate>Mon, 25 Aug 2025 06:59:28 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/web-serve/commit/31712eea418fb21aa13726f0e11a91dd6dbb1cbc">released v1.5.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/coverage-badges-cli released v2.2.0]]></title>
-            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/4e8975aa2628e3329126e7eee36724d07ed86fda</link>
-            <guid>MDY6Q29tbWl0NDA4MjMyNjc0OjRlODk3NWFhMjYyOGUzMzI5MTI2ZTdlZWUzNjcyNGQwN2VkODZmZGE=</guid>
-            <pubDate>Mon, 25 Aug 2025 04:37:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/4e8975aa2628e3329126e7eee36724d07ed86fda">released v2.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
