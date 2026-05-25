@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OjRhNjZjOTQ1MDliOTUzMGE3ZDBkNzI2YmI4MTA5NzQ2MzM0NGIzMDI=",
+    "type": "commits",
+    "title": "released v1.48.0",
+    "repo": "jaywcjlove/reference",
+    "sha": "4a66c94509b9530a7d0d726bb81097463344b302",
+    "url": "https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302",
+    "created_at": "2026-05-25T18:38:58.000+08:00",
+    "state": "committer",
+    "version": "1.48.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojg5ZmE4MGU5YmRkM2JkZGQyNGJhMWMwMDJmNTg1NjYwZDhjYjZjNTM=",
     "type": "commits",
     "title": "released v2.10.3 #204 #203",
@@ -2726,17 +2737,6 @@
     "created_at": "2025-09-01T10:42:53.000+08:00",
     "state": "committer",
     "version": "1.45.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjViYTYwODEyYmEyMjM4MWVkM2VjZjkxZGM4NGM4NjM4MGE3OGZlMzY=",
-    "type": "commits",
-    "title": "released v1.8.0",
-    "repo": "jaywcjlove/musicer",
-    "sha": "5ba60812ba22381ed3ecf91dc84c86380a78fe36",
-    "url": "https://github.com/jaywcjlove/musicer/commit/5ba60812ba22381ed3ecf91dc84c86380a78fe36",
-    "created_at": "2025-08-31T13:56:39.000+08:00",
-    "state": "committer",
-    "version": "1.8.0"
   },
   {
     "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjhhMDExYWM0MDEyN2FlZGE5NzdjMzJiOTkxMWY4OTBmODQ4OWIxNDY=",

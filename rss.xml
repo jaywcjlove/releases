@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 25 May 2026 06:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 18:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/reference released v1.48.0]]></title>
+            <link>https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302</link>
+            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjRhNjZjOTQ1MDliOTUzMGE3ZDBkNzI2YmI4MTA5NzQ2MzM0NGIzMDI=</guid>
+            <pubDate>Mon, 25 May 2026 10:38:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302">released v1.48.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-color released v2.10.3 #204 #203]]></title>
             <link>https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53</link>
@@ -2011,14 +2019,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmRiNWZjZjA4N2NiOGM3NTc1MTRlZTQwN2VmMDc3NmU0MTRlODQ1ODM=</guid>
             <pubDate>Mon, 01 Sep 2025 02:42:53 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583">released v1.45.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.8.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/5ba60812ba22381ed3ecf91dc84c86380a78fe36</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjViYTYwODEyYmEyMjM4MWVkM2VjZjkxZGM4NGM4NjM4MGE3OGZlMzY=</guid>
-            <pubDate>Sun, 31 Aug 2025 05:56:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/5ba60812ba22381ed3ecf91dc84c86380a78fe36">released v1.8.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
