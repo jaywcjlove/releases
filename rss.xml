@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 26 May 2026 06:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 18:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.15 #399]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/04d30d8e13c1fafe5916f12762aa903392634167</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OjA0ZDMwZDhlMTNjMWZhZmU1OTE2ZjEyNzYyYWE5MDMzOTI2MzQxNjc=</guid>
+            <pubDate>Tue, 26 May 2026 15:35:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/04d30d8e13c1fafe5916f12762aa903392634167">released v7.1.15 #399</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/reference released v1.48.0]]></title>
             <link>https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302</link>
