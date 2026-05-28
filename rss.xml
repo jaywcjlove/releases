@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 28 May 2026 06:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 18:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-heat-map released v2.3.4 #141]]></title>
+            <link>https://github.com/uiwjs/react-heat-map/commit/b29152ca519912727fcd8ababff22115ca1507d6</link>
+            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmIyOTE1MmNhNTE5OTEyNzI3ZmNkOGFiYWJmZjIyMTE1Y2ExNTA3ZDY=</guid>
+            <pubDate>Thu, 28 May 2026 16:44:52 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/b29152ca519912727fcd8ababff22115ca1507d6">released v2.3.4 #141</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.15 #399]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/04d30d8e13c1fafe5916f12762aa903392634167</link>
@@ -2038,6 +2046,14 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/auto-config-loader released v3.0.0]]></title>
+            <link>https://github.com/jaywcjlove/auto-config-loader/commit/5f495c94707979f64c3423876f5c9614502786c4</link>
+            <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOjVmNDk1Yzk0NzA3OTc5ZjY0YzM0MjM4NzZmNWM5NjE0NTAyNzg2YzQ=</guid>
+            <pubDate>Thu, 28 Aug 2025 20:26:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/5f495c94707979f64c3423876f5c9614502786c4">released v3.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/key-clicker released v1.16.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/0b7588a1567400a14cbd395cccf0ce6ea799209b</link>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjBiNzU4OGExNTY3NDAwYTE0Y2JkMzk1Y2NjZjBjZTZlYTc5OTIwOWI=</guid>
@@ -2051,14 +2067,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjE4YTk2NDliZmViNTMzMTZhNzM2NTFlMjExNjczZThlNjhkM2FiMjE=</guid>
             <pubDate>Tue, 26 Aug 2025 07:21:05 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/18a9649bfeb53316a73651e211673e8e68d3ab21">released v3.1.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/web-serve released v1.5.2]]></title>
-            <link>https://github.com/jaywcjlove/web-serve/commit/31712eea418fb21aa13726f0e11a91dd6dbb1cbc</link>
-            <guid>MDY6Q29tbWl0ODQ4NDM0NTAwOjMxNzEyZWVhNDE4ZmIyMWFhMTM3MjZmMGUxMWE5MWRkNmRiYjFjYmM=</guid>
-            <pubDate>Mon, 25 Aug 2025 06:59:28 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/web-serve/commit/31712eea418fb21aa13726f0e11a91dd6dbb1cbc">released v1.5.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

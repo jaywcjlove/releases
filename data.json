@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOmIyOTE1MmNhNTE5OTEyNzI3ZmNkOGFiYWJmZjIyMTE1Y2ExNTA3ZDY=",
+    "type": "commits",
+    "title": "released v2.3.4 #141",
+    "repo": "uiwjs/react-heat-map",
+    "sha": "b29152ca519912727fcd8ababff22115ca1507d6",
+    "url": "https://github.com/uiwjs/react-heat-map/commit/b29152ca519912727fcd8ababff22115ca1507d6",
+    "created_at": "2026-05-29T00:44:52.000+08:00",
+    "state": "committer",
+    "version": "2.3.4"
+  },
+  {
     "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OjA0ZDMwZDhlMTNjMWZhZmU1OTE2ZjEyNzYyYWE5MDMzOTI2MzQxNjc=",
     "type": "commits",
     "title": "released v7.1.15 #399",
@@ -2761,6 +2772,17 @@
     "version": "3.1.5"
   },
   {
+    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjVmNDk1Yzk0NzA3OTc5ZjY0YzM0MjM4NzZmNWM5NjE0NTAyNzg2YzQ=",
+    "type": "commits",
+    "title": "released v3.0.0",
+    "repo": "jaywcjlove/auto-config-loader",
+    "sha": "5f495c94707979f64c3423876f5c9614502786c4",
+    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/5f495c94707979f64c3423876f5c9614502786c4",
+    "created_at": "2025-08-29T04:26:47.000+08:00",
+    "state": "committer",
+    "version": "3.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjBiNzU4OGExNTY3NDAwYTE0Y2JkMzk1Y2NjZjBjZTZlYTc5OTIwOWI=",
     "type": "commits",
     "title": "released v1.16.0",
@@ -2781,17 +2803,6 @@
     "created_at": "2025-08-26T15:21:05.000+08:00",
     "state": "committer",
     "version": "3.1.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOjMxNzEyZWVhNDE4ZmIyMWFhMTM3MjZmMGUxMWE5MWRkNmRiYjFjYmM=",
-    "type": "commits",
-    "title": "released v1.5.2",
-    "repo": "jaywcjlove/web-serve",
-    "sha": "31712eea418fb21aa13726f0e11a91dd6dbb1cbc",
-    "url": "https://github.com/jaywcjlove/web-serve/commit/31712eea418fb21aa13726f0e11a91dd6dbb1cbc",
-    "created_at": "2025-08-25T14:59:28.000+08:00",
-    "state": "committer",
-    "version": "1.5.2"
   },
   {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=",
