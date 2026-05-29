@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 28 May 2026 18:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 06:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.5.29]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/1b238fe8979ace8b703d37daf2caa83c415fd839</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjFiMjM4ZmU4OTc5YWNlOGI3MDNkMzdkYWYyY2FhODNjNDE1ZmQ4Mzk=</guid>
+            <pubDate>Fri, 29 May 2026 01:25:12 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/1b238fe8979ace8b703d37daf2caa83c415fd839">chore(release): bump version to 26.5.29</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-heat-map released v2.3.4 #141]]></title>
             <link>https://github.com/uiwjs/react-heat-map/commit/b29152ca519912727fcd8ababff22115ca1507d6</link>
@@ -2043,14 +2051,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjhhMDExYWM0MDEyN2FlZGE5NzdjMzJiOTkxMWY4OTBmODQ4OWIxNDY=</guid>
             <pubDate>Thu, 28 Aug 2025 20:42:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/8a011ac40127aeda977c32b9911f890f8489b146">released v3.1.5</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/auto-config-loader released v3.0.0]]></title>
-            <link>https://github.com/jaywcjlove/auto-config-loader/commit/5f495c94707979f64c3423876f5c9614502786c4</link>
-            <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOjVmNDk1Yzk0NzA3OTc5ZjY0YzM0MjM4NzZmNWM5NjE0NTAyNzg2YzQ=</guid>
-            <pubDate>Thu, 28 Aug 2025 20:26:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/5f495c94707979f64c3423876f5c9614502786c4">released v3.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
