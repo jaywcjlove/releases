@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NTI5NTk5Njk2OmQ5YjI4ZWNiYTU4ZGQwNmVlYTY2YzVhZDBjMGEwNmYxYTc2ZTdlNmU=",
+    "type": "commits",
+    "title": "released v1.2.4",
+    "repo": "uiwjs/react-back-to-top",
+    "sha": "d9b28ecba58dd06eea66c5ad0c0a06f1a76e7e6e",
+    "url": "https://github.com/uiwjs/react-back-to-top/commit/d9b28ecba58dd06eea66c5ad0c0a06f1a76e7e6e",
+    "created_at": "2026-05-31T02:07:49.000+08:00",
+    "state": "committer",
+    "version": "1.2.4"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo2Y2NiZjA3NDE0NGQ5YTJkOGUxNGRmOTJhZjI2NTFiNWRkNjYxZDFk",
     "type": "commits",
     "title": "released v1.6.0 (appi18n)",
@@ -2816,17 +2827,6 @@
     "version": "1.16.0"
   },
   {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjE4YTk2NDliZmViNTMzMTZhNzM2NTFlMjExNjczZThlNjhkM2FiMjE=",
-    "type": "commits",
-    "title": "released v3.1.4",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "18a9649bfeb53316a73651e211673e8e68d3ab21",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/18a9649bfeb53316a73651e211673e8e68d3ab21",
-    "created_at": "2025-08-26T15:21:05.000+08:00",
-    "state": "committer",
-    "version": "3.1.4"
-  },
-  {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=",
     "type": "commits",
     "title": "released v2.4.0",
@@ -2868,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "465"
+    "stars": "466"
   },
   {
     "id": 2526870275,
