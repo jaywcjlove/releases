@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 31 May 2026 17:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 07:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.6.1]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/aa9a1783443642bf667035eabf86265ea87d3c23</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmFhOWExNzgzNDQzNjQyYmY2NjcwMzVlYWJmODYyNjVlYTg3ZDNjMjM=</guid>
+            <pubDate>Mon, 01 Jun 2026 01:26:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/aa9a1783443642bf667035eabf86265ea87d3c23">chore(release): bump version to 26.6.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.14.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/6ae2ba268fa4104c29f680eb430f2503ac00058f</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo2YWUyYmEyNjhmYTQxMDRjMjlmNjgwZWI0MzBmMjUwM2FjMDAwNThm</guid>
+            <pubDate>Mon, 01 Jun 2026 00:45:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/6ae2ba268fa4104c29f680eb430f2503ac00058f">released v1.14.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-back-to-top released v1.2.4]]></title>
             <link>https://github.com/uiwjs/react-back-to-top/commit/d9b28ecba58dd06eea66c5ad0c0a06f1a76e7e6e</link>
@@ -2038,27 +2054,11 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/musicer released v1.9.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/ef96954bf71328b1413dfda67126a0477924bdda</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmVmOTY5NTRiZjcxMzI4YjE0MTNkZmRhNjcxMjZhMDQ3NzkyNGJkZGE=</guid>
-            <pubDate>Tue, 02 Sep 2025 02:44:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/ef96954bf71328b1413dfda67126a0477924bdda">released v1.9.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.4.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91</link>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo4ZGQ2N2NiMzliMWZiYWUxMjNkMzQ3M2NkNjNiYjk4YzU0YmVhZTkx</guid>
             <pubDate>Tue, 02 Sep 2025 02:04:32 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.24.0]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/2bcc37ad2561c3c7ce0b8ae853700c4328ba4224</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OjJiY2MzN2FkMjU2MWMzYzdjZTBiOGFlODUzNzAwYzQzMjhiYTQyMjQ=</guid>
-            <pubDate>Mon, 01 Sep 2025 05:08:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/2bcc37ad2561c3c7ce0b8ae853700c4328ba4224">released v2.24.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
