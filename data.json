@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzoyNWJmYzY1ODc3YTdiMWFjMjU4MWNlZjg1YTg4NThjMDdlZDM4ZDI1",
+    "type": "commits",
+    "title": "released v1.15.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "25bfc65877a7b1ac2581cef85a8858c07ed38d25",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/25bfc65877a7b1ac2581cef85a8858c07ed38d25",
+    "created_at": "2026-06-03T13:56:08.000+08:00",
+    "state": "committer",
+    "version": "1.15.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjY1ZmU5NTVhMzgzNmIxNTMwZjlhMDE5YjVkNTc0MTZhOThiOWI3NDI=",
+    "type": "commits",
+    "title": "released v4.5.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "65fe955a3836b1530f9a019b5d57416a98b9b742",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/65fe955a3836b1530f9a019b5d57416a98b9b742",
+    "created_at": "2026-06-03T13:54:37.000+08:00",
+    "state": "committer",
+    "version": "4.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmFhOWExNzgzNDQzNjQyYmY2NjcwMzVlYWJmODYyNjVlYTg3ZDNjMjM=",
     "type": "commits",
     "title": "chore(release): bump version to 26.6.1",
@@ -2825,17 +2847,6 @@
     "created_at": "2025-08-27T11:06:58.000+08:00",
     "state": "committer",
     "version": "1.16.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=",
-    "type": "commits",
-    "title": "released v2.4.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "ad0f509a643949430a6f6cb7ff4ad19d5493b9bb",
-    "url": "https://github.com/jaywcjlove/daybar/commit/ad0f509a643949430a6f6cb7ff4ad19d5493b9bb",
-    "created_at": "2025-08-25T03:17:01.000+08:00",
-    "state": "committer",
-    "version": "2.4.0"
   },
   {
     "id": 3344245728,

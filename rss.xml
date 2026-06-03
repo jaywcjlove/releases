@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 02 Jun 2026 18:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 07:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.15.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/25bfc65877a7b1ac2581cef85a8858c07ed38d25</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzoyNWJmYzY1ODc3YTdiMWFjMjU4MWNlZjg1YTg4NThjMDdlZDM4ZDI1</guid>
+            <pubDate>Wed, 03 Jun 2026 05:56:08 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/25bfc65877a7b1ac2581cef85a8858c07ed38d25">released v1.15.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v4.5.0]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/65fe955a3836b1530f9a019b5d57416a98b9b742</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjY1ZmU5NTVhMzgzNmIxNTMwZjlhMDE5YjVkNTc0MTZhOThiOWI3NDI=</guid>
+            <pubDate>Wed, 03 Jun 2026 05:54:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/65fe955a3836b1530f9a019b5d57416a98b9b742">released v4.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.6.1]]></title>
             <link>https://github.com/jaywcjlove/github-rank/commit/aa9a1783443642bf667035eabf86265ea87d3c23</link>
@@ -2083,14 +2099,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjBiNzU4OGExNTY3NDAwYTE0Y2JkMzk1Y2NjZjBjZTZlYTc5OTIwOWI=</guid>
             <pubDate>Wed, 27 Aug 2025 03:06:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/0b7588a1567400a14cbd395cccf0ce6ea799209b">released v1.16.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/daybar released v2.4.0]]></title>
-            <link>https://github.com/jaywcjlove/daybar/commit/ad0f509a643949430a6f6cb7ff4ad19d5493b9bb</link>
-            <guid>MDY6Q29tbWl0OTExNzQxNzc0OmFkMGY1MDlhNjQzOTQ5NDMwYTZmNmNiN2ZmNGFkMTlkNTQ5M2I5YmI=</guid>
-            <pubDate>Sun, 24 Aug 2025 19:17:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/ad0f509a643949430a6f6cb7ff4ad19d5493b9bb">released v2.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
