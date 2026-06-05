@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 05 Jun 2026 06:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 18:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2070,6 +2070,14 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo4ZGQ2N2NiMzliMWZiYWUxMjNkMzQ3M2NkNjNiYjk4YzU0YmVhZTkx</guid>
+            <pubDate>Tue, 02 Sep 2025 02:04:32 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/DevHub released v1.45.0]]></title>
             <link>https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583</link>
             <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmRiNWZjZjA4N2NiOGM3NTc1MTRlZTQwN2VmMDc3NmU0MTRlODQ1ODM=</guid>
@@ -2100,14 +2108,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Fri, 22 Aug 2025 05:56:49 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/prettier/prettier/pull/17804">doc: update related-projects.md</a>]]></description>
             <enclosure url="https://github.com/prettier.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/IconizeFolder released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb</link>
-            <guid>MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=</guid>
-            <pubDate>Wed, 20 Aug 2025 18:26:34 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[codemirror/website Add swiftui-codemirror package to community page.]]></title>

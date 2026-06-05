@@ -2805,6 +2805,17 @@
     "version": "3.1.6"
   },
   {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo4ZGQ2N2NiMzliMWZiYWUxMjNkMzQ3M2NkNjNiYjk4YzU0YmVhZTkx",
+    "type": "commits",
+    "title": "released v1.4.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "8dd67cb39b1fbae123d3473cd63bb98c54beae91",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91",
+    "created_at": "2025-09-02T10:04:32.000+08:00",
+    "state": "committer",
+    "version": "1.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmRiNWZjZjA4N2NiOGM3NTc1MTRlZTQwN2VmMDc3NmU0MTRlODQ1ODM=",
     "type": "commits",
     "title": "released v1.45.0",
@@ -2847,17 +2858,6 @@
     "state": "merged",
     "number": 17804,
     "stars": "51.9K"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmE3ZDAwOTQ5YTljMzBlOGNlYzI3N2FiNTc5NTAzMTllYjM4ZWQ5ZmI=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "a7d00949a9c30e8cec277ab57950319eb38ed9fb",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/a7d00949a9c30e8cec277ab57950319eb38ed9fb",
-    "created_at": "2025-08-21T02:26:34.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
   },
   {
     "id": 3312304333,
