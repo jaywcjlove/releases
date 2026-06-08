@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjBhYjdlOGM0NzJlYThmNWE3NmUxNzVkZjQ2ZWZhNjVjYmNlNzJjMjM=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.6.8",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "0ab7e8c472ea8f5a76e175df46efa65cbce72c23",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/0ab7e8c472ea8f5a76e175df46efa65cbce72c23",
+    "created_at": "2026-06-08T01:05:40.000Z",
+    "state": "committer",
+    "version": "26.6.8"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzpmOGZlM2JkMjhhMGMyNGE4YTdkODgwNjFhMTczMGU3NDUyMTliMTY0",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/zipora",
+    "sha": "f8fe3bd28a0c24a8a7d88061a1730e745219b164",
+    "url": "https://github.com/jaywcjlove/zipora/commit/f8fe3bd28a0c24a8a7d88061a1730e745219b164",
+    "created_at": "2026-06-08T09:04:06.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzoyNWJmYzY1ODc3YTdiMWFjMjU4MWNlZjg1YTg4NThjMDdlZDM4ZDI1",
     "type": "commits",
     "title": "released v1.15.0",
@@ -2803,39 +2825,6 @@
     "created_at": "2025-09-02T13:12:59.000+08:00",
     "state": "committer",
     "version": "3.1.6"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo4ZGQ2N2NiMzliMWZiYWUxMjNkMzQ3M2NkNjNiYjk4YzU0YmVhZTkx",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/vidwall",
-    "sha": "8dd67cb39b1fbae123d3473cd63bb98c54beae91",
-    "url": "https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91",
-    "created_at": "2025-09-02T10:04:32.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOmRiNWZjZjA4N2NiOGM3NTc1MTRlZTQwN2VmMDc3NmU0MTRlODQ1ODM=",
-    "type": "commits",
-    "title": "released v1.45.0",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "db5fcf087cb8c757514ee407ef0776e414e84583",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583",
-    "created_at": "2025-09-01T10:42:53.000+08:00",
-    "state": "committer",
-    "version": "1.45.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjhhMDExYWM0MDEyN2FlZGE5NzdjMzJiOTkxMWY4OTBmODQ4OWIxNDY=",
-    "type": "commits",
-    "title": "released v3.1.5",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "8a011ac40127aeda977c32b9911f890f8489b146",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/8a011ac40127aeda977c32b9911f890f8489b146",
-    "created_at": "2025-08-29T04:42:07.000+08:00",
-    "state": "committer",
-    "version": "3.1.5"
   },
   {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjBiNzU4OGExNTY3NDAwYTE0Y2JkMzk1Y2NjZjBjZTZlYTc5OTIwOWI=",

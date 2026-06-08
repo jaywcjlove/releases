@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 07 Jun 2026 17:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 07:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.6.8]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/0ab7e8c472ea8f5a76e175df46efa65cbce72c23</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjBhYjdlOGM0NzJlYThmNWE3NmUxNzVkZjQ2ZWZhNjVjYmNlNzJjMjM=</guid>
+            <pubDate>Mon, 08 Jun 2026 01:05:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/0ab7e8c472ea8f5a76e175df46efa65cbce72c23">chore(release): bump version to 26.6.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/zipora released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/zipora/commit/f8fe3bd28a0c24a8a7d88061a1730e745219b164</link>
+            <guid>MDY6Q29tbWl0MTIzMDg1MTYyNzpmOGZlM2JkMjhhMGMyNGE4YTdkODgwNjFhMTczMGU3NDUyMTliMTY0</guid>
+            <pubDate>Mon, 08 Jun 2026 01:04:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/zipora/commit/f8fe3bd28a0c24a8a7d88061a1730e745219b164">released v1.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.15.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/25bfc65877a7b1ac2581cef85a8858c07ed38d25</link>
@@ -2067,30 +2083,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OmRjODQyNmRiMzQzZjAxY2FiZDM1ZWU5MTgwN2Y1YTUyYzZkZDg5NGE=</guid>
             <pubDate>Tue, 02 Sep 2025 05:12:59 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/dc8426db343f01cabd35ee91807f5a52c6dd894a">released v3.1.6</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo4ZGQ2N2NiMzliMWZiYWUxMjNkMzQ3M2NkNjNiYjk4YzU0YmVhZTkx</guid>
-            <pubDate>Tue, 02 Sep 2025 02:04:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/8dd67cb39b1fbae123d3473cd63bb98c54beae91">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/DevHub released v1.45.0]]></title>
-            <link>https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583</link>
-            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOmRiNWZjZjA4N2NiOGM3NTc1MTRlZTQwN2VmMDc3NmU0MTRlODQ1ODM=</guid>
-            <pubDate>Mon, 01 Sep 2025 02:42:53 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/db5fcf087cb8c757514ee407ef0776e414e84583">released v1.45.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/ejs-cli released v3.1.5]]></title>
-            <link>https://github.com/jaywcjlove/ejs-cli/commit/8a011ac40127aeda977c32b9911f890f8489b146</link>
-            <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjhhMDExYWM0MDEyN2FlZGE5NzdjMzJiOTkxMWY4OTBmODQ4OWIxNDY=</guid>
-            <pubDate>Thu, 28 Aug 2025 20:42:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/8a011ac40127aeda977c32b9911f890f8489b146">released v3.1.5</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
