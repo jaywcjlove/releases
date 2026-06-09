@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzo4YTQwNjZlYzcxNTA4ZWNiYTQ0Njg4NzNhNzRjZDQzNmI0NjBkNzVk",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/zipora",
+    "sha": "8a4066ec71508ecba4468873a74cd436b460d75d",
+    "url": "https://github.com/jaywcjlove/zipora/commit/8a4066ec71508ecba4468873a74cd436b460d75d",
+    "created_at": "2026-06-09T11:21:28.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjBhYjdlOGM0NzJlYThmNWE3NmUxNzVkZjQ2ZWZhNjVjYmNlNzJjMjM=",
     "type": "commits",
     "title": "chore(release): bump version to 26.6.8",
@@ -657,7 +668,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4120997046,
@@ -668,7 +679,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4120957830,
@@ -679,7 +690,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4120948338,
@@ -690,7 +701,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4120791922,
@@ -701,7 +712,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4101342958,
@@ -712,7 +723,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4101340977,
@@ -723,7 +734,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4101336030,
@@ -734,7 +745,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4101325858,
@@ -745,7 +756,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4101323235,
@@ -756,7 +767,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4101318030,
@@ -767,7 +778,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4100966126,
@@ -778,7 +789,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": 4100952563,
@@ -789,7 +800,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "4.6K"
+    "stars": "4.7K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2825,17 +2836,6 @@
     "created_at": "2025-09-02T13:12:59.000+08:00",
     "state": "committer",
     "version": "3.1.6"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjBiNzU4OGExNTY3NDAwYTE0Y2JkMzk1Y2NjZjBjZTZlYTc5OTIwOWI=",
-    "type": "commits",
-    "title": "released v1.16.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "0b7588a1567400a14cbd395cccf0ce6ea799209b",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/0b7588a1567400a14cbd395cccf0ce6ea799209b",
-    "created_at": "2025-08-27T11:06:58.000+08:00",
-    "state": "committer",
-    "version": "1.16.0"
   },
   {
     "id": 3344245728,
