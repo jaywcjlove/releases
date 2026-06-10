@@ -1,16 +1,5 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzo4YTQwNjZlYzcxNTA4ZWNiYTQ0Njg4NzNhNzRjZDQzNmI0NjBkNzVk",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/zipora",
-    "sha": "8a4066ec71508ecba4468873a74cd436b460d75d",
-    "url": "https://github.com/jaywcjlove/zipora/commit/8a4066ec71508ecba4468873a74cd436b460d75d",
-    "created_at": "2026-06-09T11:21:28.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjBhYjdlOGM0NzJlYThmNWE3NmUxNzVkZjQ2ZWZhNjVjYmNlNzJjMjM=",
     "type": "commits",
     "title": "chore(release): bump version to 26.6.8",
@@ -20,17 +9,6 @@
     "created_at": "2026-06-08T01:05:40.000Z",
     "state": "committer",
     "version": "26.6.8"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzpmOGZlM2JkMjhhMGMyNGE4YTdkODgwNjFhMTczMGU3NDUyMTliMTY0",
-    "type": "commits",
-    "title": "released v1.5.0",
-    "repo": "jaywcjlove/zipora",
-    "sha": "f8fe3bd28a0c24a8a7d88061a1730e745219b164",
-    "url": "https://github.com/jaywcjlove/zipora/commit/f8fe3bd28a0c24a8a7d88061a1730e745219b164",
-    "created_at": "2026-06-08T09:04:06.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
   },
   {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzoyNWJmYzY1ODc3YTdiMWFjMjU4MWNlZjg1YTg4NThjMDdlZDM4ZDI1",
@@ -99,17 +77,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo4MjMyM2M5YjA3YWQ5ZTEzY2U1MmVkNGRiZGNkOTA1OTE1NWZkNmE5",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/app-i18n",
-    "sha": "82323c9b07ad9e13ce52ed4dbdcd9059155fd6a9",
-    "url": "https://github.com/jaywcjlove/app-i18n/commit/82323c9b07ad9e13ce52ed4dbdcd9059155fd6a9",
-    "created_at": "2026-05-30T12:23:38.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjFiMjM4ZmU4OTc5YWNlOGI3MDNkMzdkYWYyY2FhODNjNDE1ZmQ4Mzk=",
     "type": "commits",
     "title": "chore(release): bump version to 26.5.29",
@@ -163,17 +130,6 @@
     "created_at": "2026-05-25T02:56:38.000+08:00",
     "state": "committer",
     "version": "2.10.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzpiYTk5NzI1MzIyMzI3NDBiMjQ2NzAwNjZiNWU0MzY4MjliMzdmMGMy",
-    "type": "commits",
-    "title": "released v1.3.0",
-    "repo": "jaywcjlove/zipora",
-    "sha": "ba9972532232740b24670066b5e436829b37f0c2",
-    "url": "https://github.com/jaywcjlove/zipora/commit/ba9972532232740b24670066b5e436829b37f0c2",
-    "created_at": "2026-05-24T17:51:00.000+08:00",
-    "state": "committer",
-    "version": "1.3.0"
   },
   {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmNiYzRjYTYwZmYxY2YyZThjNmZkYzc2N2Y0YTYzMThhMWQyMTBmNzA=",
@@ -231,17 +187,6 @@
     "version": "5.2.1"
   },
   {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjQwYzY5MDY2YmRmZWFhZjFiYjExZThjOTdkMjIxOWI4ZDgyYzc3N2I=",
-    "type": "commits",
-    "title": "released v4.1.1",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "40c69066bdfeaaf1bb11e8c97d2219b8d82c777b",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/40c69066bdfeaaf1bb11e8c97d2219b8d82c777b",
-    "created_at": "2026-05-22T00:00:49.000+08:00",
-    "state": "committer",
-    "version": "4.1.1"
-  },
-  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmQ1NGMxMzAzZjVlMjEzMzE0NThiMmI2NTY5ZWUzODk3ZTY0MGMwYmU=",
     "type": "commits",
     "title": "released v4.25.10",
@@ -262,17 +207,6 @@
     "created_at": "2026-05-20T03:13:05.000Z",
     "state": "committer",
     "version": "26.5.20"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzphNWIwMWJhODA3OWFhZjQzOTcwNmMzNWNhYjNhYzQzOTYzYzBjZGMx",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/zipora",
-    "sha": "a5b01ba8079aaf439706c35cab3ac43963c0cdc1",
-    "url": "https://github.com/jaywcjlove/zipora/commit/a5b01ba8079aaf439706c35cab3ac43963c0cdc1",
-    "created_at": "2026-05-19T17:59:52.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
   },
   {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjNlMGM0ZjJmZDdjYjU3YzZmZGE1MDQ0YzNkMjFlYTQzOTBkZmU5MDI=",
@@ -297,6 +231,17 @@
     "version": "1.10.2"
   },
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmE1ZTdjNDllZjAzNWE0YzljODA2YmQ1NTc1NDNiNmEwYzc3MjVmYjA=",
+    "type": "commits",
+    "title": "released v2.27.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "a5e7c49ef035a4c9c806bd557543b6a0c7725fb0",
+    "url": "https://github.com/jaywcjlove/free-font/commit/a5e7c49ef035a4c9c806bd557543b6a0c7725fb0",
+    "created_at": "2026-05-11T19:47:50.000+08:00",
+    "state": "committer",
+    "version": "2.27.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTIzNTE2MzYwNjoxOTIxNWI1NTE5YmNlODE2MTAwZGIwZDJjZjI4Y2E3MjIxNmVmYTE2",
     "type": "commits",
     "title": "released v1.0.1",
@@ -317,6 +262,17 @@
     "created_at": "2026-05-11T00:31:12.000+08:00",
     "state": "committer",
     "version": "3.2.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTQ4ODg4MTU5OjlkZjk2MzdkMWVmYWU4ODFjZDc4NGE2ZmRkZDYwZmYyNjM2NGQ1MDY=",
+    "type": "commits",
+    "title": "released v6.5.2 #276",
+    "repo": "jaywcjlove/svgtofont",
+    "sha": "9df9637d1efae881cd784a6fddd60ff26364d506",
+    "url": "https://github.com/jaywcjlove/svgtofont/commit/9df9637d1efae881cd784a6fddd60ff26364d506",
+    "created_at": "2026-05-04T23:05:55.000+08:00",
+    "state": "committer",
+    "version": "6.5.2"
   },
   {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZDA0Y2EyZDkwOGQzOGYwYmVjYmY0NTc1MjM2MWM2ZmUwMmY5OGIxYg==",
@@ -403,17 +359,6 @@
     "sha": "f7f3268031f19fc98061ffa63d4d8aae19694cf3",
     "url": "https://github.com/jaywcjlove/homebrew-tap/commit/f7f3268031f19fc98061ffa63d4d8aae19694cf3",
     "created_at": "2026-04-22T18:05:13.000+08:00",
-    "state": "committer",
-    "version": "1.5.2"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw",
-    "type": "commits",
-    "title": "released v1.5.2",
-    "repo": "jaywcjlove/app-i18n",
-    "sha": "7974320904f9e2b4ba29bab71175dc704f3c1be0",
-    "url": "https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0",
-    "created_at": "2026-04-22T18:01:57.000+08:00",
     "state": "committer",
     "version": "1.5.2"
   },
@@ -559,17 +504,6 @@
     "created_at": "2026-03-31T00:51:52.000+08:00",
     "state": "committer",
     "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmE5ZTdhN2Y5ZGY4N2RmMzQ1MDMyYjhmN2FmMzg1NWQ2YjI5MDExZDI=",
-    "type": "commits",
-    "title": "released v4.1.0 #704",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "a9e7a7f9df87df345032b8f7af3855d6b29011d2",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/a9e7a7f9df87df345032b8f7af3855d6b29011d2",
-    "created_at": "2026-03-29T12:16:24.000+08:00",
-    "state": "committer",
-    "version": "4.1.0"
   },
   {
     "id": "MDY6Q29tbWl0NjY2NDgwOTUzOmFmZjhiZDkxZWU3NmM0ODg0YjFiYWExNDY3OTc1OGNlMGQ5OWJkNjM=",
@@ -878,6 +812,17 @@
     "created_at": "2026-03-16T15:46:31.000+08:00",
     "state": "committer",
     "version": "2.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTIwNjQxODIzOmRjODBiOTFiY2Y3ZmU2ZWVjYTVlYzU1NDM4YWRlMTVmNjFhODM4OTg=",
+    "type": "commits",
+    "title": "released v4.0.0",
+    "repo": "jaywcjlove/mocker-api",
+    "sha": "dc80b91bcf7fe6eeca5ec55438ade15f61a83898",
+    "url": "https://github.com/jaywcjlove/mocker-api/commit/dc80b91bcf7fe6eeca5ec55438ade15f61a83898",
+    "created_at": "2026-03-16T14:42:20.000+08:00",
+    "state": "committer",
+    "version": "4.0.0"
   },
   {
     "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjhlMTIyZmIxNmIyNGRiNWE3MTk3MjNmZWYxMjI3MzUzZmMxNGFkN2Q=",
