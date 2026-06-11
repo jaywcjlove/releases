@@ -45,7 +45,7 @@
   <br />
 </div>
 
-Update date: <!--GAMFC-->2026-06-10 18:21:21<!--GAMFC-END-->
+Update date: <!--GAMFC-->2026-06-11 07:07:56<!--GAMFC-END-->
 
 ```sh
 https://wangchujiang.com/releases/
