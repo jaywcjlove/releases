@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 16 Jun 2026 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 18:49:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2046,6 +2046,14 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.10.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/4306ff66a80d369b746359e12cd6bca041f4ba27</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjQzMDZmZjY2YTgwZDM2OWI3NDYzNTllMTJjZDZiY2EwNDFmNGJhMjc=</guid>
+            <pubDate>Sat, 20 Sep 2025 10:48:42 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/4306ff66a80d369b746359e12cd6bca041f4ba27">released v1.10.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/devtutor released v1.28.0]]></title>
             <link>https://github.com/jaywcjlove/devtutor/commit/97e30ecdf02835cbbb2d03a3e9b98d1ff7685004</link>
             <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk3ZTMwZWNkZjAyODM1Y2JiYjJkMDNhM2U5Yjk4ZDFmZjc2ODUwMDQ=</guid>
@@ -2083,14 +2091,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OmJlZDE1NTU4Mzc0NDMwYzk1NjdlOTJjMzcxNGFmMGFiN2E0MmVlMTk=</guid>
             <pubDate>Wed, 17 Sep 2025 16:50:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/bed15558374430c9567e92c3714af0ab7a42ee19">released v2.15.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/refs-cli released v1.11.1]]></title>
-            <link>https://github.com/jaywcjlove/refs-cli/commit/4a0014a9b448633063bc7763afc550cb46c35b12</link>
-            <guid>MDY6Q29tbWl0NTY5OTQwOTE2OjRhMDAxNGE5YjQ0ODYzMzA2M2JjNzc2M2FmYzU1MGNiNDZjMzViMTI=</guid>
-            <pubDate>Mon, 15 Sep 2025 05:10:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/refs-cli/commit/4a0014a9b448633063bc7763afc550cb46c35b12">released v1.11.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -2772,6 +2772,17 @@
     "version": "2.0.0-alpha.39"
   },
   {
+    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjQzMDZmZjY2YTgwZDM2OWI3NDYzNTllMTJjZDZiY2EwNDFmNGJhMjc=",
+    "type": "commits",
+    "title": "released v1.10.0",
+    "repo": "jaywcjlove/iconed",
+    "sha": "4306ff66a80d369b746359e12cd6bca041f4ba27",
+    "url": "https://github.com/jaywcjlove/iconed/commit/4306ff66a80d369b746359e12cd6bca041f4ba27",
+    "created_at": "2025-09-20T18:48:42.000+08:00",
+    "state": "committer",
+    "version": "1.10.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4Ojk3ZTMwZWNkZjAyODM1Y2JiYjJkMDNhM2U5Yjk4ZDFmZjc2ODUwMDQ=",
     "type": "commits",
     "title": "released v1.28.0",
@@ -2827,17 +2838,6 @@
     "version": "2.15.0"
   },
   {
-    "id": "MDY6Q29tbWl0NTY5OTQwOTE2OjRhMDAxNGE5YjQ0ODYzMzA2M2JjNzc2M2FmYzU1MGNiNDZjMzViMTI=",
-    "type": "commits",
-    "title": "released v1.11.1",
-    "repo": "jaywcjlove/refs-cli",
-    "sha": "4a0014a9b448633063bc7763afc550cb46c35b12",
-    "url": "https://github.com/jaywcjlove/refs-cli/commit/4a0014a9b448633063bc7763afc550cb46c35b12",
-    "created_at": "2025-09-15T13:10:40.000+08:00",
-    "state": "committer",
-    "version": "1.11.1"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2868,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "468"
+    "stars": "469"
   },
   {
     "id": 2526870275,
