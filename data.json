@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpmNjAzYzA2MWZmMmVhZjU3MzJkMmE2NmJlYWQ2NGFhZDkzZGQ1NTUy",
+    "type": "commits",
+    "title": "released v1.5.1",
+    "repo": "jaywcjlove/vidcrop",
+    "sha": "f603c061ff2eaf5732d2a66bead64aad93dd5552",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/f603c061ff2eaf5732d2a66bead64aad93dd5552",
+    "created_at": "2026-06-19T08:06:47.000+08:00",
+    "state": "committer",
+    "version": "1.5.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpiZDhmOGNmMDg0MjU2ZjBjZjRjZWE3NzQxOTBiNmQzZTI0ZjdlZTlm",
     "type": "commits",
     "title": "released v1.6.2",
@@ -2803,17 +2814,6 @@
     "created_at": "2025-09-19T06:58:16.000+08:00",
     "state": "committer",
     "version": "1.28.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTY1NjkzMzA0OjI2NjdhMzZjMTA0MmM3OThjMmJkNGExYjRkZmE3YzVlMTIyNDc5Y2U=",
-    "type": "commits",
-    "title": "released v1.8.1",
-    "repo": "uiwjs/babel-plugin-transform-remove-imports",
-    "sha": "2667a36c1042c798c2bd4a1b4dfa7c5e122479ce",
-    "url": "https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/2667a36c1042c798c2bd4a1b4dfa7c5e122479ce",
-    "created_at": "2025-09-18T23:59:06.000+08:00",
-    "state": "committer",
-    "version": "1.8.1"
   },
   {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUwZWRkNTUzNGZkMzBmNmYyZmI4MzJlOGJlZTY4MGM1MzJjYTAzMzc=",
