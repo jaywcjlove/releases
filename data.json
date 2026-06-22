@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjcwN2Q3ZjZjZjI1NjBjMzYxNTQzMTE1ZWJhZTRlMWI4NWJhNjRlM2I=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.6.22",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "707d7f6cf2560c361543115ebae4e1b85ba64e3b",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/707d7f6cf2560c361543115ebae4e1b85ba64e3b",
+    "created_at": "2026-06-22T01:29:02.000Z",
+    "state": "committer",
+    "version": "26.6.22"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpmNjAzYzA2MWZmMmVhZjU3MzJkMmE2NmJlYWQ2NGFhZDkzZGQ1NTUy",
     "type": "commits",
     "title": "released v1.5.1",
@@ -2816,17 +2827,6 @@
     "version": "1.28.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUwZWRkNTUzNGZkMzBmNmYyZmI4MzJlOGJlZTY4MGM1MzJjYTAzMzc=",
-    "type": "commits",
-    "title": "released v4.25.2",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "e0edd5534fd30f6f2fb832e8bee680c532ca0337",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/e0edd5534fd30f6f2fb832e8bee680c532ca0337",
-    "created_at": "2025-09-18T23:14:50.000+08:00",
-    "state": "committer",
-    "version": "4.25.2"
-  },
-  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowYTQwMTA0YzI5NDgyNDg5M2I4MzNhZWQ4YzFhYmUwMTMxYTVlZDZl",
     "type": "commits",
     "title": "released v1.0.0",
@@ -2868,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "470"
+    "stars": "471"
   },
   {
     "id": 2526870275,
