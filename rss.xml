@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 28 Jun 2026 17:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 07:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.6.29]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/d1d1a61601f71d7829160513b1967a27cb598715</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmQxZDFhNjE2MDFmNzFkNzgyOTE2MDUxM2IxOTY3YTI3Y2I1OTg3MTU=</guid>
+            <pubDate>Mon, 29 Jun 2026 01:25:40 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/d1d1a61601f71d7829160513b1967a27cb598715">chore(release): bump version to 26.6.29</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidcrop released v1.5.2]]></title>
             <link>https://github.com/jaywcjlove/vidcrop/commit/f829ea3148d1161445a77075b46d16ea39c37ad1</link>
