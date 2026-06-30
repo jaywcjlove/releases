@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 30 Jun 2026 06:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 18:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/svgtofont released v6.5.3]]></title>
+            <link>https://github.com/jaywcjlove/svgtofont/commit/2364bc777578d484151acc11c998886911bc8df6</link>
+            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjIzNjRiYzc3NzU3OGQ0ODQxNTFhY2MxMWM5OTg4ODY5MTFiYzhkZjY=</guid>
+            <pubDate>Tue, 30 Jun 2026 14:58:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/2364bc777578d484151acc11c998886911bc8df6">released v6.5.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidcrop released v1.5.3]]></title>
             <link>https://github.com/jaywcjlove/vidcrop/commit/e30d6171cd64e75fbb876733bcaa006d9435ec4b</link>
@@ -2091,14 +2099,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0MTA2NTQ1MDM0NzozZTk4NjgyNWFjNzE4ODkwZTUwYTk5YTI4OWU4ZjdiNjU0MTkxNWQw</guid>
             <pubDate>Sun, 28 Sep 2025 10:14:31 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/3e986825ac718890e50a99a289e8f7b6541915d0">released v1.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rightmenu-master released v4.0.0]]></title>
-            <link>https://github.com/jaywcjlove/rightmenu-master/commit/18a5d4737f1ce7ac6bfd7c6ec09e8c10b770d545</link>
-            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OjE4YTVkNDczN2YxY2U3YWM2YmZkN2M2ZWMwOWU4YzEwYjc3MGQ1NDU=</guid>
-            <pubDate>Fri, 26 Sep 2025 01:35:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/18a5d4737f1ce7ac6bfd7c6ec09e8c10b770d545">released v4.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
