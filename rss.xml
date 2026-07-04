@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 03 Jul 2026 18:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 08:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v2.3.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/171b9dbcd9d862e517982bddd25c47272061d99b</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3OjE3MWI5ZGJjZDlkODYyZTUxNzk4MmJkZGQyNWM0NzI3MjA2MWQ5OWI=</guid>
+            <pubDate>Sat, 04 Jul 2026 02:21:12 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/171b9dbcd9d862e517982bddd25c47272061d99b">released v2.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/zipora released v1.8.0]]></title>
             <link>https://github.com/jaywcjlove/zipora/commit/c66207402bc3cde0bb134119539f45089f99da34</link>
@@ -2083,22 +2091,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzphYTc5ZTQ5M2EwNmI2OWRjODVkMDllYTJmNmIyNzBlNjdiYzgyMjE5</guid>
             <pubDate>Mon, 29 Sep 2025 16:44:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.8.1 #189]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/3c442028a2dfce5739efd31ae3c7c0ab429cb22b</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjNjNDQyMDI4YTJkZmNlNTczOWVmZDMxYWUzYzdjMGFiNDI5Y2IyMmI=</guid>
-            <pubDate>Mon, 29 Sep 2025 15:59:50 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/3c442028a2dfce5739efd31ae3c7c0ab429cb22b">released v2.8.1 #189</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.6.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/ee62e60a01d36b4cf7c280cdd2bfcb67a35a8472</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzplZTYyZTYwYTAxZDM2YjRjZjdjMjgwY2RkMmJmY2I2N2EzNWE4NDcy</guid>
-            <pubDate>Mon, 29 Sep 2025 13:19:02 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/ee62e60a01d36b4cf7c280cdd2bfcb67a35a8472">released v1.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
