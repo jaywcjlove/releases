@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoxOWY4ZGI3ZjQ1MDE4YzFlM2E4ZGMzMjBhMmJlYjJmNTcwZTgxZjFj",
+    "type": "commits",
+    "title": "released v1.1.8 (linkly)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "19f8db7f45018c1e3a8dc320a2beb2f570e81f1c",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/19f8db7f45018c1e3a8dc320a2beb2f570e81f1c",
+    "created_at": "2026-07-07T06:37:21.000+08:00",
+    "state": "committer",
+    "version": "1.1.8"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTI5MDgyMjI5MzphYzYwOGNkZDdjNWE4YTIyYmE2NTU5YmVlYmEwNWY4MWNiM2QyYjc4",
+    "type": "commits",
+    "title": "released v1.1.8",
+    "repo": "jaywcjlove/linkly",
+    "sha": "ac608cdd7c5a8a22ba6559beeba05f81cb3d2b78",
+    "url": "https://github.com/jaywcjlove/linkly/commit/ac608cdd7c5a8a22ba6559beeba05f81cb3d2b78",
+    "created_at": "2026-07-07T06:04:50.000+08:00",
+    "state": "committer",
+    "version": "1.1.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo5ZTFlYzgyNDA3MzhkMDg1MGNkYTYwZjg5OTFlY2Y0ODU0ZGNlYTc0",
     "type": "commits",
     "title": "released v1.1.7 (linkly)",
@@ -2838,17 +2860,6 @@
     "version": "3.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTA2NTQ1MDM0Nzo3Njg5MDMyNWM3YzFiMjE2OTY1NDZjOWMxY2Y3NDExNzg0ZWJhOTQy",
-    "type": "commits",
-    "title": "released v1.5.0",
-    "repo": "jaywcjlove/vidwall-hub",
-    "sha": "76890325c7c1b21696546c9c1cf7411784eba942",
-    "url": "https://github.com/jaywcjlove/vidwall-hub/commit/76890325c7c1b21696546c9c1cf7411784eba942",
-    "created_at": "2025-09-30T02:10:10.000+08:00",
-    "state": "committer",
-    "version": "1.5.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzphYTc5ZTQ5M2EwNmI2OWRjODVkMDllYTJmNmIyNzBlNjdiYzgyMjE5",
     "type": "commits",
     "title": "released v1.7.0",
@@ -2858,17 +2869,6 @@
     "created_at": "2025-09-30T00:44:47.000+08:00",
     "state": "committer",
     "version": "1.7.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTA2NTQ1MDM0Nzo0OGY2NzEwYjkzOGY4MTM1MjlhOTNjOWQwOTkzNDEyOGQ2OTU1MTY3",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/vidwall-hub",
-    "sha": "48f6710b938f813529a93c9d09934128d6955167",
-    "url": "https://github.com/jaywcjlove/vidwall-hub/commit/48f6710b938f813529a93c9d09934128d6955167",
-    "created_at": "2025-09-29T17:10:42.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
   },
   {
     "id": 3344245728,
@@ -2901,7 +2901,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "473"
+    "stars": "474"
   },
   {
     "id": 2526870275,

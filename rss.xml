@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 06 Jul 2026 19:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 08:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.1.8 (linkly)]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/19f8db7f45018c1e3a8dc320a2beb2f570e81f1c</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDoxOWY4ZGI3ZjQ1MDE4YzFlM2E4ZGMzMjBhMmJlYjJmNTcwZTgxZjFj</guid>
+            <pubDate>Mon, 06 Jul 2026 22:37:21 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/19f8db7f45018c1e3a8dc320a2beb2f570e81f1c">released v1.1.8 (linkly)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/linkly released v1.1.8]]></title>
+            <link>https://github.com/jaywcjlove/linkly/commit/ac608cdd7c5a8a22ba6559beeba05f81cb3d2b78</link>
+            <guid>MDY6Q29tbWl0MTI5MDgyMjI5MzphYzYwOGNkZDdjNWE4YTIyYmE2NTU5YmVlYmEwNWY4MWNiM2QyYjc4</guid>
+            <pubDate>Mon, 06 Jul 2026 22:04:50 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/linkly/commit/ac608cdd7c5a8a22ba6559beeba05f81cb3d2b78">released v1.1.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/homebrew-tap released v1.1.7 (linkly)]]></title>
             <link>https://github.com/jaywcjlove/homebrew-tap/commit/9e1ec8240738d0850cda60f8991ecf4854dcea74</link>
@@ -2094,27 +2110,11 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/vidwall-hub released v1.5.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall-hub/commit/76890325c7c1b21696546c9c1cf7411784eba942</link>
-            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0Nzo3Njg5MDMyNWM3YzFiMjE2OTY1NDZjOWMxY2Y3NDExNzg0ZWJhOTQy</guid>
-            <pubDate>Mon, 29 Sep 2025 18:10:10 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/76890325c7c1b21696546c9c1cf7411784eba942">released v1.5.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.7.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219</link>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzphYTc5ZTQ5M2EwNmI2OWRjODVkMDllYTJmNmIyNzBlNjdiYzgyMjE5</guid>
             <pubDate>Mon, 29 Sep 2025 16:44:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219">released v1.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall-hub released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall-hub/commit/48f6710b938f813529a93c9d09934128d6955167</link>
-            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0Nzo0OGY2NzEwYjkzOGY4MTM1MjlhOTNjOWQwOTkzNDEyOGQ2OTU1MTY3</guid>
-            <pubDate>Mon, 29 Sep 2025 09:10:42 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/48f6710b938f813529a93c9d09934128d6955167">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
