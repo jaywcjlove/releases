@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmRiZGY1YjY2NzRmMWQ4NjlkYTdmMDMwNjJkMGIwMzg4NzVmNjRkMmU=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.7.8",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "dbdf5b6674f1d869da7f03062d0b038875f64d2e",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/dbdf5b6674f1d869da7f03062d0b038875f64d2e",
+    "created_at": "2026-07-08T01:05:42.000Z",
+    "state": "committer",
+    "version": "26.7.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoxOWY4ZGI3ZjQ1MDE4YzFlM2E4ZGMzMjBhMmJlYjJmNTcwZTgxZjFj",
     "type": "commits",
     "title": "released v1.1.8 (linkly)",
@@ -2825,17 +2836,6 @@
     "created_at": "2025-10-03T22:08:17.000+08:00",
     "state": "committer",
     "version": "2.2.6"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjdhYTZjMWEwODlmNGVlNDYwMzVjMTA5ZGU0N2ZjZTQ5NDJmOGE0MTc=",
-    "type": "commits",
-    "title": "released v2.9.0 #191",
-    "repo": "uiwjs/react-color",
-    "sha": "7aa6c1a089f4ee46035c109de47fce4942f8a417",
-    "url": "https://github.com/uiwjs/react-color/commit/7aa6c1a089f4ee46035c109de47fce4942f8a417",
-    "created_at": "2025-10-03T09:12:35.000+08:00",
-    "state": "committer",
-    "version": "2.9.0"
   },
   {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmRjZmQzNTRmMjRhMzA2YzRmOGYzYzVkMzZjOTIzODcxZGM5NDM5YzI=",
