@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 08 Jul 2026 07:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 18:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.25.11 #769]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/990500ad9ae72400272c873df3ae061860ff00c2</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4Ojk5MDUwMGFkOWFlNzI0MDAyNzJjODczZGYzYWUwNjE4NjBmZjAwYzI=</guid>
+            <pubDate>Wed, 08 Jul 2026 16:34:14 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/990500ad9ae72400272c873df3ae061860ff00c2">released v4.25.11 #769</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.7.8]]></title>
             <link>https://github.com/jaywcjlove/github-rank/commit/dbdf5b6674f1d869da7f03062d0b038875f64d2e</link>
@@ -2206,6 +2214,14 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/rehypejs.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[raycast/extensions Add "Linux Command" extension.]]></title>
+            <link>https://github.com/raycast/extensions/pull/1032</link>
+            <guid>1160378850</guid>
+            <pubDate>Sat, 05 Mar 2022 15:26:27 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/raycast/extensions/pull/1032">Add "Linux Command" extension.</a>]]></description>
+            <enclosure url="https://github.com/raycast.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[uiwjs/uiw doc(Tag): Revert "fix-修复Tag文档组件问题"]]></title>
             <link>https://github.com/uiwjs/uiw/pull/600</link>
             <guid>1158028063</guid>
@@ -2340,14 +2356,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Sat, 12 Dec 2020 14:35:45 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/npm-unpkg/pull/20">Create LICENSE</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[forksss/awesome-github-profile-readme Update upstream.]]></title>
-            <link>https://github.com/forksss/awesome-github-profile-readme/pull/2</link>
-            <guid>682294618</guid>
-            <pubDate>Thu, 20 Aug 2020 02:08:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/forksss/awesome-github-profile-readme/pull/2">Update upstream.</a>]]></description>
-            <enclosure url="https://github.com/forksss.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
