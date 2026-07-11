@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 10 Jul 2026 18:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 07:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/create-custom-symbols released v3.0.0]]></title>
-            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/d0145e15acbeecfc4001cf71a8bd090eef9b7b09</link>
-            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OmQwMTQ1ZTE1YWNiZWVjZmM0MDAxY2Y3MWE4YmQwOTBlZWY5YjdiMDk=</guid>
-            <pubDate>Thu, 09 Jul 2026 16:04:56 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/d0145e15acbeecfc4001cf71a8bd090eef9b7b09">released v3.0.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v3.1.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/37f928c0bfe6060303c5b3910cc4d2c7205ce72c</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjM3ZjkyOGMwYmZlNjA2MDMwM2M1YjM5MTBjYzRkMmM3MjA1Y2U3MmM=</guid>
+            <pubDate>Sat, 11 Jul 2026 01:26:09 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/37f928c0bfe6060303c5b3910cc4d2c7205ce72c">released v3.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2123,14 +2123,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTExNzQxNzc0Ojg2YzhiMjRlNTdkZTJiOTk0Zjc2Yjc3NmM1Zjk0MDMwMmRiYzM5ZTQ=</guid>
             <pubDate>Thu, 02 Oct 2025 02:54:37 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/86c8b24e57de2b994f76b776c5f940302dbc39e4">released v3.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.7.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzphYTc5ZTQ5M2EwNmI2OWRjODVkMDllYTJmNmIyNzBlNjdiYzgyMjE5</guid>
-            <pubDate>Mon, 29 Sep 2025 16:44:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/aa79e493a06b69dc85d09ea2f6b270e67bc82219">released v1.7.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
