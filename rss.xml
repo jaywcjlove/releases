@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 13 Jul 2026 08:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 18:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/deskmark released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/deskmark/commit/0225b0c41233902733def815e08bb32cda5de2f8</link>
+            <guid>MDY6Q29tbWl0MTEwNzgxNDE2NTowMjI1YjBjNDEyMzM5MDI3MzNkZWY4MTVlMDhiYjMyY2RhNWRlMmY4</guid>
+            <pubDate>Mon, 13 Jul 2026 14:37:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/deskmark/commit/0225b0c41233902733def815e08bb32cda5de2f8">released v1.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.15.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/a17bc4b8f6572f4b68cc71d3cd03d0e197d7e187</link>
@@ -2115,14 +2123,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmRjZmQzNTRmMjRhMzA2YzRmOGYzYzVkMzZjOTIzODcxZGM5NDM5YzI=</guid>
             <pubDate>Thu, 02 Oct 2025 19:21:08 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/dcfd354f24a306c4f8f3c5d36c923871dc9439c2">released v1.29.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/daybar released v3.0.0]]></title>
-            <link>https://github.com/jaywcjlove/daybar/commit/86c8b24e57de2b994f76b776c5f940302dbc39e4</link>
-            <guid>MDY6Q29tbWl0OTExNzQxNzc0Ojg2YzhiMjRlNTdkZTJiOTk0Zjc2Yjc3NmM1Zjk0MDMwMmRiYzM5ZTQ=</guid>
-            <pubDate>Thu, 02 Oct 2025 02:54:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/86c8b24e57de2b994f76b776c5f940302dbc39e4">released v3.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
