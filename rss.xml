@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 12 Jul 2026 18:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 08:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.15.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/a17bc4b8f6572f4b68cc71d3cd03d0e197d7e187</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOmExN2JjNGI4ZjY1NzJmNGI2OGNjNzFkM2NkMDNkMGUxOTdkN2UxODc=</guid>
+            <pubDate>Mon, 13 Jul 2026 00:39:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/a17bc4b8f6572f4b68cc71d3cd03d0e197d7e187">released v1.15.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/daybar released v4.0.0]]></title>
             <link>https://github.com/jaywcjlove/daybar/commit/4a975ea1bb4fa9e5b6c740e4b1f1776d3fd71989</link>
@@ -2099,14 +2107,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0NzY0MjYyMjg4OjM2MzcyYzA3YjBlZWZmNzRhNWExYTViNDdmNzlhNmRlN2I4ZmU0ZTM=</guid>
             <pubDate>Wed, 08 Oct 2025 11:21:08 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/TextSoundSaver/commit/36372c07b0eeff74a5a1a5b47f79a6de7b8fe4e3">released v3.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mousio released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/6ad83fbcd9d460ea72398fc947bdd4d8180404ad</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OjZhZDgzZmJjZDlkNDYwZWE3MjM5OGZjOTQ3YmRkNGQ4MTgwNDA0YWQ=</guid>
-            <pubDate>Sun, 05 Oct 2025 01:18:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/6ad83fbcd9d460ea72398fc947bdd4d8180404ad">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
