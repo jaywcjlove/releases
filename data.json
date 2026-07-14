@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTo0OGViYjliYTJiN2QzZDA4YTY3ZTljNGU5OGViYzQxYTQ2ZjYzNjRh",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/deskmark",
+    "sha": "48ebb9ba2b7d3d08a67e9c4e98ebc41a46f6364a",
+    "url": "https://github.com/jaywcjlove/deskmark/commit/48ebb9ba2b7d3d08a67e9c4e98ebc41a46f6364a",
+    "created_at": "2026-07-15T00:24:09.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmE1MTg3YmUwNjM2OGYwMWExYWZhMmZjMjMxNTBlOTk0NWQ4NjJhNDM=",
+    "type": "commits",
+    "title": "released v4.7.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "a5187be06368f01a1afa2fc23150e9945d862a43",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/a5187be06368f01a1afa2fc23150e9945d862a43",
+    "created_at": "2026-07-14T20:39:14.000+08:00",
+    "state": "committer",
+    "version": "4.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTowMjI1YjBjNDEyMzM5MDI3MzNkZWY4MTVlMDhiYjMyY2RhNWRlMmY4",
     "type": "commits",
     "title": "released v1.5.0",
@@ -2860,28 +2882,6 @@
     "version": "2.1.4"
   },
   {
-    "id": "MDY6Q29tbWl0NzY0MjYyMjg4OjM2MzcyYzA3YjBlZWZmNzRhNWExYTViNDdmNzlhNmRlN2I4ZmU0ZTM=",
-    "type": "commits",
-    "title": "released v3.0.0",
-    "repo": "jaywcjlove/TextSoundSaver",
-    "sha": "36372c07b0eeff74a5a1a5b47f79a6de7b8fe4e3",
-    "url": "https://github.com/jaywcjlove/TextSoundSaver/commit/36372c07b0eeff74a5a1a5b47f79a6de7b8fe4e3",
-    "created_at": "2025-10-08T19:21:08.000+08:00",
-    "state": "committer",
-    "version": "3.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmRjZmQzNTRmMjRhMzA2YzRmOGYzYzVkMzZjOTIzODcxZGM5NDM5YzI=",
-    "type": "commits",
-    "title": "released v1.29.0",
-    "repo": "jaywcjlove/devtutor",
-    "sha": "dcfd354f24a306c4f8f3c5d36c923871dc9439c2",
-    "url": "https://github.com/jaywcjlove/devtutor/commit/dcfd354f24a306c4f8f3c5d36c923871dc9439c2",
-    "created_at": "2025-10-03T03:21:08.000+08:00",
-    "state": "committer",
-    "version": "1.29.0"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2912,7 +2912,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "476"
+    "stars": "478"
   },
   {
     "id": 2526870275,
