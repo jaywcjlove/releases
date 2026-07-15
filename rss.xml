@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 14 Jul 2026 18:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 07:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.7.15]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/6f7f705e48d8d80dbb799a2806518e767b411f6b</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjZmN2Y3MDVlNDhkOGQ4MGRiYjc5OWEyODA2NTE4ZTc2N2I0MTFmNmI=</guid>
+            <pubDate>Wed, 15 Jul 2026 02:54:28 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/6f7f705e48d8d80dbb799a2806518e767b411f6b">chore(release): bump version to 26.7.15</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/deskmark released v1.6.0]]></title>
             <link>https://github.com/jaywcjlove/deskmark/commit/48ebb9ba2b7d3d08a67e9c4e98ebc41a46f6364a</link>
@@ -2075,14 +2083,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0ODQ4NDM0NTAwOmZjODZiZTJhMDhiNGVmMzQ5YjBjNWNlNjlkYjYwZGM1NGY4NGY0MTk=</guid>
             <pubDate>Thu, 16 Oct 2025 17:34:54 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/web-serve/commit/fc86be2a08b4ef349b0c5ce69db60dc54f84f419">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/musicer released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/e02c0d657ecc334fabe2cecccfd2633af4d9ca49</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmUwMmMwZDY1N2VjYzMzNGZhYmUyY2VjY2NmZDI2MzNhZjRkOWNhNDk=</guid>
-            <pubDate>Wed, 15 Oct 2025 18:44:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/e02c0d657ecc334fabe2cecccfd2633af4d9ca49">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
