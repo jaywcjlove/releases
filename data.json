@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA4NjU2ODg2NToxNzIxYjI5OTc2OGZmZTU1NWQxY2E1OGJhZjFlNzJkOGUyZjcwMjJl",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/keyzer",
+    "sha": "1721b299768ffe555d1ca58baf1e72d8e2f7022e",
+    "url": "https://github.com/jaywcjlove/keyzer/commit/1721b299768ffe555d1ca58baf1e72d8e2f7022e",
+    "created_at": "2026-07-15T23:42:25.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjUzNzU5MTVjNDVmNjU3OGM3ZmZiOGNiMzQwODZiYzZlZDRmNDc2OGI=",
+    "type": "commits",
+    "title": "released v3.4.0",
+    "repo": "jaywcjlove/IconizeFolder",
+    "sha": "5375915c45f6578c7ffb8cb34086bc6ed4f4768b",
+    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/5375915c45f6578c7ffb8cb34086bc6ed4f4768b",
+    "created_at": "2026-07-15T19:28:37.000+08:00",
+    "state": "committer",
+    "version": "3.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjZmN2Y3MDVlNDhkOGQ4MGRiYjc5OWEyODA2NTE4ZTc2N2I0MTFmNmI=",
     "type": "commits",
     "title": "chore(release): bump version to 26.7.15",
@@ -2827,17 +2849,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0Mjk3NDM4Nzc0OmFhNzg1NTU0M2ZjNGEyODdhZWQxY2UyMzI4NGU0M2RlZmQ0NjQzODk=",
-    "type": "commits",
-    "title": "released v7.1.13 #396",
-    "repo": "uiwjs/react-amap",
-    "sha": "aa7855543fc4a287aed1ce23284e43defd464389",
-    "url": "https://github.com/uiwjs/react-amap/commit/aa7855543fc4a287aed1ce23284e43defd464389",
-    "created_at": "2025-10-15T09:25:44.000+08:00",
-    "state": "committer",
-    "version": "7.1.13"
-  },
-  {
     "id": "MDY6Q29tbWl0MzY3ODA4NDIyOjkwNTY1MWZmZTM2NDEyOGU2ZWU3ZTkzNWQ0MTJjODcwZjkwMDgxOWY=",
     "type": "commits",
     "title": "released v4.0.3",
@@ -2869,17 +2880,6 @@
     "created_at": "2025-10-13T14:08:02.000+08:00",
     "state": "committer",
     "version": "4.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzUxNjIwMTA6MzYzMDUzODBiZGUwNGU4ODM2YTEyMThmNmQxN2U2MjFiNzBjNjE0OQ==",
-    "type": "commits",
-    "title": "released v2.1.4 #84",
-    "repo": "jaywcjlove/iNotify",
-    "sha": "36305380bde04e8836a1218f6d17e621b70c6149",
-    "url": "https://github.com/jaywcjlove/iNotify/commit/36305380bde04e8836a1218f6d17e621b70c6149",
-    "created_at": "2025-10-11T18:39:50.000+08:00",
-    "state": "committer",
-    "version": "2.1.4"
   },
   {
     "id": 3344245728,
