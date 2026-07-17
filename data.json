@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTMwMjk3NTMwMjo3YWVkOWQ5MTI3N2JlZjAwMjk1NWFiNTcxMDg2OTA1ODcyN2IxNTkw",
+    "type": "commits",
+    "title": "released v1.0.0",
+    "repo": "jaywcjlove/dock-lift",
+    "sha": "7aed9d91277bef002955ab5710869058727b1590",
+    "url": "https://github.com/jaywcjlove/dock-lift/commit/7aed9d91277bef002955ab5710869058727b1590",
+    "created_at": "2026-07-17T10:43:56.000+08:00",
+    "state": "committer",
+    "version": "1.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA4NjU2ODg2NToxNzIxYjI5OTc2OGZmZTU1NWQxY2E1OGJhZjFlNzJkOGUyZjcwMjJl",
     "type": "commits",
     "title": "released v1.2.0",
@@ -2838,17 +2849,6 @@
     "version": "3.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0ODQ4NDM0NTAwOmZjODZiZTJhMDhiNGVmMzQ5YjBjNWNlNjlkYjYwZGM1NGY4NGY0MTk=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/web-serve",
-    "sha": "fc86be2a08b4ef349b0c5ce69db60dc54f84f419",
-    "url": "https://github.com/jaywcjlove/web-serve/commit/fc86be2a08b4ef349b0c5ce69db60dc54f84f419",
-    "created_at": "2025-10-17T01:34:54.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzY3ODA4NDIyOjkwNTY1MWZmZTM2NDEyOGU2ZWU3ZTkzNWQ0MTJjODcwZjkwMDgxOWY=",
     "type": "commits",
     "title": "released v4.0.3",
@@ -2869,17 +2869,6 @@
     "created_at": "2025-10-15T08:35:02.000+08:00",
     "state": "committer",
     "version": "4.1.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjEzOWI0NjVhNTUxM2IwZmY1MDBhYWIzYTYwN2FlYWJiMWE1YTlkMWQ=",
-    "type": "commits",
-    "title": "released v4.1.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "139b465a5513b0ff500aab3a607aeabb1a5a9d1d",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/139b465a5513b0ff500aab3a607aeabb1a5a9d1d",
-    "created_at": "2025-10-13T14:08:02.000+08:00",
-    "state": "committer",
-    "version": "4.1.0"
   },
   {
     "id": 3344245728,
