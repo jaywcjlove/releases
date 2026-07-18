@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 18 Jul 2026 07:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 18:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/copybook-generator released v1.11.0]]></title>
+            <link>https://github.com/jaywcjlove/copybook-generator/commit/fd6df0f888de8edc757f4aef796af51b2d7728be</link>
+            <guid>MDY6Q29tbWl0ODEzOTg3MDk0OmZkNmRmMGY4ODhkZThlZGM3NTdmNGFlZjc5NmFmNTFiMmQ3NzI4YmU=</guid>
+            <pubDate>Sat, 18 Jul 2026 15:25:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/copybook-generator/commit/fd6df0f888de8edc757f4aef796af51b2d7728be">released v1.11.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/dock-lift released v1.2.0]]></title>
             <link>https://github.com/jaywcjlove/dock-lift/commit/20710a35a77a33e7f9b8d38e8b2ca5786bbf281e</link>
@@ -2059,14 +2067,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjAzZDFmMTBkMDc2ODM1ZDYzODVmMzhmYjA2ZTI4YWM5MjY4ZTliODQ=</guid>
             <pubDate>Fri, 31 Oct 2025 10:49:12 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84">released v2.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/markdown-to-html released v3.0.5]]></title>
-            <link>https://github.com/jaywcjlove/markdown-to-html/commit/7bc91f8826abcea4a64486bfc115fff0c09d685f</link>
-            <guid>MDY6Q29tbWl0NDY5Mzk0MTY5OjdiYzkxZjg4MjZhYmNlYTRhNjQ0ODZiZmMxMTVmZmYwYzA5ZDY4NWY=</guid>
-            <pubDate>Thu, 30 Oct 2025 11:22:50 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html/commit/7bc91f8826abcea4a64486bfc115fff0c09d685f">released v3.0.5</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
