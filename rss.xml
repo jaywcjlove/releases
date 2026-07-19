@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 18 Jul 2026 18:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 07:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,19 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/copybook-generator released v1.11.0]]></title>
-            <link>https://github.com/jaywcjlove/copybook-generator/commit/fd6df0f888de8edc757f4aef796af51b2d7728be</link>
-            <guid>MDY6Q29tbWl0ODEzOTg3MDk0OmZkNmRmMGY4ODhkZThlZGM3NTdmNGFlZjc5NmFmNTFiMmQ3NzI4YmU=</guid>
-            <pubDate>Sat, 18 Jul 2026 15:25:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/copybook-generator/commit/fd6df0f888de8edc757f4aef796af51b2d7728be">released v1.11.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/screen-test released v1.1.0]]></title>
+            <link>https://github.com/jaywcjlove/screen-test/commit/58a5bc98321ddce84ab637f15bb0e030f87adb3f</link>
+            <guid>MDY6Q29tbWl0MTEyNjg5NjA0MDo1OGE1YmM5ODMyMWRkY2U4NGFiNjM3ZjE1YmIwZTAzMGY4N2FkYjNm</guid>
+            <pubDate>Sun, 19 Jul 2026 04:12:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/screen-test/commit/58a5bc98321ddce84ab637f15bb0e030f87adb3f">released v1.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/copybook-generator Released v1.12.0]]></title>
+            <link>https://github.com/jaywcjlove/copybook-generator/commit/32d78976109c4918237539a69d0598b8f0da2239</link>
+            <guid>MDY6Q29tbWl0ODEzOTg3MDk0OjMyZDc4OTc2MTA5YzQ5MTgyMzc1MzlhNjlkMDU5OGI4ZjBkYTIyMzk=</guid>
+            <pubDate>Sun, 19 Jul 2026 02:05:31 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/copybook-generator/commit/32d78976109c4918237539a69d0598b8f0da2239">Released v1.12.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2062,14 +2070,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/focus-cursor released v2.0.1]]></title>
-            <link>https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84</link>
-            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjAzZDFmMTBkMDc2ODM1ZDYzODVmMzhmYjA2ZTI4YWM5MjY4ZTliODQ=</guid>
-            <pubDate>Fri, 31 Oct 2025 10:49:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84">released v2.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-color released v2.9.2 #193]]></title>
             <link>https://github.com/uiwjs/react-color/commit/6e2de814c79c4c902577aee4556eff7b840d08f2</link>
             <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjZlMmRlODE0Yzc5YzRjOTAyNTc3YWVlNDU1NmVmZjdiODQwZDA4ZjI=</guid>
@@ -2091,14 +2091,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjVmZjI3MWQ2ZmI3ZjQxYTg1MTQzZGZlMWRiNzQ2YWVlNmU1YzgxMjY=</guid>
             <pubDate>Wed, 22 Oct 2025 22:45:08 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/c4a58f8f00faf9529feeb51c803473a8b9ae97cd</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OmM0YTU4ZjhmMDBmYWY5NTI5ZmVlYjUxYzgwMzQ3M2E4YjlhZTk3Y2Q=</guid>
-            <pubDate>Mon, 20 Oct 2025 18:52:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/c4a58f8f00faf9529feeb51c803473a8b9ae97cd">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

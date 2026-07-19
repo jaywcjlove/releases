@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0ODEzOTg3MDk0OmZkNmRmMGY4ODhkZThlZGM3NTdmNGFlZjc5NmFmNTFiMmQ3NzI4YmU=",
+    "id": "MDY6Q29tbWl0MTEyNjg5NjA0MDo1OGE1YmM5ODMyMWRkY2U4NGFiNjM3ZjE1YmIwZTAzMGY4N2FkYjNm",
     "type": "commits",
-    "title": "released v1.11.0",
-    "repo": "jaywcjlove/copybook-generator",
-    "sha": "fd6df0f888de8edc757f4aef796af51b2d7728be",
-    "url": "https://github.com/jaywcjlove/copybook-generator/commit/fd6df0f888de8edc757f4aef796af51b2d7728be",
-    "created_at": "2026-07-18T23:25:39.000+08:00",
+    "title": "released v1.1.0",
+    "repo": "jaywcjlove/screen-test",
+    "sha": "58a5bc98321ddce84ab637f15bb0e030f87adb3f",
+    "url": "https://github.com/jaywcjlove/screen-test/commit/58a5bc98321ddce84ab637f15bb0e030f87adb3f",
+    "created_at": "2026-07-19T12:12:19.000+08:00",
     "state": "committer",
-    "version": "1.11.0"
+    "version": "1.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODEzOTg3MDk0OjMyZDc4OTc2MTA5YzQ5MTgyMzc1MzlhNjlkMDU5OGI4ZjBkYTIyMzk=",
+    "type": "commits",
+    "title": "Released v1.12.0",
+    "repo": "jaywcjlove/copybook-generator",
+    "sha": "32d78976109c4918237539a69d0598b8f0da2239",
+    "url": "https://github.com/jaywcjlove/copybook-generator/commit/32d78976109c4918237539a69d0598b8f0da2239",
+    "created_at": "2026-07-19T10:05:31.000+08:00",
+    "state": "committer",
+    "version": "1.12.0"
   },
   {
     "id": "MDY6Q29tbWl0MTMwMjk3NTMwMjoyMDcxMGEzNWE3N2EzM2U3ZjliOGQzOGU4YjJjYTU3ODZiYmYyODFl",
@@ -2794,17 +2805,6 @@
     "version": "1.30.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjAzZDFmMTBkMDc2ODM1ZDYzODVmMzhmYjA2ZTI4YWM5MjY4ZTliODQ=",
-    "type": "commits",
-    "title": "released v2.0.1",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "03d1f10d076835d6385f38fb06e28ac9268e9b84",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/03d1f10d076835d6385f38fb06e28ac9268e9b84",
-    "created_at": "2025-10-31T18:49:12.000+08:00",
-    "state": "committer",
-    "version": "2.0.1"
-  },
-  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OjZlMmRlODE0Yzc5YzRjOTAyNTc3YWVlNDU1NmVmZjdiODQwZDA4ZjI=",
     "type": "commits",
     "title": "released v2.9.2 #193",
@@ -2834,17 +2834,6 @@
     "sha": "5ff271d6fb7f41a85143dfe1db746aee6e5c8126",
     "url": "https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126",
     "created_at": "2025-10-23T06:45:08.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmM0YTU4ZjhmMDBmYWY5NTI5ZmVlYjUxYzgwMzQ3M2E4YjlhZTk3Y2Q=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "c4a58f8f00faf9529feeb51c803473a8b9ae97cd",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/c4a58f8f00faf9529feeb51c803473a8b9ae97cd",
-    "created_at": "2025-10-21T02:52:08.000+08:00",
     "state": "committer",
     "version": "2.0.0"
   },
@@ -2890,7 +2879,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "478"
+    "stars": "477"
   },
   {
     "id": 2526870275,
