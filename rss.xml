@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 19 Jul 2026 18:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidcrop released v1.6.0]]></title>
+            <link>https://github.com/jaywcjlove/vidcrop/commit/a8d64008e0e36a3f5d6f9a195aa2227a2361cccb</link>
+            <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDphOGQ2NDAwOGUwZTM2YTNmNWQ2ZjlhMTk1YWEyMjI3YTIzNjFjY2Ni</guid>
+            <pubDate>Mon, 20 Jul 2026 01:23:48 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/a8d64008e0e36a3f5d6f9a195aa2227a2361cccb">released v1.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/screen-test released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/screen-test/commit/58a5bc98321ddce84ab637f15bb0e030f87adb3f</link>
@@ -2068,14 +2076,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Fri, 31 Oct 2025 10:52:20 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/4c0eadccf79d3e69e984fa5e64cef1f640c1ad65">released v1.30.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.9.2 #193]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/6e2de814c79c4c902577aee4556eff7b840d08f2</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OjZlMmRlODE0Yzc5YzRjOTAyNTc3YWVlNDU1NmVmZjdiODQwZDA4ZjI=</guid>
-            <pubDate>Tue, 28 Oct 2025 06:09:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/6e2de814c79c4c902577aee4556eff7b840d08f2">released v2.9.2 #193</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v2.2.0]]></title>
