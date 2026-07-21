@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 21 Jul 2026 07:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 18:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/dock-lift released v1.3.0 build 6]]></title>
+            <link>https://github.com/jaywcjlove/dock-lift/commit/bc01c4ea48ace068f4b0ddb27749f5456dd0e458</link>
+            <guid>MDY6Q29tbWl0MTMwMjk3NTMwMjpiYzAxYzRlYTQ4YWNlMDY4ZjRiMGRkYjI3NzQ5ZjU0NTZkZDBlNDU4</guid>
+            <pubDate>Tue, 21 Jul 2026 15:09:41 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/dock-lift/commit/bc01c4ea48ace068f4b0ddb27749f5456dd0e458">released v1.3.0 build 6</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.7.0(appi18n)]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/1765b853126c2ec7940c690f2378c42745716c17</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDoxNzY1Yjg1MzEyNmMyZWM3OTQwYzY5MGYyMzc4YzQyNzQ1NzE2YzE3</guid>
+            <pubDate>Tue, 21 Jul 2026 10:33:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/1765b853126c2ec7940c690f2378c42745716c17">released v1.7.0(appi18n)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/app-i18n released v1.7.0]]></title>
+            <link>https://github.com/jaywcjlove/app-i18n/commit/7e0e8acb6bc169113008d788c64a505ad10d4592</link>
+            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3ZTBlOGFjYjZiYzE2OTExMzAwOGQ3ODhjNjRhNTA1YWQxMGQ0NTky</guid>
+            <pubDate>Tue, 21 Jul 2026 09:53:47 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7e0e8acb6bc169113008d788c64a505ad10d4592">released v1.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/dock-lift released v1.3.0 #1]]></title>
             <link>https://github.com/jaywcjlove/dock-lift/commit/93e7ba33fd1b704fc95db6bca6ab6c273bcc995a</link>
@@ -2046,14 +2070,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/auto-config-loader released v3.0.1]]></title>
-            <link>https://github.com/jaywcjlove/auto-config-loader/commit/f40dfe2f5aeacd7e774995d5357edec17595615d</link>
-            <guid>MDY6Q29tbWl0NjQ3ODQ3ODAwOmY0MGRmZTJmNWFlYWNkN2U3NzQ5OTVkNTM1N2VkZWMxNzU5NTYxNWQ=</guid>
-            <pubDate>Mon, 03 Nov 2025 07:12:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/auto-config-loader/commit/f40dfe2f5aeacd7e774995d5357edec17595615d">released v3.0.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/keyzer released v1.0.0]]></title>
             <link>https://github.com/jaywcjlove/keyzer/commit/03bd438e32e8c19fa38ecc9cfe356395c4887738</link>
             <guid>MDY6Q29tbWl0MTA4NjU2ODg2NTowM2JkNDM4ZTMyZThjMTlmYTM4ZWNjOWNmZTM1NjM5NWM0ODg3NzM4</guid>
@@ -2083,14 +2099,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjU4MzMyZjNhYjhjMjI4MmQxZjdkNzdjYzQ4NjZhZDY0MzM1NmUzYWI=</guid>
             <pubDate>Mon, 27 Oct 2025 16:20:42 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/58332f3ab8c2282d1f7d77cc4866ad643356e3ab">released v2.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/palette-genius released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126</link>
-            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2OjVmZjI3MWQ2ZmI3ZjQxYTg1MTQzZGZlMWRiNzQ2YWVlNmU1YzgxMjY=</guid>
-            <pubDate>Wed, 22 Oct 2025 22:45:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/5ff271d6fb7f41a85143dfe1db746aee6e5c8126">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
