@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjBhMTY1YjIyMzQ5MTdmZTgwNzczMjgyNjQ2YTczMTk2ZGM2YWMwNjc=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.7.22",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "0a165b2234917fe80773282646a73196dc6ac067",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/0a165b2234917fe80773282646a73196dc6ac067",
+    "created_at": "2026-07-22T03:08:31.000Z",
+    "state": "committer",
+    "version": "26.7.22"
+  },
+  {
     "id": "MDY6Q29tbWl0MTMwMjk3NTMwMjpiYzAxYzRlYTQ4YWNlMDY4ZjRiMGRkYjI3NzQ5ZjU0NTZkZDBlNDU4",
     "type": "commits",
     "title": "released v1.3.0 build 6",
@@ -2849,17 +2860,6 @@
     "version": "2.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmQxMzAxZWYxZDViNWI1ODg5Mzc2ZGRkYmZmMjU5NTMzZjY1ZjllMmM=",
-    "type": "commits",
-    "title": "released v3.0.0",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "d1301ef1d5b5b5889376dddbff259533f65f9e2c",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/d1301ef1d5b5b5889376dddbff259533f65f9e2c",
-    "created_at": "2025-10-21T02:27:56.000+08:00",
-    "state": "committer",
-    "version": "3.0.0"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2890,7 +2890,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "476"
+    "stars": "477"
   },
   {
     "id": 2526870275,
