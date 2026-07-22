@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDo4ZWQ3N2U0M2UyMDMwOTUyM2I4YjUxMzNjZjhiYmFkMTgzMmU0YmQ0",
+    "type": "commits",
+    "title": "released v1.8.0",
+    "repo": "jaywcjlove/vidcrop",
+    "sha": "8ed77e43e20309523b8b5133cf8bbad1832e4bd4",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/8ed77e43e20309523b8b5133cf8bbad1832e4bd4",
+    "created_at": "2026-07-23T01:16:31.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTEyNjg5NjA0MDowZjRkMzljMWFmNmIwY2ZlOWE3NDgwN2U4MDQyNjc3NGVlMjYxZDQ5",
+    "type": "commits",
+    "title": "released v1.3.0",
+    "repo": "jaywcjlove/screen-test",
+    "sha": "0f4d39c1af6b0cfe9a74807e80426774ee261d49",
+    "url": "https://github.com/jaywcjlove/screen-test/commit/0f4d39c1af6b0cfe9a74807e80426774ee261d49",
+    "created_at": "2026-07-22T17:34:06.000+08:00",
+    "state": "committer",
+    "version": "1.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjBhMTY1YjIyMzQ5MTdmZTgwNzczMjgyNjQ2YTczMTk2ZGM2YWMwNjc=",
     "type": "commits",
     "title": "chore(release): bump version to 26.7.22",
@@ -2847,17 +2869,6 @@
     "created_at": "2025-10-31T18:52:20.000+08:00",
     "state": "committer",
     "version": "1.30.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjU4MzMyZjNhYjhjMjI4MmQxZjdkNzdjYzQ4NjZhZDY0MzM1NmUzYWI=",
-    "type": "commits",
-    "title": "released v2.2.0",
-    "repo": "jaywcjlove/key-clicker",
-    "sha": "58332f3ab8c2282d1f7d77cc4866ad643356e3ab",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/58332f3ab8c2282d1f7d77cc4866ad643356e3ab",
-    "created_at": "2025-10-28T00:20:42.000+08:00",
-    "state": "committer",
-    "version": "2.2.0"
   },
   {
     "id": 3344245728,
