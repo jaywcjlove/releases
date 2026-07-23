@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 23 Jul 2026 07:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 18:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v2.4.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/12c763f98dbf555c7da1500c796e36aad2dec227</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3OjEyYzc2M2Y5OGRiZjU1NWM3ZGExNTAwYzc5NmUzNmFhZDJkZWMyMjc=</guid>
+            <pubDate>Thu, 23 Jul 2026 09:32:08 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/12c763f98dbf555c7da1500c796e36aad2dec227">released v2.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/scap released v1.4.0]]></title>
             <link>https://github.com/jaywcjlove/scap/commit/f821fec69dbeac172fb428e65f64d654cb7d190b</link>
@@ -2059,14 +2067,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=</guid>
             <pubDate>Sat, 08 Nov 2025 15:16:23 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d">released v1.31.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.12.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/986e802b8151a7c9a8bcfd21215f77dad8f3e98a</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjk4NmU4MDJiODE1MWE3YzlhOGJjZmQyMTIxNWY3N2RhZDhmM2U5OGE=</guid>
-            <pubDate>Sat, 08 Nov 2025 15:14:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/986e802b8151a7c9a8bcfd21215f77dad8f3e98a">released v1.12.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
