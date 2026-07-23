@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpmODIxZmVjNjlkYmVhYzE3MmZiNDI4ZTY1ZjY0ZDY1NGNiN2QxOTBi",
+    "type": "commits",
+    "title": "released v1.4.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "f821fec69dbeac172fb428e65f64d654cb7d190b",
+    "url": "https://github.com/jaywcjlove/scap/commit/f821fec69dbeac172fb428e65f64d654cb7d190b",
+    "created_at": "2026-07-23T13:23:54.000+08:00",
+    "state": "committer",
+    "version": "1.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDo4ZWQ3N2U0M2UyMDMwOTUyM2I4YjUxMzNjZjhiYmFkMTgzMmU0YmQ0",
     "type": "commits",
     "title": "released v1.8.0",
@@ -2825,17 +2836,6 @@
     "created_at": "2025-11-05T14:56:09.000+08:00",
     "state": "committer",
     "version": "4.25.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjZiOTU4NjY3NDFmOTZhYTBjNzY2ZmIyZDI1ZjhjYmMxZmM3ZGY0MWE=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "6b95866741f96aa0c766fb2d25f8cbc1fc7df41a",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/6b95866741f96aa0c766fb2d25f8cbc1fc7df41a",
-    "created_at": "2025-11-05T03:10:45.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0MTA4NjU2ODg2NTowM2JkNDM4ZTMyZThjMTlmYTM4ZWNjOWNmZTM1NjM5NWM0ODg3NzM4",

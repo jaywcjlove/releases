@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 22 Jul 2026 18:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 07:56:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/scap released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/scap/commit/f821fec69dbeac172fb428e65f64d654cb7d190b</link>
+            <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzpmODIxZmVjNjlkYmVhYzE3MmZiNDI4ZTY1ZjY0ZDY1NGNiN2QxOTBi</guid>
+            <pubDate>Thu, 23 Jul 2026 05:23:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/f821fec69dbeac172fb428e65f64d654cb7d190b">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidcrop released v1.8.0]]></title>
             <link>https://github.com/jaywcjlove/vidcrop/commit/8ed77e43e20309523b8b5133cf8bbad1832e4bd4</link>
@@ -2084,14 +2092,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Wed, 05 Nov 2025 06:56:09 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/497bc041aeb9559cbebbe21a897955ca18b8f032">released v4.25.3 #750</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/DevHub released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/DevHub/commit/6b95866741f96aa0c766fb2d25f8cbc1fc7df41a</link>
-            <guid>MDY6Q29tbWl0NzYxNzQ0NjQwOjZiOTU4NjY3NDFmOTZhYTBjNzY2ZmIyZDI1ZjhjYmMxZmM3ZGY0MWE=</guid>
-            <pubDate>Tue, 04 Nov 2025 19:10:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/DevHub/commit/6b95866741f96aa0c766fb2d25f8cbc1fc7df41a">released v2.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/keyzer released v1.0.0]]></title>
