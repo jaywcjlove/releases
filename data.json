@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjliOWYzZWYyYTlhNDRiZjYxMDdmNzBhMTI1ZjhkYzc5NjEyNjRlZmY=",
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpmMGYyNmE5OTQwODJjYWJjMDdlMDQxNTM3MDM0NDI3MTZjNzA2ZGEx",
     "type": "commits",
-    "title": "released v3.0.0",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "9b9f3ef2a9a44bf6107f70a125f8dc7961264eff",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/9b9f3ef2a9a44bf6107f70a125f8dc7961264eff",
-    "created_at": "2026-07-24T12:28:01.000+08:00",
+    "title": "released v1.8.1",
+    "repo": "jaywcjlove/vidcrop",
+    "sha": "f0f26a994082cabc07e04153703442716c706da1",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/f0f26a994082cabc07e04153703442716c706da1",
+    "created_at": "2026-07-25T23:40:12.000+08:00",
     "state": "committer",
-    "version": "3.0.0"
+    "version": "1.8.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmZjODIyZjEwMzBmMDQwZWVmNGUwYzg4N2QyOGI5MGE1NWE5NWY1YWU=",
+    "type": "commits",
+    "title": "released v3.1.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "fc822f1030f040eef4e0c887d28b90a55a95f5ae",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/fc822f1030f040eef4e0c887d28b90a55a95f5ae",
+    "created_at": "2026-07-25T23:20:34.000+08:00",
+    "state": "committer",
+    "version": "3.1.0"
   },
   {
     "id": "MDY6Q29tbWl0OTczMzQxMDA3OjEyYzc2M2Y5OGRiZjU1NWM3ZGExNTAwYzc5NmUzNmFhZDJkZWMyMjc=",
@@ -2838,17 +2849,6 @@
     "version": "3.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTA4NjU2ODg2NTowM2JkNDM4ZTMyZThjMTlmYTM4ZWNjOWNmZTM1NjM5NWM0ODg3NzM4",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/keyzer",
-    "sha": "03bd438e32e8c19fa38ecc9cfe356395c4887738",
-    "url": "https://github.com/jaywcjlove/keyzer/commit/03bd438e32e8c19fa38ecc9cfe356395c4887738",
-    "created_at": "2025-11-03T15:00:48.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmFmNTdlMjI1MTI0MmYzZmZmMTY2NDEyYzYyMWEyNzRkNjFkNTc3YjQ=",
     "type": "commits",
     "title": "released v4.0.0",
@@ -2858,17 +2858,6 @@
     "created_at": "2025-11-03T10:41:55.000+08:00",
     "state": "committer",
     "version": "4.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OjRjMGVhZGNjZjc5ZDNlNjllOTg0ZmE1ZTY0Y2VmMWY2NDBjMWFkNjU=",
-    "type": "commits",
-    "title": "released v1.30.0",
-    "repo": "jaywcjlove/devtutor",
-    "sha": "4c0eadccf79d3e69e984fa5e64cef1f640c1ad65",
-    "url": "https://github.com/jaywcjlove/devtutor/commit/4c0eadccf79d3e69e984fa5e64cef1f640c1ad65",
-    "created_at": "2025-10-31T18:52:20.000+08:00",
-    "state": "committer",
-    "version": "1.30.0"
   },
   {
     "id": 3344245728,
