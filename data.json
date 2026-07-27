@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjNlY2U3NWIwMDk2NDUzNzdkZmY5ZTZiNjY3NmE0MDdjZWRhNmJjYWE=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/file-sentinel",
+    "sha": "3ece75b009645377dff9e6b6676a407ceda6bcaa",
+    "url": "https://github.com/jaywcjlove/file-sentinel/commit/3ece75b009645377dff9e6b6676a407ceda6bcaa",
+    "created_at": "2026-07-27T20:28:10.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzo2MjVkZWIzMDcxZmFjODI5YjRkMzVkYzdhOWZmMDgyZDJmNmIwMWRi",
+    "type": "commits",
+    "title": "released v1.5.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "625deb3071fac829b4d35dc7a9ff082d2f6b01db",
+    "url": "https://github.com/jaywcjlove/scap/commit/625deb3071fac829b4d35dc7a9ff082d2f6b01db",
+    "created_at": "2026-07-27T19:47:42.000+08:00",
+    "state": "committer",
+    "version": "1.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpkYTZmOGNkZjU0NzI2NjFlYjk4NGU4MDE3ZDU2NjJhNjdkNzcwZTUy",
     "type": "commits",
     "title": "released v1.9.0",
@@ -1518,17 +1540,6 @@
     "version": "3.0.4"
   },
   {
-    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=",
-    "type": "commits",
-    "title": "released v0.5.8",
-    "repo": "jaywcjlove/typenexus",
-    "sha": "aff6d54ead2979be607d7265166572d1cba92c1c",
-    "url": "https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c",
-    "created_at": "2026-03-17T15:35:38.000+08:00",
-    "state": "committer",
-    "version": "0.5.8"
-  },
-  {
     "id": "MDY6Q29tbWl0MTM4MTkyNDE4Ojc2NGIwMDU0YTc1MjFjZWI1MjI4OGMzZjBjMDM4N2RiMTkwZGIxZTI=",
     "type": "commits",
     "title": "released v1.0.11",
@@ -2728,17 +2739,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjMxOWQ4MDY3ODFhZTI2NzNiYjU2ODk0N2JiNTQ0YWE4ZjEyMWZjYTk=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/focus-cursor",
-    "sha": "319d806781ae2673bb568947bb544aa8f121fca9",
-    "url": "https://github.com/jaywcjlove/focus-cursor/commit/319d806781ae2673bb568947bb544aa8f121fca9",
-    "created_at": "2025-11-20T04:15:44.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
-  },
-  {
     "id": "MDY6Q29tbWl0OTczMzQxMDA3OmQ3YzRhODg3YzAzYTI0NmRjZDA4YTZiNWM1MWVlNDY1OTkyMzdjYTU=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2748,17 +2748,6 @@
     "created_at": "2025-11-20T04:13:58.000+08:00",
     "state": "committer",
     "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6M2RiMzY0NzA4ZDkzZWQwYWQ1ZDQ0YWIzY2JiZGYxNTBjYjg3MmM1Zg==",
-    "type": "commits",
-    "title": "released v4.0.0-beta.6 #520",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "3db364708d93ed0ad5d44ab3cbbdf150cb872c5f",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/3db364708d93ed0ad5d44ab3cbbdf150cb872c5f",
-    "created_at": "2025-11-17T11:32:47.000+08:00",
-    "state": "committer",
-    "version": "4.0.0-beta.6"
   },
   {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OmM2MjY3MGRkZmQ5M2JhYzJjMjNjN2Y4ZTA2MTljYTMyY2I2NjJiNjM=",
@@ -2781,17 +2770,6 @@
     "created_at": "2025-11-16T12:39:07.000+08:00",
     "state": "committer",
     "version": "4.0.0-beta.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzYxNzQ0NjQwOjI4NzMzOTA3YTA0NTQ4MDRjNTYyZjg5NDk0NWFiNGQ1YzQzNGNkZmY=",
-    "type": "commits",
-    "title": "released v2.1.1",
-    "repo": "jaywcjlove/DevHub",
-    "sha": "28733907a0454804c562f894945ab4d5c434cdff",
-    "url": "https://github.com/jaywcjlove/DevHub/commit/28733907a0454804c562f894945ab4d5c434cdff",
-    "created_at": "2025-11-12T02:54:54.000+08:00",
-    "state": "committer",
-    "version": "2.1.1"
   },
   {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OjIxMWZhYTg4ZTRmZTJkZDE1MGZmZTkwNjI3MTFlZTYyY2MyMDUzYzA=",
@@ -2825,17 +2803,6 @@
     "created_at": "2025-11-08T23:16:23.000+08:00",
     "state": "committer",
     "version": "1.31.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTczMzQxMDA3OjRhNzI2YThjZjk3Yzg5MjQwZGQ3OWVlYTg3NDQwNWVkMmM3NTc2MWE=",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/audioer",
-    "sha": "4a726a8cf97c89240dd79eea874405ed2c75761a",
-    "url": "https://github.com/jaywcjlove/audioer/commit/4a726a8cf97c89240dd79eea874405ed2c75761a",
-    "created_at": "2025-11-07T03:52:12.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjY1Yzg3OTY1OWQwMTY1Y2FiZjQ0YTBmYjY5MmVlMzU0MjNhNTBiMmE=",
