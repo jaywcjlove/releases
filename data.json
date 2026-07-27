@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpmMGYyNmE5OTQwODJjYWJjMDdlMDQxNTM3MDM0NDI3MTZjNzA2ZGEx",
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpkYTZmOGNkZjU0NzI2NjFlYjk4NGU4MDE3ZDU2NjJhNjdkNzcwZTUy",
     "type": "commits",
-    "title": "released v1.8.1",
+    "title": "released v1.9.0",
     "repo": "jaywcjlove/vidcrop",
-    "sha": "f0f26a994082cabc07e04153703442716c706da1",
-    "url": "https://github.com/jaywcjlove/vidcrop/commit/f0f26a994082cabc07e04153703442716c706da1",
-    "created_at": "2026-07-25T23:40:12.000+08:00",
+    "sha": "da6f8cdf5472661eb984e8017d5662a67d770e52",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/da6f8cdf5472661eb984e8017d5662a67d770e52",
+    "created_at": "2026-07-27T13:55:54.000+08:00",
     "state": "committer",
-    "version": "1.8.1"
+    "version": "1.9.0"
   },
   {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmZjODIyZjEwMzBmMDQwZWVmNGUwYzg4N2QyOGI5MGE1NWE5NWY1YWU=",
@@ -2847,17 +2847,6 @@
     "created_at": "2025-11-06T02:16:57.000+08:00",
     "state": "committer",
     "version": "3.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OmFmNTdlMjI1MTI0MmYzZmZmMTY2NDEyYzYyMWEyNzRkNjFkNTc3YjQ=",
-    "type": "commits",
-    "title": "released v4.0.0",
-    "repo": "jaywcjlove/regex-mate",
-    "sha": "af57e2251242f3fff166412c621a274d61d577b4",
-    "url": "https://github.com/jaywcjlove/regex-mate/commit/af57e2251242f3fff166412c621a274d61d577b4",
-    "created_at": "2025-11-03T10:41:55.000+08:00",
-    "state": "committer",
-    "version": "4.0.0"
   },
   {
     "id": 3344245728,
