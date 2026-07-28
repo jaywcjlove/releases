@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjM4OTMwYzVmMjRmNDA0OWRiZGRiZWQ0OTAzMDU2ZTE2ZTJiNzViMDM=",
+    "type": "commits",
+    "title": "released v4.8.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "38930c5f24f4049dbddbed4903056e16e2b75b03",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/38930c5f24f4049dbddbed4903056e16e2b75b03",
+    "created_at": "2026-07-28T10:55:55.000+08:00",
+    "state": "committer",
+    "version": "4.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjNlY2U3NWIwMDk2NDUzNzdkZmY5ZTZiNjY3NmE0MDdjZWRhNmJjYWE=",
     "type": "commits",
     "title": "released v2.2.0",
@@ -1361,7 +1372,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4120997046,
@@ -1372,7 +1383,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4120957830,
@@ -1383,7 +1394,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4120948338,
@@ -1394,7 +1405,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4120791922,
@@ -1405,7 +1416,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4101342958,
@@ -1416,7 +1427,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4101340977,
@@ -1427,7 +1438,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4101336030,
@@ -1438,7 +1449,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4101325858,
@@ -1449,7 +1460,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4101323235,
@@ -1460,7 +1471,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4101318030,
@@ -1471,7 +1482,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4100966126,
@@ -1482,7 +1493,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": 4100952563,
@@ -1493,7 +1504,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "5.2K"
+    "stars": "5.3K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -1538,6 +1549,17 @@
     "created_at": "2026-03-19T11:02:41.000+08:00",
     "state": "committer",
     "version": "3.0.4"
+  },
+  {
+    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=",
+    "type": "commits",
+    "title": "released v0.5.8",
+    "repo": "jaywcjlove/typenexus",
+    "sha": "aff6d54ead2979be607d7265166572d1cba92c1c",
+    "url": "https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c",
+    "created_at": "2026-03-17T15:35:38.000+08:00",
+    "state": "committer",
+    "version": "0.5.8"
   },
   {
     "id": "MDY6Q29tbWl0MTM4MTkyNDE4Ojc2NGIwMDU0YTc1MjFjZWI1MjI4OGMzZjBjMDM4N2RiMTkwZGIxZTI=",
