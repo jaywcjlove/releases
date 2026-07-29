@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjJkOGE3OWM4NDhhN2Y3M2Y3ZjRiNDdmOTc5MDhlZTcxMWNjNzE1ZmI=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.7.29",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "2d8a79c848a7f73f7f4b47f97908ee711cc715fb",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/2d8a79c848a7f73f7f4b47f97908ee711cc715fb",
+    "created_at": "2026-07-29T03:04:14.000Z",
+    "state": "committer",
+    "version": "26.7.29"
+  },
+  {
+    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OmQ4N2NlYjcwNzY1YTdiZjc0MTQ4MjA5YjFiNGEwOGQ4YjE2OGNlMDU=",
+    "type": "commits",
+    "title": "released v3.2.0",
+    "repo": "jaywcjlove/create-custom-symbols",
+    "sha": "d87ceb70765a7bf74148209b1b4a08d8b168ce05",
+    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/d87ceb70765a7bf74148209b1b4a08d8b168ce05",
+    "created_at": "2026-07-29T09:51:55.000+08:00",
+    "state": "committer",
+    "version": "3.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjBmNTlhYTkwMTc3OWQxOTMxYjY5MDZmZTVjN2NkOTYyOTMxNmMxMTQ=",
     "type": "commits",
     "title": "released v3.0.0",
@@ -2814,28 +2836,6 @@
     "created_at": "2025-11-09T12:20:47.000+08:00",
     "state": "committer",
     "version": "3.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzgyMDcyMjQ2Ojg2ZTQyN2U0ZDM2NmYzNGYyYjg1NjA2YzJjZjhkOWFkOTFmNTFkMTA=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/palette-genius",
-    "sha": "86e427e4d366f34f2b85606c2cf8d9ad91f51d10",
-    "url": "https://github.com/jaywcjlove/palette-genius/commit/86e427e4d366f34f2b85606c2cf8d9ad91f51d10",
-    "created_at": "2025-11-09T11:44:10.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=",
-    "type": "commits",
-    "title": "released v1.31.0",
-    "repo": "jaywcjlove/devtutor",
-    "sha": "c886e89675045c660c122390e8448db06bc66e3d",
-    "url": "https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d",
-    "created_at": "2025-11-08T23:16:23.000+08:00",
-    "state": "committer",
-    "version": "1.31.0"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjY1Yzg3OTY1OWQwMTY1Y2FiZjQ0YTBmYjY5MmVlMzU0MjNhNTBiMmE=",

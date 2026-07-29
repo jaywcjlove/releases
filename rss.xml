@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 28 Jul 2026 18:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 08:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.7.29]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/2d8a79c848a7f73f7f4b47f97908ee711cc715fb</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjJkOGE3OWM4NDhhN2Y3M2Y3ZjRiNDdmOTc5MDhlZTcxMWNjNzE1ZmI=</guid>
+            <pubDate>Wed, 29 Jul 2026 03:04:14 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/2d8a79c848a7f73f7f4b47f97908ee711cc715fb">chore(release): bump version to 26.7.29</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v3.2.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/d87ceb70765a7bf74148209b1b4a08d8b168ce05</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OmQ4N2NlYjcwNzY1YTdiZjc0MTQ4MjA5YjFiNGEwOGQ4YjE2OGNlMDU=</guid>
+            <pubDate>Wed, 29 Jul 2026 01:51:55 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/d87ceb70765a7bf74148209b1b4a08d8b168ce05">released v3.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/musicer released v3.0.0]]></title>
             <link>https://github.com/jaywcjlove/musicer/commit/0f59aa901779d1931b6906fe5c7cd9629316c114</link>
@@ -2075,22 +2091,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTExNzQxNzc0OjIxMWZhYTg4ZTRmZTJkZDE1MGZmZTkwNjI3MTFlZTYyY2MyMDUzYzA=</guid>
             <pubDate>Sun, 09 Nov 2025 04:20:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/211faa88e4fe2dd150ffe9062711ee62cc2053c0">released v3.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/palette-genius released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/palette-genius/commit/86e427e4d366f34f2b85606c2cf8d9ad91f51d10</link>
-            <guid>MDY6Q29tbWl0NzgyMDcyMjQ2Ojg2ZTQyN2U0ZDM2NmYzNGYyYjg1NjA2YzJjZjhkOWFkOTFmNTFkMTA=</guid>
-            <pubDate>Sun, 09 Nov 2025 03:44:10 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/palette-genius/commit/86e427e4d366f34f2b85606c2cf8d9ad91f51d10">released v2.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/devtutor released v1.31.0]]></title>
-            <link>https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d</link>
-            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=</guid>
-            <pubDate>Sat, 08 Nov 2025 15:16:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d">released v1.31.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
