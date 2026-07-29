@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmJlNWNkZTMwZWUwZWY0MmZhM2FkOWMzN2E2NDhhMmYzMjZhMWIzNTA=",
+    "type": "commits",
+    "title": "released v4.9.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "be5cde30ee0ef42fa3ad9c37a648a2f326a1b350",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/be5cde30ee0ef42fa3ad9c37a648a2f326a1b350",
+    "created_at": "2026-07-29T17:43:11.000+08:00",
+    "state": "committer",
+    "version": "4.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjJkOGE3OWM4NDhhN2Y3M2Y3ZjRiNDdmOTc5MDhlZTcxMWNjNzE1ZmI=",
     "type": "commits",
     "title": "chore(release): bump version to 26.7.29",
@@ -2827,15 +2838,15 @@
     "version": "4.0.0-beta.4"
   },
   {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OjIxMWZhYTg4ZTRmZTJkZDE1MGZmZTkwNjI3MTFlZTYyY2MyMDUzYzA=",
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=",
     "type": "commits",
-    "title": "released v3.2.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "211faa88e4fe2dd150ffe9062711ee62cc2053c0",
-    "url": "https://github.com/jaywcjlove/daybar/commit/211faa88e4fe2dd150ffe9062711ee62cc2053c0",
-    "created_at": "2025-11-09T12:20:47.000+08:00",
+    "title": "released v1.31.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "c886e89675045c660c122390e8448db06bc66e3d",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d",
+    "created_at": "2025-11-08T23:16:23.000+08:00",
     "state": "committer",
-    "version": "3.2.0"
+    "version": "1.31.0"
   },
   {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjY1Yzg3OTY1OWQwMTY1Y2FiZjQ0YTBmYjY5MmVlMzU0MjNhNTBiMmE=",
@@ -2857,7 +2868,7 @@
     "created_at": "2025-08-22T05:56:49Z",
     "state": "merged",
     "number": 17804,
-    "stars": "52.1K"
+    "stars": "52.2K"
   },
   {
     "id": 3312304333,
