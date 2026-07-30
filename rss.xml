@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 29 Jul 2026 18:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 07:54:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.15.1]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/417a0b74d50f14e401f9f6b2402fa55a68700cde</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjQxN2EwYjc0ZDUwZjE0ZTQwMWY5ZjZiMjQwMmZhNTVhNjg3MDBjZGU=</guid>
+            <pubDate>Wed, 29 Jul 2026 23:40:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/417a0b74d50f14e401f9f6b2402fa55a68700cde">released v1.15.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v4.9.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/be5cde30ee0ef42fa3ad9c37a648a2f326a1b350</link>
@@ -2091,14 +2099,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0MzU4MzMxNzc6ZmM2NjU1MDE5OTA4M2NmMTQ5Mzk4NjU3NTMwMDQzOWI1MWU5YWZkZg==</guid>
             <pubDate>Sun, 16 Nov 2025 04:39:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/fc66550199083cf1493986575300439b51e9afdf">released v4.0.0-beta.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/devtutor released v1.31.0]]></title>
-            <link>https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d</link>
-            <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OmM4ODZlODk2NzUwNDVjNjYwYzEyMjM5MGU4NDQ4ZGIwNmJjNjZlM2Q=</guid>
-            <pubDate>Sat, 08 Nov 2025 15:16:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/c886e89675045c660c122390e8448db06bc66e3d">released v1.31.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
