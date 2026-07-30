@@ -1,5 +1,49 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjQwYzBjNDlkMTI4NmNmNzMzYTY1ZTFlNTBlYmEwYzc5YzhmMzZkMjc=",
+    "type": "commits",
+    "title": "released v3.2.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "40c0c49d1286cf733a65e1e50eba0c79c8f36d27",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/40c0c49d1286cf733a65e1e50eba0c79c8f36d27",
+    "created_at": "2026-07-31T02:53:22.000+08:00",
+    "state": "committer",
+    "version": "3.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjYyNjI3N2Y3MDQ2YWMwMGRmMTNmMjdjMTFiYzQyNzg2NmIwNGM5MDI=",
+    "type": "commits",
+    "title": "released v1.15.2",
+    "repo": "jaywcjlove/iconed",
+    "sha": "626277f7046ac00df13f27c11bc427866b04c902",
+    "url": "https://github.com/jaywcjlove/iconed/commit/626277f7046ac00df13f27c11bc427866b04c902",
+    "created_at": "2026-07-31T02:51:36.000+08:00",
+    "state": "committer",
+    "version": "1.15.2"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmE2NGNiNGJjOTI4MWNhMDQ3MTI2ZDhiNWUwOTBkODRhNWFlNGRmMjc=",
+    "type": "commits",
+    "title": "released v4.1.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "a64cb4bc9281ca047126d8b5e090d84a5ae4df27",
+    "url": "https://github.com/jaywcjlove/daybar/commit/a64cb4bc9281ca047126d8b5e090d84a5ae4df27",
+    "created_at": "2026-07-31T02:45:18.000+08:00",
+    "state": "committer",
+    "version": "4.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpjM2MxMmFiMmY5NTAxZDIzNjdhOTM4YTNhZWY1MDIxOTNiMWFkYjlj",
+    "type": "commits",
+    "title": "released v1.6.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "c3c12ab2f9501d2367a938a3aef502193b1adb9c",
+    "url": "https://github.com/jaywcjlove/scap/commit/c3c12ab2f9501d2367a938a3aef502193b1adb9c",
+    "created_at": "2026-07-31T02:29:52.000+08:00",
+    "state": "committer",
+    "version": "1.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjQxN2EwYjc0ZDUwZjE0ZTQwMWY5ZjZiMjQwMmZhNTVhNjg3MDBjZGU=",
     "type": "commits",
     "title": "released v1.15.1",
@@ -1427,7 +1471,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4120997046,
@@ -1438,7 +1482,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4120957830,
@@ -1449,7 +1493,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4120948338,
@@ -1460,7 +1504,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4120791922,
@@ -1471,7 +1515,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4101342958,
@@ -1482,7 +1526,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4101340977,
@@ -1493,7 +1537,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4101336030,
@@ -1504,7 +1548,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4101325858,
@@ -1515,7 +1559,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4101323235,
@@ -1526,7 +1570,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4101318030,
@@ -1537,7 +1581,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4100966126,
@@ -1548,7 +1592,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": 4100952563,
@@ -1559,7 +1603,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "5.3K"
+    "stars": "5.4K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2794,17 +2838,6 @@
     "version": "1.11.0"
   },
   {
-    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjA2MWE4NjdhM2JlOGUwYTgwZmNjZmI4MjU5Mjk2ZmJmMzQzZDc4YjA=",
-    "type": "commits",
-    "title": "released v3.0.3",
-    "repo": "jaywcjlove/auto-config-loader",
-    "sha": "061a867a3be8e0a80fccfb8259296fbf343d78b0",
-    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/061a867a3be8e0a80fccfb8259296fbf343d78b0",
-    "created_at": "2025-11-20T21:09:27.000+08:00",
-    "state": "committer",
-    "version": "3.0.3"
-  },
-  {
     "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjA5NWYzMWZiYmM1NTc5ZDRkOTlhYzIxNTU3M2M2MzA3MzY1ZDFkNjE=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2836,28 +2869,6 @@
     "created_at": "2025-11-16T21:51:43.000+08:00",
     "state": "committer",
     "version": "1.47.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZmM2NjU1MDE5OTA4M2NmMTQ5Mzk4NjU3NTMwMDQzOWI1MWU5YWZkZg==",
-    "type": "commits",
-    "title": "released v4.0.0-beta.4",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "fc66550199083cf1493986575300439b51e9afdf",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/fc66550199083cf1493986575300439b51e9afdf",
-    "created_at": "2025-11-16T12:39:07.000+08:00",
-    "state": "committer",
-    "version": "4.0.0-beta.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OjY1Yzg3OTY1OWQwMTY1Y2FiZjQ0YTBmYjY5MmVlMzU0MjNhNTBiMmE=",
-    "type": "commits",
-    "title": "released v3.1.0",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "65c879659d0165cabf44a0fb692ee35423a50b2a",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/65c879659d0165cabf44a0fb692ee35423a50b2a",
-    "created_at": "2025-11-06T02:16:57.000+08:00",
-    "state": "committer",
-    "version": "3.1.0"
   },
   {
     "id": 3344245728,
