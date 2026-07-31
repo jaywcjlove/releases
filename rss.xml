@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 30 Jul 2026 18:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 08:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidcrop released v1.10.0]]></title>
+            <link>https://github.com/jaywcjlove/vidcrop/commit/f0648f432b07a32a35493fcfa1a620539bacd9bc</link>
+            <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDpmMDY0OGY0MzJiMDdhMzJhMzU0OTNmY2ZhMWE2MjA1MzliYWNkOWJj</guid>
+            <pubDate>Fri, 31 Jul 2026 07:56:17 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/f0648f432b07a32a35493fcfa1a620539bacd9bc">released v1.10.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/videoer released v2.2.0]]></title>
+            <link>https://github.com/jaywcjlove/videoer/commit/b9525b8f1f48614a49d2c9307c51a640075cb742</link>
+            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOmI5NTI1YjhmMWY0ODYxNGE0OWQyYzkzMDdjNTFhNjQwMDc1Y2I3NDI=</guid>
+            <pubDate>Thu, 30 Jul 2026 18:58:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/b9525b8f1f48614a49d2c9307c51a640075cb742">released v2.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v3.2.0]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/40c0c49d1286cf733a65e1e50eba0c79c8f36d27</link>
@@ -2078,14 +2094,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.0-beta.7 #521]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/4c1cc51bf130f87c021ee4897d07b7c17e8207b1</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NGMxY2M1MWJmMTMwZjg3YzAyMWVlNDg5N2QwN2I3YzE3ZTgyMDdiMQ==</guid>
-            <pubDate>Sun, 23 Nov 2025 02:01:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/4c1cc51bf130f87c021ee4897d07b7c17e8207b1">released v4.0.0-beta.7 #521</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.11.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/6f2fed20d5b889595f9da639b2d11de2853764fd</link>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo2ZjJmZWQyMGQ1Yjg4OTU5NWY5ZGE2MzliMmQxMWRlMjg1Mzc2NGZk</guid>
@@ -2099,22 +2107,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjA5NWYzMWZiYmM1NTc5ZDRkOTlhYzIxNTU3M2M2MzA3MzY1ZDFkNjE=</guid>
             <pubDate>Thu, 20 Nov 2025 03:01:48 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/095f31fbbc5579d4d99ac215573c6307365d1d61">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/audioer released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/audioer/commit/d7c4a887c03a246dcd08a6b5c51ee46599237ca5</link>
-            <guid>MDY6Q29tbWl0OTczMzQxMDA3OmQ3YzRhODg3YzAzYTI0NmRjZDA4YTZiNWM1MWVlNDY1OTkyMzdjYTU=</guid>
-            <pubDate>Wed, 19 Nov 2025 20:13:58 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/d7c4a887c03a246dcd08a6b5c51ee46599237ca5">released v2.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/reference released v1.47.0]]></title>
-            <link>https://github.com/jaywcjlove/reference/commit/c62670ddfd93bac2c23c7f8e0619ca32cb662b63</link>
-            <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OmM2MjY3MGRkZmQ5M2JhYzJjMjNjN2Y4ZTA2MTljYTMyY2I2NjJiNjM=</guid>
-            <pubDate>Sun, 16 Nov 2025 13:51:43 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/c62670ddfd93bac2c23c7f8e0619ca32cb662b63">released v1.47.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
