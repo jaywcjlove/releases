@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDplMzAwZTFjNmQzNTkwNGQ2NDZmYjA4ZWE0YWI4NTc2MDQ4MWYyYzRi",
+    "type": "commits",
+    "title": "released v0.1.8 (spa)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "e300e1c6d35904d646fb08ea4ab85760481f2c4b",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/e300e1c6d35904d646fb08ea4ab85760481f2c4b",
+    "created_at": "2026-08-02T00:16:15.000+08:00",
+    "state": "committer",
+    "version": "0.1.8"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTI2NTQzOTkzOTo5YzY3NDc4MjFlMzVmNTk2MmQzNjYyYWJlZjliMDAyZjUxMmIxOTVk",
+    "type": "commits",
+    "title": "released v0.1.8",
+    "repo": "jaywcjlove/spa",
+    "sha": "9c6747821e35f5962d3662abef9b002f512b195d",
+    "url": "https://github.com/jaywcjlove/spa/commit/9c6747821e35f5962d3662abef9b002f512b195d",
+    "created_at": "2026-08-02T00:04:38.000+08:00",
+    "state": "committer",
+    "version": "0.1.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzphNzAwNzhhMjVlZjMwMzg5ODkyNDRhMDlhZjM2NTI1ZjhmMGRmMTdl",
     "type": "commits",
     "title": "released v1.7.0",
@@ -2816,39 +2838,6 @@
     "version": "1.32.0"
   },
   {
-    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OmVlZDhkZDc3NGVlNjQxN2I2ZDYwY2M3OTJhNmE4N2RlODJhMDYxNjM=",
-    "type": "commits",
-    "title": "released v2.16.0",
-    "repo": "jaywcjlove/create-custom-symbols",
-    "sha": "eed8dd774ee6417b6d60cc792a6a87de82a06163",
-    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/eed8dd774ee6417b6d60cc792a6a87de82a06163",
-    "created_at": "2025-12-01T01:58:12.000+08:00",
-    "state": "committer",
-    "version": "2.16.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjIwOTA3YWNmN2U1NjAxMjFjNGNlMjA5YzViZGJiMWQyZDFlM2FhYWM=",
-    "type": "commits",
-    "title": "released v4.2.0",
-    "repo": "jaywcjlove/rightmenu-master",
-    "sha": "20907acf7e560121c4ce209c5bdbb1d2d1e3aaac",
-    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/20907acf7e560121c4ce209c5bdbb1d2d1e3aaac",
-    "created_at": "2025-11-27T20:16:32.000+08:00",
-    "state": "committer",
-    "version": "4.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpiYzQzYjhjNWFiMzI2MDE5MTVhYjY3ZTY2Zjg5NDU5YjhmNTczMjRj",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/vidcrop",
-    "sha": "bc43b8c5ab32601915ab67e66f89459b8f57324c",
-    "url": "https://github.com/jaywcjlove/vidcrop/commit/bc43b8c5ab32601915ab67e66f89459b8f57324c",
-    "created_at": "2025-11-26T12:10:09.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmFhODQ0ZjBkMTEwODUyMzdmYjZlZGExMTM1YTEwYzQ5YjU3ZDkxNmQ=",
     "type": "commits",
     "title": "released v3.2.0",
@@ -2858,17 +2847,6 @@
     "created_at": "2025-11-24T16:55:15.000+08:00",
     "state": "committer",
     "version": "3.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo2ZjJmZWQyMGQ1Yjg4OTU5NWY5ZGE2MzliMmQxMWRlMjg1Mzc2NGZk",
-    "type": "commits",
-    "title": "released v1.11.0",
-    "repo": "jaywcjlove/vidwall",
-    "sha": "6f2fed20d5b889595f9da639b2d11de2853764fd",
-    "url": "https://github.com/jaywcjlove/vidwall/commit/6f2fed20d5b889595f9da639b2d11de2853764fd",
-    "created_at": "2025-11-22T18:16:17.000+08:00",
-    "state": "committer",
-    "version": "1.11.0"
   },
   {
     "id": 3344245728,
@@ -3033,7 +3011,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "238"
+    "stars": "237"
   },
   {
     "id": 1032707507,
