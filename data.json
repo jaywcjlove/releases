@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTo1YTlhMTgyZTljOGQxNzI0MGJkMWFmMDZhMGY4N2ZhMTU3NDRlZDE0",
+    "type": "commits",
+    "title": "released v1.8.0",
+    "repo": "jaywcjlove/deskmark",
+    "sha": "5a9a182e9c8d17240bd1af06a0f87fa15744ed14",
+    "url": "https://github.com/jaywcjlove/deskmark/commit/5a9a182e9c8d17240bd1af06a0f87fa15744ed14",
+    "created_at": "2026-08-02T14:29:00.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDplMzAwZTFjNmQzNTkwNGQ2NDZmYjA4ZWE0YWI4NTc2MDQ4MWYyYzRi",
     "type": "commits",
     "title": "released v0.1.8 (spa)",
@@ -2794,17 +2805,6 @@
     "version": "4.0.10"
   },
   {
-    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTo0ZDAyNDBiYmI0YmE4ZGU2NDE5NmFiYjgwZTExNjAxNmRmMzRlNTdi",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/deskmark",
-    "sha": "4d0240bbb4ba8de64196abb80e116016df34e57b",
-    "url": "https://github.com/jaywcjlove/deskmark/commit/4d0240bbb4ba8de64196abb80e116016df34e57b",
-    "created_at": "2025-12-03T10:13:30.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0ODY4MDk4NTA4OmI0YWUzOGNjODY3NDEwNzg4OTA0ZWIwYjQ3YTIxNGM4MWJjMDY4NzU=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2814,17 +2814,6 @@
     "created_at": "2025-12-02T11:39:16.000+08:00",
     "state": "committer",
     "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjhiYWVlNWI3NWVjM2JiNjE2MzRhODU5ZWMzMjVlYjk0MmMxYWRkZjk=",
-    "type": "commits",
-    "title": "released v4.0.9 #697",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "8baee5b75ec3bb61634a859ec325eb942c1addf9",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/8baee5b75ec3bb61634a859ec325eb942c1addf9",
-    "created_at": "2025-12-02T01:30:36.000+08:00",
-    "state": "committer",
-    "version": "4.0.9"
   },
   {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmNhNWYyZDlkZWQ4NjhhNTIzM2NhNGNhYWM1NWZlMjZmMGI3NWViZDc=",
