@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDoxNjUwYzk4MDUyYjQwYTFhNjNkZDk4YjdjYzU0ZTA2NmJjOGFiYTgw",
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDo4Y2M5MmM0ODQ1MWVlZjU3YTQ4ZTYyOWVjNTAwMjYwYzJmZTJmNDM1",
     "type": "commits",
-    "title": "released v1.11.0",
+    "title": "released v1.12.0",
     "repo": "jaywcjlove/vidcrop",
-    "sha": "1650c98052b40a1a63dd98b7cc54e066bc8aba80",
-    "url": "https://github.com/jaywcjlove/vidcrop/commit/1650c98052b40a1a63dd98b7cc54e066bc8aba80",
-    "created_at": "2026-08-03T09:09:40.000+08:00",
+    "sha": "8cc92c48451eef57a48e629ec500260c2fe2f435",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/8cc92c48451eef57a48e629ec500260c2fe2f435",
+    "created_at": "2026-08-04T01:56:54.000+08:00",
     "state": "committer",
-    "version": "1.11.0"
+    "version": "1.12.0"
   },
   {
     "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTo1YTlhMTgyZTljOGQxNzI0MGJkMWFmMDZhMGY4N2ZhMTU3NDRlZDE0",
@@ -1559,7 +1559,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4120997046,
@@ -1570,7 +1570,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4120957830,
@@ -1581,7 +1581,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4120948338,
@@ -1592,7 +1592,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4120791922,
@@ -1603,7 +1603,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4101342958,
@@ -1614,7 +1614,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4101340977,
@@ -1625,7 +1625,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4101336030,
@@ -1636,7 +1636,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4101325858,
@@ -1647,7 +1647,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4101323235,
@@ -1658,7 +1658,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4101318030,
@@ -1669,7 +1669,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4100966126,
@@ -1680,7 +1680,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": 4100952563,
@@ -1691,7 +1691,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "5.4K"
+    "stars": "5.5K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2792,17 +2792,6 @@
     "created_at": "2025-12-04T11:55:47.000+08:00",
     "state": "committer",
     "version": "1.11.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDIzODEwNjc6ZjA4OGMzZTAwZjU2YmM0ZDQzYzRhZGIxY2RlYmJhYjllZTgxYzIyYQ==",
-    "type": "commits",
-    "title": "released v1.34.4",
-    "repo": "jaywcjlove/idoc",
-    "sha": "f088c3e00f56bc4d43c4adb1cdebbab9ee81c22a",
-    "url": "https://github.com/jaywcjlove/idoc/commit/f088c3e00f56bc4d43c4adb1cdebbab9ee81c22a",
-    "created_at": "2025-12-04T01:13:18.000+08:00",
-    "state": "committer",
-    "version": "1.34.4"
   },
   {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjFhYzE5Y2I0YjlhNDkyODg0Yzc0NjEyZGMxOTlkMGY0ZWE4ZDRkYzQ=",

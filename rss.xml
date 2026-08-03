@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 03 Aug 2026 08:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 19:05:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,11 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/vidcrop released v1.11.0]]></title>
-            <link>https://github.com/jaywcjlove/vidcrop/commit/1650c98052b40a1a63dd98b7cc54e066bc8aba80</link>
-            <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDoxNjUwYzk4MDUyYjQwYTFhNjNkZDk4YjdjYzU0ZTA2NmJjOGFiYTgw</guid>
-            <pubDate>Mon, 03 Aug 2026 01:09:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/1650c98052b40a1a63dd98b7cc54e066bc8aba80">released v1.11.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/vidcrop released v1.12.0]]></title>
+            <link>https://github.com/jaywcjlove/vidcrop/commit/8cc92c48451eef57a48e629ec500260c2fe2f435</link>
+            <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDo4Y2M5MmM0ODQ1MWVlZjU3YTQ4ZTYyOWVjNTAwMjYwYzJmZTJmNDM1</guid>
+            <pubDate>Mon, 03 Aug 2026 17:56:54 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/8cc92c48451eef57a48e629ec500260c2fe2f435">released v1.12.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2059,14 +2059,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzoyYWRjYzE3NjI2MmExNGQ5NzdiZWJmZDNkOGI0Y2UwODQ5NzUzNzZl</guid>
             <pubDate>Thu, 04 Dec 2025 03:55:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/2adcc176262a14d977bebfd3d8b4ce084975376e">released v1.11.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/idoc released v1.34.4]]></title>
-            <link>https://github.com/jaywcjlove/idoc/commit/f088c3e00f56bc4d43c4adb1cdebbab9ee81c22a</link>
-            <guid>MDY6Q29tbWl0NDIzODEwNjc6ZjA4OGMzZTAwZjU2YmM0ZDQzYzRhZGIxY2RlYmJhYjllZTgxYzIyYQ==</guid>
-            <pubDate>Wed, 03 Dec 2025 17:13:18 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/idoc/commit/f088c3e00f56bc4d43c4adb1cdebbab9ee81c22a">released v1.34.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
