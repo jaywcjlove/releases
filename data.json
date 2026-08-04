@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OmU1MGYzNzViZWM5MDVmMTQyYTQxODNiNGRkMWQ2ZDlkZjcyYjQ5NzU=",
+    "type": "commits",
+    "title": "released v2.28.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "e50f375bec905f142a4183b4dd1d6d9df72b4975",
+    "url": "https://github.com/jaywcjlove/free-font/commit/e50f375bec905f142a4183b4dd1d6d9df72b4975",
+    "created_at": "2026-08-04T15:12:19.000+08:00",
+    "state": "committer",
+    "version": "2.28.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmU5OWE3YzljM2JhYmI5NmZjNDg4NTMxODBlNjY5ZjZjYTM5ZTg4ZmE=",
+    "type": "commits",
+    "title": "released v4.10.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "e99a7c9c3babb96fc48853180e669f6ca39e88fa",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/e99a7c9c3babb96fc48853180e669f6ca39e88fa",
+    "created_at": "2026-08-04T11:54:06.000+08:00",
+    "state": "committer",
+    "version": "4.10.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDo4Y2M5MmM0ODQ1MWVlZjU3YTQ4ZTYyOWVjNTAwMjYwYzJmZTJmNDM1",
     "type": "commits",
     "title": "released v1.12.0",
@@ -2739,17 +2761,6 @@
     "version": "2.2.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTozNmQ0ZDQ0OTE5YWZjNTQwZWJlNThlN2NiNWIyZGI4OTQzMmI5NDQ0",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/deskmark",
-    "sha": "36d4d44919afc540ebe58e7cb5b2db89432b9444",
-    "url": "https://github.com/jaywcjlove/deskmark/commit/36d4d44919afc540ebe58e7cb5b2db89432b9444",
-    "created_at": "2025-12-05T17:39:22.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjJjZjEwZTZjN2RjZjRmNDkwMzcxMDcwZjYxYWI4MGYzZDQxYzM0YmY=",
     "type": "commits",
     "title": "released v4.0.11 #699",
@@ -2827,17 +2838,6 @@
     "version": "1.32.0"
   },
   {
-    "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmFhODQ0ZjBkMTEwODUyMzdmYjZlZGExMTM1YTEwYzQ5YjU3ZDkxNmQ=",
-    "type": "commits",
-    "title": "released v3.2.0",
-    "repo": "jaywcjlove/IconizeFolder",
-    "sha": "aa844f0d11085237fb6eda1135a10c49b57d916d",
-    "url": "https://github.com/jaywcjlove/IconizeFolder/commit/aa844f0d11085237fb6eda1135a10c49b57d916d",
-    "created_at": "2025-11-24T16:55:15.000+08:00",
-    "state": "committer",
-    "version": "3.2.0"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2868,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "481"
+    "stars": "482"
   },
   {
     "id": 2526870275,
