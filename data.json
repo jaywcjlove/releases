@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmZjNGU5MzEyMjcxYmVlOWM2NjkyMjkxOTMyMWQ3YWNkN2I4ZTYyYTU=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.8.8",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "fc4e9312271bee9c66922919321d7acd7b8e62a5",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/fc4e9312271bee9c66922919321d7acd7b8e62a5",
+    "created_at": "2026-08-08T02:07:13.000Z",
+    "state": "committer",
+    "version": "26.8.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzo1NmI3YWE0YmVmYjQ5MTZhYmI2MmY5OGU0OTE4NDEzZTMzNmY2NTE2",
     "type": "commits",
     "title": "released v1.9.0",
@@ -2770,17 +2781,6 @@
     "created_at": "2025-12-11T02:38:03.000+08:00",
     "state": "committer",
     "version": "2.0.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjJjZjEwZTZjN2RjZjRmNDkwMzcxMDcwZjYxYWI4MGYzZDQxYzM0YmY=",
-    "type": "commits",
-    "title": "released v4.0.11 #699",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "2cf10e6c7dcf4f490371070f61ab80f3d41c34bf",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/2cf10e6c7dcf4f490371070f61ab80f3d41c34bf",
-    "created_at": "2025-12-05T00:46:21.000+08:00",
-    "state": "committer",
-    "version": "4.0.11"
   },
   {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo3OWQ0ZTU4ZTkyN2VmYzEwOGNlYzBmZDg0ZTFjOTIwYzA1ZmQ1ODM4",

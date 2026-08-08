@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 07 Aug 2026 18:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 06:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.8.8]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/fc4e9312271bee9c66922919321d7acd7b8e62a5</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmZjNGU5MzEyMjcxYmVlOWM2NjkyMjkxOTMyMWQ3YWNkN2I4ZTYyYTU=</guid>
+            <pubDate>Sat, 08 Aug 2026 02:07:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/fc4e9312271bee9c66922919321d7acd7b8e62a5">chore(release): bump version to 26.8.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/zipora released v1.9.0]]></title>
             <link>https://github.com/jaywcjlove/zipora/commit/56b7aa4befb4916abb62f98e4918413e336f6516</link>
@@ -2044,14 +2052,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Wed, 10 Dec 2025 18:38:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9">released v2.0.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-md-editor released v4.0.11 #699]]></title>
-            <link>https://github.com/uiwjs/react-md-editor/commit/2cf10e6c7dcf4f490371070f61ab80f3d41c34bf</link>
-            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjJjZjEwZTZjN2RjZjRmNDkwMzcxMDcwZjYxYWI4MGYzZDQxYzM0YmY=</guid>
-            <pubDate>Thu, 04 Dec 2025 16:46:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/2cf10e6c7dcf4f490371070f61ab80f3d41c34bf">released v4.0.11 #699</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.11.0]]></title>
