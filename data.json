@@ -880,17 +880,6 @@
     "version": "1.5.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoyMjZjZjU1Nzg4YWJjNTllMzFmMWQ0NmZkYzMyZmE0NTU5YjgxYjE1",
-    "type": "commits",
-    "title": "released v0.1.5 (spa)",
-    "repo": "jaywcjlove/homebrew-tap",
-    "sha": "226cf55788abc59e31f1d46fdc32fa4559b81b15",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/226cf55788abc59e31f1d46fdc32fa4559b81b15",
-    "created_at": "2026-06-11T05:15:36.000+08:00",
-    "state": "committer",
-    "version": "0.1.5"
-  },
-  {
     "id": "MDY6Q29tbWl0MTI2NTQzOTkzOTphMDk3ZmIwOTk2MjZkYTBhZDE1NjE5YTliYjNmMjA5ODFjMGM2YTNj",
     "type": "commits",
     "title": "released v0.1.5 (spa)",
@@ -900,28 +889,6 @@
     "created_at": "2026-06-11T05:13:02.000+08:00",
     "state": "committer",
     "version": "0.1.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo2Mjc2MjY0N2IxZjQ0MzMwODNlNmNmYTBhYzYyM2RiMjk4MGY1OTFj",
-    "type": "commits",
-    "title": "released v0.1.4 (spa)",
-    "repo": "jaywcjlove/homebrew-tap",
-    "sha": "62762647b1f4433083e6cfa0ac623db2980f591c",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/62762647b1f4433083e6cfa0ac623db2980f591c",
-    "created_at": "2026-06-11T04:42:21.000+08:00",
-    "state": "committer",
-    "version": "0.1.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTI2NTQzOTkzOTo3NzczZTI1YjJlM2IxMTE0MThjOTlhYzE4ZTUwOWJlNTdhNDY2MjJj",
-    "type": "commits",
-    "title": "released v0.1.4",
-    "repo": "jaywcjlove/spa",
-    "sha": "7773e25b2e3b111418c99ac18e509be57a46622c",
-    "url": "https://github.com/jaywcjlove/spa/commit/7773e25b2e3b111418c99ac18e509be57a46622c",
-    "created_at": "2026-06-11T04:34:00.000+08:00",
-    "state": "committer",
-    "version": "0.1.4"
   },
   {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo1Y2FiNzRmODY2M2UyM2EzYWEwY2Q4ZDUwNmNjMDA4YjM1MmE2OWNl",

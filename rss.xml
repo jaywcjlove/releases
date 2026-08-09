@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 08 Aug 2026 17:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 06:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -656,35 +656,11 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/homebrew-tap released v0.1.5 (spa)]]></title>
-            <link>https://github.com/jaywcjlove/homebrew-tap/commit/226cf55788abc59e31f1d46fdc32fa4559b81b15</link>
-            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDoyMjZjZjU1Nzg4YWJjNTllMzFmMWQ0NmZkYzMyZmE0NTU5YjgxYjE1</guid>
-            <pubDate>Wed, 10 Jun 2026 21:15:36 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/226cf55788abc59e31f1d46fdc32fa4559b81b15">released v0.1.5 (spa)</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/spa released v0.1.5 (spa)]]></title>
             <link>https://github.com/jaywcjlove/spa/commit/a097fb099626da0ad15619a9bb3f20981c0c6a3c</link>
             <guid>MDY6Q29tbWl0MTI2NTQzOTkzOTphMDk3ZmIwOTk2MjZkYTBhZDE1NjE5YTliYjNmMjA5ODFjMGM2YTNj</guid>
             <pubDate>Wed, 10 Jun 2026 21:13:02 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/spa/commit/a097fb099626da0ad15619a9bb3f20981c0c6a3c">released v0.1.5 (spa)</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/homebrew-tap released v0.1.4 (spa)]]></title>
-            <link>https://github.com/jaywcjlove/homebrew-tap/commit/62762647b1f4433083e6cfa0ac623db2980f591c</link>
-            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDo2Mjc2MjY0N2IxZjQ0MzMwODNlNmNmYTBhYzYyM2RiMjk4MGY1OTFj</guid>
-            <pubDate>Wed, 10 Jun 2026 20:42:21 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/62762647b1f4433083e6cfa0ac623db2980f591c">released v0.1.4 (spa)</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/spa released v0.1.4]]></title>
-            <link>https://github.com/jaywcjlove/spa/commit/7773e25b2e3b111418c99ac18e509be57a46622c</link>
-            <guid>MDY6Q29tbWl0MTI2NTQzOTkzOTo3NzczZTI1YjJlM2IxMTE0MThjOTlhYzE4ZTUwOWJlNTdhNDY2MjJj</guid>
-            <pubDate>Wed, 10 Jun 2026 20:34:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/spa/commit/7773e25b2e3b111418c99ac18e509be57a46622c">released v0.1.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
