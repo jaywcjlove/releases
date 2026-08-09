@@ -880,6 +880,17 @@
     "version": "1.5.0"
   },
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoyMjZjZjU1Nzg4YWJjNTllMzFmMWQ0NmZkYzMyZmE0NTU5YjgxYjE1",
+    "type": "commits",
+    "title": "released v0.1.5 (spa)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "226cf55788abc59e31f1d46fdc32fa4559b81b15",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/226cf55788abc59e31f1d46fdc32fa4559b81b15",
+    "created_at": "2026-06-11T05:15:36.000+08:00",
+    "state": "committer",
+    "version": "0.1.5"
+  },
+  {
     "id": "MDY6Q29tbWl0MTI2NTQzOTkzOTphMDk3ZmIwOTk2MjZkYTBhZDE1NjE5YTliYjNmMjA5ODFjMGM2YTNj",
     "type": "commits",
     "title": "released v0.1.5 (spa)",
@@ -889,6 +900,28 @@
     "created_at": "2026-06-11T05:13:02.000+08:00",
     "state": "committer",
     "version": "0.1.5"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo2Mjc2MjY0N2IxZjQ0MzMwODNlNmNmYTBhYzYyM2RiMjk4MGY1OTFj",
+    "type": "commits",
+    "title": "released v0.1.4 (spa)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "62762647b1f4433083e6cfa0ac623db2980f591c",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/62762647b1f4433083e6cfa0ac623db2980f591c",
+    "created_at": "2026-06-11T04:42:21.000+08:00",
+    "state": "committer",
+    "version": "0.1.4"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTI2NTQzOTkzOTo3NzczZTI1YjJlM2IxMTE0MThjOTlhYzE4ZTUwOWJlNTdhNDY2MjJj",
+    "type": "commits",
+    "title": "released v0.1.4",
+    "repo": "jaywcjlove/spa",
+    "sha": "7773e25b2e3b111418c99ac18e509be57a46622c",
+    "url": "https://github.com/jaywcjlove/spa/commit/7773e25b2e3b111418c99ac18e509be57a46622c",
+    "created_at": "2026-06-11T04:34:00.000+08:00",
+    "state": "committer",
+    "version": "0.1.4"
   },
   {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo1Y2FiNzRmODY2M2UyM2EzYWEwY2Q4ZDUwNmNjMDA4YjM1MmE2OWNl",
@@ -1603,7 +1636,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4120997046,
@@ -1614,7 +1647,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4120957830,
@@ -1625,7 +1658,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4120948338,
@@ -1636,7 +1669,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4120791922,
@@ -1647,7 +1680,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4101342958,
@@ -1658,7 +1691,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4101340977,
@@ -1669,7 +1702,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4101336030,
@@ -1680,7 +1713,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4101325858,
@@ -1691,7 +1724,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4101323235,
@@ -1702,7 +1735,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4101318030,
@@ -1713,7 +1746,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4100966126,
@@ -1724,7 +1757,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": 4100952563,
@@ -1735,7 +1768,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "5.6K"
+    "stars": "5.7K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
