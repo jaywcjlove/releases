@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZDdiNjk5YmM4MDMzMmE1NGQ4YzE0NzgwZDM1NjEyNTM4ZTg4OTcyOQ==",
+    "type": "commits",
+    "title": "released v4.0.5 #546 #198",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "d7b699bc80332a54d8c14780d35612538e889729",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/d7b699bc80332a54d8c14780d35612538e889729",
+    "created_at": "2026-08-15T01:27:33.000+08:00",
+    "state": "committer",
+    "version": "4.0.5"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OmEzNTY4Yjc0ZGQ0MTQ2MTlmMTVlMDk1ZTRiODA0NjQ2NjZjZDNkY2U=",
     "type": "commits",
     "title": "released v3.1.0",
@@ -2770,6 +2781,17 @@
     "created_at": "2025-12-12T21:48:26.000+08:00",
     "state": "committer",
     "version": "4.0.4"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OmQ5MjFkOTFlZTYzOWU5MjkyNjU0NTA4MjQwYWViNDM2MDA4YWQ0MTg=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "d921d91ee639e9292654508240aeb436008ad418",
+    "url": "https://github.com/jaywcjlove/musicer/commit/d921d91ee639e9292654508240aeb436008ad418",
+    "created_at": "2025-12-11T03:30:44.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
   },
   {
     "id": "MDY6Q29tbWl0NDc4NDIxMDI1OjllYzg3M2M2ZmZkMjJkNDM2YmVlOGM2OTE0NWZjNjFlZGZmZGY1Yzk=",
