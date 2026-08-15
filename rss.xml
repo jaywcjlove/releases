@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 14 Aug 2026 18:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 05:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.8.15]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/d9a6108e3dedb0392444bcf01518b2dfd38a76b2</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmQ5YTYxMDhlM2RlZGIwMzkyNDQ0YmNmMDE1MThiMmRmZDM4YTc2YjI=</guid>
+            <pubDate>Sat, 15 Aug 2026 01:40:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/d9a6108e3dedb0392444bcf01518b2dfd38a76b2">chore(release): bump version to 26.8.15</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/key-clicker released v2.5.0]]></title>
+            <link>https://github.com/jaywcjlove/key-clicker/commit/4b4f0e701f67f95f3f4f340e61dc9dbb854bd4b9</link>
+            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjRiNGYwZTcwMWY2N2Y5NWYzZjRmMzQwZTYxZGM5ZGJiODU0YmQ0Yjk=</guid>
+            <pubDate>Sat, 15 Aug 2026 01:17:17 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/4b4f0e701f67f95f3f4f340e61dc9dbb854bd4b9">released v2.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.5 #546 #198]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/d7b699bc80332a54d8c14780d35612538e889729</link>
@@ -2054,27 +2070,11 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/musicer released v2.2.0]]></title>
-            <link>https://github.com/jaywcjlove/musicer/commit/d921d91ee639e9292654508240aeb436008ad418</link>
-            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmQ5MjFkOTFlZTYzOWU5MjkyNjU0NTA4MjQwYWViNDM2MDA4YWQ0MTg=</guid>
-            <pubDate>Wed, 10 Dec 2025 19:30:44 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/d921d91ee639e9292654508240aeb436008ad418">released v2.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/rehype-ignore released v2.0.3]]></title>
             <link>https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9</link>
             <guid>MDY6Q29tbWl0NDc4NDIxMDI1OjllYzg3M2M2ZmZkMjJkNDM2YmVlOGM2OTE0NWZjNjFlZGZmZGY1Yzk=</guid>
             <pubDate>Wed, 10 Dec 2025 18:38:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9">released v2.0.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.11.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/79d4e58e927efc108cec0fd84e1c920c05fd5838</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo3OWQ0ZTU4ZTkyN2VmYzEwOGNlYzBmZDg0ZTFjOTIwYzA1ZmQ1ODM4</guid>
-            <pubDate>Thu, 04 Dec 2025 07:48:23 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/79d4e58e927efc108cec0fd84e1c920c05fd5838">released v1.11.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
