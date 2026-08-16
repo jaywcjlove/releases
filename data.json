@@ -1,14 +1,14 @@
 [
   {
-    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjA4ZmYxMDU1MDRmMzhhZmZmNmEwNmZkNjk4ZWI2ZWU5YzA4OGViZjY=",
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmE0N2JkY2RmZDNlNDI3MTlkMjc2ZWM1MTQ3M2UzOTJiZjFkYzUzODk=",
     "type": "commits",
-    "title": "released v2.4.0",
+    "title": "released v2.6.0",
     "repo": "jaywcjlove/key-clicker",
-    "sha": "08ff105504f38afff6a06fd698eb6ee9c088ebf6",
-    "url": "https://github.com/jaywcjlove/key-clicker/commit/08ff105504f38afff6a06fd698eb6ee9c088ebf6",
-    "created_at": "2026-08-15T18:08:43.000+08:00",
+    "sha": "a47bdcdfd3e42719d276ec51473e392bf1dc5389",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/a47bdcdfd3e42719d276ec51473e392bf1dc5389",
+    "created_at": "2026-08-16T13:17:52.000+08:00",
     "state": "committer",
-    "version": "2.4.0"
+    "version": "2.6.0"
   },
   {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmQ5YTYxMDhlM2RlZGIwMzkyNDQ0YmNmMDE1MThiMmRmZDM4YTc2YjI=",
