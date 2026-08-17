@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 16 Aug 2026 17:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 05:59:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v3.3.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/bc515a8ba73d77674ac72b98b6f02b75e1866b30</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOmJjNTE1YThiYTczZDc3Njc0YWM3MmI5OGI2ZjAyYjc1ZTE4NjZiMzA=</guid>
+            <pubDate>Mon, 17 Aug 2026 03:35:21 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/bc515a8ba73d77674ac72b98b6f02b75e1866b30">released v3.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/scap released v1.8.0]]></title>
+            <link>https://github.com/jaywcjlove/scap/commit/b22c6e9999295c6764f7b1464cf7a06456f8955f</link>
+            <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzpiMjJjNmU5OTk5Mjk1YzY3NjRmN2IxNDY0Y2Y3YTA2NDU2Zjg5NTVm</guid>
+            <pubDate>Sun, 16 Aug 2026 18:51:03 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/b22c6e9999295c6764f7b1464cf7a06456f8955f">released v1.8.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v2.6.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/a47bdcdfd3e42719d276ec51473e392bf1dc5389</link>
@@ -2022,14 +2038,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/mousio released v2.3.0]]></title>
-            <link>https://github.com/jaywcjlove/mousio/commit/be27b584ed48c5ee2d659b3ebf169efb4eac06eb</link>
-            <guid>MDY6Q29tbWl0OTk1NDI4MjY0OmJlMjdiNTg0ZWQ0OGM1ZWUyZDY1OWIzZWJmMTY5ZWZiNGVhYzA2ZWI=</guid>
-            <pubDate>Sat, 13 Dec 2025 20:11:30 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/be27b584ed48c5ee2d659b3ebf169efb4eac06eb">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/quick-rss released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/quick-rss/commit/f7a13eaeaf09c9970f0da04e5503ff2c0a74df9e</link>
             <guid>MDY6Q29tbWl0ODU2NTAyNTE4OmY3YTEzZWFlYWYwOWM5OTcwZjBkYTA0ZTU1MDNmZjJjMGE3NGRmOWU=</guid>
@@ -2051,14 +2059,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OjJhZDE3OTk5OGNlMzlmMzAyMDVlYmZkZmNlYWZlNzEzNTJhY2MyYmU=</guid>
             <pubDate>Fri, 12 Dec 2025 16:04:10 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/2ad179998ce39f30205ebfdfceafe71352acc2be">released v4.25.4</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/copy-to-clipboard released v1.0.19]]></title>
-            <link>https://github.com/uiwjs/copy-to-clipboard/commit/14963660d63749cd4bb33de80bb06c268dd10df0</link>
-            <guid>MDY6Q29tbWl0MTQ3NjAyNzAxOjE0OTYzNjYwZDYzNzQ5Y2Q0YmIzM2RlODBiYjA2YzI2OGRkMTBkZjA=</guid>
-            <pubDate>Fri, 12 Dec 2025 15:10:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/copy-to-clipboard/commit/14963660d63749cd4bb33de80bb06c268dd10df0">released v1.0.19</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
