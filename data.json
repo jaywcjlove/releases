@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDoyNWMwMjdiOWVmNTg1NTk0M2RjMGQ4OTg5ZWM1N2U4ZDg3NzliMWIy",
+    "type": "commits",
+    "title": "released v1.8.0",
+    "repo": "jaywcjlove/mousio-hint",
+    "sha": "25c027b9ef5855943dc0d8989ec57e8d8779b1b2",
+    "url": "https://github.com/jaywcjlove/mousio-hint/commit/25c027b9ef5855943dc0d8989ec57e8d8779b1b2",
+    "created_at": "2026-08-19T01:41:52.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmYxYzQwNjc2ZDk4NDNmNDRiNmI0NWM1ZmM1MTljOTg4ODkzOWE5Y2M=",
     "type": "commits",
     "title": "released v4.10.1",
@@ -2805,17 +2816,6 @@
     "version": "4.25.4"
   },
   {
-    "id": "MDY6Q29tbWl0NDc4NDIxMDI1OjllYzg3M2M2ZmZkMjJkNDM2YmVlOGM2OTE0NWZjNjFlZGZmZGY1Yzk=",
-    "type": "commits",
-    "title": "released v2.0.3",
-    "repo": "jaywcjlove/rehype-ignore",
-    "sha": "9ec873c6ffd22d436bee8c69145fc61edffdf5c9",
-    "url": "https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9",
-    "created_at": "2025-12-11T02:38:03.000+08:00",
-    "state": "committer",
-    "version": "2.0.3"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2879,7 +2879,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "417"
+    "stars": "416"
   },
   {
     "id": 1838600360,

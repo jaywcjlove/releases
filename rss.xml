@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 18 Aug 2026 05:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:54:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio-hint released v1.8.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio-hint/commit/25c027b9ef5855943dc0d8989ec57e8d8779b1b2</link>
+            <guid>MDY6Q29tbWl0MTAwMDY5OTU0MDoyNWMwMjdiOWVmNTg1NTk0M2RjMGQ4OTg5ZWM1N2U4ZDg3NzliMWIy</guid>
+            <pubDate>Tue, 18 Aug 2026 17:41:52 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio-hint/commit/25c027b9ef5855943dc0d8989ec57e8d8779b1b2">released v1.8.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v4.10.1]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/f1c40676d9843f44b6b45c5fc519c9888939a9cc</link>
@@ -2068,14 +2076,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <pubDate>Fri, 12 Dec 2025 16:04:10 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/2ad179998ce39f30205ebfdfceafe71352acc2be">released v4.25.4</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/rehype-ignore released v2.0.3]]></title>
-            <link>https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9</link>
-            <guid>MDY6Q29tbWl0NDc4NDIxMDI1OjllYzg3M2M2ZmZkMjJkNDM2YmVlOGM2OTE0NWZjNjFlZGZmZGY1Yzk=</guid>
-            <pubDate>Wed, 10 Dec 2025 18:38:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-ignore/commit/9ec873c6ffd22d436bee8c69145fc61edffdf5c9">released v2.0.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[prettier/prettier doc: update related-projects.md]]></title>
