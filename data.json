@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4Ojk1ZmFmMDFlZDA1NzAxNWIzNDRjN2ZmODg1OTY1MDkwMzIxNTMxYjM=",
+    "type": "commits",
+    "title": "released v3.1.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "95faf01ed057015b344c7ff885965090321531b3",
+    "url": "https://github.com/jaywcjlove/musicer/commit/95faf01ed057015b344c7ff885965090321531b3",
+    "created_at": "2026-08-19T10:57:19.000+08:00",
+    "state": "committer",
+    "version": "3.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoxMmE1YTY4OGE4YmEzNjQ4NGYxZTdmNTUxODE1NzAxYzk2MzBlNzZh",
+    "type": "commits",
+    "title": "released v1.8.0 (Mousio Hint)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "12a5a688a8ba36484f1e7f551815701c9630e76a",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/12a5a688a8ba36484f1e7f551815701c9630e76a",
+    "created_at": "2026-08-19T01:58:07.000+08:00",
+    "state": "committer",
+    "version": "1.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDoyNWMwMjdiOWVmNTg1NTk0M2RjMGQ4OTg5ZWM1N2U4ZDg3NzliMWIy",
     "type": "commits",
     "title": "released v1.8.0",
@@ -1735,7 +1757,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4120997046,
@@ -1746,7 +1768,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4120957830,
@@ -1757,7 +1779,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4120948338,
@@ -1768,7 +1790,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4120791922,
@@ -1779,7 +1801,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4101342958,
@@ -1790,7 +1812,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4101340977,
@@ -1801,7 +1823,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4101336030,
@@ -1812,7 +1834,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4101325858,
@@ -1823,7 +1845,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4101323235,
@@ -1834,7 +1856,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4101318030,
@@ -1845,7 +1867,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4100966126,
@@ -1856,7 +1878,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": 4100952563,
@@ -1867,7 +1889,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "5.9K"
+    "stars": "6.0K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2750,17 +2772,6 @@
     "version": "1.11.0"
   },
   {
-    "id": "MDY6Q29tbWl0NTEyNDA2NTM4OjA5ZDU1NmI5N2IzYzJkYWE4ZmMxZjRiMjQ2ZWY1NDM0OTU5NGE1ZDk=",
-    "type": "commits",
-    "title": "released v1.0.3",
-    "repo": "jaywcjlove/colors-named-hex",
-    "sha": "09d556b97b3c2daa8fc1f4b246ef54349594a5d9",
-    "url": "https://github.com/jaywcjlove/colors-named-hex/commit/09d556b97b3c2daa8fc1f4b246ef54349594a5d9",
-    "created_at": "2025-12-17T13:38:50.000+08:00",
-    "state": "committer",
-    "version": "1.0.3"
-  },
-  {
     "id": "MDY6Q29tbWl0NTEyMzk0MDIyOjY5MGMyMDI0NjZlZDcxYjZkMTZmYTA1MDU3NWFhOTkwZThhOWU1OWU=",
     "type": "commits",
     "title": "released v1.0.4",
@@ -2803,17 +2814,6 @@
     "created_at": "2025-12-13T02:39:40.000+08:00",
     "state": "committer",
     "version": "2.7.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjJhZDE3OTk5OGNlMzlmMzAyMDVlYmZkZmNlYWZlNzEzNTJhY2MyYmU=",
-    "type": "commits",
-    "title": "released v4.25.4",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "2ad179998ce39f30205ebfdfceafe71352acc2be",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/2ad179998ce39f30205ebfdfceafe71352acc2be",
-    "created_at": "2025-12-13T00:04:10.000+08:00",
-    "state": "committer",
-    "version": "4.25.4"
   },
   {
     "id": 3344245728,
