@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjQwYTRjMzA3ODg3MjUwZjNiZDE0Yjc5Zjc0YzYxYmY1NWVkYTUxYTY=",
+    "type": "commits",
+    "title": "released v2.7.0",
+    "repo": "jaywcjlove/quick-rss",
+    "sha": "40a4c307887250f3bd14b79f74c61bf55eda51a6",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/40a4c307887250f3bd14b79f74c61bf55eda51a6",
+    "created_at": "2026-08-20T15:46:51.000+08:00",
+    "state": "committer",
+    "version": "2.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjlhOTM0ZDhlNjY3Y2FjNDczZTIyODhmYWU4MWE1YTk5M2ZkNGZkZjY=",
     "type": "commits",
     "title": "released v3.2.0",
@@ -2792,17 +2803,6 @@
     "created_at": "2025-12-16T00:29:55.000+08:00",
     "state": "committer",
     "version": "3.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjIyNDkyMTUxOmVlZmU3MWNmOGYyYzFlOWJmMTkzZDkwNjA2MzhmYjJlZGJhNWEyMTU=",
-    "type": "commits",
-    "title": "released v2.7.5",
-    "repo": "uiwjs/react-baidu-map",
-    "sha": "eefe71cf8f2c1e9bf193d9060638fb2edba5a215",
-    "url": "https://github.com/uiwjs/react-baidu-map/commit/eefe71cf8f2c1e9bf193d9060638fb2edba5a215",
-    "created_at": "2025-12-13T02:39:40.000+08:00",
-    "state": "committer",
-    "version": "2.7.5"
   },
   {
     "id": 3344245728,
