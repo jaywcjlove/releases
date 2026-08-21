@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjA0YzIyNTc4OTE5ODQ2OTU2OTgzNDA4MGQ2NjkzYmQwYWMzYzk0YzU=",
+    "type": "commits",
+    "title": "released v4.1.2 #710 #708",
+    "repo": "uiwjs/react-md-editor",
+    "sha": "04c225789198469569834080d6693bd0ac3c94c5",
+    "url": "https://github.com/uiwjs/react-md-editor/commit/04c225789198469569834080d6693bd0ac3c94c5",
+    "created_at": "2026-08-21T11:50:12.000+08:00",
+    "state": "committer",
+    "version": "4.1.2"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OmI1NWExZjYxMzc3NGZjYWVjMTI0YjdjZGI5NjRiNTcxN2E3MjU3Njg=",
+    "type": "commits",
+    "title": "released v2.8.0",
+    "repo": "jaywcjlove/quick-rss",
+    "sha": "b55a1f613774fcaec124b7cdb964b5717a725768",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/b55a1f613774fcaec124b7cdb964b5717a725768",
+    "created_at": "2026-08-21T10:44:06.000+08:00",
+    "state": "committer",
+    "version": "2.8.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo3OTY2MmYzOGU2NjkxOTkyODcyYmQ4MDY5MmE3OWE2M2JkMTllNDI4",
+    "type": "commits",
+    "title": "released v1.17.0",
+    "repo": "jaywcjlove/vidwall",
+    "sha": "79662f38e6691992872bd80692a79a63bd19e428",
+    "url": "https://github.com/jaywcjlove/vidwall/commit/79662f38e6691992872bd80692a79a63bd19e428",
+    "created_at": "2026-08-21T09:22:38.000+08:00",
+    "state": "committer",
+    "version": "1.17.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjQwYTRjMzA3ODg3MjUwZjNiZDE0Yjc5Zjc0YzYxYmY1NWVkYTUxYTY=",
     "type": "commits",
     "title": "released v2.7.0",
@@ -2770,28 +2803,6 @@
     "created_at": "2025-12-18T21:30:29.000+08:00",
     "state": "committer",
     "version": "1.0.3"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjM1MzkwNTU6NjMyODdjYjk3NTFkOTAxNTMyOWFjNGFlYjI5NTBlOTA0MjEwZTI5Mw==",
-    "type": "commits",
-    "title": "released v1.11.0",
-    "repo": "jaywcjlove/awesome-mac",
-    "sha": "63287cb9751d9015329ac4aeb2950e904210e293",
-    "url": "https://github.com/jaywcjlove/awesome-mac/commit/63287cb9751d9015329ac4aeb2950e904210e293",
-    "created_at": "2025-12-18T20:03:59.000+08:00",
-    "state": "committer",
-    "version": "1.11.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTEyMzk0MDIyOjY5MGMyMDI0NjZlZDcxYjZkMTZmYTA1MDU3NWFhOTkwZThhOWU1OWU=",
-    "type": "commits",
-    "title": "released v1.0.4",
-    "repo": "jaywcjlove/colors-named",
-    "sha": "690c202466ed71b6d16fa050575aa990e8a9e59e",
-    "url": "https://github.com/jaywcjlove/colors-named/commit/690c202466ed71b6d16fa050575aa990e8a9e59e",
-    "created_at": "2025-12-17T13:34:33.000+08:00",
-    "state": "committer",
-    "version": "1.0.4"
   },
   {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OjdhMTc4NzhmMDJjZjVkOTdmNmNjMDBkOTJkNWU0YzJhM2Y5MGMxZTk=",
