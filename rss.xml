@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 23 Aug 2026 05:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 17:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v3.4.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/20061d3b22b2f52a1f5b938a0d92d726d7aad9a7</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjIwMDYxZDNiMjJiMmY1MmExZjViOTM4YTBkOTJkNzI2ZDdhYWQ5YTc=</guid>
+            <pubDate>Sun, 23 Aug 2026 16:45:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/20061d3b22b2f52a1f5b938a0d92d726d7aad9a7">released v3.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.8.22]]></title>
             <link>https://github.com/jaywcjlove/github-rank/commit/5ee83126f4a0c88125e1b9e8b1d9985453d3b466</link>
@@ -2075,14 +2083,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0ODU2NTAyNTE4OjQ1MTVkMjRlMzFjOTc5NDhmNjU2ZDZjYjQ2MzdmNGY5NjVlODFjMzA=</guid>
             <pubDate>Mon, 22 Dec 2025 00:33:34 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/quick-rss/commit/4515d24e31c97948f656d6cb4637f4f965e81c30">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/colors-named-decimal released v1.0.3]]></title>
-            <link>https://github.com/jaywcjlove/colors-named-decimal/commit/2de9e77a0c33d4593c40da7ca1bd8f460084025c</link>
-            <guid>MDY6Q29tbWl0NTEyNDM5MjQyOjJkZTllNzdhMGMzM2Q0NTkzYzQwZGE3Y2ExYmQ4ZjQ2MDA4NDAyNWM=</guid>
-            <pubDate>Thu, 18 Dec 2025 13:30:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named-decimal/commit/2de9e77a0c33d4593c40da7ca1bd8f460084025c">released v1.0.3</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
