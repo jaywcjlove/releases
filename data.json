@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjY0MmY2MTc0MDMxZGQ1ZjhmY2YwNTVjZDFmOTA0NGJkOTEwNTc0NTU=",
+    "type": "commits",
+    "title": "released v2.9.0",
+    "repo": "jaywcjlove/quick-rss",
+    "sha": "642f6174031dd5f8fcf055cd1f9044bd91057455",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/642f6174031dd5f8fcf055cd1f9044bd91057455",
+    "created_at": "2026-08-25T10:28:01.000+08:00",
+    "state": "committer",
+    "version": "2.9.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjIwMDYxZDNiMjJiMmY1MmExZjViOTM4YTBkOTJkNzI2ZDdhYWQ5YTc=",
     "type": "commits",
     "title": "released v3.4.0",
