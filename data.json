@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjEwNTU4ZWJlMGUxMTAwN2UzNjU1MjM5MGFjZmMyNTZiYzcwYzkzNDE=",
+    "type": "commits",
+    "title": "released v3.5.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "10558ebe0e11007e36552390acfc256bc70c9341",
+    "url": "https://github.com/jaywcjlove/musicer/commit/10558ebe0e11007e36552390acfc256bc70c9341",
+    "created_at": "2026-08-26T19:20:45.000+08:00",
+    "state": "committer",
+    "version": "3.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjFjMGNmOWQzZWZkYzdmYzc5MWZiY2UxNmE3MTgyMGJhYWYxNTJjN2E=",
     "type": "commits",
     "title": "released v3.2.0",
@@ -2827,17 +2838,6 @@
     "version": "2.0.2"
   },
   {
-    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjVhN2Q2NTNiODE2NzEyOWVlMDBjNTk0ZWZjZWI1NjMwNDFlOGU4YjQ=",
-    "type": "commits",
-    "title": "released v2.4.0",
-    "repo": "jaywcjlove/quick-rss",
-    "sha": "5a7d653b8167129ee00c594efceb563041e8e8b4",
-    "url": "https://github.com/jaywcjlove/quick-rss/commit/5a7d653b8167129ee00c594efceb563041e8e8b4",
-    "created_at": "2025-12-24T01:07:25.000+08:00",
-    "state": "committer",
-    "version": "2.4.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ZmIzODczMGI1MmViYmU4ZGM1ZTVlOGVjMTVmNmM0MTdlOGNlNDM0ZA==",
     "type": "commits",
     "title": "released v4.0.0",
@@ -2879,7 +2879,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "487"
+    "stars": "488"
   },
   {
     "id": 2526870275,
@@ -2967,7 +2967,7 @@
     "created_at": "2022-04-06T12:42:01Z",
     "state": "merged",
     "number": 95,
-    "stars": "2.2K"
+    "stars": "2.3K"
   },
   {
     "id": 1160378850,
@@ -3022,7 +3022,7 @@
     "created_at": "2021-10-21T16:42:18Z",
     "state": "merged",
     "number": 73,
-    "stars": "2.2K"
+    "stars": "2.3K"
   },
   {
     "id": 1011743483,
@@ -3033,7 +3033,7 @@
     "created_at": "2021-09-30T06:00:05Z",
     "state": "merged",
     "number": 71,
-    "stars": "2.2K"
+    "stars": "2.3K"
   },
   {
     "id": 990958917,
@@ -3143,7 +3143,7 @@
     "created_at": "2021-05-14T16:54:45Z",
     "state": "merged",
     "number": 57,
-    "stars": "2.2K"
+    "stars": "2.3K"
   },
   {
     "id": 824160663,
