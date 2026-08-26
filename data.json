@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTk1NDI4MjY0OjFjMGNmOWQzZWZkYzdmYzc5MWZiY2UxNmE3MTgyMGJhYWYxNTJjN2E=",
+    "type": "commits",
+    "title": "released v3.2.0",
+    "repo": "jaywcjlove/mousio",
+    "sha": "1c0cf9d3efdc7fc791fbce16a71820baaf152c7a",
+    "url": "https://github.com/jaywcjlove/mousio/commit/1c0cf9d3efdc7fc791fbce16a71820baaf152c7a",
+    "created_at": "2026-08-26T09:06:56.000+08:00",
+    "state": "committer",
+    "version": "3.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjdhYTY0ZDUwNGQ3M2ViNTQ2ZDAyMjY5ZDA4MjNiM2Q2ZGFmZGY2NzQ=",
     "type": "commits",
     "title": "released v4.10.2",
@@ -2836,17 +2847,6 @@
     "created_at": "2025-12-23T01:34:40.000+08:00",
     "state": "committer",
     "version": "4.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjQ1MTVkMjRlMzFjOTc5NDhmNjU2ZDZjYjQ2MzdmNGY5NjVlODFjMzA=",
-    "type": "commits",
-    "title": "released v2.3.0",
-    "repo": "jaywcjlove/quick-rss",
-    "sha": "4515d24e31c97948f656d6cb4637f4f965e81c30",
-    "url": "https://github.com/jaywcjlove/quick-rss/commit/4515d24e31c97948f656d6cb4637f4f965e81c30",
-    "created_at": "2025-12-22T08:33:34.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
   },
   {
     "id": 3344245728,
