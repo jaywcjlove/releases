@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 28 Aug 2026 17:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 11:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.8.29]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/7a832be6f3824811173b0a6458c29cef3bf85ab2</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjdhODMyYmU2ZjM4MjQ4MTExNzNiMGE2NDU4YzI5Y2VmM2JmODVhYjI=</guid>
+            <pubDate>Sat, 29 Aug 2026 06:20:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/7a832be6f3824811173b0a6458c29cef3bf85ab2">chore(release): bump version to 26.8.29</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/paste-quick released v2.2.0]]></title>
             <link>https://github.com/jaywcjlove/paste-quick/commit/1de7e4f126d14e0a2477ef576bcc5b6bb0b0cbb4</link>
