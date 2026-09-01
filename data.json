@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjJlYTI0OTljZjgyZGMyMWZlNDAwNWNmOTM0ZTBhNDkzNTFkZmVmMWQ=",
+    "type": "commits",
+    "title": "released v2.4.0",
+    "repo": "jaywcjlove/paste-quick",
+    "sha": "2ea2499cf82dc21fe4005cf934e0a49351dfef1d",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/2ea2499cf82dc21fe4005cf934e0a49351dfef1d",
+    "created_at": "2026-09-01T16:37:29.000+08:00",
+    "state": "committer",
+    "version": "2.4.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjI2NzdhZGI4ZTY2NjI5NmU2YjkwZDdiNTMyZWUwZGJjZDIxMDE2MDc=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.9.1",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "2677adb8e666296e6b90d7b532ee0dbcd2101607",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/2677adb8e666296e6b90d7b532ee0dbcd2101607",
+    "created_at": "2026-09-01T04:19:57.000Z",
+    "state": "committer",
+    "version": "26.9.1"
+  },
+  {
     "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjY2ZDk3M2YyYmNmOGE4OTY0NGFkMzhjZWI5OTBmOWQ0MWNmMDhhNWY=",
     "type": "commits",
     "title": "released v2.3.0",
@@ -1922,7 +1944,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4120997046,
@@ -1933,7 +1955,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4120957830,
@@ -1944,7 +1966,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4120948338,
@@ -1955,7 +1977,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4120791922,
@@ -1966,7 +1988,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4101342958,
@@ -1977,7 +1999,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4101340977,
@@ -1988,7 +2010,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4101336030,
@@ -1999,7 +2021,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4101325858,
@@ -2010,7 +2032,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4101323235,
@@ -2021,7 +2043,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4101318030,
@@ -2032,7 +2054,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4100966126,
@@ -2043,7 +2065,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": 4100952563,
@@ -2054,7 +2076,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "6.3K"
+    "stars": "6.4K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2781,28 +2803,6 @@
     "created_at": "2026-01-08T14:09:00.000+08:00",
     "state": "committer",
     "version": "2.17.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTEyNjg5NjA0MDoyMDNmMTBhZTBjN2E4MGViNDkwOTcyYTYxZGMxYzY1Y2MzY2Y2MTQ2",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/screen-test",
-    "sha": "203f10ae0c7a80eb490972a61dc1c65cc3cf6146",
-    "url": "https://github.com/jaywcjlove/screen-test/commit/203f10ae0c7a80eb490972a61dc1c65cc3cf6146",
-    "created_at": "2026-01-07T19:54:49.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTA2NTQ1MDM0NzoxM2YzYWJmNmY3MjQ2NTMwNGY4NzIyYzc1ZjY0NWJhYmI1MjMyNmFk",
-    "type": "commits",
-    "title": "released v1.6.0",
-    "repo": "jaywcjlove/vidwall-hub",
-    "sha": "13f3abf6f72465304f8722c75f645babb52326ad",
-    "url": "https://github.com/jaywcjlove/vidwall-hub/commit/13f3abf6f72465304f8722c75f645babb52326ad",
-    "created_at": "2026-01-06T01:40:17.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjNlMWM0Y2U5ODc5YjlkY2RkMjUyYTIwMGM2OWE1OTA0OTU0YjU1NzU=",
