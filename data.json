@@ -1,14 +1,25 @@
 [
   {
-    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjJlYTI0OTljZjgyZGMyMWZlNDAwNWNmOTM0ZTBhNDkzNTFkZmVmMWQ=",
+    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OmI5MDM2ZGM2NGQ5ODExMTRiMmI2NDY1OTQ2MzUwODFhYTM0NjU0OTY=",
     "type": "commits",
-    "title": "released v2.4.0",
-    "repo": "jaywcjlove/paste-quick",
-    "sha": "2ea2499cf82dc21fe4005cf934e0a49351dfef1d",
-    "url": "https://github.com/jaywcjlove/paste-quick/commit/2ea2499cf82dc21fe4005cf934e0a49351dfef1d",
-    "created_at": "2026-09-01T16:37:29.000+08:00",
+    "title": "released v3.0.0",
+    "repo": "jaywcjlove/quick-rss",
+    "sha": "b9036dc64d981114b2b646594635081aa3465496",
+    "url": "https://github.com/jaywcjlove/quick-rss/commit/b9036dc64d981114b2b646594635081aa3465496",
+    "created_at": "2026-09-02T08:20:13.000+08:00",
     "state": "committer",
-    "version": "2.4.0"
+    "version": "3.0.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjIyN2QzNDFmYWRhYzQyZDQyNTU0OGQxYzFiZTc2OThhYTVkOTcwMDQ=",
+    "type": "commits",
+    "title": "released v2.5.0",
+    "repo": "jaywcjlove/paste-quick",
+    "sha": "227d341fadac42d425548d1c1be7698aa5d97004",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/227d341fadac42d425548d1c1be7698aa5d97004",
+    "created_at": "2026-09-02T07:53:03.000+08:00",
+    "state": "committer",
+    "version": "2.5.0"
   },
   {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjI2NzdhZGI4ZTY2NjI5NmU2YjkwZDdiNTMyZWUwZGJjZDIxMDE2MDc=",
@@ -2750,17 +2761,6 @@
     "version": "1.33.0"
   },
   {
-    "id": "MDY6Q29tbWl0OTA3NTAxNjgyOjc0MWZhNmM3ZjZlOGU1ZDU4Mzc1NzNkYzJiMDUzNWM2ZTAzMzhkMTg=",
-    "type": "commits",
-    "title": "released v1.13.0",
-    "repo": "jaywcjlove/iconed",
-    "sha": "741fa6c7f6e8e5d5837573dc2b0535c6e0338d18",
-    "url": "https://github.com/jaywcjlove/iconed/commit/741fa6c7f6e8e5d5837573dc2b0535c6e0338d18",
-    "created_at": "2026-01-11T23:01:40.000+08:00",
-    "state": "committer",
-    "version": "1.13.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MTA4NjU2ODg2NTpjYTExNzY4YzBkZjAwNjYzOWM2NWI1YTk2MzM0MjkyY2RiY2M3ZDUw",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2825,17 +2825,6 @@
     "created_at": "2026-01-05T11:31:26.000+08:00",
     "state": "committer",
     "version": "1.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OjJkZjU5ZmFkMGNiZjU4MDFmMWNhZmRkNTUwMGFlNTNiNTMwODMwOTc=",
-    "type": "commits",
-    "title": "released v4.1.0",
-    "repo": "jaywcjlove/regex-mate",
-    "sha": "2df59fad0cbf5801f1cafdd5500ae53b53083097",
-    "url": "https://github.com/jaywcjlove/regex-mate/commit/2df59fad0cbf5801f1cafdd5500ae53b53083097",
-    "created_at": "2026-01-02T06:26:54.000+08:00",
-    "state": "committer",
-    "version": "4.1.0"
   },
   {
     "id": 3344245728,

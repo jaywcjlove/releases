@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 01 Sep 2026 20:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 09:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,11 +16,19 @@
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[jaywcjlove/paste-quick released v2.4.0]]></title>
-            <link>https://github.com/jaywcjlove/paste-quick/commit/2ea2499cf82dc21fe4005cf934e0a49351dfef1d</link>
-            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OjJlYTI0OTljZjgyZGMyMWZlNDAwNWNmOTM0ZTBhNDkzNTFkZmVmMWQ=</guid>
-            <pubDate>Tue, 01 Sep 2026 08:37:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/2ea2499cf82dc21fe4005cf934e0a49351dfef1d">released v2.4.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/quick-rss released v3.0.0]]></title>
+            <link>https://github.com/jaywcjlove/quick-rss/commit/b9036dc64d981114b2b646594635081aa3465496</link>
+            <guid>MDY6Q29tbWl0ODU2NTAyNTE4OmI5MDM2ZGM2NGQ5ODExMTRiMmI2NDY1OTQ2MzUwODFhYTM0NjU0OTY=</guid>
+            <pubDate>Wed, 02 Sep 2026 00:20:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/quick-rss/commit/b9036dc64d981114b2b646594635081aa3465496">released v3.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/paste-quick released v2.5.0]]></title>
+            <link>https://github.com/jaywcjlove/paste-quick/commit/227d341fadac42d425548d1c1be7698aa5d97004</link>
+            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OjIyN2QzNDFmYWRhYzQyZDQyNTU0OGQxYzFiZTc2OThhYTVkOTcwMDQ=</guid>
+            <pubDate>Tue, 01 Sep 2026 23:53:03 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/227d341fadac42d425548d1c1be7698aa5d97004">released v2.5.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2030,14 +2038,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.13.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/741fa6c7f6e8e5d5837573dc2b0535c6e0338d18</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjc0MWZhNmM3ZjZlOGU1ZDU4Mzc1NzNkYzJiMDUzNWM2ZTAzMzhkMTg=</guid>
-            <pubDate>Sun, 11 Jan 2026 15:01:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/741fa6c7f6e8e5d5837573dc2b0535c6e0338d18">released v1.13.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/keyzer released v1.1.0]]></title>
             <link>https://github.com/jaywcjlove/keyzer/commit/ca11768c0df006639c65b5a96334292cdbcc7d50</link>
             <guid>MDY6Q29tbWl0MTA4NjU2ODg2NTpjYTExNzY4YzBkZjAwNjYzOWM2NWI1YTk2MzM0MjkyY2RiY2M3ZDUw</guid>
@@ -2083,14 +2083,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDowNTZhNTJhNmY1NDRkZDE1OWQyNDEwYjNkMmEwMDgxM2QzNDAyMWQ5</guid>
             <pubDate>Mon, 05 Jan 2026 03:31:26 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/056a52a6f544dd159d2410b3d2a00813d34021d9">released v1.2.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/regex-mate released v4.1.0]]></title>
-            <link>https://github.com/jaywcjlove/regex-mate/commit/2df59fad0cbf5801f1cafdd5500ae53b53083097</link>
-            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OjJkZjU5ZmFkMGNiZjU4MDFmMWNhZmRkNTUwMGFlNTNiNTMwODMwOTc=</guid>
-            <pubDate>Thu, 01 Jan 2026 22:26:54 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/2df59fad0cbf5801f1cafdd5500ae53b53083097">released v4.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
