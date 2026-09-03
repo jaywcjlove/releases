@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 02 Sep 2026 19:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 10:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/iconed released v1.16.0]]></title>
+            <link>https://github.com/jaywcjlove/iconed/commit/bf0ff11659464f9f1476f06a27a780dd3cbcd6aa</link>
+            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOmJmMGZmMTE2NTk0NjRmOWYxNDc2ZjA2YTI3YTc4MGRkM2NiY2Q2YWE=</guid>
+            <pubDate>Thu, 03 Sep 2026 08:59:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/bf0ff11659464f9f1476f06a27a780dd3cbcd6aa">released v1.16.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/quick-rss released v3.0.0]]></title>
             <link>https://github.com/jaywcjlove/quick-rss/commit/b9036dc64d981114b2b646594635081aa3465496</link>
