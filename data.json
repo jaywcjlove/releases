@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpkZmY1MzYxOGFlODYxODc0Y2Y0ZGUyZTRkMWE3OGVlZDQxMGUyNDM3",
+    "type": "commits",
+    "title": "released v1.2.0 (linkly)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "dff53618ae861874cf4de2e4d1a78eed410e2437",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/dff53618ae861874cf4de2e4d1a78eed410e2437",
+    "created_at": "2026-09-03T18:49:26.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTA3NTAxNjgyOmJmMGZmMTE2NTk0NjRmOWYxNDc2ZjA2YTI3YTc4MGRkM2NiY2Q2YWE=",
     "type": "commits",
     "title": "released v1.16.0",
@@ -2816,17 +2827,6 @@
     "version": "2.17.0"
   },
   {
-    "id": "MDY6Q29tbWl0ODU2NTAyNTE4OjNlMWM0Y2U5ODc5YjlkY2RkMjUyYTIwMGM2OWE1OTA0OTU0YjU1NzU=",
-    "type": "commits",
-    "title": "released v2.6.0",
-    "repo": "jaywcjlove/quick-rss",
-    "sha": "3e1c4ce9879b9dcdd252a200c69a5904954b5575",
-    "url": "https://github.com/jaywcjlove/quick-rss/commit/3e1c4ce9879b9dcdd252a200c69a5904954b5575",
-    "created_at": "2026-01-06T00:31:09.000+08:00",
-    "state": "committer",
-    "version": "2.6.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowNTZhNTJhNmY1NDRkZDE1OWQyNDEwYjNkMmEwMDgxM2QzNDAyMWQ5",
     "type": "commits",
     "title": "released v1.2.0",
@@ -2901,7 +2901,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "417"
+    "stars": "418"
   },
   {
     "id": 1838600360,

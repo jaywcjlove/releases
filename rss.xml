@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 03 Sep 2026 10:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 20:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/homebrew-tap released v1.2.0 (linkly)]]></title>
+            <link>https://github.com/jaywcjlove/homebrew-tap/commit/dff53618ae861874cf4de2e4d1a78eed410e2437</link>
+            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDpkZmY1MzYxOGFlODYxODc0Y2Y0ZGUyZTRkMWE3OGVlZDQxMGUyNDM3</guid>
+            <pubDate>Thu, 03 Sep 2026 10:49:26 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/dff53618ae861874cf4de2e4d1a78eed410e2437">released v1.2.0 (linkly)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/iconed released v1.16.0]]></title>
             <link>https://github.com/jaywcjlove/iconed/commit/bf0ff11659464f9f1476f06a27a780dd3cbcd6aa</link>
@@ -2075,14 +2083,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjA4NTQyNmYwMjgyNmEyMDk2ZjliMjJjNTY5NzlmZjFkN2Y1N2JhZjg=</guid>
             <pubDate>Thu, 08 Jan 2026 06:09:00 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/085426f02826a2096f9b22c56979ff1d7f57baf8">released v2.17.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/quick-rss released v2.6.0]]></title>
-            <link>https://github.com/jaywcjlove/quick-rss/commit/3e1c4ce9879b9dcdd252a200c69a5904954b5575</link>
-            <guid>MDY6Q29tbWl0ODU2NTAyNTE4OjNlMWM0Y2U5ODc5YjlkY2RkMjUyYTIwMGM2OWE1OTA0OTU0YjU1NzU=</guid>
-            <pubDate>Mon, 05 Jan 2026 16:31:09 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/quick-rss/commit/3e1c4ce9879b9dcdd252a200c69a5904954b5575">released v2.6.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
