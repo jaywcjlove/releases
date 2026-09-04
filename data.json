@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzo2NzU4ODI1NDE5MTg1YzVlODlmYzljZmY1ODFiMDY0MTI0MzY5Njhj",
+    "type": "commits",
+    "title": "released v1.10.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "6758825419185c5e89fc9cff581b06412436968c",
+    "url": "https://github.com/jaywcjlove/scap/commit/6758825419185c5e89fc9cff581b06412436968c",
+    "created_at": "2026-09-04T08:34:10.000+08:00",
+    "state": "committer",
+    "version": "1.10.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpkZmY1MzYxOGFlODYxODc0Y2Y0ZGUyZTRkMWE3OGVlZDQxMGUyNDM3",
     "type": "commits",
     "title": "released v1.2.0 (linkly)",
@@ -2814,28 +2825,6 @@
     "created_at": "2026-01-09T06:10:26.000+08:00",
     "state": "committer",
     "version": "3.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OjA4NTQyNmYwMjgyNmEyMDk2ZjliMjJjNTY5NzlmZjFkN2Y1N2JhZjg=",
-    "type": "commits",
-    "title": "released v2.17.0",
-    "repo": "jaywcjlove/create-custom-symbols",
-    "sha": "085426f02826a2096f9b22c56979ff1d7f57baf8",
-    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/085426f02826a2096f9b22c56979ff1d7f57baf8",
-    "created_at": "2026-01-08T14:09:00.000+08:00",
-    "state": "committer",
-    "version": "2.17.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDowNTZhNTJhNmY1NDRkZDE1OWQyNDEwYjNkMmEwMDgxM2QzNDAyMWQ5",
-    "type": "commits",
-    "title": "released v1.2.0",
-    "repo": "jaywcjlove/vidcrop",
-    "sha": "056a52a6f544dd159d2410b3d2a00813d34021d9",
-    "url": "https://github.com/jaywcjlove/vidcrop/commit/056a52a6f544dd159d2410b3d2a00813d34021d9",
-    "created_at": "2026-01-05T11:31:26.000+08:00",
-    "state": "committer",
-    "version": "1.2.0"
   },
   {
     "id": 3344245728,
