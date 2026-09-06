@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 05 Sep 2026 19:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 09:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/vidwall released v1.18.0]]></title>
+            <link>https://github.com/jaywcjlove/vidwall/commit/865cec270d7676d5de82b5178c4db0f122d4f6d2</link>
+            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo4NjVjZWMyNzBkNzY3NmQ1ZGU4MmI1MTc4YzRkYjBmMTIyZDRmNmQy</guid>
+            <pubDate>Sun, 06 Sep 2026 03:03:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/865cec270d7676d5de82b5178c4db0f122d4f6d2">released v1.18.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v3.6.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/69e14880235027c8a0f66b59bfff5c02dbde61a4</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjY5ZTE0ODgwMjM1MDI3YzhhMGY2NmI1OWJmZmY1YzAyZGJkZTYxYTQ=</guid>
+            <pubDate>Sun, 06 Sep 2026 00:11:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/69e14880235027c8a0f66b59bfff5c02dbde61a4">released v3.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/scap released v1.10.0]]></title>
             <link>https://github.com/jaywcjlove/scap/commit/6758825419185c5e89fc9cff581b06412436968c</link>
@@ -2011,14 +2027,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjBjODBhY2U0MDk5NGMxN2QzODVlMTNkOTgwZjg5NjJhNGE0YmM3YzQ=</guid>
             <pubDate>Wed, 21 Jan 2026 07:35:30 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/0c80ace40994c17d385e13d980f8962a4a4bc7c4">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.5.1 #273]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/162c27dd57e586b2770e17d7ab79dcbdbb72fdd0</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjE2MmMyN2RkNTdlNTg2YjI3NzBlMTdkN2FiNzlkY2JkYmI3MmZkZDA=</guid>
-            <pubDate>Tue, 20 Jan 2026 13:30:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/162c27dd57e586b2770e17d7ab79dcbdbb72fdd0">released v6.5.1 #273</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
