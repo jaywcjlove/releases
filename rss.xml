@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 07 Sep 2026 20:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 09:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.9.8]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/8ccd6c9b65c6ad7d3da5267f2c582f1b5fb03cbe</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjhjY2Q2YzliNjVjNmFkN2QzZGE1MjY3ZjJjNTgyZjFiNWZiMDNjYmU=</guid>
+            <pubDate>Tue, 08 Sep 2026 03:48:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/8ccd6c9b65c6ad7d3da5267f2c582f1b5fb03cbe">chore(release): bump version to 26.9.8</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v3.7.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/c1df12bf2aa2e459f5fad40d08726ea619669719</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmMxZGYxMmJmMmFhMmU0NTlmNWZhZDQwZDA4NzI2ZWE2MTk2Njk3MTk=</guid>
+            <pubDate>Tue, 08 Sep 2026 00:06:15 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/c1df12bf2aa2e459f5fad40d08726ea619669719">released v3.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.18.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/865cec270d7676d5de82b5178c4db0f122d4f6d2</link>
@@ -2067,22 +2083,6 @@ https://github.com/jaywcjlove/linux-command/issues/681</a>]]></description>
             <guid>MDY6Q29tbWl0Nzg5NzEwNjQ4OjkxMjIyM2Q4ZmU4OTlmMWUyNWU2ODBmNTE4MjEyN2Y2YmMxY2M0MTM=</guid>
             <pubDate>Sun, 11 Jan 2026 16:22:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/devtutor/commit/912223d8fe899f1e25e680f5182127f6bc1cc413">released vv1.33.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/keyzer released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/keyzer/commit/ca11768c0df006639c65b5a96334292cdbcc7d50</link>
-            <guid>MDY6Q29tbWl0MTA4NjU2ODg2NTpjYTExNzY4YzBkZjAwNjYzOWM2NWI1YTk2MzM0MjkyY2RiY2M3ZDUw</guid>
-            <pubDate>Fri, 09 Jan 2026 15:02:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/keyzer/commit/ca11768c0df006639c65b5a96334292cdbcc7d50">released v1.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/TextSoundSaver released v3.2.0]]></title>
-            <link>https://github.com/jaywcjlove/TextSoundSaver/commit/3ae374e66d6e5590719107e7c4e82b2b875b621b</link>
-            <guid>MDY6Q29tbWl0NzY0MjYyMjg4OjNhZTM3NGU2NmQ2ZTU1OTA3MTkxMDdlN2M0ZTgyYjJiODc1YjYyMWI=</guid>
-            <pubDate>Fri, 09 Jan 2026 09:01:46 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/TextSoundSaver/commit/3ae374e66d6e5590719107e7c4e82b2b875b621b">released v3.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
