@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6OGEwZTE1MWU2YzQ2ZTkwMTkzMWJlODA2ZjZlMTIzYzFlNjE1ODliYg==",
+    "type": "commits",
+    "title": "released v4.0.8 (#548)",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "8a0e151e6c46e901931be806f6e123c1e61589bb",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/8a0e151e6c46e901931be806f6e123c1e61589bb",
+    "created_at": "2026-09-10T00:31:00.000+08:00",
+    "state": "committer",
+    "version": "4.0.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo3MzQ1MzlhODE5MWY3NTFhZTY3N2UwZjBjYjEzMGE0ZTQwZDU4YmRl",
     "type": "commits",
     "title": "released v1.19.0",
@@ -2825,17 +2836,6 @@
     "created_at": "2026-01-20T15:58:03.000+08:00",
     "state": "committer",
     "version": "2.0.0-alpha.41"
-  },
-  {
-    "id": "MDY6Q29tbWl0OTExNzQxNzc0OmQ3ZDEzNmIwYTM0YWNhNjVhYmEyZDc0YmM5YjgyYzVmYWFiNDkxNmY=",
-    "type": "commits",
-    "title": "released v3.4.0",
-    "repo": "jaywcjlove/daybar",
-    "sha": "d7d136b0a34aca65aba2d74bc9b82c5faab4916f",
-    "url": "https://github.com/jaywcjlove/daybar/commit/d7d136b0a34aca65aba2d74bc9b82c5faab4916f",
-    "created_at": "2026-01-17T21:04:37.000+08:00",
-    "state": "committer",
-    "version": "3.4.0"
   },
   {
     "id": 3344245728,
