@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 10 Sep 2026 09:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 19:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/mousio released v3.3.0]]></title>
+            <link>https://github.com/jaywcjlove/mousio/commit/957817a5e4d5c4a17ddaa344b28b0d96677628dd</link>
+            <guid>MDY6Q29tbWl0OTk1NDI4MjY0Ojk1NzgxN2E1ZTRkNWM0YTE3ZGRhYTM0NGIyOGIwZDk2Njc3NjI4ZGQ=</guid>
+            <pubDate>Thu, 10 Sep 2026 10:32:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/mousio/commit/957817a5e4d5c4a17ddaa344b28b0d96677628dd">released v3.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.8 (#548)]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/8a0e151e6c46e901931be806f6e123c1e61589bb</link>
@@ -2080,14 +2088,6 @@ https://github.com/uiwjs/react-color/issues/139</a>]]></description>
             <pubDate>Wed, 21 Jan 2026 07:35:30 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/0c80ace40994c17d385e13d980f8962a4a4bc7c4">released v2.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.41]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/4685111ae16e3ec6d6d543c2db0b5009b5142eae</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjQ2ODUxMTFhZTE2ZTNlYzZkNmQ1NDNjMmRiMGI1MDA5YjUxNDJlYWU=</guid>
-            <pubDate>Tue, 20 Jan 2026 07:58:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/4685111ae16e3ec6d6d543c2db0b5009b5142eae">released v2.0.0-alpha.41</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[prettier/prettier doc: update related-projects.md]]></title>
