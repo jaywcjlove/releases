@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4Ojk1ODQyYWUxM2UxNTBjMjcyNTVjNTZjY2JiYzBiYTFiNTJhNzIyM2E=",
+    "type": "commits",
+    "title": "released v3.11.0 #6",
+    "repo": "jaywcjlove/musicer",
+    "sha": "95842ae13e150c27255c56ccbbc0ba1b52a7223a",
+    "url": "https://github.com/jaywcjlove/musicer/commit/95842ae13e150c27255c56ccbbc0ba1b52a7223a",
+    "created_at": "2026-09-12T11:22:50.000+08:00",
+    "state": "committer",
+    "version": "3.11.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjIzMDA4ZTQ2NDFlYjcxN2E5MGU3OTRlYWE5MzhhZGZiYTkzMDBkMmU=",
     "type": "commits",
     "title": "released v2.4.0",
@@ -2816,17 +2827,6 @@
     "version": "1.22.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmY3MmU3NzllZWNkZGVkNzkzYzNjYzgxZjU1ZWM1ZDhiZmFjNjc2ZTQ=",
-    "type": "commits",
-    "title": "released v2.9.4 #198",
-    "repo": "uiwjs/react-color",
-    "sha": "f72e779eecdded793c3cc81f55ec5d8bfac676e4",
-    "url": "https://github.com/uiwjs/react-color/commit/f72e779eecdded793c3cc81f55ec5d8bfac676e4",
-    "created_at": "2026-02-02T02:09:05.000+08:00",
-    "state": "committer",
-    "version": "2.9.4"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2989,7 +2989,7 @@
     "created_at": "2021-10-23T15:40:10Z",
     "state": "merged",
     "number": 5,
-    "stars": "240"
+    "stars": "239"
   },
   {
     "id": 1032707507,
