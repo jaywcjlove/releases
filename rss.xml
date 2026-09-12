@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 12 Sep 2026 09:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 19:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/screen-test released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/screen-test/commit/d7ed58a59b78743a1da329454fd75901b75b0383</link>
+            <guid>MDY6Q29tbWl0MTEyNjg5NjA0MDpkN2VkNThhNTliNzg3NDNhMWRhMzI5NDU0ZmQ3NTkwMWI3NWIwMzgz</guid>
+            <pubDate>Sat, 12 Sep 2026 16:48:34 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/screen-test/commit/d7ed58a59b78743a1da329454fd75901b75b0383">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/musicer released v3.11.0 #6]]></title>
             <link>https://github.com/jaywcjlove/musicer/commit/95842ae13e150c27255c56ccbbc0ba1b52a7223a</link>
@@ -2071,14 +2079,6 @@ https://github.com/uiwjs/react-color/issues/139</a>]]></description>
             <guid>MDY6Q29tbWl0NTU5NzMxMjI5OjdkYzE0YTU4YTE3YTQ1Y2Q1OWQwNTY5YmExMGJkMjAzOGQyM2I1OGM=</guid>
             <pubDate>Tue, 03 Feb 2026 08:51:05 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-style/commit/7dc14a58a17a45cd59d0569ba10bd2038d23b58c">released v1.1.3</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/linux-command released v1.22.0]]></title>
-            <link>https://github.com/jaywcjlove/linux-command/commit/d089558577e1e5edc1af57b044ac355e1e19fac1</link>
-            <guid>MDY6Q29tbWl0NzM1NjE2NTA6ZDA4OTU1ODU3N2UxZTVlZGMxYWY1N2IwNDRhYzM1NWUxZTE5ZmFjMQ==</guid>
-            <pubDate>Mon, 02 Feb 2026 19:16:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/linux-command/commit/d089558577e1e5edc1af57b044ac355e1e19fac1">released v1.22.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
