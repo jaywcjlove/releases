@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 14 Sep 2026 21:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 10:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/audioer released v2.5.0]]></title>
+            <link>https://github.com/jaywcjlove/audioer/commit/8733b98827cb74fba46c07e0d4e676af5137b58b</link>
+            <guid>MDY6Q29tbWl0OTczMzQxMDA3Ojg3MzNiOTg4MjdjYjc0ZmJhNDZjMDdlMGQ0ZTY3NmFmNTEzN2I1OGI=</guid>
+            <pubDate>Tue, 15 Sep 2026 10:02:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/audioer/commit/8733b98827cb74fba46c07e0d4e676af5137b58b">released v2.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/web-serve released v2.4.0]]></title>
+            <link>https://github.com/jaywcjlove/web-serve/commit/c5ce08f1d0d40f6140f8be2be70497fdf7f5b0ab</link>
+            <guid>MDY6Q29tbWl0ODQ4NDM0NTAwOmM1Y2UwOGYxZDBkNDBmNjE0MGY4YmUyYmU3MDQ5N2ZkZjdmNWIwYWI=</guid>
+            <pubDate>Tue, 15 Sep 2026 09:52:52 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/web-serve/commit/c5ce08f1d0d40f6140f8be2be70497fdf7f5b0ab">released v2.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.9.15]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/c2e4ee4728ec59824b5c6912fac248b75006c80a</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmMyZTRlZTQ3MjhlYzU5ODI0YjVjNjkxMmZhYzI0OGI3NTAwNmM4MGE=</guid>
+            <pubDate>Tue, 15 Sep 2026 04:08:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/c2e4ee4728ec59824b5c6912fac248b75006c80a">chore(release): bump version to 26.9.15</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/videoer released v2.5.0]]></title>
             <link>https://github.com/jaywcjlove/videoer/commit/46dab8e79240893dd08cd384cd7df5ac8affa599</link>
@@ -2055,30 +2079,6 @@ https://github.com/uiwjs/react-color/issues/139</a>]]></description>
             <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzpmOGFhNWZhMzMzMWYyOTE0NjA5OWFiZDY3YmViZmFlMmYzZjUyYWU1</guid>
             <pubDate>Thu, 12 Feb 2026 14:58:33 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/f8aa5fa3331f29146099abd67bebfae2f3f52ae5">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-split released v5.9.4  (#159)]]></title>
-            <link>https://github.com/uiwjs/react-split/commit/f96392e215950f40b86d28db85ea35d800368b7a</link>
-            <guid>MDY6Q29tbWl0MjU1ODI4Mjg4OmY5NjM5MmUyMTU5NTBmNDBiODZkMjhkYjg1ZWEzNWQ4MDAzNjhiN2E=</guid>
-            <pubDate>Tue, 10 Feb 2026 11:56:01 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-split/commit/f96392e215950f40b86d28db85ea35d800368b7a">released v5.9.4  (#159)</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.9.5 #199]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/b6b75db5993c6062660fc20d139ca62df04640d4</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmI2Yjc1ZGI1OTkzYzYwNjI2NjBmYzIwZDEzOWNhNjJkZjA0NjQwZDQ=</guid>
-            <pubDate>Tue, 10 Feb 2026 08:41:39 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/b6b75db5993c6062660fc20d139ca62df04640d4">released v2.9.5 #199</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/markdown-to-html-cli released v5.0.4]]></title>
-            <link>https://github.com/jaywcjlove/markdown-to-html-cli/commit/cff9330af4ca8048b197a76d9eb1db189c2a7cee</link>
-            <guid>MDY6Q29tbWl0NDA5NjY3NzEzOmNmZjkzMzBhZjRjYTgwNDhiMTk3YTc2ZDllYjFkYjE4OWMyYTdjZWU=</guid>
-            <pubDate>Tue, 03 Feb 2026 08:54:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/markdown-to-html-cli/commit/cff9330af4ca8048b197a76d9eb1db189c2a7cee">released v5.0.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
