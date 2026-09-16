@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 16 Sep 2026 10:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 20:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/videoer released v2.6.0]]></title>
+            <link>https://github.com/jaywcjlove/videoer/commit/b713d3a57e799e5a8818f6f69f839c12e57bc362</link>
+            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOmI3MTNkM2E1N2U3OTllNWE4ODE4ZjZmNjlmODM5YzEyZTU3YmMzNjI=</guid>
+            <pubDate>Wed, 16 Sep 2026 16:33:58 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/b713d3a57e799e5a8818f6f69f839c12e57bc362">released v2.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/focus-cursor released v3.4.1]]></title>
             <link>https://github.com/jaywcjlove/focus-cursor/commit/c663b1a7881a450f6b48b1464d7555ef6e61fef7</link>
@@ -1974,18 +1982,6 @@
             <pubDate>Thu, 12 Mar 2026 14:50:49 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/b40b3015b0a7087beed46ec07a585fc0e5a978c4">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.9.6
-
-https://github.com/uiwjs/react-color/issues/139]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/f1996f7ab5a35739fdd90b5b98fd7cb76ee6507e</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmYxOTk2ZjdhYjVhMzU3MzlmZGQ5MGI1Yjk4ZmQ3Y2I3NmVlNjUwN2U=</guid>
-            <pubDate>Sat, 07 Mar 2026 06:52:47 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/f1996f7ab5a35739fdd90b5b98fd7cb76ee6507e">released v2.9.6
-
-https://github.com/uiwjs/react-color/issues/139</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/deskmark released v1.4.0]]></title>

@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOmI3MTNkM2E1N2U3OTllNWE4ODE4ZjZmNjlmODM5YzEyZTU3YmMzNjI=",
+    "type": "commits",
+    "title": "released v2.6.0",
+    "repo": "jaywcjlove/videoer",
+    "sha": "b713d3a57e799e5a8818f6f69f839c12e57bc362",
+    "url": "https://github.com/jaywcjlove/videoer/commit/b713d3a57e799e5a8818f6f69f839c12e57bc362",
+    "created_at": "2026-09-17T00:33:58.000+08:00",
+    "state": "committer",
+    "version": "2.6.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmM2NjNiMWE3ODgxYTQ1MGY2YjQ4YjE0NjRkNzU1NWVmNmU2MWZlZjc=",
     "type": "commits",
     "title": "released v3.4.1",
@@ -2695,17 +2706,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmYxOTk2ZjdhYjVhMzU3MzlmZGQ5MGI1Yjk4ZmQ3Y2I3NmVlNjUwN2U=",
-    "type": "commits",
-    "title": "released v2.9.6\n\nhttps://github.com/uiwjs/react-color/issues/139",
-    "repo": "uiwjs/react-color",
-    "sha": "f1996f7ab5a35739fdd90b5b98fd7cb76ee6507e",
-    "url": "https://github.com/uiwjs/react-color/commit/f1996f7ab5a35739fdd90b5b98fd7cb76ee6507e",
-    "created_at": "2026-03-07T14:52:47.000+08:00",
-    "state": "committer",
-    "version": "2.9.6"
-  },
-  {
     "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTplOWM3M2I2MWM5YWU3NzExN2Q1ODFjYjdhZGVmYTRhMDdjOWZiZjJi",
     "type": "commits",
     "title": "released v1.4.0",
@@ -2967,7 +2967,7 @@
     "created_at": "2022-03-03T06:34:59Z",
     "state": "merged",
     "number": 600,
-    "stars": "740"
+    "stars": "739"
   },
   {
     "id": 1086792263,
