@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOmM2NjNiMWE3ODgxYTQ1MGY2YjQ4YjE0NjRkNzU1NWVmNmU2MWZlZjc=",
+    "type": "commits",
+    "title": "released v3.4.1",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "c663b1a7881a450f6b48b1464d7555ef6e61fef7",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/c663b1a7881a450f6b48b1464d7555ef6e61fef7",
+    "created_at": "2026-09-16T17:41:48.000+08:00",
+    "state": "committer",
+    "version": "3.4.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzo4ZjQzMzAwMDIxYjIyMjdiZDZhNGJhZjRhYzE3Njc0NjQxYzBhZmI3",
+    "type": "commits",
+    "title": "released v1.12.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "8f43300021b2227bd6a4baf4ac17674641c0afb7",
+    "url": "https://github.com/jaywcjlove/scap/commit/8f43300021b2227bd6a4baf4ac17674641c0afb7",
+    "created_at": "2026-09-16T13:13:13.000+08:00",
+    "state": "committer",
+    "version": "1.12.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjI2MWY0MDIzZTFhYTczM2ZmZDEwMWMwOTQwNzZkZWNlYzhhYTliMTU=",
+    "type": "commits",
+    "title": "released v2.7.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "261f4023e1aa733ffd101c094076decec8aa9b15",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/261f4023e1aa733ffd101c094076decec8aa9b15",
+    "created_at": "2026-09-16T11:37:28.000+08:00",
+    "state": "committer",
+    "version": "2.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTczMzQxMDA3Ojg3MzNiOTg4MjdjYjc0ZmJhNDZjMDdlMGQ0ZTY3NmFmNTEzN2I1OGI=",
     "type": "commits",
     "title": "released v2.5.0",
@@ -2662,17 +2695,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjRkN2ZiZWJlYzBkZGM2NTE2Yjc3MDY5OTU1MzY2ODNmNDVhY2I3Yzg=",
-    "type": "commits",
-    "title": "released v4.25.8\n\nhttps://github.com/uiwjs/react-codemirror/pull/764\nhttps://github.com/uiwjs/react-codemirror/pull/763",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "4d7fbebec0ddc6516b7706995536683f45acb7c8",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/4d7fbebec0ddc6516b7706995536683f45acb7c8",
-    "created_at": "2026-03-08T10:23:13.000+08:00",
-    "state": "committer",
-    "version": "4.25.8"
-  },
-  {
     "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmYxOTk2ZjdhYjVhMzU3MzlmZGQ5MGI1Yjk4ZmQ3Y2I3NmVlNjUwN2U=",
     "type": "commits",
     "title": "released v2.9.6\n\nhttps://github.com/uiwjs/react-color/issues/139",
@@ -2772,17 +2794,6 @@
     "version": "1.1.1"
   },
   {
-    "id": "MDY6Q29tbWl0ODM0MzYxMzIxOjg0ZTk2Zjc2MDIxOGEwMDE0NTJmN2ZkNGZiNjc3NmZiODNiY2I2ZDY=",
-    "type": "commits",
-    "title": "released v0.6.0",
-    "repo": "jaywcjlove/sgo-rs",
-    "sha": "84e96f760218a001452f7fd4fb6776fb83bcb6d6",
-    "url": "https://github.com/jaywcjlove/sgo-rs/commit/84e96f760218a001452f7fd4fb6776fb83bcb6d6",
-    "created_at": "2026-02-27T08:44:58.000+08:00",
-    "state": "committer",
-    "version": "0.6.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6ODY2MjgyZTAxOWVhMjliMWUxOTFkNDM2MGI5MTBjZTMzYzY1MjQxOA==",
     "type": "commits",
     "title": "released v4.0.2 #524",
@@ -2814,17 +2825,6 @@
     "created_at": "2026-02-24T05:50:23.000+08:00",
     "state": "committer",
     "version": "4.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpmOGFhNWZhMzMzMWYyOTE0NjA5OWFiZDY3YmViZmFlMmYzZjUyYWU1",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/scap",
-    "sha": "f8aa5fa3331f29146099abd67bebfae2f3f52ae5",
-    "url": "https://github.com/jaywcjlove/scap/commit/f8aa5fa3331f29146099abd67bebfae2f3f52ae5",
-    "created_at": "2026-02-12T22:58:33.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
   },
   {
     "id": 3344245728,
