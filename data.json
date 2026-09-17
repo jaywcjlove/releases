@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjU0NTI1ODIzOWExOWIxZjcxMGYzNDZhODE3MjdmN2NkZjUzZGRhNmU=",
+    "type": "commits",
+    "title": "released v4.11.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "545258239a19b1f710f346a81727f7cdf53dda6e",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/545258239a19b1f710f346a81727f7cdf53dda6e",
+    "created_at": "2026-09-18T01:00:02.000+08:00",
+    "state": "committer",
+    "version": "4.11.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOmI3MTNkM2E1N2U3OTllNWE4ODE4ZjZmNjlmODM5YzEyZTU3YmMzNjI=",
     "type": "commits",
     "title": "released v2.6.0",
@@ -2805,28 +2816,6 @@
     "version": "4.0.2"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmUxZjY3YzQyNjRmNWFkNGQzYTY0OTgzYjZlZjhkY2VmOWVlOGU4MDE=",
-    "type": "commits",
-    "title": "released v4.25.5 #758",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "e1f67c4264f5ad4d3a64983b6ef8dcef9ee8e801",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/e1f67c4264f5ad4d3a64983b6ef8dcef9ee8e801",
-    "created_at": "2026-02-24T19:48:41.000+08:00",
-    "state": "committer",
-    "version": "4.25.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6OWE2YWU1NzlmZTNlOGZhYjVlMmFhNjlkMjMxOWQ4YmNmMTI2NDFhMA==",
-    "type": "commits",
-    "title": "released v4.0.1 #521",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "9a6ae579fe3e8fab5e2aa69d2319d8bcf12641a0",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/9a6ae579fe3e8fab5e2aa69d2319d8bcf12641a0",
-    "created_at": "2026-02-24T05:50:23.000+08:00",
-    "state": "committer",
-    "version": "4.0.1"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2956,7 +2945,7 @@
     "created_at": "2022-03-05T15:26:27Z",
     "state": "merged",
     "number": 1032,
-    "stars": "7.7K"
+    "stars": "7.8K"
   },
   {
     "id": 1158028063,
