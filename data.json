@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDowOWVmYWJjMjJmMDM3OGY5NDI2NzgzYTE4MWJjNzkzYTZjZDBkMGQ2",
+    "type": "commits",
+    "title": "released v1.8.1 (mousio-hint)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "09efabc22f0378f9426783a181bc793a6cd0d0d6",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/09efabc22f0378f9426783a181bc793a6cd0d0d6",
+    "created_at": "2026-09-18T23:56:22.000+08:00",
+    "state": "committer",
+    "version": "1.8.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTAwMDY5OTU0MDphN2RmNjNhNzg0ZjFkMTk2YWNlYzc5YjcxZDcyOWQ0ODE2MDI1MmUx",
+    "type": "commits",
+    "title": "released v1.8.1",
+    "repo": "jaywcjlove/mousio-hint",
+    "sha": "a7df63a784f1d196acec79b71d729d48160252e1",
+    "url": "https://github.com/jaywcjlove/mousio-hint/commit/a7df63a784f1d196acec79b71d729d48160252e1",
+    "created_at": "2026-09-18T23:49:30.000+08:00",
+    "state": "committer",
+    "version": "1.8.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjdjNzBkOTY3NWNkZTgwNTVlMjViZjc1OWRlNzg3ODZiODM2MTljYWM=",
+    "type": "commits",
+    "title": "released v2.8.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "7c70d9675cde8055e25bf759de78786b83619cac",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/7c70d9675cde8055e25bf759de78786b83619cac",
+    "created_at": "2026-09-18T18:24:40.000+08:00",
+    "state": "committer",
+    "version": "2.8.0"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OjdiNTIzOTllYjMyYjMwMmYwNjQwYjRjZmQ2YjJiNDIxZmYzMTNkNDc=",
     "type": "commits",
     "title": "released v3.3.0",
@@ -2783,17 +2816,6 @@
     "version": "2.1.1"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmQ2MWZjNGY3NTE1NDBkMjU0OGUwMzI5MzgxMmJlYWU5NGM5ZmU1OWQ=",
-    "type": "commits",
-    "title": "released v4.25.7 fix #761",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "d61fc4f751540d2548e03293812beae94c9fe59d",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/d61fc4f751540d2548e03293812beae94c9fe59d",
-    "created_at": "2026-03-02T22:09:56.000+08:00",
-    "state": "committer",
-    "version": "4.25.7"
-  },
-  {
     "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo5NzhkNWRiYWJlODFiMWYzMDk4YzgwMzVjZWZhMDRhMTllNWU2ZmUx",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2803,28 +2825,6 @@
     "created_at": "2026-03-01T19:16:48.000+08:00",
     "state": "committer",
     "version": "1.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo3YzBiYWM2NDMxOWJkMDQ2ZjA3MDQ2OTU4YTMzYThjNDE1YzQxODFk",
-    "type": "commits",
-    "title": "released v1.1.1",
-    "repo": "jaywcjlove/homebrew-tap",
-    "sha": "7c0bac64319bd046f07046958a33a8c415c4181d",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/7c0bac64319bd046f07046958a33a8c415c4181d",
-    "created_at": "2026-02-27T22:07:17.000+08:00",
-    "state": "committer",
-    "version": "1.1.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNToxYzcyNzZjMGYwMDgzOGVlZDhmZWNjMjM3Y2E2MGE1YjA3NWZkMWUz",
-    "type": "commits",
-    "title": "released v1.1.1",
-    "repo": "jaywcjlove/app-i18n",
-    "sha": "1c7276c0f00838eed8fecc237ca60a5b075fd1e3",
-    "url": "https://github.com/jaywcjlove/app-i18n/commit/1c7276c0f00838eed8fecc237ca60a5b075fd1e3",
-    "created_at": "2026-02-27T21:54:47.000+08:00",
-    "state": "committer",
-    "version": "1.1.1"
   },
   {
     "id": 3344245728,
