@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzc5NTk5Mjc1OjdiNTIzOTllYjMyYjMwMmYwNjQwYjRjZmQ2YjJiNDIxZmYzMTNkNDc=",
+    "type": "commits",
+    "title": "released v3.3.0",
+    "repo": "jaywcjlove/create-custom-symbols",
+    "sha": "7b52399eb32b302f0640b4cfd6b2b421ff313d47",
+    "url": "https://github.com/jaywcjlove/create-custom-symbols/commit/7b52399eb32b302f0640b4cfd6b2b421ff313d47",
+    "created_at": "2026-09-18T16:42:52.000+08:00",
+    "state": "committer",
+    "version": "3.3.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0Nzc2NTM3NzA3OjVmMjMwODJlYzJkYTU5ZWRhNGU5MjA4YWViMGE0MmM3ZGNmZGJkNGU=",
+    "type": "commits",
+    "title": "released v5.0.0",
+    "repo": "jaywcjlove/regex-mate",
+    "sha": "5f23082ec2da59eda4e9208aeb0a42c7dcfdbd4e",
+    "url": "https://github.com/jaywcjlove/regex-mate/commit/5f23082ec2da59eda4e9208aeb0a42c7dcfdbd4e",
+    "created_at": "2026-09-18T15:10:43.000+08:00",
+    "state": "committer",
+    "version": "5.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OjU0NTI1ODIzOWExOWIxZjcxMGYzNDZhODE3MjdmN2NkZjUzZGRhNmU=",
     "type": "commits",
     "title": "released v4.11.0",
@@ -2805,17 +2827,6 @@
     "version": "1.1.1"
   },
   {
-    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ODY2MjgyZTAxOWVhMjliMWUxOTFkNDM2MGI5MTBjZTMzYzY1MjQxOA==",
-    "type": "commits",
-    "title": "released v4.0.2 #524",
-    "repo": "jaywcjlove/hotkeys-js",
-    "sha": "866282e019ea29b1e191d4360b910ce33c652418",
-    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/866282e019ea29b1e191d4360b910ce33c652418",
-    "created_at": "2026-02-25T17:27:13.000+08:00",
-    "state": "committer",
-    "version": "4.0.2"
-  },
-  {
     "id": 3344245728,
     "type": "Organization",
     "repo": "prettier/prettier",
@@ -2846,7 +2857,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "498"
+    "stars": "499"
   },
   {
     "id": 2526870275,
@@ -2879,7 +2890,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "419"
+    "stars": "420"
   },
   {
     "id": 1838600360,

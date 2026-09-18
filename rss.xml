@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 17 Sep 2026 20:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 09:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/create-custom-symbols released v3.3.0]]></title>
+            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/7b52399eb32b302f0640b4cfd6b2b421ff313d47</link>
+            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjdiNTIzOTllYjMyYjMwMmYwNjQwYjRjZmQ2YjJiNDIxZmYzMTNkNDc=</guid>
+            <pubDate>Fri, 18 Sep 2026 08:42:52 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/7b52399eb32b302f0640b4cfd6b2b421ff313d47">released v3.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/regex-mate released v5.0.0]]></title>
+            <link>https://github.com/jaywcjlove/regex-mate/commit/5f23082ec2da59eda4e9208aeb0a42c7dcfdbd4e</link>
+            <guid>MDY6Q29tbWl0Nzc2NTM3NzA3OjVmMjMwODJlYzJkYTU5ZWRhNGU5MjA4YWViMGE0MmM3ZGNmZGJkNGU=</guid>
+            <pubDate>Fri, 18 Sep 2026 07:10:43 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/regex-mate/commit/5f23082ec2da59eda4e9208aeb0a42c7dcfdbd4e">released v5.0.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/rightmenu-master released v4.11.0]]></title>
             <link>https://github.com/jaywcjlove/rightmenu-master/commit/545258239a19b1f710f346a81727f7cdf53dda6e</link>
@@ -2053,14 +2069,6 @@
             <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNToxYzcyNzZjMGYwMDgzOGVlZDhmZWNjMjM3Y2E2MGE1YjA3NWZkMWUz</guid>
             <pubDate>Fri, 27 Feb 2026 13:54:47 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/1c7276c0f00838eed8fecc237ca60a5b075fd1e3">released v1.1.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.2 #524]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/866282e019ea29b1e191d4360b910ce33c652418</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ODY2MjgyZTAxOWVhMjliMWUxOTFkNDM2MGI5MTBjZTMzYzY1MjQxOA==</guid>
-            <pubDate>Wed, 25 Feb 2026 09:27:13 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/866282e019ea29b1e191d4360b910ce33c652418">released v4.0.2 #524</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
