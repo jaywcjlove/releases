@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 18 Sep 2026 19:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 09:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/daybar released v4.2.0]]></title>
+            <link>https://github.com/jaywcjlove/daybar/commit/52a874571c5d4e3a9dd309ec46737fa75d60ab15</link>
+            <guid>MDY6Q29tbWl0OTExNzQxNzc0OjUyYTg3NDU3MWM1ZDRlM2E5ZGQzMDllYzQ2NzM3ZmE3NWQ2MGFiMTU=</guid>
+            <pubDate>Sat, 19 Sep 2026 06:17:22 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/daybar/commit/52a874571c5d4e3a9dd309ec46737fa75d60ab15">released v4.2.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/time-passage released v2.1.0]]></title>
+            <link>https://github.com/jaywcjlove/time-passage/commit/f1ea1fd96aa990c4b5d5dddf39c6bf4a51173b05</link>
+            <guid>MDY6Q29tbWl0NzY5NTMyNTg4OmYxZWExZmQ5NmFhOTkwYzRiNWQ1ZGRkZjM5YzZiZjRhNTExNzNiMDU=</guid>
+            <pubDate>Sat, 19 Sep 2026 01:27:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/time-passage/commit/f1ea1fd96aa990c4b5d5dddf39c6bf4a51173b05">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/homebrew-tap released v1.8.1 (mousio-hint)]]></title>
             <link>https://github.com/jaywcjlove/homebrew-tap/commit/09efabc22f0378f9426783a181bc793a6cd0d0d6</link>
@@ -2037,14 +2053,6 @@
             <guid>MDY6Q29tbWl0MTEwNzgxNDE2NTplOWM3M2I2MWM5YWU3NzExN2Q1ODFjYjdhZGVmYTRhMDdjOWZiZjJi</guid>
             <pubDate>Wed, 04 Mar 2026 22:57:55 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall-hub released v1.6.1]]></title>
-            <link>https://github.com/jaywcjlove/vidwall-hub/commit/6822732c137268aefbc2dc22ab7e736821f055ea</link>
-            <guid>MDY6Q29tbWl0MTA2NTQ1MDM0Nzo2ODIyNzMyYzEzNzI2OGFlZmJjMmRjMjJhYjdlNzM2ODIxZjA1NWVh</guid>
-            <pubDate>Wed, 04 Mar 2026 22:24:29 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall-hub/commit/6822732c137268aefbc2dc22ab7e736821f055ea">released v1.6.1</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

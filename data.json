@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTExNzQxNzc0OjUyYTg3NDU3MWM1ZDRlM2E5ZGQzMDllYzQ2NzM3ZmE3NWQ2MGFiMTU=",
+    "type": "commits",
+    "title": "released v4.2.0",
+    "repo": "jaywcjlove/daybar",
+    "sha": "52a874571c5d4e3a9dd309ec46737fa75d60ab15",
+    "url": "https://github.com/jaywcjlove/daybar/commit/52a874571c5d4e3a9dd309ec46737fa75d60ab15",
+    "created_at": "2026-09-19T14:17:22.000+08:00",
+    "state": "committer",
+    "version": "4.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzY5NTMyNTg4OmYxZWExZmQ5NmFhOTkwYzRiNWQ1ZGRkZjM5YzZiZjRhNTExNzNiMDU=",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/time-passage",
+    "sha": "f1ea1fd96aa990c4b5d5dddf39c6bf4a51173b05",
+    "url": "https://github.com/jaywcjlove/time-passage/commit/f1ea1fd96aa990c4b5d5dddf39c6bf4a51173b05",
+    "created_at": "2026-09-19T09:27:11.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDowOWVmYWJjMjJmMDM3OGY5NDI2NzgzYTE4MWJjNzkzYTZjZDBkMGQ2",
     "type": "commits",
     "title": "released v1.8.1 (mousio-hint)",
@@ -2781,17 +2803,6 @@
     "created_at": "2026-03-05T06:57:55.000+08:00",
     "state": "committer",
     "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTA2NTQ1MDM0Nzo2ODIyNzMyYzEzNzI2OGFlZmJjMmRjMjJhYjdlNzM2ODIxZjA1NWVh",
-    "type": "commits",
-    "title": "released v1.6.1",
-    "repo": "jaywcjlove/vidwall-hub",
-    "sha": "6822732c137268aefbc2dc22ab7e736821f055ea",
-    "url": "https://github.com/jaywcjlove/vidwall-hub/commit/6822732c137268aefbc2dc22ab7e736821f055ea",
-    "created_at": "2026-03-05T06:24:29.000+08:00",
-    "state": "committer",
-    "version": "1.6.1"
   },
   {
     "id": "MDY6Q29tbWl0MjY5MDA4MDg6NjIzZjJiODhmOTFhMmZkNmI2YjIwYTM3ZTY0Mzc4MTUxNzRhMjdlOQ==",
