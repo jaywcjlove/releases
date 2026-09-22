@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 22 Sep 2026 10:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 20:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/symbol-scribe released v1.9.0]]></title>
+            <link>https://github.com/jaywcjlove/symbol-scribe/commit/a8c2c5489774283e72cee4ea360b8be6f975cfc5</link>
+            <guid>MDY6Q29tbWl0NzgyMTYyOTAzOmE4YzJjNTQ4OTc3NDI4M2U3MmNlZTRlYTM2MGI4YmU2Zjk3NWNmYzU=</guid>
+            <pubDate>Tue, 22 Sep 2026 16:33:39 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/symbol-scribe/commit/a8c2c5489774283e72cee4ea360b8be6f975cfc5">released v1.9.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.9.22]]></title>
             <link>https://github.com/jaywcjlove/github-rank/commit/cf9925ce69f19e489dbfa0b94f844d9ea962841d</link>
@@ -1917,14 +1925,6 @@
             <guid>MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==</guid>
             <pubDate>Mon, 16 Mar 2026 07:46:31 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/translater.js/commit/23c363be59d957e2f0cd7c0ea3b3ae184726895f">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/mocker-api released v4.0.0]]></title>
-            <link>https://github.com/jaywcjlove/mocker-api/commit/dc80b91bcf7fe6eeca5ec55438ade15f61a83898</link>
-            <guid>MDY6Q29tbWl0MTIwNjQxODIzOmRjODBiOTFiY2Y3ZmU2ZWVjYTVlYzU1NDM4YWRlMTVmNjFhODM4OTg=</guid>
-            <pubDate>Mon, 16 Mar 2026 06:42:20 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/mocker-api/commit/dc80b91bcf7fe6eeca5ec55438ade15f61a83898">released v4.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
