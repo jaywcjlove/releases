@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmNmOTkyNWNlNjlmMTllNDg5ZGJmYTBiOTRmODQ0ZDllYTk2Mjg0MWQ=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.9.22",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "cf9925ce69f19e489dbfa0b94f844d9ea962841d",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/cf9925ce69f19e489dbfa0b94f844d9ea962841d",
+    "created_at": "2026-09-22T04:04:37.000Z",
+    "state": "committer",
+    "version": "26.9.22"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTA4NjU2ODg2NTozNGE3NGM3ZmNjZjZmYTFiMDc1ZGNlMDE4ZDZiMmU1NzQzM2VmOWZm",
+    "type": "commits",
+    "title": "released v1.3.0",
+    "repo": "jaywcjlove/keyzer",
+    "sha": "34a74c7fccf6fa1b075dce018d6b2e57433ef9ff",
+    "url": "https://github.com/jaywcjlove/keyzer/commit/34a74c7fccf6fa1b075dce018d6b2e57433ef9ff",
+    "created_at": "2026-09-22T11:31:13.000+08:00",
+    "state": "committer",
+    "version": "1.3.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTY3NDkyNDM0OjVmYjhiNmY4ZDU2NWZjMGE1OWQwNzRhOWM0MjM1YjRlM2EyNTA3NWU=",
+    "type": "commits",
+    "title": "released v2.3.0",
+    "repo": "jaywcjlove/file-sentinel",
+    "sha": "5fb8b6f8d565fc0a59d074a9c4235b4e3a25075e",
+    "url": "https://github.com/jaywcjlove/file-sentinel/commit/5fb8b6f8d565fc0a59d074a9c4235b4e3a25075e",
+    "created_at": "2026-09-22T10:16:08.000+08:00",
+    "state": "committer",
+    "version": "2.3.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTExNzQxNzc0OjUyYTg3NDU3MWM1ZDRlM2E5ZGQzMDllYzQ2NzM3ZmE3NWQ2MGFiMTU=",
     "type": "commits",
     "title": "released v4.2.0",
@@ -2794,17 +2827,6 @@
     "version": "2.0.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTEwNzgxNDE2NTplOWM3M2I2MWM5YWU3NzExN2Q1ODFjYjdhZGVmYTRhMDdjOWZiZjJi",
-    "type": "commits",
-    "title": "released v1.4.0",
-    "repo": "jaywcjlove/deskmark",
-    "sha": "e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b",
-    "url": "https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b",
-    "created_at": "2026-03-05T06:57:55.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MjY5MDA4MDg6NjIzZjJiODhmOTFhMmZkNmI2YjIwYTM3ZTY0Mzc4MTUxNzRhMjdlOQ==",
     "type": "commits",
     "title": "released v2.1.4",
@@ -2814,28 +2836,6 @@
     "created_at": "2026-03-05T04:38:51.000+08:00",
     "state": "committer",
     "version": "2.1.4"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjY4MDE3NTc6NTE0NjIzMmIzODdkN2VjMTMzNGQwY2Q0N2I1OWFiNmQ4YzEyMDhiYw==",
-    "type": "commits",
-    "title": "released v2.1.1",
-    "repo": "jaywcjlove/store.js",
-    "sha": "5146232b387d7ec1334d0cd47b59ab6d8c1208bc",
-    "url": "https://github.com/jaywcjlove/store.js/commit/5146232b387d7ec1334d0cd47b59ab6d8c1208bc",
-    "created_at": "2026-03-05T04:28:17.000+08:00",
-    "state": "committer",
-    "version": "2.1.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo5NzhkNWRiYWJlODFiMWYzMDk4YzgwMzVjZWZhMDRhMTllNWU2ZmUx",
-    "type": "commits",
-    "title": "released v1.3.0",
-    "repo": "jaywcjlove/app-i18n",
-    "sha": "978d5dbabe81b1f3098c8035cefa04a19e5e6fe1",
-    "url": "https://github.com/jaywcjlove/app-i18n/commit/978d5dbabe81b1f3098c8035cefa04a19e5e6fe1",
-    "created_at": "2026-03-01T19:16:48.000+08:00",
-    "state": "committer",
-    "version": "1.3.0"
   },
   {
     "id": 3344245728,

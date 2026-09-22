@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 21 Sep 2026 21:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 10:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.9.22]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/cf9925ce69f19e489dbfa0b94f844d9ea962841d</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmNmOTkyNWNlNjlmMTllNDg5ZGJmYTBiOTRmODQ0ZDllYTk2Mjg0MWQ=</guid>
+            <pubDate>Tue, 22 Sep 2026 04:04:37 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/cf9925ce69f19e489dbfa0b94f844d9ea962841d">chore(release): bump version to 26.9.22</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/keyzer released v1.3.0]]></title>
+            <link>https://github.com/jaywcjlove/keyzer/commit/34a74c7fccf6fa1b075dce018d6b2e57433ef9ff</link>
+            <guid>MDY6Q29tbWl0MTA4NjU2ODg2NTozNGE3NGM3ZmNjZjZmYTFiMDc1ZGNlMDE4ZDZiMmU1NzQzM2VmOWZm</guid>
+            <pubDate>Tue, 22 Sep 2026 03:31:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/keyzer/commit/34a74c7fccf6fa1b075dce018d6b2e57433ef9ff">released v1.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/file-sentinel released v2.3.0]]></title>
+            <link>https://github.com/jaywcjlove/file-sentinel/commit/5fb8b6f8d565fc0a59d074a9c4235b4e3a25075e</link>
+            <guid>MDY6Q29tbWl0OTY3NDkyNDM0OjVmYjhiNmY4ZDU2NWZjMGE1OWQwNzRhOWM0MjM1YjRlM2EyNTA3NWU=</guid>
+            <pubDate>Tue, 22 Sep 2026 02:16:08 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/file-sentinel/commit/5fb8b6f8d565fc0a59d074a9c4235b4e3a25075e">released v2.3.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/daybar released v4.2.0]]></title>
             <link>https://github.com/jaywcjlove/daybar/commit/52a874571c5d4e3a9dd309ec46737fa75d60ab15</link>
@@ -2048,35 +2072,11 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/deskmark released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b</link>
-            <guid>MDY6Q29tbWl0MTEwNzgxNDE2NTplOWM3M2I2MWM5YWU3NzExN2Q1ODFjYjdhZGVmYTRhMDdjOWZiZjJi</guid>
-            <pubDate>Wed, 04 Mar 2026 22:57:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/deskmark/commit/e9c73b61c9ae77117d581cb7adefa4a07c9fbf2b">released v1.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/cookie.js released v2.1.4]]></title>
             <link>https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9</link>
             <guid>MDY6Q29tbWl0MjY5MDA4MDg6NjIzZjJiODhmOTFhMmZkNmI2YjIwYTM3ZTY0Mzc4MTUxNzRhMjdlOQ==</guid>
             <pubDate>Wed, 04 Mar 2026 20:38:51 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9">released v2.1.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/store.js released v2.1.1]]></title>
-            <link>https://github.com/jaywcjlove/store.js/commit/5146232b387d7ec1334d0cd47b59ab6d8c1208bc</link>
-            <guid>MDY6Q29tbWl0MjY4MDE3NTc6NTE0NjIzMmIzODdkN2VjMTMzNGQwY2Q0N2I1OWFiNmQ4YzEyMDhiYw==</guid>
-            <pubDate>Wed, 04 Mar 2026 20:28:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/store.js/commit/5146232b387d7ec1334d0cd47b59ab6d8c1208bc">released v2.1.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/app-i18n released v1.3.0]]></title>
-            <link>https://github.com/jaywcjlove/app-i18n/commit/978d5dbabe81b1f3098c8035cefa04a19e5e6fe1</link>
-            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo5NzhkNWRiYWJlODFiMWYzMDk4YzgwMzVjZWZhMDRhMTllNWU2ZmUx</guid>
-            <pubDate>Sun, 01 Mar 2026 11:16:48 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/978d5dbabe81b1f3098c8035cefa04a19e5e6fe1">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
