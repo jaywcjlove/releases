@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OjVkMzM3YzJiNzYyM2QyNWJjNzIwODVkNmE3MzVhYTg4OThkMWNiZGY=",
+    "type": "commits",
+    "title": "released v3.12.0",
+    "repo": "jaywcjlove/musicer",
+    "sha": "5d337c2b7623d25bc72085d6a735aa8898d1cbdf",
+    "url": "https://github.com/jaywcjlove/musicer/commit/5d337c2b7623d25bc72085d6a735aa8898d1cbdf",
+    "created_at": "2026-09-23T13:15:04.000+08:00",
+    "state": "committer",
+    "version": "3.12.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NzgyMTYyOTAzOmE4YzJjNTQ4OTc3NDI4M2U3MmNlZTRlYTM2MGI4YmU2Zjk3NWNmYzU=",
     "type": "commits",
     "title": "released v1.9.0",
@@ -2825,17 +2836,6 @@
     "created_at": "2026-03-12T22:50:49.000+08:00",
     "state": "committer",
     "version": "2.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjY5MDA4MDg6NjIzZjJiODhmOTFhMmZkNmI2YjIwYTM3ZTY0Mzc4MTUxNzRhMjdlOQ==",
-    "type": "commits",
-    "title": "released v2.1.4",
-    "repo": "jaywcjlove/cookie.js",
-    "sha": "623f2b88f91a2fd6b6b20a37e6437815174a27e9",
-    "url": "https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9",
-    "created_at": "2026-03-05T04:38:51.000+08:00",
-    "state": "committer",
-    "version": "2.1.4"
   },
   {
     "id": 3344245728,

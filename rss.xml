@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 22 Sep 2026 20:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 10:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v3.12.0]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/5d337c2b7623d25bc72085d6a735aa8898d1cbdf</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OjVkMzM3YzJiNzYyM2QyNWJjNzIwODVkNmE3MzVhYTg4OThkMWNiZGY=</guid>
+            <pubDate>Wed, 23 Sep 2026 05:15:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/5d337c2b7623d25bc72085d6a735aa8898d1cbdf">released v3.12.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/symbol-scribe released v1.9.0]]></title>
             <link>https://github.com/jaywcjlove/symbol-scribe/commit/a8c2c5489774283e72cee4ea360b8be6f975cfc5</link>
@@ -2069,14 +2077,6 @@
             <guid>MDY6Q29tbWl0NjM1MzkwNTU6YjQwYjMwMTViMGE3MDg3YmVlZDQ2ZWMwN2E1ODVmYzBlNWE5NzhjNA==</guid>
             <pubDate>Thu, 12 Mar 2026 14:50:49 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/b40b3015b0a7087beed46ec07a585fc0e5a978c4">released v2.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/cookie.js released v2.1.4]]></title>
-            <link>https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9</link>
-            <guid>MDY6Q29tbWl0MjY5MDA4MDg6NjIzZjJiODhmOTFhMmZkNmI2YjIwYTM3ZTY0Mzc4MTUxNzRhMjdlOQ==</guid>
-            <pubDate>Wed, 04 Mar 2026 20:38:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/cookie.js/commit/623f2b88f91a2fd6b6b20a37e6437815174a27e9">released v2.1.4</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
