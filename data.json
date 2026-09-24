@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjFlMmUxMWY4NjU4NjBjNmJkNTAyOWQ3MWEyYTA5YmQ4OTRlZDViYWQ=",
+    "type": "commits",
+    "title": "released v4.25.12 #771 #755",
+    "repo": "uiwjs/react-codemirror",
+    "sha": "1e2e11f865860c6bd5029d71a2a09bd894ed5bad",
+    "url": "https://github.com/uiwjs/react-codemirror/commit/1e2e11f865860c6bd5029d71a2a09bd894ed5bad",
+    "created_at": "2026-09-25T02:02:40.000+08:00",
+    "state": "committer",
+    "version": "4.25.12"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OjVkMzM3YzJiNzYyM2QyNWJjNzIwODVkNmE3MzVhYTg4OThkMWNiZGY=",
     "type": "commits",
     "title": "released v3.12.0",
@@ -2618,17 +2629,6 @@
     "version": "0.7.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTAwMzg5NTAzOmIyODFjZTEwY2NkNmIzNmUxY2I2MzRmNTZmNTg0ZWU5NDg3NzUxNTg=",
-    "type": "commits",
-    "title": "released v3.0.0",
-    "repo": "jaywcjlove/react-hotkeys",
-    "sha": "b281ce10ccd6b36e1cb634f56f584ee948775158",
-    "url": "https://github.com/jaywcjlove/react-hotkeys/commit/b281ce10ccd6b36e1cb634f56f584ee948775158",
-    "created_at": "2026-03-16T18:21:16.000+08:00",
-    "state": "committer",
-    "version": "3.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2945,7 +2945,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "359"
+    "stars": "360"
   },
   {
     "id": 1194561099,
