@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTgwODM2NjE4OmY0NDFiOTI4NTBmODcxZDBlYzUxMjUzNGM0YWM2YTEyYmJiZDg2MWQ=",
+    "type": "commits",
+    "title": "released v3.12.1",
+    "repo": "jaywcjlove/musicer",
+    "sha": "f441b92850f871d0ec512534c4ac6a12bbbd861d",
+    "url": "https://github.com/jaywcjlove/musicer/commit/f441b92850f871d0ec512534c4ac6a12bbbd861d",
+    "created_at": "2026-09-25T19:25:22.000+08:00",
+    "state": "committer",
+    "version": "3.12.1"
+  },
+  {
     "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmUwOTMxZTc4N2UzODZjOTBiM2ZlNzhkYWVhMzU1MmViYmViZTg3NzQ=",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2814,17 +2825,6 @@
     "created_at": "2026-03-14T21:11:07.000+08:00",
     "state": "committer",
     "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjYxNzg1ODkwOjA2YjExM2UxMWFhNDQ5ZTIyYmQ4ZTEzOGYyZWVlYmQ5MDU2MzJhNmU=",
-    "type": "commits",
-    "title": "released v1.0.4",
-    "repo": "uiwjs/react-csv-reader",
-    "sha": "06b113e11aa449e22bd8e138f2eeebd905632a6e",
-    "url": "https://github.com/uiwjs/react-csv-reader/commit/06b113e11aa449e22bd8e138f2eeebd905632a6e",
-    "created_at": "2026-03-14T19:01:37.000+08:00",
-    "state": "committer",
-    "version": "1.0.4"
   },
   {
     "id": "MDY6Q29tbWl0NjM1MzkwNTU6YjQwYjMwMTViMGE3MDg3YmVlZDQ2ZWMwN2E1ODVmYzBlNWE5NzhjNA==",

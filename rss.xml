@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 25 Sep 2026 10:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 20:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/musicer released v3.12.1]]></title>
+            <link>https://github.com/jaywcjlove/musicer/commit/f441b92850f871d0ec512534c4ac6a12bbbd861d</link>
+            <guid>MDY6Q29tbWl0OTgwODM2NjE4OmY0NDFiOTI4NTBmODcxZDBlYzUxMjUzNGM0YWM2YTEyYmJiZDg2MWQ=</guid>
+            <pubDate>Fri, 25 Sep 2026 11:25:22 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/musicer/commit/f441b92850f871d0ec512534c4ac6a12bbbd861d">released v3.12.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/devtutor released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/devtutor/commit/e0931e787e386c90b3fe78daea3552ebbebe8774</link>
@@ -2062,14 +2070,6 @@
             <pubDate>Sat, 14 Mar 2026 13:11:07 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170">released v2.1.0 #9 #10</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-csv-reader released v1.0.4]]></title>
-            <link>https://github.com/uiwjs/react-csv-reader/commit/06b113e11aa449e22bd8e138f2eeebd905632a6e</link>
-            <guid>MDY6Q29tbWl0NjYxNzg1ODkwOjA2YjExM2UxMWFhNDQ5ZTIyYmQ4ZTEzOGYyZWVlYmQ5MDU2MzJhNmU=</guid>
-            <pubDate>Sat, 14 Mar 2026 11:01:37 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-csv-reader/commit/06b113e11aa449e22bd8e138f2eeebd905632a6e">released v1.0.4</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac released v2.0.0]]></title>
