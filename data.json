@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0Nzg5NzEwNjQ4OmUwOTMxZTc4N2UzODZjOTBiM2ZlNzhkYWVhMzU1MmViYmViZTg3NzQ=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/devtutor",
+    "sha": "e0931e787e386c90b3fe78daea3552ebbebe8774",
+    "url": "https://github.com/jaywcjlove/devtutor/commit/e0931e787e386c90b3fe78daea3552ebbebe8774",
+    "created_at": "2026-09-25T13:39:03.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OjFlMmUxMWY4NjU4NjBjNmJkNTAyOWQ3MWEyYTA5YmQ4OTRlZDViYWQ=",
     "type": "commits",
     "title": "released v4.25.12 #771 #755",
@@ -2417,7 +2428,7 @@
     "created_at": "2026-03-23T13:43:26Z",
     "state": "merged",
     "number": 1205,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4120997046,
@@ -2428,7 +2439,7 @@
     "created_at": "2026-03-23T13:42:21Z",
     "state": "merged",
     "number": 1204,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4120957830,
@@ -2439,7 +2450,7 @@
     "created_at": "2026-03-23T13:36:56Z",
     "state": "merged",
     "number": 1203,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4120948338,
@@ -2450,7 +2461,7 @@
     "created_at": "2026-03-23T13:35:50Z",
     "state": "merged",
     "number": 1202,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4120791922,
@@ -2461,7 +2472,7 @@
     "created_at": "2026-03-23T13:14:26Z",
     "state": "merged",
     "number": 1201,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4101342958,
@@ -2472,7 +2483,7 @@
     "created_at": "2026-03-19T12:23:46Z",
     "state": "merged",
     "number": 1155,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4101340977,
@@ -2483,7 +2494,7 @@
     "created_at": "2026-03-19T12:23:17Z",
     "state": "merged",
     "number": 1153,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4101336030,
@@ -2494,7 +2505,7 @@
     "created_at": "2026-03-19T12:22:15Z",
     "state": "merged",
     "number": 1152,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4101325858,
@@ -2505,7 +2516,7 @@
     "created_at": "2026-03-19T12:20:09Z",
     "state": "merged",
     "number": 1151,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4101323235,
@@ -2516,7 +2527,7 @@
     "created_at": "2026-03-19T12:19:33Z",
     "state": "merged",
     "number": 1150,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4101318030,
@@ -2527,7 +2538,7 @@
     "created_at": "2026-03-19T12:18:19Z",
     "state": "merged",
     "number": 1149,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4100966126,
@@ -2538,7 +2549,7 @@
     "created_at": "2026-03-19T11:08:51Z",
     "state": "merged",
     "number": 1148,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": 4100952563,
@@ -2549,7 +2560,7 @@
     "created_at": "2026-03-19T11:06:04Z",
     "state": "merged",
     "number": 1147,
-    "stars": "7.3K"
+    "stars": "7.4K"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
@@ -2770,17 +2781,6 @@
     "created_at": "2026-03-15T17:20:43.000+08:00",
     "state": "committer",
     "version": "2.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzcxMTE3MzI1OmE4NTM0NDA1YmEzY2Y5ODdjNzNlNzlmOWI3YjdiZjBlNThhNmNhYmE=",
-    "type": "commits",
-    "title": "released v1.0.13",
-    "repo": "uiwjs/next-remove-imports",
-    "sha": "a8534405ba3cf987c73e79f9b7b7bf0e58a6caba",
-    "url": "https://github.com/uiwjs/next-remove-imports/commit/a8534405ba3cf987c73e79f9b7b7bf0e58a6caba",
-    "created_at": "2026-03-15T15:01:25.000+08:00",
-    "state": "committer",
-    "version": "1.0.13"
   },
   {
     "id": "MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=",
