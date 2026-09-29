@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA1ODI0NTA3NDpmYzdjMjczY2JlYmRhMjhjYmZkODE1NWEzNjhiMzI2MjcxYzA5ZDZj",
+    "type": "commits",
+    "title": "released v1.14.0",
+    "repo": "jaywcjlove/vidcrop",
+    "sha": "fc7c273cbebda28cbfd8155a368b326271c09d6c",
+    "url": "https://github.com/jaywcjlove/vidcrop/commit/fc7c273cbebda28cbfd8155a368b326271c09d6c",
+    "created_at": "2026-09-29T15:59:31.000+08:00",
+    "state": "committer",
+    "version": "1.14.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjgzYWExMDcyYzNmNmFhMTc4YTdhNWMwYjVhMThkNjMzMjg4NmIzM2I=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.9.29",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "83aa1072c3f6aa178a7a5c0b5a18d6332886b33b",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/83aa1072c3f6aa178a7a5c0b5a18d6332886b33b",
+    "created_at": "2026-09-29T05:01:16.000Z",
+    "state": "committer",
+    "version": "26.9.29"
+  },
+  {
     "id": "MDY6Q29tbWl0OTgwODM2NjE4OmY0NDFiOTI4NTBmODcxZDBlYzUxMjUzNGM0YWM2YTEyYmJiZDg2MWQ=",
     "type": "commits",
     "title": "released v3.12.1",
@@ -2803,28 +2825,6 @@
     "created_at": "2026-03-15T09:33:24.000+08:00",
     "state": "committer",
     "version": "1.0.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MjYwMTc0NTIyOmZjNDY5ODMzZDg3NGMzZWQ3YjFkMzM3YzJjNGI5YTNlYzE5YmI4ZTk=",
-    "type": "commits",
-    "title": "released v1.1.7",
-    "repo": "uiwjs/react-mac-keyboard",
-    "sha": "fc469833d874c3ed7b1d337c2c4b9a3ec19bb8e9",
-    "url": "https://github.com/uiwjs/react-mac-keyboard/commit/fc469833d874c3ed7b1d337c2c4b9a3ec19bb8e9",
-    "created_at": "2026-03-15T00:29:06.000+08:00",
-    "state": "committer",
-    "version": "1.1.7"
-  },
-  {
-    "id": "MDY6Q29tbWl0NzcyNDE4ODQxOjE5YzUxMTYxYTNhOWZmOGY2ZDRlYzY0OTQzOWEyZTQ3NWYwZTgxNzA=",
-    "type": "commits",
-    "title": "released v2.1.0 #9 #10",
-    "repo": "jaywcjlove/remark-github-blockquote-alert",
-    "sha": "19c51161a3a9ff8f6d4ec649439a2e475f0e8170",
-    "url": "https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170",
-    "created_at": "2026-03-14T21:11:07.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0NjM1MzkwNTU6YjQwYjMwMTViMGE3MDg3YmVlZDQ2ZWMwN2E1ODVmYzBlNWE5NzhjNA==",
