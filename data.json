@@ -2629,17 +2629,6 @@
     "version": "1.0.5"
   },
   {
-    "id": "MDY6Q29tbWl0NjQ3ODQ3ODAwOjFmMzBkN2FiYTYwNmM4ZDcwMGFkMWFlN2U1ZmUwYmQwNWQ0NzMyOGQ=",
-    "type": "commits",
-    "title": "released v3.0.4",
-    "repo": "jaywcjlove/auto-config-loader",
-    "sha": "1f30d7aba606c8d700ad1ae7e5fe0bd05d47328d",
-    "url": "https://github.com/jaywcjlove/auto-config-loader/commit/1f30d7aba606c8d700ad1ae7e5fe0bd05d47328d",
-    "created_at": "2026-03-19T11:02:41.000+08:00",
-    "state": "committer",
-    "version": "3.0.4"
-  },
-  {
     "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=",
     "type": "commits",
     "title": "released v0.5.8",
@@ -2825,6 +2814,17 @@
     "created_at": "2026-03-15T09:33:24.000+08:00",
     "state": "committer",
     "version": "1.0.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzcyNDE4ODQxOjE5YzUxMTYxYTNhOWZmOGY2ZDRlYzY0OTQzOWEyZTQ3NWYwZTgxNzA=",
+    "type": "commits",
+    "title": "released v2.1.0 #9 #10",
+    "repo": "jaywcjlove/remark-github-blockquote-alert",
+    "sha": "19c51161a3a9ff8f6d4ec649439a2e475f0e8170",
+    "url": "https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170",
+    "created_at": "2026-03-14T21:11:07.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0NjM1MzkwNTU6YjQwYjMwMTViMGE3MDg3YmVlZDQ2ZWMwN2E1ODVmYzBlNWE5NzhjNA==",
