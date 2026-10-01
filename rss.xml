@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 30 Sep 2026 21:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 11:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.10.1]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/8ddf55c70b92f8d2ce27bbf33ae28189e47fad0b</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjhkZGY1NWM3MGI5MmY4ZDJjZTI3YmJmMzNhZTI4MTg5ZTQ3ZmFkMGI=</guid>
+            <pubDate>Thu, 01 Oct 2026 04:56:16 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/8ddf55c70b92f8d2ce27bbf33ae28189e47fad0b">chore(release): bump version to 26.10.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/vidcrop released v1.14.0]]></title>
             <link>https://github.com/jaywcjlove/vidcrop/commit/fc7c273cbebda28cbfd8155a368b326271c09d6c</link>
@@ -2062,14 +2070,6 @@
             <pubDate>Sun, 15 Mar 2026 01:33:24 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d">released v1.0.1</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v2.1.0 #9 #10]]></title>
-            <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170</link>
-            <guid>MDY6Q29tbWl0NzcyNDE4ODQxOjE5YzUxMTYxYTNhOWZmOGY2ZDRlYzY0OTQzOWEyZTQ3NWYwZTgxNzA=</guid>
-            <pubDate>Sat, 14 Mar 2026 13:11:07 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/19c51161a3a9ff8f6d4ec649439a2e475f0e8170">released v2.1.0 #9 #10</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac released v2.0.0]]></title>
