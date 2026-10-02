@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0NzY2Nzc4NDE3OjAxMTY0OWQ2OTI1NjM3ZDRiNTczZDhkYWFlMzRjZmI1MjZjZDYwMDI=",
+    "type": "commits",
+    "title": "released v2.0.0",
+    "repo": "jaywcjlove/ResumeRevise",
+    "sha": "011649d6925637d4b573d8daae34cfb526cd6002",
+    "url": "https://github.com/jaywcjlove/ResumeRevise/commit/011649d6925637d4b573d8daae34cfb526cd6002",
+    "created_at": "2026-10-02T16:53:34.000+08:00",
+    "state": "committer",
+    "version": "2.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjhkZGY1NWM3MGI5MmY4ZDJjZTI3YmJmMzNhZTI4MTg5ZTQ3ZmFkMGI=",
     "type": "commits",
     "title": "chore(release): bump version to 26.10.1",
@@ -2715,17 +2726,6 @@
     "created_at": "2026-03-15T21:40:20.000+08:00",
     "state": "committer",
     "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODM0OTAyNDQxOjRmOTAyZjM2OWY4ZWVmMzVjZmI1MDcyMWEwMWIyZTRjNmZmNGNmMWI=",
-    "type": "commits",
-    "title": "released v1.2.0",
-    "repo": "jaywcjlove/github-action-upload-assets",
-    "sha": "4f902f369f8eef35cfb50721a01b2e4c6ff4cf1b",
-    "url": "https://github.com/jaywcjlove/github-action-upload-assets/commit/4f902f369f8eef35cfb50721a01b2e4c6ff4cf1b",
-    "created_at": "2026-03-15T21:31:29.000+08:00",
-    "state": "committer",
-    "version": "1.2.0"
   },
   {
     "id": "MDY6Q29tbWl0ODM0Nzg3ODUxOmUwYTUzZTk4YTIzMzg5YjAwMTk3NzdlZDJlYjllNjZlODg4MTdiMmI=",
