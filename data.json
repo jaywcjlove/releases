@@ -2673,17 +2673,6 @@
     "version": "1.0.11"
   },
   {
-    "id": "MDY6Q29tbWl0ODM0MzYxMzIxOmJmYjk4ZDExNDU3MzVkNzRhNzg3N2Y3YjJiNzlhMWM5MDRhYmZjZDQ=",
-    "type": "commits",
-    "title": "released v0.7.0",
-    "repo": "jaywcjlove/sgo-rs",
-    "sha": "bfb98d1145735d74a7877f7b2b79a1c904abfcd4",
-    "url": "https://github.com/jaywcjlove/sgo-rs/commit/bfb98d1145735d74a7877f7b2b79a1c904abfcd4",
-    "created_at": "2026-03-16T20:00:03.000+08:00",
-    "state": "committer",
-    "version": "0.7.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2726,6 +2715,17 @@
     "created_at": "2026-03-15T21:40:20.000+08:00",
     "state": "committer",
     "version": "2.1.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0ODM0OTAyNDQxOjRmOTAyZjM2OWY4ZWVmMzVjZmI1MDcyMWEwMWIyZTRjNmZmNGNmMWI=",
+    "type": "commits",
+    "title": "released v1.2.0",
+    "repo": "jaywcjlove/github-action-upload-assets",
+    "sha": "4f902f369f8eef35cfb50721a01b2e4c6ff4cf1b",
+    "url": "https://github.com/jaywcjlove/github-action-upload-assets/commit/4f902f369f8eef35cfb50721a01b2e4c6ff4cf1b",
+    "created_at": "2026-03-15T21:31:29.000+08:00",
+    "state": "committer",
+    "version": "1.2.0"
   },
   {
     "id": "MDY6Q29tbWl0ODM0Nzg3ODUxOmUwYTUzZTk4YTIzMzg5YjAwMTk3NzdlZDJlYjllNjZlODg4MTdiMmI=",
@@ -2868,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "501"
+    "stars": "502"
   },
   {
     "id": 2526870275,

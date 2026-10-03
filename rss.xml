@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 02 Oct 2026 21:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 10:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1960,14 +1960,6 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/sgo-rs released v0.7.0]]></title>
-            <link>https://github.com/jaywcjlove/sgo-rs/commit/bfb98d1145735d74a7877f7b2b79a1c904abfcd4</link>
-            <guid>MDY6Q29tbWl0ODM0MzYxMzIxOmJmYjk4ZDExNDU3MzVkNzRhNzg3N2Y3YjJiNzlhMWM5MDRhYmZjZDQ=</guid>
-            <pubDate>Mon, 16 Mar 2026 12:00:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/sgo-rs/commit/bfb98d1145735d74a7877f7b2b79a1c904abfcd4">released v0.7.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/translater.js released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/translater.js/commit/23c363be59d957e2f0cd7c0ea3b3ae184726895f</link>
             <guid>MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==</guid>
@@ -1997,6 +1989,14 @@
             <guid>MDY6Q29tbWl0NTcyMzc5ODQ2OjkzNWQyYjE3NDMyZjIzNTBmZDE1NWEzY2NiZDNmMjkzNGJlOWU0MTA=</guid>
             <pubDate>Sun, 15 Mar 2026 13:40:20 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-read-file/commit/935d2b17432f2350fd155a3ccbd3f2934be9e410">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/github-action-upload-assets released v1.2.0]]></title>
+            <link>https://github.com/jaywcjlove/github-action-upload-assets/commit/4f902f369f8eef35cfb50721a01b2e4c6ff4cf1b</link>
+            <guid>MDY6Q29tbWl0ODM0OTAyNDQxOjRmOTAyZjM2OWY4ZWVmMzVjZmI1MDcyMWEwMWIyZTRjNmZmNGNmMWI=</guid>
+            <pubDate>Sun, 15 Mar 2026 13:31:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-upload-assets/commit/4f902f369f8eef35cfb50721a01b2e4c6ff4cf1b">released v1.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
