@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 06 Oct 2026 21:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 11:55:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/rightmenu-master released v4.11.3]]></title>
+            <link>https://github.com/jaywcjlove/rightmenu-master/commit/f7f49ff66328e989bface253f7fd950eb04606b8</link>
+            <guid>MDY6Q29tbWl0ODc3MTUwMDI1OmY3ZjQ5ZmY2NjMyOGU5ODliZmFjZTI1M2Y3ZmQ5NTBlYjA0NjA2Yjg=</guid>
+            <pubDate>Wed, 07 Oct 2026 03:42:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rightmenu-master/commit/f7f49ff66328e989bface253f7fd950eb04606b8">released v4.11.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.44 #94]]></title>
             <link>https://github.com/uiwjs/react-json-view/commit/c2586f405d2a511672a3e0c5e026878a0b40782a</link>
@@ -1960,22 +1968,6 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/typenexus released v0.5.8]]></title>
-            <link>https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c</link>
-            <guid>MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=</guid>
-            <pubDate>Tue, 17 Mar 2026 07:35:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c">released v0.5.8</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/local-ip-url released v1.0.11]]></title>
-            <link>https://github.com/jaywcjlove/local-ip-url/commit/764b0054a7521ceb52288c3f0c0387db190db1e2</link>
-            <guid>MDY6Q29tbWl0MTM4MTkyNDE4Ojc2NGIwMDU0YTc1MjFjZWI1MjI4OGMzZjBjMDM4N2RiMTkwZGIxZTI=</guid>
-            <pubDate>Tue, 17 Mar 2026 06:02:40 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/local-ip-url/commit/764b0054a7521ceb52288c3f0c0387db190db1e2">released v1.0.11</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/translater.js released v2.0.0]]></title>
             <link>https://github.com/jaywcjlove/translater.js/commit/23c363be59d957e2f0cd7c0ea3b3ae184726895f</link>
             <guid>MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==</guid>
@@ -2045,14 +2037,6 @@
             <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjRiODU4MmU5MTQ2NDBlZGMzNjAyZjdkOTkwN2YzODIxYmY4NGJkYzc=</guid>
             <pubDate>Sun, 15 Mar 2026 10:11:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/coverage-badges-cli released v2.3.0]]></title>
-            <link>https://github.com/jaywcjlove/coverage-badges-cli/commit/998665f7962b1a3935ba8c3e786171a99436e5d1</link>
-            <guid>MDY6Q29tbWl0NDA4MjMyNjc0Ojk5ODY2NWY3OTYyYjFhMzkzNWJhOGMzZTc4NjE3MWE5OTQzNmU1ZDE=</guid>
-            <pubDate>Sun, 15 Mar 2026 09:57:17 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/coverage-badges-cli/commit/998665f7962b1a3935ba8c3e786171a99436e5d1">released v2.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY3ZjQ5ZmY2NjMyOGU5ODliZmFjZTI1M2Y3ZmQ5NTBlYjA0NjA2Yjg=",
+    "type": "commits",
+    "title": "released v4.11.3",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "f7f49ff66328e989bface253f7fd950eb04606b8",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/f7f49ff66328e989bface253f7fd950eb04606b8",
+    "created_at": "2026-10-07T11:42:19.000+08:00",
+    "state": "committer",
+    "version": "4.11.3"
+  },
+  {
     "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmMyNTg2ZjQwNWQyYTUxMTY3MmEzZTBjNWUwMjY4NzhhMGI0MDc4MmE=",
     "type": "commits",
     "title": "released v2.0.0-alpha.44 #94",
@@ -2673,28 +2684,6 @@
     "version": "1.0.5"
   },
   {
-    "id": "MDY6Q29tbWl0NjEzNDM1MjM2OmFmZjZkNTRlYWQyOTc5YmU2MDdkNzI2NTE2NjU3MmQxY2JhOTJjMWM=",
-    "type": "commits",
-    "title": "released v0.5.8",
-    "repo": "jaywcjlove/typenexus",
-    "sha": "aff6d54ead2979be607d7265166572d1cba92c1c",
-    "url": "https://github.com/jaywcjlove/typenexus/commit/aff6d54ead2979be607d7265166572d1cba92c1c",
-    "created_at": "2026-03-17T15:35:38.000+08:00",
-    "state": "committer",
-    "version": "0.5.8"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTM4MTkyNDE4Ojc2NGIwMDU0YTc1MjFjZWI1MjI4OGMzZjBjMDM4N2RiMTkwZGIxZTI=",
-    "type": "commits",
-    "title": "released v1.0.11",
-    "repo": "jaywcjlove/local-ip-url",
-    "sha": "764b0054a7521ceb52288c3f0c0387db190db1e2",
-    "url": "https://github.com/jaywcjlove/local-ip-url/commit/764b0054a7521ceb52288c3f0c0387db190db1e2",
-    "created_at": "2026-03-17T14:02:40.000+08:00",
-    "state": "committer",
-    "version": "1.0.11"
-  },
-  {
     "id": "MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==",
     "type": "commits",
     "title": "released v2.0.0",
@@ -2790,17 +2779,6 @@
     "sha": "4b8582e914640edc3602f7d9907f3821bf84bdc7",
     "url": "https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7",
     "created_at": "2026-03-15T18:11:36.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDA4MjMyNjc0Ojk5ODY2NWY3OTYyYjFhMzkzNWJhOGMzZTc4NjE3MWE5OTQzNmU1ZDE=",
-    "type": "commits",
-    "title": "released v2.3.0",
-    "repo": "jaywcjlove/coverage-badges-cli",
-    "sha": "998665f7962b1a3935ba8c3e786171a99436e5d1",
-    "url": "https://github.com/jaywcjlove/coverage-badges-cli/commit/998665f7962b1a3935ba8c3e786171a99436e5d1",
-    "created_at": "2026-03-15T17:57:17.000+08:00",
     "state": "committer",
     "version": "2.3.0"
   },
