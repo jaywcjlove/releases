@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzplM2MxYzE3NzNjNjI0NzU3YWZkZmE2NzQ3ZDM1M2M4MTQ5NTUyYzdk",
+    "type": "commits",
+    "title": "released v1.13.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "e3c1c1773c624757afdfa6747d353c8149552c7d",
+    "url": "https://github.com/jaywcjlove/scap/commit/e3c1c1773c624757afdfa6747d353c8149552c7d",
+    "created_at": "2026-10-08T16:38:26.000+08:00",
+    "state": "committer",
+    "version": "1.13.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0Ojk3NmFjNTRiYWM0NDEwYWYwYWUyOGMzNzYzYWQ5NDEwOWM5ZGIxNGQ=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.10.8",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "976ac54bac4410af0ae28c3763ad94109c9db14d",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/976ac54bac4410af0ae28c3763ad94109c9db14d",
+    "created_at": "2026-10-08T05:16:10.000Z",
+    "state": "committer",
+    "version": "26.10.8"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY3ZjQ5ZmY2NjMyOGU5ODliZmFjZTI1M2Y3ZmQ5NTBlYjA0NjA2Yjg=",
     "type": "commits",
     "title": "released v4.11.3",
@@ -2475,17 +2497,6 @@
     "version": "3.3.8"
   },
   {
-    "id": "MDY6Q29tbWl0NzM1NjE2NTA6NDhkN2M5NGFjOWRkZjYyOGE1NmM4ODA2YTk1ZWY2YjE3NGIwYTVhYw==",
-    "type": "commits",
-    "title": "ci: update Dash Feed URL to point to GitHub releases and clean up unused Docker image build steps",
-    "repo": "jaywcjlove/linux-command",
-    "sha": "48d7c94ac9ddf628a56c8806a95ef6b174b0a5ac",
-    "url": "https://github.com/jaywcjlove/linux-command/commit/48d7c94ac9ddf628a56c8806a95ef6b174b0a5ac",
-    "created_at": "2026-03-26T15:50:34.000+08:00",
-    "state": "committer",
-    "version": ""
-  },
-  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmJkNDEzY2M1ZTcxNGMwYzczMzFiMjQyZjI4NmQwNmZhNGYxODk5YjQ=",
     "type": "commits",
     "title": "released v4.25.9 #766",
@@ -2713,17 +2724,6 @@
     "sha": "1b74a53d91995ba1b910a997908bd86ec4869fed",
     "url": "https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed",
     "created_at": "2026-03-15T21:47:08.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTcyMzc5ODQ2OjkzNWQyYjE3NDMyZjIzNTBmZDE1NWEzY2NiZDNmMjkzNGJlOWU0MTA=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/github-action-read-file",
-    "sha": "935d2b17432f2350fd155a3ccbd3f2934be9e410",
-    "url": "https://github.com/jaywcjlove/github-action-read-file/commit/935d2b17432f2350fd155a3ccbd3f2934be9e410",
-    "created_at": "2026-03-15T21:40:20.000+08:00",
     "state": "committer",
     "version": "2.1.0"
   },
