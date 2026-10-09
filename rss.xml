@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 09 Oct 2026 12:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 21:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2029,14 +2029,6 @@
             <guid>MDY6Q29tbWl0NTA4MjkyNzE2OjgwNDIyYWE2ZmY5MmQ5NDY5NGFmY2VjMWY5ZGRkYTg0ZjQxZWQxNjA=</guid>
             <pubDate>Sun, 15 Mar 2026 11:38:53 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-package/commit/80422aa6ff92d94694afcec1f9ddda84f41ed160">released v2.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/generated-badges released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/generated-badges/commit/b9f9c103e884574d6330c09c2b3f597a106040c3</link>
-            <guid>MDY6Q29tbWl0NDYxNjczOTQyOmI5ZjljMTAzZTg4NDU3NGQ2MzMwYzA5YzJiM2Y1OTdhMTA2MDQwYzM=</guid>
-            <pubDate>Sun, 15 Mar 2026 10:32:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/generated-badges/commit/b9f9c103e884574d6330c09c2b3f597a106040c3">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

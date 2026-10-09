@@ -2772,17 +2772,6 @@
     "version": "2.1.0"
   },
   {
-    "id": "MDY6Q29tbWl0NDYxNjczOTQyOmI5ZjljMTAzZTg4NDU3NGQ2MzMwYzA5YzJiM2Y1OTdhMTA2MDQwYzM=",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/generated-badges",
-    "sha": "b9f9c103e884574d6330c09c2b3f597a106040c3",
-    "url": "https://github.com/jaywcjlove/generated-badges/commit/b9f9c103e884574d6330c09c2b3f597a106040c3",
-    "created_at": "2026-03-15T18:32:25.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjRiODU4MmU5MTQ2NDBlZGMzNjAyZjdkOTkwN2YzODIxYmY4NGJkYzc=",
     "type": "commits",
     "title": "released v2.3.0",
