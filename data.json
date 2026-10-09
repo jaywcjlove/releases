@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODUyMDg5NzY6YWY5ZDhkNDVjMWY0ZjZmZDQxMzgzMjIwM2QwOGY2OThmZWUzNDU2Nw==",
+    "type": "commits",
+    "title": "released v9.0.0 #59",
+    "repo": "uiwjs/province-city-china",
+    "sha": "af9d8d45c1f4f6fd413832203d08f698fee34567",
+    "url": "https://github.com/uiwjs/province-city-china/commit/af9d8d45c1f4f6fd413832203d08f698fee34567",
+    "created_at": "2026-10-09T18:38:41.000+08:00",
+    "state": "committer",
+    "version": "9.0.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzplM2MxYzE3NzNjNjI0NzU3YWZkZmE2NzQ3ZDM1M2M4MTQ5NTUyYzdk",
     "type": "commits",
     "title": "released v1.13.0",
@@ -2846,7 +2857,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "504"
+    "stars": "505"
   },
   {
     "id": 2526870275,
