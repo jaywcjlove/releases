@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpkMWM5ZGU3ODM4NzAxY2Q4ZjQzNGUxOGMzNTVmMDQ5MDIyOWY2NzQy",
+    "type": "commits",
+    "title": "released v1.14.0",
+    "repo": "jaywcjlove/scap",
+    "sha": "d1c9de7838701cd8f434e18c355f0490229f6742",
+    "url": "https://github.com/jaywcjlove/scap/commit/d1c9de7838701cd8f434e18c355f0490229f6742",
+    "created_at": "2026-10-13T13:54:10.000+08:00",
+    "state": "committer",
+    "version": "1.14.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTQ5Nzg5NDMwOjdlYWMwMGVkOWNjNjE2MjEzMDQ3N2Q3MWRmNmNlYjNmOGNmN2JjMzI=",
+    "type": "commits",
+    "title": "released v2.7.0",
+    "repo": "jaywcjlove/videoer",
+    "sha": "7eac00ed9cc6162130477d71df6ceb3f8cf7bc32",
+    "url": "https://github.com/jaywcjlove/videoer/commit/7eac00ed9cc6162130477d71df6ceb3f8cf7bc32",
+    "created_at": "2026-10-13T10:48:03.000+08:00",
+    "state": "committer",
+    "version": "2.7.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODUyMDg5NzY6YWY5ZDhkNDVjMWY0ZjZmZDQxMzgzMjIwM2QwOGY2OThmZWUzNDU2Nw==",
     "type": "commits",
     "title": "released v9.0.0 #59",
@@ -2781,17 +2803,6 @@
     "created_at": "2026-03-15T18:11:36.000+08:00",
     "state": "committer",
     "version": "2.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTU3ODE0NjM0Ojg0NjYyMWZiM2Q0MjcxMzRjNDM3NzM3NDU0YTA1NTkwMWQ5NTUxNDc=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/github-action-modify-file-content",
-    "sha": "846621fb3d427134c437737454a055901d955147",
-    "url": "https://github.com/jaywcjlove/github-action-modify-file-content/commit/846621fb3d427134c437737454a055901d955147",
-    "created_at": "2026-03-15T17:28:12.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
   },
   {
     "id": "MDY6Q29tbWl0MzI2NjgxNjMyOjAwZWVjZGU0NGY0MGZlZWU0YjVjOTZmZTE2ZTVjZmRlYWI3NjMzNmE=",

@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 12 Oct 2026 23:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 12:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/scap released v1.14.0]]></title>
+            <link>https://github.com/jaywcjlove/scap/commit/d1c9de7838701cd8f434e18c355f0490229f6742</link>
+            <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzpkMWM5ZGU3ODM4NzAxY2Q4ZjQzNGUxOGMzNTVmMDQ5MDIyOWY2NzQy</guid>
+            <pubDate>Tue, 13 Oct 2026 05:54:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/d1c9de7838701cd8f434e18c355f0490229f6742">released v1.14.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/videoer released v2.7.0]]></title>
+            <link>https://github.com/jaywcjlove/videoer/commit/7eac00ed9cc6162130477d71df6ceb3f8cf7bc32</link>
+            <guid>MDY6Q29tbWl0OTQ5Nzg5NDMwOjdlYWMwMGVkOWNjNjE2MjEzMDQ3N2Q3MWRmNmNlYjNmOGNmN2JjMzI=</guid>
+            <pubDate>Tue, 13 Oct 2026 02:48:03 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/videoer/commit/7eac00ed9cc6162130477d71df6ceb3f8cf7bc32">released v2.7.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/province-city-china released v9.0.0 #59]]></title>
             <link>https://github.com/uiwjs/province-city-china/commit/af9d8d45c1f4f6fd413832203d08f698fee34567</link>
@@ -2037,14 +2053,6 @@
             <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjRiODU4MmU5MTQ2NDBlZGMzNjAyZjdkOTkwN2YzODIxYmY4NGJkYzc=</guid>
             <pubDate>Sun, 15 Mar 2026 10:11:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-modify-file-content released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-modify-file-content/commit/846621fb3d427134c437737454a055901d955147</link>
-            <guid>MDY6Q29tbWl0NTU3ODE0NjM0Ojg0NjYyMWZiM2Q0MjcxMzRjNDM3NzM3NDU0YTA1NTkwMWQ5NTUxNDc=</guid>
-            <pubDate>Sun, 15 Mar 2026 09:28:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-modify-file-content/commit/846621fb3d427134c437737454a055901d955147">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
