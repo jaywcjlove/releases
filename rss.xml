@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 13 Oct 2026 21:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 10:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/paste-quick released v2.6.0]]></title>
+            <link>https://github.com/jaywcjlove/paste-quick/commit/57fcf6e3d681d5c9c5e46fb36cf599298b6bb9eb</link>
+            <guid>MDY6Q29tbWl0ODY4MDk4NTA4OjU3ZmNmNmUzZDY4MWQ1YzljNWU0NmZiMzZjZjU5OTI5OGI2YmI5ZWI=</guid>
+            <pubDate>Wed, 14 Oct 2026 05:32:24 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/paste-quick/commit/57fcf6e3d681d5c9c5e46fb36cf599298b6bb9eb">released v2.6.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/focus-cursor released v3.5.0]]></title>
+            <link>https://github.com/jaywcjlove/focus-cursor/commit/388ab556a210ccfba2f89c9968814f9250c8e860</link>
+            <guid>MDY6Q29tbWl0OTUyMzYzNjEyOjM4OGFiNTU2YTIxMGNjZmJhMmY4OWM5OTY4ODE0ZjkyNTBjOGU4NjA=</guid>
+            <pubDate>Wed, 14 Oct 2026 00:19:11 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/focus-cursor/commit/388ab556a210ccfba2f89c9968814f9250c8e860">released v3.5.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/scap released v1.14.0]]></title>
             <link>https://github.com/jaywcjlove/scap/commit/d1c9de7838701cd8f434e18c355f0490229f6742</link>
@@ -1840,11 +1856,11 @@
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-markdown-preview released v5.2.0 #291]]></title>
-            <link>https://github.com/uiwjs/react-markdown-preview/commit/945313b2a08af7282d31233c0372df213acfbc03</link>
-            <guid>MDY6Q29tbWl0MjU2NzA0MjkxOjk0NTMxM2IyYTA4YWY3MjgyZDMxMjMzYzAzNzJkZjIxM2FjZmJjMDM=</guid>
-            <pubDate>Sat, 28 Mar 2026 14:35:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/945313b2a08af7282d31233c0372df213acfbc03">released v5.2.0 #291</a>]]></description>
+            <title><![CDATA[uiwjs/react-markdown-preview released v5.1.7]]></title>
+            <link>https://github.com/uiwjs/react-markdown-preview/commit/367c06a00161621c235abca99f6516e85bd2308a</link>
+            <guid>MDY6Q29tbWl0MjU2NzA0MjkxOjM2N2MwNmEwMDE2MTYyMWMyMzVhYmNhOTlmNjUxNmU4NWJkMjMwOGE=</guid>
+            <pubDate>Sat, 28 Mar 2026 07:25:57 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-markdown-preview/commit/367c06a00161621c235abca99f6516e85bd2308a">released v5.1.7</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1997,14 +2013,6 @@
             <guid>MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=</guid>
             <pubDate>Thu, 19 Mar 2026 03:31:44 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65">released v1.0.5</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/translater.js released v2.0.0]]></title>
-            <link>https://github.com/jaywcjlove/translater.js/commit/23c363be59d957e2f0cd7c0ea3b3ae184726895f</link>
-            <guid>MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==</guid>
-            <pubDate>Mon, 16 Mar 2026 07:46:31 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/translater.js/commit/23c363be59d957e2f0cd7c0ea3b3ae184726895f">released v2.0.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

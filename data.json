@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODY4MDk4NTA4OjU3ZmNmNmUzZDY4MWQ1YzljNWU0NmZiMzZjZjU5OTI5OGI2YmI5ZWI=",
+    "type": "commits",
+    "title": "released v2.6.0",
+    "repo": "jaywcjlove/paste-quick",
+    "sha": "57fcf6e3d681d5c9c5e46fb36cf599298b6bb9eb",
+    "url": "https://github.com/jaywcjlove/paste-quick/commit/57fcf6e3d681d5c9c5e46fb36cf599298b6bb9eb",
+    "created_at": "2026-10-14T13:32:24.000+08:00",
+    "state": "committer",
+    "version": "2.6.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0OTUyMzYzNjEyOjM4OGFiNTU2YTIxMGNjZmJhMmY4OWM5OTY4ODE0ZjkyNTBjOGU4NjA=",
+    "type": "commits",
+    "title": "released v3.5.0",
+    "repo": "jaywcjlove/focus-cursor",
+    "sha": "388ab556a210ccfba2f89c9968814f9250c8e860",
+    "url": "https://github.com/jaywcjlove/focus-cursor/commit/388ab556a210ccfba2f89c9968814f9250c8e860",
+    "created_at": "2026-10-14T08:19:11.000+08:00",
+    "state": "committer",
+    "version": "3.5.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpkMWM5ZGU3ODM4NzAxY2Q4ZjQzNGUxOGMzNTVmMDQ5MDIyOWY2NzQy",
     "type": "commits",
     "title": "released v1.14.0",
@@ -2508,15 +2530,15 @@
     "version": "2.1.6"
   },
   {
-    "id": "MDY6Q29tbWl0MjU2NzA0MjkxOjk0NTMxM2IyYTA4YWY3MjgyZDMxMjMzYzAzNzJkZjIxM2FjZmJjMDM=",
+    "id": "MDY6Q29tbWl0MjU2NzA0MjkxOjM2N2MwNmEwMDE2MTYyMWMyMzVhYmNhOTlmNjUxNmU4NWJkMjMwOGE=",
     "type": "commits",
-    "title": "released v5.2.0 #291",
+    "title": "released v5.1.7",
     "repo": "uiwjs/react-markdown-preview",
-    "sha": "945313b2a08af7282d31233c0372df213acfbc03",
-    "url": "https://github.com/uiwjs/react-markdown-preview/commit/945313b2a08af7282d31233c0372df213acfbc03",
-    "created_at": "2026-03-28T22:35:51.000+08:00",
+    "sha": "367c06a00161621c235abca99f6516e85bd2308a",
+    "url": "https://github.com/uiwjs/react-markdown-preview/commit/367c06a00161621c235abca99f6516e85bd2308a",
+    "created_at": "2026-03-28T15:25:57.000+08:00",
     "state": "committer",
-    "version": "5.2.0"
+    "version": "5.1.7"
   },
   {
     "id": "MDY6Q29tbWl0MTQyMTc0MzI2OjAyZGZiNzIxZWZiZTRkMTMwNzA2Mzg3NGEzYTJmZTg3MDk3YjMwMWU=",
@@ -2728,17 +2750,6 @@
     "version": "1.0.5"
   },
   {
-    "id": "MDY6Q29tbWl0NTQ2MjI5OTU6MjNjMzYzYmU1OWQ5NTdlMmYwY2Q3YzBlYTNiM2FlMTg0NzI2ODk1Zg==",
-    "type": "commits",
-    "title": "released v2.0.0",
-    "repo": "jaywcjlove/translater.js",
-    "sha": "23c363be59d957e2f0cd7c0ea3b3ae184726895f",
-    "url": "https://github.com/jaywcjlove/translater.js/commit/23c363be59d957e2f0cd7c0ea3b3ae184726895f",
-    "created_at": "2026-03-16T15:46:31.000+08:00",
-    "state": "committer",
-    "version": "2.0.0"
-  },
-  {
     "id": "MDY6Q29tbWl0MzY3MzMxMzE0OjhlMTIyZmIxNmIyNGRiNWE3MTk3MjNmZWYxMjI3MzUzZmMxNGFkN2Q=",
     "type": "commits",
     "title": "released v4.1.3",
@@ -2835,7 +2846,7 @@
     "created_at": "2025-08-22T05:56:49Z",
     "state": "merged",
     "number": 17804,
-    "stars": "52.4K"
+    "stars": "52.5K"
   },
   {
     "id": 3312304333,
