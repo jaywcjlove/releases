@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmE0M2QzOGRiMGEwZmM5ZjQ2YmUzODY3NDNhZjEwZWIyYmY0N2JmMzA=",
+    "type": "commits",
+    "title": "released v2.9.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "a43d38db0a0fc9f46be386743af10eb2bf47bf30",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/a43d38db0a0fc9f46be386743af10eb2bf47bf30",
+    "created_at": "2026-10-15T23:41:49.000+08:00",
+    "state": "committer",
+    "version": "2.9.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0NzY5NTMyNTg4OjU5ZjAyZGU4NjY5MTM1MDU2M2UxNGJlMWRkYWQ3ZjI2ZGRhZTBkOTY=",
+    "type": "commits",
+    "title": "released v2.2.0",
+    "repo": "jaywcjlove/time-passage",
+    "sha": "59f02de86691350563e14be1ddad7f26ddae0d96",
+    "url": "https://github.com/jaywcjlove/time-passage/commit/59f02de86691350563e14be1ddad7f26ddae0d96",
+    "created_at": "2026-10-15T21:48:05.000+08:00",
+    "state": "committer",
+    "version": "2.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmY1NzBhNjFlMGVkMjBiYTU5MWIzYzk5MzQ5NzUyN2FhOTJmMWJjNzY=",
     "type": "commits",
     "title": "released v4.12.0",
@@ -2726,17 +2748,6 @@
     "state": "merged",
     "number": 1147,
     "stars": "7.9K"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTEyNDA2NTM4OmNlMmQ2Njg4N2QzYzJjNGZlOWU1YjliYmNkNjFiYTc2MDVmNjc0NWU=",
-    "type": "commits",
-    "title": "released v1.0.4",
-    "repo": "jaywcjlove/colors-named-hex",
-    "sha": "ce2d66887d3c2c4fe9e5b9bbcd61ba7605f6745e",
-    "url": "https://github.com/jaywcjlove/colors-named-hex/commit/ce2d66887d3c2c4fe9e5b9bbcd61ba7605f6745e",
-    "created_at": "2026-03-19T11:42:50.000+08:00",
-    "state": "committer",
-    "version": "1.0.4"
   },
   {
     "id": "MDY6Q29tbWl0NTEyNDM5MjQyOmMxMzQyMjU0ZmVhN2Y4YzBkZDAxM2FlN2FkYTc3NmNmYTA5M2EzMDA=",
