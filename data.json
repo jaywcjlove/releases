@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTA4NjU2ODg2NTo4Mzg5MWRiMGE5NGM2ZGU2YTJlOThhNGQwNGEzMGE1ZTJjN2E5N2Mx",
+    "type": "commits",
+    "title": "released v1.4.0",
+    "repo": "jaywcjlove/keyzer",
+    "sha": "83891db0a94c6de6a2e98a4d04a30a5e2c7a97c1",
+    "url": "https://github.com/jaywcjlove/keyzer/commit/83891db0a94c6de6a2e98a4d04a30a5e2c7a97c1",
+    "created_at": "2026-10-16T07:44:49.000+08:00",
+    "state": "committer",
+    "version": "1.4.0"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OmE0M2QzOGRiMGEwZmM5ZjQ2YmUzODY3NDNhZjEwZWIyYmY0N2JmMzA=",
     "type": "commits",
     "title": "released v2.9.0",
@@ -2827,17 +2838,6 @@
     "version": "2.3.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzI2NjgxNjMyOjAwZWVjZGU0NGY0MGZlZWU0YjVjOTZmZTE2ZTVjZmRlYWI3NjMzNmE=",
-    "type": "commits",
-    "title": "released v2.4.0",
-    "repo": "jaywcjlove/changelog-generator",
-    "sha": "00eecde44f40feee4b5c96fe16e5cfdeab76336a",
-    "url": "https://github.com/jaywcjlove/changelog-generator/commit/00eecde44f40feee4b5c96fe16e5cfdeab76336a",
-    "created_at": "2026-03-15T17:20:43.000+08:00",
-    "state": "committer",
-    "version": "2.4.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=",
     "type": "commits",
     "title": "released v1.0.1",
@@ -2912,7 +2912,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "421"
+    "stars": "420"
   },
   {
     "id": 1838600360,

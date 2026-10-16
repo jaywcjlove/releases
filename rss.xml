@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 15 Oct 2026 20:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 10:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/keyzer released v1.4.0]]></title>
+            <link>https://github.com/jaywcjlove/keyzer/commit/83891db0a94c6de6a2e98a4d04a30a5e2c7a97c1</link>
+            <guid>MDY6Q29tbWl0MTA4NjU2ODg2NTo4Mzg5MWRiMGE5NGM2ZGU2YTJlOThhNGQwNGEzMGE1ZTJjN2E5N2Mx</guid>
+            <pubDate>Thu, 15 Oct 2026 23:44:49 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/keyzer/commit/83891db0a94c6de6a2e98a4d04a30a5e2c7a97c1">released v1.4.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v2.9.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/a43d38db0a0fc9f46be386743af10eb2bf47bf30</link>
@@ -2069,14 +2077,6 @@
             <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjRiODU4MmU5MTQ2NDBlZGMzNjAyZjdkOTkwN2YzODIxYmY4NGJkYzc=</guid>
             <pubDate>Sun, 15 Mar 2026 10:11:36 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/changelog-generator released v2.4.0]]></title>
-            <link>https://github.com/jaywcjlove/changelog-generator/commit/00eecde44f40feee4b5c96fe16e5cfdeab76336a</link>
-            <guid>MDY6Q29tbWl0MzI2NjgxNjMyOjAwZWVjZGU0NGY0MGZlZWU0YjVjOTZmZTE2ZTVjZmRlYWI3NjMzNmE=</guid>
-            <pubDate>Sun, 15 Mar 2026 09:20:43 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/changelog-generator/commit/00eecde44f40feee4b5c96fe16e5cfdeab76336a">released v2.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
