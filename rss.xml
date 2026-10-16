@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 16 Oct 2026 10:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 20:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-amap released v7.1.16 #400]]></title>
+            <link>https://github.com/uiwjs/react-amap/commit/b9d0accfbce71ab9579d385d0fae63a81208eb23</link>
+            <guid>MDY6Q29tbWl0Mjk3NDM4Nzc0OmI5ZDBhY2NmYmNlNzFhYjk1NzlkMzg1ZDBmYWU2M2E4MTIwOGViMjM=</guid>
+            <pubDate>Fri, 16 Oct 2026 19:11:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-amap/commit/b9d0accfbce71ab9579d385d0fae63a81208eb23">released v7.1.16 #400</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/dark-mode released v1.1.1]]></title>
+            <link>https://github.com/jaywcjlove/dark-mode/commit/aaf8faae2e324ccfb79647801d5b64a19b5641ff</link>
+            <guid>MDY6Q29tbWl0NDY5ODYxMTc2OmFhZjhmYWFlMmUzMjRjY2ZiNzk2NDc4MDFkNWI2NGExOWI1NjQxZmY=</guid>
+            <pubDate>Fri, 16 Oct 2026 18:52:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/dark-mode/commit/aaf8faae2e324ccfb79647801d5b64a19b5641ff">released v1.1.1</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/keyzer released v1.4.0]]></title>
             <link>https://github.com/jaywcjlove/keyzer/commit/83891db0a94c6de6a2e98a4d04a30a5e2c7a97c1</link>
@@ -2037,22 +2053,6 @@
             <guid>MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=</guid>
             <pubDate>Thu, 19 Mar 2026 03:31:44 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65">released v1.0.5</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-contributors released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed</link>
-            <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjFiNzRhNTNkOTE5OTViYTFiOTEwYTk5NzkwOGJkODZlYzQ4NjlmZWQ=</guid>
-            <pubDate>Sun, 15 Mar 2026 13:47:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed">released v2.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-folder-tree released v1.3.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-folder-tree/commit/e0a53e98a23389b0019777ed2eb9e66e88817b2b</link>
-            <guid>MDY6Q29tbWl0ODM0Nzg3ODUxOmUwYTUzZTk4YTIzMzg5YjAwMTk3NzdlZDJlYjllNjZlODg4MTdiMmI=</guid>
-            <pubDate>Sun, 15 Mar 2026 13:10:49 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-folder-tree/commit/e0a53e98a23389b0019777ed2eb9e66e88817b2b">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
