@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 18 Oct 2026 09:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 19:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2056,14 +2056,6 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/github-action-contributors released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed</link>
-            <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjFiNzRhNTNkOTE5OTViYTFiOTEwYTk5NzkwOGJkODZlYzQ4NjlmZWQ=</guid>
-            <pubDate>Sun, 15 Mar 2026 13:47:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed">released v2.1.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/action-ejs released v2.1.0]]></title>
             <link>https://github.com/jaywcjlove/action-ejs/commit/c3387e1f3dd17e6215ce76104b228b7decfdd7de</link>
             <guid>MDY6Q29tbWl0NDcwODA4NDY0OmMzMzg3ZTFmM2RkMTdlNjIxNWNlNzYxMDRiMjI4YjdkZWNmZGQ3ZGU=</guid>
@@ -2077,6 +2069,14 @@
             <guid>MDY6Q29tbWl0NTA4MjkyNzE2OjgwNDIyYWE2ZmY5MmQ5NDY5NGFmY2VjMWY5ZGRkYTg0ZjQxZWQxNjA=</guid>
             <pubDate>Sun, 15 Mar 2026 11:38:53 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-package/commit/80422aa6ff92d94694afcec1f9ddda84f41ed160">released v2.1.0</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/create-tag-action released v2.3.0]]></title>
+            <link>https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7</link>
+            <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjRiODU4MmU5MTQ2NDBlZGMzNjAyZjdkOTkwN2YzODIxYmY4NGJkYzc=</guid>
+            <pubDate>Sun, 15 Mar 2026 10:11:36 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7">released v2.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
