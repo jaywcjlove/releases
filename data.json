@@ -2805,6 +2805,17 @@
     "version": "1.0.5"
   },
   {
+    "id": "MDY6Q29tbWl0NDUyMTM2NDEyOjFiNzRhNTNkOTE5OTViYTFiOTEwYTk5NzkwOGJkODZlYzQ4NjlmZWQ=",
+    "type": "commits",
+    "title": "released v2.1.0",
+    "repo": "jaywcjlove/github-action-contributors",
+    "sha": "1b74a53d91995ba1b910a997908bd86ec4869fed",
+    "url": "https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed",
+    "created_at": "2026-03-15T21:47:08.000+08:00",
+    "state": "committer",
+    "version": "2.1.0"
+  },
+  {
     "id": "MDY6Q29tbWl0NDcwODA4NDY0OmMzMzg3ZTFmM2RkMTdlNjIxNWNlNzYxMDRiMjI4YjdkZWNmZGQ3ZGU=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2825,17 +2836,6 @@
     "created_at": "2026-03-15T19:38:53.000+08:00",
     "state": "committer",
     "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzI2OTUzNjE2OjRiODU4MmU5MTQ2NDBlZGMzNjAyZjdkOTkwN2YzODIxYmY4NGJkYzc=",
-    "type": "commits",
-    "title": "released v2.3.0",
-    "repo": "jaywcjlove/create-tag-action",
-    "sha": "4b8582e914640edc3602f7d9907f3821bf84bdc7",
-    "url": "https://github.com/jaywcjlove/create-tag-action/commit/4b8582e914640edc3602f7d9907f3821bf84bdc7",
-    "created_at": "2026-03-15T18:11:36.000+08:00",
-    "state": "committer",
-    "version": "2.3.0"
   },
   {
     "id": "MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=",
