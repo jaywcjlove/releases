@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 20 Oct 2026 10:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 20:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2056,11 +2056,11 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/github-action-contributors released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed</link>
-            <guid>MDY6Q29tbWl0NDUyMTM2NDEyOjFiNzRhNTNkOTE5OTViYTFiOTEwYTk5NzkwOGJkODZlYzQ4NjlmZWQ=</guid>
-            <pubDate>Sun, 15 Mar 2026 13:47:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-contributors/commit/1b74a53d91995ba1b910a997908bd86ec4869fed">released v2.1.0</a>]]></description>
+            <title><![CDATA[jaywcjlove/github-action-folder-tree released v1.3.0]]></title>
+            <link>https://github.com/jaywcjlove/github-action-folder-tree/commit/e0a53e98a23389b0019777ed2eb9e66e88817b2b</link>
+            <guid>MDY6Q29tbWl0ODM0Nzg3ODUxOmUwYTUzZTk4YTIzMzg5YjAwMTk3NzdlZDJlYjllNjZlODg4MTdiMmI=</guid>
+            <pubDate>Sun, 15 Mar 2026 13:10:49 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-folder-tree/commit/e0a53e98a23389b0019777ed2eb9e66e88817b2b">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
