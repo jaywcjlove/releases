@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 20 Oct 2026 20:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 10:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.1.3]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/35bd36df37a12b218320935021400febe14bdae5</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjM1YmQzNmRmMzdhMTJiMjE4MzIwOTM1MDIxNDAwZmViZTE0YmRhZTU=</guid>
+            <pubDate>Tue, 20 Oct 2026 21:19:25 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/35bd36df37a12b218320935021400febe14bdae5">released v4.1.3</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-amap released v7.1.16 #400]]></title>
             <link>https://github.com/uiwjs/react-amap/commit/b9d0accfbce71ab9579d385d0fae63a81208eb23</link>
@@ -2053,14 +2061,6 @@
             <guid>MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=</guid>
             <pubDate>Thu, 19 Mar 2026 03:31:44 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65">released v1.0.5</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-folder-tree released v1.3.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-folder-tree/commit/e0a53e98a23389b0019777ed2eb9e66e88817b2b</link>
-            <guid>MDY6Q29tbWl0ODM0Nzg3ODUxOmUwYTUzZTk4YTIzMzg5YjAwMTk3NzdlZDJlYjllNjZlODg4MTdiMmI=</guid>
-            <pubDate>Sun, 15 Mar 2026 13:10:49 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-folder-tree/commit/e0a53e98a23389b0019777ed2eb9e66e88817b2b">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
