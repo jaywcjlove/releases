@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 21 Oct 2026 20:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 10:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.10.22]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/ed5c96594f8c5a156d8f0efbf1a521f1ae8c5962</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmVkNWM5NjU5NGY4YzVhMTU2ZDhmMGVmYmYxYTUyMWYxYWU4YzU5NjI=</guid>
+            <pubDate>Thu, 22 Oct 2026 04:00:32 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/ed5c96594f8c5a156d8f0efbf1a521f1ae8c5962">chore(release): bump version to 26.10.22</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-md-editor released v4.1.3]]></title>
             <link>https://github.com/uiwjs/react-md-editor/commit/35bd36df37a12b218320935021400febe14bdae5</link>
@@ -2053,14 +2061,6 @@
             <guid>MDY6Q29tbWl0NTEyNDM5MjQyOmMxMzQyMjU0ZmVhN2Y4YzBkZDAxM2FlN2FkYTc3NmNmYTA5M2EzMDA=</guid>
             <pubDate>Thu, 19 Mar 2026 03:34:35 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named-decimal/commit/c1342254fea7f8c0dd013ae7ada776cfa093a300">released v1.0.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/colors-named released v1.0.5]]></title>
-            <link>https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65</link>
-            <guid>MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=</guid>
-            <pubDate>Thu, 19 Mar 2026 03:31:44 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65">released v1.0.5</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
