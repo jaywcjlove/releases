@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 22 Oct 2026 20:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 10:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2064,6 +2064,14 @@
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[jaywcjlove/colors-named released v1.0.5]]></title>
+            <link>https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65</link>
+            <guid>MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=</guid>
+            <pubDate>Thu, 19 Mar 2026 03:31:44 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65">released v1.0.5</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[jaywcjlove/action-ejs released v2.1.0]]></title>
             <link>https://github.com/jaywcjlove/action-ejs/commit/c3387e1f3dd17e6215ce76104b228b7decfdd7de</link>
             <guid>MDY6Q29tbWl0NDcwODA4NDY0OmMzMzg3ZTFmM2RkMTdlNjIxNWNlNzYxMDRiMjI4YjdkZWNmZGQ3ZGU=</guid>
@@ -2078,14 +2086,6 @@
             <pubDate>Sun, 15 Mar 2026 11:38:53 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-package/commit/80422aa6ff92d94694afcec1f9ddda84f41ed160">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-keywords released v1.0.1]]></title>
-            <link>https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d</link>
-            <guid>MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=</guid>
-            <pubDate>Sun, 15 Mar 2026 01:33:24 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d">released v1.0.1</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[prettier/prettier doc: update related-projects.md]]></title>

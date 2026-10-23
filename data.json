@@ -2816,6 +2816,17 @@
     "version": "1.0.4"
   },
   {
+    "id": "MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=",
+    "type": "commits",
+    "title": "released v1.0.5",
+    "repo": "jaywcjlove/colors-named",
+    "sha": "7abe70bfa4323da64ccd102891ef873df087ce65",
+    "url": "https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65",
+    "created_at": "2026-03-19T11:31:44.000+08:00",
+    "state": "committer",
+    "version": "1.0.5"
+  },
+  {
     "id": "MDY6Q29tbWl0NDcwODA4NDY0OmMzMzg3ZTFmM2RkMTdlNjIxNWNlNzYxMDRiMjI4YjdkZWNmZGQ3ZGU=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2836,17 +2847,6 @@
     "created_at": "2026-03-15T19:38:53.000+08:00",
     "state": "committer",
     "version": "2.1.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NTIwNDk1MzM1OjU2MDExNTNkZTYyYjhhZDZjOGVhY2FkNjUxNDU1NDk0YjM1NGVmNWQ=",
-    "type": "commits",
-    "title": "released v1.0.1",
-    "repo": "uiwjs/react-keywords",
-    "sha": "5601153de62b8ad6c8eacad651455494b354ef5d",
-    "url": "https://github.com/uiwjs/react-keywords/commit/5601153de62b8ad6c8eacad651455494b354ef5d",
-    "created_at": "2026-03-15T09:33:24.000+08:00",
-    "state": "committer",
-    "version": "1.0.1"
   },
   {
     "id": 3344245728,
@@ -2912,7 +2912,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "420"
+    "stars": "421"
   },
   {
     "id": 1838600360,
