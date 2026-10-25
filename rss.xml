@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 25 Oct 2026 09:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 19:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.1.4 #714]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/b769cdd454349564654b627e3cffed40813960c1</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OmI3NjljZGQ0NTQzNDk1NjQ2NTRiNjI3ZTNjZmZlZDQwODEzOTYwYzE=</guid>
+            <pubDate>Sun, 25 Oct 2026 12:48:01 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/b769cdd454349564654b627e3cffed40813960c1">released v4.1.4 #714</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/homebrew-tap released v0.2.0 (spa)]]></title>
             <link>https://github.com/jaywcjlove/homebrew-tap/commit/21036fdcbf34477e3afafa9e124bb61ec7bb8b04</link>
@@ -2077,14 +2085,6 @@
             <guid>MDY6Q29tbWl0NTEyNDM5MjQyOmMxMzQyMjU0ZmVhN2Y4YzBkZDAxM2FlN2FkYTc3NmNmYTA5M2EzMDA=</guid>
             <pubDate>Thu, 19 Mar 2026 03:34:35 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/colors-named-decimal/commit/c1342254fea7f8c0dd013ae7ada776cfa093a300">released v1.0.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-action-package released v2.1.0]]></title>
-            <link>https://github.com/jaywcjlove/github-action-package/commit/80422aa6ff92d94694afcec1f9ddda84f41ed160</link>
-            <guid>MDY6Q29tbWl0NTA4MjkyNzE2OjgwNDIyYWE2ZmY5MmQ5NDY5NGFmY2VjMWY5ZGRkYTg0ZjQxZWQxNjA=</guid>
-            <pubDate>Sun, 15 Mar 2026 11:38:53 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-action-package/commit/80422aa6ff92d94694afcec1f9ddda84f41ed160">released v2.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
