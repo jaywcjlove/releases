@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoyMTAzNmZkY2JmMzQ0NzdlM2FmYWZhOWUxMjRiYjYxZWM3YmI4YjA0",
+    "type": "commits",
+    "title": "released v0.2.0 (spa)",
+    "repo": "jaywcjlove/homebrew-tap",
+    "sha": "21036fdcbf34477e3afafa9e124bb61ec7bb8b04",
+    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/21036fdcbf34477e3afafa9e124bb61ec7bb8b04",
+    "created_at": "2026-10-25T14:46:30.000+08:00",
+    "state": "committer",
+    "version": "0.2.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTI2NTQzOTkzOToyNDcwMTI1ZDEwZDUzYzk3NDU5Nzk3M2EyM2U1OTk1NWUyOGU0YjBj",
+    "type": "commits",
+    "title": "released v0.2.0",
+    "repo": "jaywcjlove/spa",
+    "sha": "2470125d10d53c974597973a23e59955e28e4b0c",
+    "url": "https://github.com/jaywcjlove/spa/commit/2470125d10d53c974597973a23e59955e28e4b0c",
+    "created_at": "2026-10-25T13:03:13.000+08:00",
+    "state": "committer",
+    "version": "0.2.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmVkNWM5NjU5NGY4YzVhMTU2ZDhmMGVmYmYxYTUyMWYxYWU4YzU5NjI=",
     "type": "commits",
     "title": "chore(release): bump version to 26.10.22",
@@ -2816,28 +2838,6 @@
     "version": "1.0.4"
   },
   {
-    "id": "MDY6Q29tbWl0NTEyMzk0MDIyOjdhYmU3MGJmYTQzMjNkYTY0Y2NkMTAyODkxZWY4NzNkZjA4N2NlNjU=",
-    "type": "commits",
-    "title": "released v1.0.5",
-    "repo": "jaywcjlove/colors-named",
-    "sha": "7abe70bfa4323da64ccd102891ef873df087ce65",
-    "url": "https://github.com/jaywcjlove/colors-named/commit/7abe70bfa4323da64ccd102891ef873df087ce65",
-    "created_at": "2026-03-19T11:31:44.000+08:00",
-    "state": "committer",
-    "version": "1.0.5"
-  },
-  {
-    "id": "MDY6Q29tbWl0NDcwODA4NDY0OmMzMzg3ZTFmM2RkMTdlNjIxNWNlNzYxMDRiMjI4YjdkZWNmZGQ3ZGU=",
-    "type": "commits",
-    "title": "released v2.1.0",
-    "repo": "jaywcjlove/action-ejs",
-    "sha": "c3387e1f3dd17e6215ce76104b228b7decfdd7de",
-    "url": "https://github.com/jaywcjlove/action-ejs/commit/c3387e1f3dd17e6215ce76104b228b7decfdd7de",
-    "created_at": "2026-03-15T21:01:37.000+08:00",
-    "state": "committer",
-    "version": "2.1.0"
-  },
-  {
     "id": "MDY6Q29tbWl0NTA4MjkyNzE2OjgwNDIyYWE2ZmY5MmQ5NDY5NGFmY2VjMWY5ZGRkYTg0ZjQxZWQxNjA=",
     "type": "commits",
     "title": "released v2.1.0",
@@ -2868,7 +2868,7 @@
     "created_at": "2025-08-12T02:41:45Z",
     "state": "merged",
     "number": 79,
-    "stars": "39"
+    "stars": "38"
   },
   {
     "id": 3172005346,
@@ -2879,7 +2879,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "511"
+    "stars": "512"
   },
   {
     "id": 2526870275,
