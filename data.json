@@ -1,14 +1,36 @@
 [
   {
-    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjNjMTg5NTRhYzI4OGE2ZGI1ZmFiMGMzZGFhZGFlYTg1ODAyZDk2Njg=",
+    "id": "MDY6Q29tbWl0NjM1MzkwNTU6NWQ0Y2YxZWYyOGFkMjRjNDRjMzU3ZWM5YzcyNjI1MThmMjk5NmQwZQ==",
     "type": "commits",
-    "title": "released v4.1.5 (#715)",
-    "repo": "uiwjs/react-md-editor",
-    "sha": "3c18954ac288a6db5fab0c3daadaea85802d9668",
-    "url": "https://github.com/uiwjs/react-md-editor/commit/3c18954ac288a6db5fab0c3daadaea85802d9668",
-    "created_at": "2026-10-26T07:06:36.000+08:00",
+    "title": "Add Anthora to photo and media tools in four languages (#2802)\n\n* Add Anthora to photo and media tools in four languages\n\n* Update Anthora listing for free Anders release\n\n---------\n\nCo-authored-by: 小弟调调 <kennyiseeyou@gmail.com>",
+    "repo": "jaywcjlove/awesome-mac",
+    "sha": "5d4cf1ef28ad24c44c357ec9c7262518f2996d0e",
+    "url": "https://github.com/jaywcjlove/awesome-mac/commit/5d4cf1ef28ad24c44c357ec9c7262518f2996d0e",
+    "created_at": "2026-10-27T13:19:29.000+08:00",
     "state": "committer",
-    "version": "4.1.5"
+    "version": ""
+  },
+  {
+    "id": "MDY6Q29tbWl0NDIzODEwNjc6NTZhNTNjNGIwMDc5MGFjNGY3OTIyMTI0NjJhMDI4MDdjNjMyMGVmMQ==",
+    "type": "commits",
+    "title": "released v1.34.5",
+    "repo": "jaywcjlove/idoc",
+    "sha": "56a53c4b00790ac4f792212462a02807c6320ef1",
+    "url": "https://github.com/jaywcjlove/idoc/commit/56a53c4b00790ac4f792212462a02807c6320ef1",
+    "created_at": "2026-10-27T12:50:15.000+08:00",
+    "state": "committer",
+    "version": "1.34.5"
+  },
+  {
+    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjQ4MDk4YmIwODhkMjIyOTFhMjRhODRjZmI5OTExY2QwYjViNzU1ZmM=",
+    "type": "commits",
+    "title": "released v4.1.6 (#717) (#716)",
+    "repo": "uiwjs/react-md-editor",
+    "sha": "48098bb088d22291a24a84cfb9911cd0b5b755fc",
+    "url": "https://github.com/uiwjs/react-md-editor/commit/48098bb088d22291a24a84cfb9911cd0b5b755fc",
+    "created_at": "2026-10-27T09:04:57.000+08:00",
+    "state": "committer",
+    "version": "4.1.6"
   },
   {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDoyMTAzNmZkY2JmMzQ0NzdlM2FmYWZhOWUxMjRiYjYxZWM3YmI4YjA0",
@@ -2673,17 +2695,6 @@
     "version": "3.3.8"
   },
   {
-    "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmJkNDEzY2M1ZTcxNGMwYzczMzFiMjQyZjI4NmQwNmZhNGYxODk5YjQ=",
-    "type": "commits",
-    "title": "released v4.25.9 #766",
-    "repo": "uiwjs/react-codemirror",
-    "sha": "bd413cc5e714c0c7331b242f286d06fa4f1899b4",
-    "url": "https://github.com/uiwjs/react-codemirror/commit/bd413cc5e714c0c7331b242f286d06fa4f1899b4",
-    "created_at": "2026-03-25T23:59:53.000+08:00",
-    "state": "committer",
-    "version": "4.25.9"
-  },
-  {
     "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpmNzc1MzZhNTliYjM4N2RhY2YzNWZjMjIwOWJmNmIzMzE0ZDIzMDkz",
     "type": "commits",
     "title": "released v1.1.0",
@@ -2868,7 +2879,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "512"
+    "stars": "513"
   },
   {
     "id": 2526870275,
@@ -2901,7 +2912,7 @@
     "created_at": "2023-09-15T23:56:28Z",
     "state": "merged",
     "number": 14,
-    "stars": "422"
+    "stars": "423"
   },
   {
     "id": 1838600360,
