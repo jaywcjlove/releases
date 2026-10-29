@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 28 Oct 2026 21:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 11:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.10.29]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/65812a1969cfbdcecfc877eec62cc7166ce33dea</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjY1ODEyYTE5NjljZmJkY2VjZmM4NzdlZWM2MmNjNzE2NmNlMzNkZWE=</guid>
+            <pubDate>Thu, 29 Oct 2026 05:07:19 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/65812a1969cfbdcecfc877eec62cc7166ce33dea">chore(release): bump version to 26.10.29</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/awesome-mac Add Anthora to photo and media tools in four languages (#2802)
 
@@ -1989,14 +1997,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0MTQyMTc0MzI2OjAyZGZiNzIxZWZiZTRkMTMwNzA2Mzg3NGEzYTJmZTg3MDk3YjMwMWU=</guid>
             <pubDate>Fri, 27 Mar 2026 05:26:18 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/code-example/commit/02dfb721efbe4d1307063874a3a2fe87097b301e">released v3.3.8</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/scap released v1.1.0]]></title>
-            <link>https://github.com/jaywcjlove/scap/commit/f77536a59bb387dacf35fc2209bf6b3314d23093</link>
-            <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzpmNzc1MzZhNTliYjM4N2RhY2YzNWZjMjIwOWJmNmIzMzE0ZDIzMDkz</guid>
-            <pubDate>Wed, 25 Mar 2026 03:29:31 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/f77536a59bb387dacf35fc2209bf6b3314d23093">released v1.1.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>

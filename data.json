@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjY1ODEyYTE5NjljZmJkY2VjZmM4NzdlZWM2MmNjNzE2NmNlMzNkZWE=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.10.29",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "65812a1969cfbdcecfc877eec62cc7166ce33dea",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/65812a1969cfbdcecfc877eec62cc7166ce33dea",
+    "created_at": "2026-10-29T05:07:19.000Z",
+    "state": "committer",
+    "version": "26.10.29"
+  },
+  {
     "id": "MDY6Q29tbWl0NjM1MzkwNTU6NWQ0Y2YxZWYyOGFkMjRjNDRjMzU3ZWM5YzcyNjI1MThmMjk5NmQwZQ==",
     "type": "commits",
     "title": "Add Anthora to photo and media tools in four languages (#2802)\n\n* Add Anthora to photo and media tools in four languages\n\n* Update Anthora listing for free Anders release\n\n---------\n\nCo-authored-by: 小弟调调 <kennyiseeyou@gmail.com>",
@@ -2695,17 +2706,6 @@
     "version": "3.3.8"
   },
   {
-    "id": "MDY6Q29tbWl0MTE1MzgxNjkyNzpmNzc1MzZhNTliYjM4N2RhY2YzNWZjMjIwOWJmNmIzMzE0ZDIzMDkz",
-    "type": "commits",
-    "title": "released v1.1.0",
-    "repo": "jaywcjlove/scap",
-    "sha": "f77536a59bb387dacf35fc2209bf6b3314d23093",
-    "url": "https://github.com/jaywcjlove/scap/commit/f77536a59bb387dacf35fc2209bf6b3314d23093",
-    "created_at": "2026-03-25T11:29:31.000+08:00",
-    "state": "committer",
-    "version": "1.1.0"
-  },
-  {
     "id": 4121004782,
     "type": "Organization",
     "repo": "rorkai/App-Store-Connect-CLI",
@@ -2879,7 +2879,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "513"
+    "stars": "514"
   },
   {
     "id": 2526870275,
