@@ -1,5 +1,38 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NDFkMzE3MmIxMGEyNzE4Y2ZhYzU3ZTEwNGUyNzlkMTFlNTQ4NWU1Yw==",
+    "type": "commits",
+    "title": "released v4.0.10 (#551)",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "41d3172b10a2718cfac57e104e279d11e5485e5c",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/41d3172b10a2718cfac57e104e279d11e5485e5c",
+    "created_at": "2026-11-01T17:25:03.000+08:00",
+    "state": "committer",
+    "version": "4.0.10"
+  },
+  {
+    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmJiNTNlMDllMWFjNDljN2VmYTk4ZDYwNDJlOTQyMzBkYTgzMzBmMDE=",
+    "type": "commits",
+    "title": "released v4.2.1 (#551)",
+    "repo": "uiwjs/react-md-editor",
+    "sha": "bb53e09e1ac49c7efa98d6042e94230da8330f01",
+    "url": "https://github.com/uiwjs/react-md-editor/commit/bb53e09e1ac49c7efa98d6042e94230da8330f01",
+    "created_at": "2026-11-01T17:22:24.000+08:00",
+    "state": "committer",
+    "version": "4.2.1"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjJkNDViNjgxZjNlMGMwOThiY2M1NWU2Zjc4NWIxZmI5NTQ5ODU4ZjE=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.11.1",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "2d45b681f3e0c098bcc55e6f785b1fb9549858f1",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/2d45b681f3e0c098bcc55e6f785b1fb9549858f1",
+    "created_at": "2026-11-01T05:09:20.000Z",
+    "state": "committer",
+    "version": "26.11.1"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmNhMTRmZjExZTM0ZGI3N2M5NWNkYjllNDk0MTk3MTdlYjY2YjI0OWU=",
     "type": "commits",
     "title": "released v4.2.0 (#722)",
@@ -2662,28 +2695,6 @@
     "version": ""
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmQ2OTU5Zjk1ZTk3NDZiZTc4ZDQ4YjA2MWIwNGQxMjM1NzJiN2FhOGY=",
-    "type": "commits",
-    "title": "released v2.10.1 #202",
-    "repo": "uiwjs/react-color",
-    "sha": "d6959f95e9746be78d48b061b04d123572b7aa8f",
-    "url": "https://github.com/uiwjs/react-color/commit/d6959f95e9746be78d48b061b04d123572b7aa8f",
-    "created_at": "2026-04-08T14:39:43.000+08:00",
-    "state": "committer",
-    "version": "2.10.1"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo1YWY0OTZmM2VmNjdlODRkNDc0YTNhNzk3NDI3NDEwMTllZTY1ZjYx",
-    "type": "commits",
-    "title": "chore(appi18n): released v1.4.0",
-    "repo": "jaywcjlove/homebrew-tap",
-    "sha": "5af496f3ef67e84d474a3a79742741019ee65f61",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/5af496f3ef67e84d474a3a79742741019ee65f61",
-    "created_at": "2026-04-07T22:07:05.000+08:00",
-    "state": "committer",
-    "version": "1.4.0"
-  },
-  {
     "id": 4121004782,
     "type": "Organization",
     "repo": "rorkai/App-Store-Connect-CLI",
@@ -2857,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "516"
+    "stars": "517"
   },
   {
     "id": 2526870275,
