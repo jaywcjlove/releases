@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sun, 01 Nov 2026 21:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 13:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.12 #553]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/626b5b9ac17408904ebf8376fb344577fb9c9adb</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NjI2YjViOWFjMTc0MDg5MDRlYmY4Mzc2ZmIzNDQ1NzdmYjljOWFkYg==</guid>
+            <pubDate>Mon, 02 Nov 2026 07:10:25 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/626b5b9ac17408904ebf8376fb344577fb9c9adb">released v4.0.12 #553</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-md-editor released v4.2.2]]></title>
             <link>https://github.com/uiwjs/react-md-editor/commit/6ceb2a8597fae7c68e962b64714612e91ef826d0</link>
@@ -1973,14 +1981,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDpmMzgwYTdlNzU5YTUyZTA3NjRhNWVjZDU5OTA5ZGRiYTU0NDA4Mjc3</guid>
             <pubDate>Sat, 11 Apr 2026 05:13:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/f380a7e759a52e0764a5ecd59909ddba54408277">released v1.3.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/scap released v1.2.0]]></title>
-            <link>https://github.com/jaywcjlove/scap/commit/89f976e71e8542eb14c7fab80f80b1a8bfcd5853</link>
-            <guid>MDY6Q29tbWl0MTE1MzgxNjkyNzo4OWY5NzZlNzFlODU0MmViMTRjN2ZhYjgwZjgwYjFhOGJmY2Q1ODUz</guid>
-            <pubDate>Fri, 10 Apr 2026 01:03:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/scap/commit/89f976e71e8542eb14c7fab80f80b1a8bfcd5853">released v1.2.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
