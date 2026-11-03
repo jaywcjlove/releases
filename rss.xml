@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 03 Nov 2026 12:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 22:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.2.3]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/fcbdb0444a0e2ad77f37ea5d1d319c94a5181674</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OmZjYmRiMDQ0NGEwZTJhZDc3ZjM3ZWE1ZDFkMzE5Yzk0YTUxODE2NzQ=</guid>
+            <pubDate>Tue, 03 Nov 2026 15:07:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/fcbdb0444a0e2ad77f37ea5d1d319c94a5181674">released v4.2.3</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.1.0 (#554) (#555)]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/f6e886640b8333c2378a9b1b8a4f064ba6d7c0b7</link>
@@ -2009,14 +2017,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDpmMzgwYTdlNzU5YTUyZTA3NjRhNWVjZDU5OTA5ZGRiYTU0NDA4Mjc3</guid>
             <pubDate>Sat, 11 Apr 2026 05:13:16 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/f380a7e759a52e0764a5ecd59909ddba54408277">released v1.3.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/app-i18n released v1.5.0]]></title>
-            <link>https://github.com/jaywcjlove/app-i18n/commit/7147ee5874eb565c428ccedb862cd6d6b0f0dd86</link>
-            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3MTQ3ZWU1ODc0ZWI1NjVjNDI4Y2NlZGI4NjJjZDZkNmIwZjBkZDg2</guid>
-            <pubDate>Thu, 09 Apr 2026 02:53:41 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7147ee5874eb565c428ccedb862cd6d6b0f0dd86">released v1.5.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
