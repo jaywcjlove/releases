@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 02 Nov 2026 23:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 12:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,34 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.1.0 (#554) (#555)]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/f6e886640b8333c2378a9b1b8a4f064ba6d7c0b7</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ZjZlODg2NjQwYjgzMzNjMjM3OGE5YjFiOGE0ZjA2NGJhNmQ3YzBiNw==</guid>
+            <pubDate>Tue, 03 Nov 2026 12:08:05 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/f6e886640b8333c2378a9b1b8a4f064ba6d7c0b7">released v4.1.0 (#554) (#555)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor ci: run tests on every pull request]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/pull/728</link>
+            <guid>6181866996</guid>
+            <pubDate>Tue, 03 Nov 2026 11:42:46 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/pull/728">ci: run tests on every pull request</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/awesome-mac Update MenuBarMijia minimum macOS version to 14+ (#4164)
+
+The app lowered its deployment target to macOS 14 in jryang1997/MenuBarMijia@53d8a5d, and the release bundle's LSMinimumSystemVersion is 14.0. The original addition (#3813) was written when the project still required macOS 26, so the English, Chinese, Japanese, and Korean entries are stale.]]></title>
+            <link>https://github.com/jaywcjlove/awesome-mac/commit/9246c7cdabd093064169669ef2b618e47ed34ea4</link>
+            <guid>MDY6Q29tbWl0NjM1MzkwNTU6OTI0NmM3Y2RhYmQwOTMwNjQxNjk2NjllZjJiNjE4ZTQ3ZWQzNGVhNA==</guid>
+            <pubDate>Tue, 03 Nov 2026 04:45:42 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/awesome-mac/commit/9246c7cdabd093064169669ef2b618e47ed34ea4">Update MenuBarMijia minimum macOS version to 14+ (#4164)
+
+The app lowered its deployment target to macOS 14 in jryang1997/MenuBarMijia@53d8a5d, and the release bundle's LSMinimumSystemVersion is 14.0. The original addition (#3813) was written when the project still required macOS 26, so the English, Chinese, Japanese, and Korean entries are stale.</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.12 #553]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/626b5b9ac17408904ebf8376fb344577fb9c9adb</link>
@@ -1984,11 +2012,11 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/app-i18n Verify Linux release artifact before upload]]></title>
-            <link>https://github.com/jaywcjlove/app-i18n/commit/45cb36f4ccdd8f7e85764e2cf6f5e60be5da9f0d</link>
-            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo0NWNiMzZmNGNjZGQ4ZjdlODU3NjRlMmNmNmY1ZTYwYmU1ZGE5ZjBk</guid>
-            <pubDate>Thu, 09 Apr 2026 03:51:06 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/45cb36f4ccdd8f7e85764e2cf6f5e60be5da9f0d">Verify Linux release artifact before upload</a>]]></description>
+            <title><![CDATA[jaywcjlove/app-i18n released v1.5.0]]></title>
+            <link>https://github.com/jaywcjlove/app-i18n/commit/7147ee5874eb565c428ccedb862cd6d6b0f0dd86</link>
+            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3MTQ3ZWU1ODc0ZWI1NjVjNDI4Y2NlZGI4NjJjZDZkNmIwZjBkZDg2</guid>
+            <pubDate>Thu, 09 Apr 2026 02:53:41 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7147ee5874eb565c428ccedb862cd6d6b0f0dd86">released v1.5.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2317,14 +2345,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>824160663</guid>
             <pubDate>Mon, 08 Mar 2021 04:49:26 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/pull/117">feat: Optimize the code and support shortcut keys.  #41 #116</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/npm-unpkg Create LICENSE]]></title>
-            <link>https://github.com/uiwjs/npm-unpkg/pull/20</link>
-            <guid>763899952</guid>
-            <pubDate>Sat, 12 Dec 2020 14:35:45 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/npm-unpkg/pull/20">Create LICENSE</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
     </channel>
