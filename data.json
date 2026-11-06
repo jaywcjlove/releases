@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NTA3MGY3OTUyZGI2MDU3MDM3MWZiNzIxNjNmNWFlZGFmOTVlNjViYg==",
+    "type": "commits",
+    "title": "released v4.1.2 (#558)",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "5070f7952db60570371fb72163f5aedaf95e65bb",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/5070f7952db60570371fb72163f5aedaf95e65bb",
+    "created_at": "2026-11-06T11:19:29.000+08:00",
+    "state": "committer",
+    "version": "4.1.2"
+  },
+  {
     "id": "MDY6Q29tbWl0NzY2MjI5OTc1OmJlYTY0Y2FhZTIxMzhiMWRmM2RlNDdhZDZkZGI5NjNjNGIzNGQ0NzE=",
     "type": "commits",
     "title": "released v3.5.0",
@@ -2726,17 +2737,6 @@
     "created_at": "2026-04-21T09:52:08.000+08:00",
     "state": "committer",
     "version": "1.4.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmFhNjBiZWIyYTI2OWVmYTk4YjJkY2IzYjI3MWYwMWQ2NDU3NGVlZjY=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.42 #91",
-    "repo": "uiwjs/react-json-view",
-    "sha": "aa60beb2a269efa98b2dcb3b271f01d64574eef6",
-    "url": "https://github.com/uiwjs/react-json-view/commit/aa60beb2a269efa98b2dcb3b271f01d64574eef6",
-    "created_at": "2026-04-19T18:01:50.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.42"
   },
   {
     "id": 4121004782,

@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 05 Nov 2026 22:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 13:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.1.2 (#558)]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/5070f7952db60570371fb72163f5aedaf95e65bb</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NTA3MGY3OTUyZGI2MDU3MDM3MWZiNzIxNjNmNWFlZGFmOTVlNjViYg==</guid>
+            <pubDate>Fri, 06 Nov 2026 03:19:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/5070f7952db60570371fb72163f5aedaf95e65bb">released v4.1.2 (#558)</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/IconizeFolder released v3.5.0]]></title>
             <link>https://github.com/jaywcjlove/IconizeFolder/commit/bea64caae2138b1df3de47ad6ddb963c4b34d471</link>
@@ -2018,14 +2026,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <pubDate>Tue, 21 Apr 2026 01:52:08 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/d4b2970f7384c5770698f439a42ee3da1db87b3c">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.42 #91]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/aa60beb2a269efa98b2dcb3b271f01d64574eef6</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmFhNjBiZWIyYTI2OWVmYTk4YjJkY2IzYjI3MWYwMWQ2NDU3NGVlZjY=</guid>
-            <pubDate>Sun, 19 Apr 2026 10:01:50 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/aa60beb2a269efa98b2dcb3b271f01d64574eef6">released v2.0.0-alpha.42 #91</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[rorkai/App-Store-Connect-CLI apps wall: add DayBar]]></title>
