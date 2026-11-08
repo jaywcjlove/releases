@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTY1NjkzMzA0OjIxYjQ4OGYwNmIzOWI0ZDQ3MDUzNmM1NGVhODJmMTU0NzA4MWM3N2U=",
+    "type": "commits",
+    "title": "released v1.8.2",
+    "repo": "uiwjs/babel-plugin-transform-remove-imports",
+    "sha": "21b488f06b39b4d470536c54ea82f1547081c77e",
+    "url": "https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/21b488f06b39b4d470536c54ea82f1547081c77e",
+    "created_at": "2026-11-08T19:57:10.000+08:00",
+    "state": "committer",
+    "version": "1.8.2"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmM5ZjE4OTYwNjRiNGU4MTNkMmY2YzgxM2VmYjY3NWY3ZDg1OTc0YTQ=",
+    "type": "commits",
+    "title": "chore(release): bump version to 26.11.8",
+    "repo": "jaywcjlove/github-rank",
+    "sha": "c9f1896064b4e813d2f6c813efb675f7d85974a4",
+    "url": "https://github.com/jaywcjlove/github-rank/commit/c9f1896064b4e813d2f6c813efb675f7d85974a4",
+    "created_at": "2026-11-08T05:12:58.000Z",
+    "state": "committer",
+    "version": "26.11.8"
+  },
+  {
     "id": "MDY6Q29tbWl0MzU4MzMxNzc6NTA3MGY3OTUyZGI2MDU3MDM3MWZiNzIxNjNmNWFlZGFmOTVlNjViYg==",
     "type": "commits",
     "title": "released v4.1.2 (#558)",
@@ -2704,17 +2726,6 @@
     "created_at": "2026-04-23T18:44:42.000+08:00",
     "state": "committer",
     "version": "2.2.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDpmN2YzMjY4MDMxZjE5ZmM5ODA2MWZmYTYzZDRkOGFhZTE5Njk0Y2Yz",
-    "type": "commits",
-    "title": "released v1.5.2 (appi18n)",
-    "repo": "jaywcjlove/homebrew-tap",
-    "sha": "f7f3268031f19fc98061ffa63d4d8aae19694cf3",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/f7f3268031f19fc98061ffa63d4d8aae19694cf3",
-    "created_at": "2026-04-22T18:05:13.000+08:00",
-    "state": "committer",
-    "version": "1.5.2"
   },
   {
     "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw",
