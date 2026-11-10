@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Mon, 09 Nov 2026 14:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 00:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/tsbb released v4.5.6]]></title>
+            <link>https://github.com/jaywcjlove/tsbb/commit/3c9e40f31891e1087847996a4a82299f17794878</link>
+            <guid>MDY6Q29tbWl0MTg0OTE4NDQ2OjNjOWU0MGYzMTg5MWUxMDg3ODQ3OTk2YTRhODIyOTlmMTc3OTQ4Nzg=</guid>
+            <pubDate>Mon, 09 Nov 2026 16:34:53 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/tsbb/commit/3c9e40f31891e1087847996a4a82299f17794878">released v4.5.6</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/babel-plugin-transform-remove-imports released v1.8.2]]></title>
             <link>https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/21b488f06b39b4d470536c54ea82f1547081c77e</link>
@@ -2025,14 +2033,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw</guid>
             <pubDate>Wed, 22 Apr 2026 10:01:57 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0">released v1.5.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidcrop released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/vidcrop/commit/d4b2970f7384c5770698f439a42ee3da1db87b3c</link>
-            <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDpkNGIyOTcwZjczODRjNTc3MDY5OGY0MzlhNDJlZTNkYTFkYjg3YjNj</guid>
-            <pubDate>Tue, 21 Apr 2026 01:52:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/d4b2970f7384c5770698f439a42ee3da1db87b3c">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
