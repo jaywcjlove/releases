@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Thu, 12 Nov 2026 22:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 13:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/uiw released v4.22.5]]></title>
+            <link>https://github.com/uiwjs/uiw/commit/72b5da407dd40bafe1afac2a100f07b4f50c0f29</link>
+            <guid>MDY6Q29tbWl0MTA4NDAzNDEzOjcyYjVkYTQwN2RkNDBiYWZlMWFmYWMyYTEwMGYwN2I0ZjUwYzBmMjk=</guid>
+            <pubDate>Fri, 13 Nov 2026 09:28:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/uiw/commit/72b5da407dd40bafe1afac2a100f07b4f50c0f29">released v4.22.5</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/tsbb released v4.5.6]]></title>
             <link>https://github.com/jaywcjlove/tsbb/commit/3c9e40f31891e1087847996a4a82299f17794878</link>
@@ -2012,27 +2020,11 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/create-custom-symbols released v2.18.0]]></title>
-            <link>https://github.com/jaywcjlove/create-custom-symbols/commit/5086da0a5cf50d68dfe734a51c3338c4dca35e35</link>
-            <guid>MDY6Q29tbWl0Nzc5NTk5Mjc1OjUwODZkYTBhNWNmNTBkNjhkZmU3MzRhNTFjMzMzOGM0ZGNhMzVlMzU=</guid>
-            <pubDate>Fri, 24 Apr 2026 10:17:14 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-custom-symbols/commit/5086da0a5cf50d68dfe734a51c3338c4dca35e35">released v2.18.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/app-i18n released v1.5.2]]></title>
             <link>https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0</link>
             <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw</guid>
             <pubDate>Wed, 22 Apr 2026 10:01:57 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0">released v1.5.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidcrop released v1.4.0]]></title>
-            <link>https://github.com/jaywcjlove/vidcrop/commit/d4b2970f7384c5770698f439a42ee3da1db87b3c</link>
-            <guid>MDY6Q29tbWl0MTA1ODI0NTA3NDpkNGIyOTcwZjczODRjNTc3MDY5OGY0MzlhNDJlZTNkYTFkYjg3YjNj</guid>
-            <pubDate>Tue, 21 Apr 2026 01:52:08 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop/commit/d4b2970f7384c5770698f439a42ee3da1db87b3c">released v1.4.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
