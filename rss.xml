@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 14 Nov 2026 21:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 12:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,52 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/react-hotkeys released v3.0.2]]></title>
+            <link>https://github.com/jaywcjlove/react-hotkeys/commit/b426ef8ae5375586e0cad1f7d0f46f662f76dbf2</link>
+            <guid>MDY6Q29tbWl0MTAwMzg5NTAzOmI0MjZlZjhhZTUzNzU1ODZlMGNhZDFmN2QwZjQ2ZjY2MmY3NmRiZjI=</guid>
+            <pubDate>Sun, 15 Nov 2026 11:50:43 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/react-hotkeys/commit/b426ef8ae5375586e0cad1f7d0f46f662f76dbf2">released v3.0.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/create-tag-action released v2.3.2]]></title>
+            <link>https://github.com/jaywcjlove/create-tag-action/commit/625ad030a498567dc36989757c37d70e26d51085</link>
+            <guid>MDY6Q29tbWl0MzI2OTUzNjE2OjYyNWFkMDMwYTQ5ODU2N2RjMzY5ODk3NTdjMzdkNzBlMjZkNTEwODU=</guid>
+            <pubDate>Sun, 15 Nov 2026 08:01:10 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/create-tag-action/commit/625ad030a498567dc36989757c37d70e26d51085">released v2.3.2</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/react-hotkeys fix: reset key state on release when onKeyUp is omitted
+
+onKeyDown stayed latched without onKeyUp, and allowRepeat also fired
+on keyup. Track releases independently and bind onKeyDown to keydown only.]]></title>
+            <link>https://github.com/jaywcjlove/react-hotkeys/commit/0cb659718c24c9ae994284701ac87ea846d63ad4</link>
+            <guid>MDY6Q29tbWl0MTAwMzg5NTAzOjBjYjY1OTcxOGMyNGM5YWU5OTQyODQ3MDFhYzg3ZWE4NDZkNjNhZDQ=</guid>
+            <pubDate>Sun, 15 Nov 2026 07:07:02 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/react-hotkeys/commit/0cb659718c24c9ae994284701ac87ea846d63ad4">fix: reset key state on release when onKeyUp is omitted
+
+onKeyDown stayed latched without onKeyUp, and allowRepeat also fired
+on keyup. Track releases independently and bind onKeyDown to keydown only.</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.11.15]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/5cc5fe157218672cafeff3f8774020aff7c2b2f5</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjVjYzVmZTE1NzIxODY3MmNhZmVmZjNmODc3NDAyMGFmZjdjMmIyZjU=</guid>
+            <pubDate>Sun, 15 Nov 2026 05:32:30 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/5cc5fe157218672cafeff3f8774020aff7c2b2f5">chore(release): bump version to 26.11.15</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-color released v2.10.4]]></title>
+            <link>https://github.com/uiwjs/react-color/commit/f9f9583fe71f0e313e246662405bba4f9649c03b</link>
+            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmY5Zjk1ODNmZTcxZjBlMzEzZTI0NjY2MjQwNWJiYTRmOTY0OWMwM2I=</guid>
+            <pubDate>Sun, 15 Nov 2026 04:09:06 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/f9f9583fe71f0e313e246662405bba4f9649c03b">released v2.10.4</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/uiw released v4.22.5]]></title>
             <link>https://github.com/uiwjs/uiw/commit/72b5da407dd40bafe1afac2a100f07b4f50c0f29</link>
@@ -1969,62 +2015,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0Njg1MTU0NDA0OjQ5N2U2NTk1OWU4OTU3ZThjY2NjN2IyYzk1MTM1Yzc0NGJmMjRmY2U=</guid>
             <pubDate>Sun, 10 May 2026 16:31:12 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/ejs-cli/commit/497e65959e8957e8cccc7b2c95135c744bf24fce">released v3.2.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/svgtofont released v6.5.2 #276]]></title>
-            <link>https://github.com/jaywcjlove/svgtofont/commit/9df9637d1efae881cd784a6fddd60ff26364d506</link>
-            <guid>MDY6Q29tbWl0MTQ4ODg4MTU5OjlkZjk2MzdkMWVmYWU4ODFjZDc4NGE2ZmRkZDYwZmYyNjM2NGQ1MDY=</guid>
-            <pubDate>Mon, 04 May 2026 15:05:55 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/svgtofont/commit/9df9637d1efae881cd784a6fddd60ff26364d506">released v6.5.2 #276</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/hotkeys-js released v4.0.4]]></title>
-            <link>https://github.com/jaywcjlove/hotkeys-js/commit/d04ca2d908d38f0becbf45752361c6fe02f98b1b</link>
-            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ZDA0Y2EyZDkwOGQzOGYwYmVjYmY0NTc1MjM2MWM2ZmUwMmY5OGIxYg==</guid>
-            <pubDate>Thu, 30 Apr 2026 07:07:32 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/d04ca2d908d38f0becbf45752361c6fe02f98b1b">released v4.0.4</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-signature released v1.3.4 #10]]></title>
-            <link>https://github.com/uiwjs/react-signature/commit/148eccc40d6dd6b8cdb8b6bfa0d44328b10815bc</link>
-            <guid>MDY6Q29tbWl0NzIyNjczOTkxOjE0OGVjY2M0MGQ2ZGQ2YjhjZGI4YjZiZmEwZDQ0MzI4YjEwODE1YmM=</guid>
-            <pubDate>Wed, 29 Apr 2026 13:28:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-signature/commit/148eccc40d6dd6b8cdb8b6bfa0d44328b10815bc">released v1.3.4 #10</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/key-clicker released v2.4.0]]></title>
-            <link>https://github.com/jaywcjlove/key-clicker/commit/408963a5f789bfb92a18952abe5d7168cf8f464b</link>
-            <guid>MDY6Q29tbWl0OTE1NDM1NjI3OjQwODk2M2E1Zjc4OWJmYjkyYTE4OTUyYWJlNWQ3MTY4Y2Y4ZjQ2NGI=</guid>
-            <pubDate>Sun, 26 Apr 2026 16:53:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/key-clicker/commit/408963a5f789bfb92a18952abe5d7168cf8f464b">released v2.4.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/web-serve released v2.3.0]]></title>
-            <link>https://github.com/jaywcjlove/web-serve/commit/bafceb5d3b3136e5bbbb062206fa13a3dbc40c80</link>
-            <guid>MDY6Q29tbWl0ODQ4NDM0NTAwOmJhZmNlYjVkM2IzMTM2ZTViYmJiMDYyMjA2ZmExM2EzZGJjNDBjODA=</guid>
-            <pubDate>Sat, 25 Apr 2026 20:00:25 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/web-serve/commit/bafceb5d3b3136e5bbbb062206fa13a3dbc40c80">released v2.3.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/vidwall released v1.13.0]]></title>
-            <link>https://github.com/jaywcjlove/vidwall/commit/ae66362f5bc5ba99c11ce3320716dff91ccc3244</link>
-            <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzphZTY2MzYyZjViYzViYTk5YzExY2UzMzIwNzE2ZGZmOTFjY2MzMjQ0</guid>
-            <pubDate>Sat, 25 Apr 2026 03:58:27 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/ae66362f5bc5ba99c11ce3320716dff91ccc3244">released v1.13.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/app-i18n released v1.5.2]]></title>
-            <link>https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0</link>
-            <guid>MDY6Q29tbWl0MTE2NTQ3MTQyNTo3OTc0MzIwOTA0ZjllMmI0YmEyOWJhYjcxMTc1ZGM3MDRmM2MxYmUw</guid>
-            <pubDate>Wed, 22 Apr 2026 10:01:57 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/app-i18n/commit/7974320904f9e2b4ba29bab71175dc704f3c1be0">released v1.5.2</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
