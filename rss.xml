@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 17 Nov 2026 14:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 23:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.2.4]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/bf52d5dd862ef02fea46ed5050de02b98fb6bf3a</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OmJmNTJkNWRkODYyZWYwMmZlYTQ2ZWQ1MDUwZGUwMmI5OGZiNmJmM2E=</guid>
+            <pubDate>Tue, 17 Nov 2026 16:23:38 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/bf52d5dd862ef02fea46ed5050de02b98fb6bf3a">released v4.2.4</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/image2uri released v2.1.3 #15]]></title>
+            <link>https://github.com/jaywcjlove/image2uri/commit/8d42265dd68b4c4ceae1cdc2c9d12491a93dae9a</link>
+            <guid>MDY6Q29tbWl0Mjg3NzI0MDEzOjhkNDIyNjVkZDY4YjRjNGNlYWUxY2RjMmM5ZDEyNDkxYTkzZGFlOWE=</guid>
+            <pubDate>Tue, 17 Nov 2026 16:16:59 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/image2uri/commit/8d42265dd68b4c4ceae1cdc2c9d12491a93dae9a">released v2.1.3 #15</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/free-font released v2.30.0]]></title>
             <link>https://github.com/jaywcjlove/free-font/commit/729203d557b87eb93e54759c4cf9e262ae86b785</link>
@@ -1986,27 +2002,11 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/iconed released v1.14.0]]></title>
-            <link>https://github.com/jaywcjlove/iconed/commit/3e0c4f2fd7cb57c6fda5044c3d21ea4390dfe902</link>
-            <guid>MDY6Q29tbWl0OTA3NTAxNjgyOjNlMGM0ZjJmZDdjYjU3YzZmZGE1MDQ0YzNkMjFlYTQzOTBkZmU5MDI=</guid>
-            <pubDate>Tue, 12 May 2026 15:38:31 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/iconed/commit/3e0c4f2fd7cb57c6fda5044c3d21ea4390dfe902">released v1.14.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/pinyin-font released v1.10.2]]></title>
             <link>https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340</link>
             <guid>MDY6Q29tbWl0ODMyNTc3NjEwOjUzZjQyMWFjZDRlODExY2RhNDI3ZTA0NzhhMmFiYzVjYWQ5ZmIzNDA=</guid>
             <pubDate>Mon, 11 May 2026 20:06:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340">released v1.10.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/free-font released v2.27.0]]></title>
-            <link>https://github.com/jaywcjlove/free-font/commit/a5e7c49ef035a4c9c806bd557543b6a0c7725fb0</link>
-            <guid>MDY6Q29tbWl0ODI5NDU3NTI2OmE1ZTdjNDllZjAzNWE0YzljODA2YmQ1NTc1NDNiNmEwYzc3MjVmYjA=</guid>
-            <pubDate>Mon, 11 May 2026 11:47:50 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/free-font/commit/a5e7c49ef035a4c9c806bd557543b6a0c7725fb0">released v2.27.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
