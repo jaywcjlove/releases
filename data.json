@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODI5NDU3NTI2OjcyOTIwM2Q1NTdiODdlYjkzZTU0NzU5YzRjZjllMjYyYWU4NmI3ODU=",
+    "type": "commits",
+    "title": "released v2.30.0",
+    "repo": "jaywcjlove/free-font",
+    "sha": "729203d557b87eb93e54759c4cf9e262ae86b785",
+    "url": "https://github.com/jaywcjlove/free-font/commit/729203d557b87eb93e54759c4cf9e262ae86b785",
+    "created_at": "2026-11-17T01:51:55.000+08:00",
+    "state": "committer",
+    "version": "2.30.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTAwMzg5NTAzOmI0MjZlZjhhZTUzNzU1ODZlMGNhZDFmN2QwZjQ2ZjY2MmY3NmRiZjI=",
     "type": "commits",
     "title": "released v3.0.2",
@@ -2706,17 +2717,6 @@
     "version": "1.0.1"
   },
   {
-    "id": "MDY6Q29tbWl0Njg1MTU0NDA0OjQ5N2U2NTk1OWU4OTU3ZThjY2NjN2IyYzk1MTM1Yzc0NGJmMjRmY2U=",
-    "type": "commits",
-    "title": "released v3.2.1",
-    "repo": "jaywcjlove/ejs-cli",
-    "sha": "497e65959e8957e8cccc7b2c95135c744bf24fce",
-    "url": "https://github.com/jaywcjlove/ejs-cli/commit/497e65959e8957e8cccc7b2c95135c744bf24fce",
-    "created_at": "2026-05-11T00:31:12.000+08:00",
-    "state": "committer",
-    "version": "3.2.1"
-  },
-  {
     "id": 4121004782,
     "type": "Organization",
     "repo": "rorkai/App-Store-Connect-CLI",
@@ -2890,7 +2890,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "524"
+    "stars": "525"
   },
   {
     "id": 2526870275,
@@ -2967,7 +2967,7 @@
     "created_at": "2022-08-16T01:36:00Z",
     "state": "merged",
     "number": 40,
-    "stars": "361"
+    "stars": "363"
   },
   {
     "id": 1194561099,
