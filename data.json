@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MTY1NjkzMzA0OjQ2MjkxZmNiZWE3MGIwNDcyN2M5ZGEzN2NkY2UyOTVjMzdlNDdhNTA=",
+    "type": "commits",
+    "title": "released v1.8.3",
+    "repo": "uiwjs/babel-plugin-transform-remove-imports",
+    "sha": "46291fcbea70b04727c9da37cdce295c37e47a50",
+    "url": "https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/46291fcbea70b04727c9da37cdce295c37e47a50",
+    "created_at": "2026-11-18T11:05:31.000+08:00",
+    "state": "committer",
+    "version": "1.8.3"
+  },
+  {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OmJmNTJkNWRkODYyZWYwMmZlYTQ2ZWQ1MDUwZGUwMmI5OGZiNmJmM2E=",
     "type": "commits",
     "title": "released v4.2.4",

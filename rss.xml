@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 17 Nov 2026 23:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 14:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/babel-plugin-transform-remove-imports released v1.8.3]]></title>
+            <link>https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/46291fcbea70b04727c9da37cdce295c37e47a50</link>
+            <guid>MDY6Q29tbWl0MTY1NjkzMzA0OjQ2MjkxZmNiZWE3MGIwNDcyN2M5ZGEzN2NkY2UyOTVjMzdlNDdhNTA=</guid>
+            <pubDate>Wed, 18 Nov 2026 03:05:31 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/babel-plugin-transform-remove-imports/commit/46291fcbea70b04727c9da37cdce295c37e47a50">released v1.8.3</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-md-editor released v4.2.4]]></title>
             <link>https://github.com/uiwjs/react-md-editor/commit/bf52d5dd862ef02fea46ed5050de02b98fb6bf3a</link>
