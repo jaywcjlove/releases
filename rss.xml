@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Wed, 18 Nov 2026 23:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 14:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,42 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.46]]></title>
+            <link>https://github.com/uiwjs/react-json-view/commit/ad22eca6616d24905d74737e3f3df1d9d38244d5</link>
+            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OmFkMjJlY2E2NjE2ZDI0OTA1ZDc0NzM3ZTNmM2RmMWQ5ZDM4MjQ0ZDU=</guid>
+            <pubDate>Thu, 19 Nov 2026 12:26:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/ad22eca6616d24905d74737e3f3df1d9d38244d5">released v2.0.0-alpha.46</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/rehype-video released v2.3.3]]></title>
+            <link>https://github.com/jaywcjlove/rehype-video/commit/eb8017258c1f37df1b43c7e04aea69c8e1edf45e</link>
+            <guid>MDY6Q29tbWl0NDE5NzQ4Njg4OmViODAxNzI1OGMxZjM3ZGYxYjQzYzdlMDRhZWE2OWM4ZTFlZGY0NWU=</guid>
+            <pubDate>Thu, 19 Nov 2026 04:56:51 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/rehype-video/commit/eb8017258c1f37df1b43c7e04aea69c8e1edf45e">released v2.3.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.1.3]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/89859b9930248626f994149740fe9df5309dfefb</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6ODk4NTliOTkzMDI0ODYyNmY5OTQxNDk3NDBmZTlkZjUzMDlkZmVmYg==</guid>
+            <pubDate>Thu, 19 Nov 2026 04:41:13 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/89859b9930248626f994149740fe9df5309dfefb">released v4.1.3</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[uiwjs/react-heat-map released v2.3.5 #142
+
+https://github.com/uiwjs/react-heat-map/issues/142]]></title>
+            <link>https://github.com/uiwjs/react-heat-map/commit/6cd4e7f16728a99baa852e08f2e447b7dbad01e9</link>
+            <guid>MDY6Q29tbWl0MzcyMDYxMjgwOjZjZDRlN2YxNjcyOGE5OWJhYTg1MmUwOGYyZTQ0N2I3ZGJhZDAxZTk=</guid>
+            <pubDate>Thu, 19 Nov 2026 02:59:29 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-heat-map/commit/6cd4e7f16728a99baa852e08f2e447b7dbad01e9">released v2.3.5 #142
+
+https://github.com/uiwjs/react-heat-map/issues/142</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/uiw released v4.22.6 #995]]></title>
             <link>https://github.com/uiwjs/uiw/commit/8b3154903d8fd61d3fc5c87ca302d277ac3f2279</link>
@@ -1906,14 +1942,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.5.29]]></title>
-            <link>https://github.com/jaywcjlove/github-rank/commit/1b238fe8979ace8b703d37daf2caa83c415fd839</link>
-            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OjFiMjM4ZmU4OTc5YWNlOGI3MDNkMzdkYWYyY2FhODNjNDE1ZmQ4Mzk=</guid>
-            <pubDate>Fri, 29 May 2026 01:25:12 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/1b238fe8979ace8b703d37daf2caa83c415fd839">chore(release): bump version to 26.5.29</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[uiwjs/react-heat-map released v2.3.4 #141]]></title>
             <link>https://github.com/uiwjs/react-heat-map/commit/b29152ca519912727fcd8ababff22115ca1507d6</link>
             <guid>MDY6Q29tbWl0MzcyMDYxMjgwOmIyOTE1MmNhNTE5OTEyNzI3ZmNkOGFiYWJmZjIyMTE1Y2ExNTA3ZDY=</guid>
@@ -1938,36 +1966,12 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[uiwjs/react-color released v2.10.3 #204 #203]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4Ojg5ZmE4MGU5YmRkM2JkZGQyNGJhMWMwMDJmNTg1NjYwZDhjYjZjNTM=</guid>
-            <pubDate>Sun, 24 May 2026 18:56:38 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53">released v2.10.3 #204 #203</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/zipora released v1.3.0]]></title>
             <link>https://github.com/jaywcjlove/zipora/commit/ba9972532232740b24670066b5e436829b37f0c2</link>
             <guid>MDY6Q29tbWl0MTIzMDg1MTYyNzpiYTk5NzI1MzIyMzI3NDBiMjQ2NzAwNjZiNWU0MzY4MjliMzdmMGMy</guid>
             <pubDate>Sun, 24 May 2026 09:51:00 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/zipora/commit/ba9972532232740b24670066b5e436829b37f0c2">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.5.22]]></title>
-            <link>https://github.com/jaywcjlove/github-rank/commit/cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70</link>
-            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmNiYzRjYTYwZmYxY2YyZThjNmZkYzc2N2Y0YTYzMThhMWQyMTBmNzA=</guid>
-            <pubDate>Fri, 22 May 2026 01:19:22 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70">chore(release): bump version to 26.5.22</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-color released v2.10.2]]></title>
-            <link>https://github.com/uiwjs/react-color/commit/a5450d09a19735e52fc19992013dae27481e17f0</link>
-            <guid>MDY6Q29tbWl0MzgyMzI3NjY4OmE1NDUwZDA5YTE5NzM1ZTUyZmMxOTk5MjAxM2RhZTI3NDgxZTE3ZjA=</guid>
-            <pubDate>Thu, 21 May 2026 17:22:04 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-color/commit/a5450d09a19735e52fc19992013dae27481e17f0">released v2.10.2</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/copy-to-clipboard released v1.0.21]]></title>
@@ -2000,22 +2004,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <pubDate>Thu, 21 May 2026 15:54:03 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/d54c1303f5e21331458b2b6569ee3897e640c0be">released v4.25.10</a>]]></description>
             <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/zipora released v1.0.0]]></title>
-            <link>https://github.com/jaywcjlove/zipora/commit/a5b01ba8079aaf439706c35cab3ac43963c0cdc1</link>
-            <guid>MDY6Q29tbWl0MTIzMDg1MTYyNzphNWIwMWJhODA3OWFhZjQzOTcwNmMzNWNhYjNhYzQzOTYzYzBjZGMx</guid>
-            <pubDate>Tue, 19 May 2026 09:59:52 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/zipora/commit/a5b01ba8079aaf439706c35cab3ac43963c0cdc1">released v1.0.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/pinyin-font released v1.10.2]]></title>
-            <link>https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340</link>
-            <guid>MDY6Q29tbWl0ODMyNTc3NjEwOjUzZjQyMWFjZDRlODExY2RhNDI3ZTA0NzhhMmFiYzVjYWQ5ZmIzNDA=</guid>
-            <pubDate>Mon, 11 May 2026 20:06:03 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340">released v1.10.2</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[rorkai/App-Store-Connect-CLI apps wall: add DayBar]]></title>

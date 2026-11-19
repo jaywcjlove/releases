@@ -1,5 +1,49 @@
 [
   {
+    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OmFkMjJlY2E2NjE2ZDI0OTA1ZDc0NzM3ZTNmM2RmMWQ5ZDM4MjQ0ZDU=",
+    "type": "commits",
+    "title": "released v2.0.0-alpha.46",
+    "repo": "uiwjs/react-json-view",
+    "sha": "ad22eca6616d24905d74737e3f3df1d9d38244d5",
+    "url": "https://github.com/uiwjs/react-json-view/commit/ad22eca6616d24905d74737e3f3df1d9d38244d5",
+    "created_at": "2026-11-19T20:26:04.000+08:00",
+    "state": "committer",
+    "version": "2.0.0-alpha.46"
+  },
+  {
+    "id": "MDY6Q29tbWl0NDE5NzQ4Njg4OmViODAxNzI1OGMxZjM3ZGYxYjQzYzdlMDRhZWE2OWM4ZTFlZGY0NWU=",
+    "type": "commits",
+    "title": "released v2.3.3",
+    "repo": "jaywcjlove/rehype-video",
+    "sha": "eb8017258c1f37df1b43c7e04aea69c8e1edf45e",
+    "url": "https://github.com/jaywcjlove/rehype-video/commit/eb8017258c1f37df1b43c7e04aea69c8e1edf45e",
+    "created_at": "2026-11-19T12:56:51.000+08:00",
+    "state": "committer",
+    "version": "2.3.3"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6ODk4NTliOTkzMDI0ODYyNmY5OTQxNDk3NDBmZTlkZjUzMDlkZmVmYg==",
+    "type": "commits",
+    "title": "released v4.1.3",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "89859b9930248626f994149740fe9df5309dfefb",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/89859b9930248626f994149740fe9df5309dfefb",
+    "created_at": "2026-11-19T12:41:13.000+08:00",
+    "state": "committer",
+    "version": "4.1.3"
+  },
+  {
+    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOjZjZDRlN2YxNjcyOGE5OWJhYTg1MmUwOGYyZTQ0N2I3ZGJhZDAxZTk=",
+    "type": "commits",
+    "title": "released v2.3.5 #142\n\nhttps://github.com/uiwjs/react-heat-map/issues/142",
+    "repo": "uiwjs/react-heat-map",
+    "sha": "6cd4e7f16728a99baa852e08f2e447b7dbad01e9",
+    "url": "https://github.com/uiwjs/react-heat-map/commit/6cd4e7f16728a99baa852e08f2e447b7dbad01e9",
+    "created_at": "2026-11-19T10:59:29.000+08:00",
+    "state": "committer",
+    "version": "2.3.5"
+  },
+  {
     "id": "MDY6Q29tbWl0MTA4NDAzNDEzOjhiMzE1NDkwM2Q4ZmQ2MWQzZmM1Yzg3Y2EzMDJkMjc3YWMzZjIyNzk=",
     "type": "commits",
     "title": "released v4.22.6 #995",
@@ -2563,17 +2607,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OjFiMjM4ZmU4OTc5YWNlOGI3MDNkMzdkYWYyY2FhODNjNDE1ZmQ4Mzk=",
-    "type": "commits",
-    "title": "chore(release): bump version to 26.5.29",
-    "repo": "jaywcjlove/github-rank",
-    "sha": "1b238fe8979ace8b703d37daf2caa83c415fd839",
-    "url": "https://github.com/jaywcjlove/github-rank/commit/1b238fe8979ace8b703d37daf2caa83c415fd839",
-    "created_at": "2026-05-29T01:25:12.000Z",
-    "state": "committer",
-    "version": "26.5.29"
-  },
-  {
     "id": "MDY6Q29tbWl0MzcyMDYxMjgwOmIyOTE1MmNhNTE5OTEyNzI3ZmNkOGFiYWJmZjIyMTE1Y2ExNTA3ZDY=",
     "type": "commits",
     "title": "released v2.3.4 #141",
@@ -2607,17 +2640,6 @@
     "version": "1.48.0"
   },
   {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4Ojg5ZmE4MGU5YmRkM2JkZGQyNGJhMWMwMDJmNTg1NjYwZDhjYjZjNTM=",
-    "type": "commits",
-    "title": "released v2.10.3 #204 #203",
-    "repo": "uiwjs/react-color",
-    "sha": "89fa80e9bdd3bddd24ba1c002f585660d8cb6c53",
-    "url": "https://github.com/uiwjs/react-color/commit/89fa80e9bdd3bddd24ba1c002f585660d8cb6c53",
-    "created_at": "2026-05-25T02:56:38.000+08:00",
-    "state": "committer",
-    "version": "2.10.3"
-  },
-  {
     "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzpiYTk5NzI1MzIyMzI3NDBiMjQ2NzAwNjZiNWU0MzY4MjliMzdmMGMy",
     "type": "commits",
     "title": "released v1.3.0",
@@ -2627,28 +2649,6 @@
     "created_at": "2026-05-24T17:51:00.000+08:00",
     "state": "committer",
     "version": "1.3.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmNiYzRjYTYwZmYxY2YyZThjNmZkYzc2N2Y0YTYzMThhMWQyMTBmNzA=",
-    "type": "commits",
-    "title": "chore(release): bump version to 26.5.22",
-    "repo": "jaywcjlove/github-rank",
-    "sha": "cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70",
-    "url": "https://github.com/jaywcjlove/github-rank/commit/cbc4ca60ff1cf2e8c6fdc767f4a6318a1d210f70",
-    "created_at": "2026-05-22T01:19:22.000Z",
-    "state": "committer",
-    "version": "26.5.22"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzgyMzI3NjY4OmE1NDUwZDA5YTE5NzM1ZTUyZmMxOTk5MjAxM2RhZTI3NDgxZTE3ZjA=",
-    "type": "commits",
-    "title": "released v2.10.2",
-    "repo": "uiwjs/react-color",
-    "sha": "a5450d09a19735e52fc19992013dae27481e17f0",
-    "url": "https://github.com/uiwjs/react-color/commit/a5450d09a19735e52fc19992013dae27481e17f0",
-    "created_at": "2026-05-22T01:22:04.000+08:00",
-    "state": "committer",
-    "version": "2.10.2"
   },
   {
     "id": "MDY6Q29tbWl0MTQ3NjAyNzAxOmJhZmMwOGEyYjE4NGJmZWVmYTg2YjRmYTk1ZWIwZmU0N2QxZjg4MTc=",
@@ -2693,28 +2693,6 @@
     "created_at": "2026-05-21T23:54:03.000+08:00",
     "state": "committer",
     "version": "4.25.10"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzphNWIwMWJhODA3OWFhZjQzOTcwNmMzNWNhYjNhYzQzOTYzYzBjZGMx",
-    "type": "commits",
-    "title": "released v1.0.0",
-    "repo": "jaywcjlove/zipora",
-    "sha": "a5b01ba8079aaf439706c35cab3ac43963c0cdc1",
-    "url": "https://github.com/jaywcjlove/zipora/commit/a5b01ba8079aaf439706c35cab3ac43963c0cdc1",
-    "created_at": "2026-05-19T17:59:52.000+08:00",
-    "state": "committer",
-    "version": "1.0.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0ODMyNTc3NjEwOjUzZjQyMWFjZDRlODExY2RhNDI3ZTA0NzhhMmFiYzVjYWQ5ZmIzNDA=",
-    "type": "commits",
-    "title": "released v1.10.2",
-    "repo": "jaywcjlove/pinyin-font",
-    "sha": "53f421acd4e811cda427e0478a2abc5cad9fb340",
-    "url": "https://github.com/jaywcjlove/pinyin-font/commit/53f421acd4e811cda427e0478a2abc5cad9fb340",
-    "created_at": "2026-05-12T04:06:03.000+08:00",
-    "state": "committer",
-    "version": "1.10.2"
   },
   {
     "id": 4121004782,
@@ -2890,7 +2868,7 @@
     "created_at": "2025-06-24T13:25:02Z",
     "state": "merged",
     "number": 6,
-    "stars": "525"
+    "stars": "526"
   },
   {
     "id": 2526870275,
