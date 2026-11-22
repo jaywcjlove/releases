@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Sat, 21 Nov 2026 22:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 13:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.11.22]]></title>
+            <link>https://github.com/jaywcjlove/github-rank/commit/f6966ab39a01d8e8db35076f80077f6745683905</link>
+            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmY2OTY2YWIzOWEwMWQ4ZThkYjM1MDc2ZjgwMDc3ZjY3NDU2ODM5MDU=</guid>
+            <pubDate>Sun, 22 Nov 2026 05:52:00 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/f6966ab39a01d8e8db35076f80077f6745683905">chore(release): bump version to 26.11.22</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/remark-github-blockquote-alert released v2.1.1]]></title>
             <link>https://github.com/jaywcjlove/remark-github-blockquote-alert/commit/73ca189f02c62c315f8a81ef013b5809115bde35</link>
@@ -1987,14 +1995,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0NTQwOTE3Mjk5OjRhNjZjOTQ1MDliOTUzMGE3ZDBkNzI2YmI4MTA5NzQ2MzM0NGIzMDI=</guid>
             <pubDate>Mon, 25 May 2026 10:38:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302">released v1.48.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/zipora released v1.3.0]]></title>
-            <link>https://github.com/jaywcjlove/zipora/commit/ba9972532232740b24670066b5e436829b37f0c2</link>
-            <guid>MDY6Q29tbWl0MTIzMDg1MTYyNzpiYTk5NzI1MzIyMzI3NDBiMjQ2NzAwNjZiNWU0MzY4MjliMzdmMGMy</guid>
-            <pubDate>Sun, 24 May 2026 09:51:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/zipora/commit/ba9972532232740b24670066b5e436829b37f0c2">released v1.3.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
