@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MzU4MzMxNzc6NDJjMTNmZWExNjUzMTQwMjY2ZTA4MDAzNGFjMmRmNjNlOTk1OWQ3YQ==",
+    "type": "commits",
+    "title": "released v4.1.4",
+    "repo": "jaywcjlove/hotkeys-js",
+    "sha": "42c13fea1653140266e080034ac2df63e9959d7a",
+    "url": "https://github.com/jaywcjlove/hotkeys-js/commit/42c13fea1653140266e080034ac2df63e9959d7a",
+    "created_at": "2026-11-24T13:46:20.000+08:00",
+    "state": "committer",
+    "version": "4.1.4"
+  },
+  {
     "id": "MDY6Q29tbWl0NjI5MTM4MDAxOjkwMTZjYWQzMDY1MzFlOTQzY2JkZTAzYjM2MmMwNjIwYzdmOTIxY2I=",
     "type": "commits",
     "title": "released v1.0.7 #24",
@@ -2607,17 +2618,6 @@
     "version": "4.5.0"
   },
   {
-    "id": "MDY6Q29tbWl0MTgxMjAwMzY0OmFhOWExNzgzNDQzNjQyYmY2NjcwMzVlYWJmODYyNjVlYTg3ZDNjMjM=",
-    "type": "commits",
-    "title": "chore(release): bump version to 26.6.1",
-    "repo": "jaywcjlove/github-rank",
-    "sha": "aa9a1783443642bf667035eabf86265ea87d3c23",
-    "url": "https://github.com/jaywcjlove/github-rank/commit/aa9a1783443642bf667035eabf86265ea87d3c23",
-    "created_at": "2026-06-01T01:26:16.000Z",
-    "state": "committer",
-    "version": "26.6.1"
-  },
-  {
     "id": "MDY6Q29tbWl0MTAwNjcwMDIyNzo2YWUyYmEyNjhmYTQxMDRjMjlmNjgwZWI0MzBmMjUwM2FjMDAwNThm",
     "type": "commits",
     "title": "released v1.14.0",
@@ -2682,17 +2682,6 @@
     "created_at": "2026-05-25T18:38:58.000+08:00",
     "state": "committer",
     "version": "1.48.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0NjU1MjIxNjY1OjMwYjk3NjBkMjJjNDE2M2Q2OGMwMWMwMzg1NGZkMTRiZjVhZTliZDk=",
-    "type": "commits",
-    "title": "released v2.0.0-alpha.43",
-    "repo": "uiwjs/react-json-view",
-    "sha": "30b9760d22c4163d68c01c03854fd14bf5ae9bd9",
-    "url": "https://github.com/uiwjs/react-json-view/commit/30b9760d22c4163d68c01c03854fd14bf5ae9bd9",
-    "created_at": "2026-05-22T00:56:51.000+08:00",
-    "state": "committer",
-    "version": "2.0.0-alpha.43"
   },
   {
     "id": "MDY6Q29tbWl0MjAzMDgyMTQ1OjQwYzY5MDY2YmRmZWFhZjFiYjExZThjOTdkMjIxOWI4ZDgyYzc3N2I=",

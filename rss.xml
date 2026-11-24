@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 24 Nov 2026 03:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 16:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jaywcjlove/hotkeys-js released v4.1.4]]></title>
+            <link>https://github.com/jaywcjlove/hotkeys-js/commit/42c13fea1653140266e080034ac2df63e9959d7a</link>
+            <guid>MDY6Q29tbWl0MzU4MzMxNzc6NDJjMTNmZWExNjUzMTQwMjY2ZTA4MDAzNGFjMmRmNjNlOTk1OWQ3YQ==</guid>
+            <pubDate>Tue, 24 Nov 2026 05:46:20 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/jaywcjlove/hotkeys-js/commit/42c13fea1653140266e080034ac2df63e9959d7a">released v4.1.4</a>]]></description>
+            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[uiwjs/react-login-page released v1.0.7 #24]]></title>
             <link>https://github.com/uiwjs/react-login-page/commit/9016cad306531e943cbde03b362c0620c7f921cb</link>
@@ -1942,14 +1950,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[jaywcjlove/github-rank chore(release): bump version to 26.6.1]]></title>
-            <link>https://github.com/jaywcjlove/github-rank/commit/aa9a1783443642bf667035eabf86265ea87d3c23</link>
-            <guid>MDY6Q29tbWl0MTgxMjAwMzY0OmFhOWExNzgzNDQzNjQyYmY2NjcwMzVlYWJmODYyNjVlYTg3ZDNjMjM=</guid>
-            <pubDate>Mon, 01 Jun 2026 01:26:16 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/github-rank/commit/aa9a1783443642bf667035eabf86265ea87d3c23">chore(release): bump version to 26.6.1</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[jaywcjlove/vidwall released v1.14.0]]></title>
             <link>https://github.com/jaywcjlove/vidwall/commit/6ae2ba268fa4104c29f680eb430f2503ac00058f</link>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo2YWUyYmEyNjhmYTQxMDRjMjlmNjgwZWI0MzBmMjUwM2FjMDAwNThm</guid>
@@ -1996,14 +1996,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <pubDate>Mon, 25 May 2026 10:38:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302">released v1.48.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-json-view released v2.0.0-alpha.43]]></title>
-            <link>https://github.com/uiwjs/react-json-view/commit/30b9760d22c4163d68c01c03854fd14bf5ae9bd9</link>
-            <guid>MDY6Q29tbWl0NjU1MjIxNjY1OjMwYjk3NjBkMjJjNDE2M2Q2OGMwMWMwMzg1NGZkMTRiZjVhZTliZDk=</guid>
-            <pubDate>Thu, 21 May 2026 16:56:51 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-json-view/commit/30b9760d22c4163d68c01c03854fd14bf5ae9bd9">released v2.0.0-alpha.43</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[uiwjs/react-md-editor released v4.1.1]]></title>
