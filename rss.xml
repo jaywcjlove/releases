@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Tue, 24 Nov 2026 16:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 01:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,14 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-codemirror released v4.25.13 #773]]></title>
+            <link>https://github.com/uiwjs/react-codemirror/commit/d1fab0fbd474932629240fbd1a1a96c9b6e49299</link>
+            <guid>MDY6Q29tbWl0MTM5Mzg3MDI4OmQxZmFiMGZiZDQ3NDkzMjYyOTI0MGZiZDFhMWE5NmM5YjZlNDkyOTk=</guid>
+            <pubDate>Tue, 24 Nov 2026 17:14:07 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-codemirror/commit/d1fab0fbd474932629240fbd1a1a96c9b6e49299">released v4.25.13 #773</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/hotkeys-js released v4.1.4]]></title>
             <link>https://github.com/jaywcjlove/hotkeys-js/commit/42c13fea1653140266e080034ac2df63e9959d7a</link>
@@ -1996,14 +2004,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <pubDate>Mon, 25 May 2026 10:38:58 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302">released v1.48.0</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[uiwjs/react-md-editor released v4.1.1]]></title>
-            <link>https://github.com/uiwjs/react-md-editor/commit/40c69066bdfeaaf1bb11e8c97d2219b8d82c777b</link>
-            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1OjQwYzY5MDY2YmRmZWFhZjFiYjExZThjOTdkMjIxOWI4ZDgyYzc3N2I=</guid>
-            <pubDate>Thu, 21 May 2026 16:00:49 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/40c69066bdfeaaf1bb11e8c97d2219b8d82c777b">released v4.1.1</a>]]></description>
-            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[rorkai/App-Store-Connect-CLI apps wall: add DayBar]]></title>
