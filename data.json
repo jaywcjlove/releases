@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjhkN2Y2Mjc0ZDg1NDFlZmZhZTg4MTNhYzEwMWEzMzA0NDA3YzJkYjE=",
+    "type": "commits",
+    "title": "released v2.10.0",
+    "repo": "jaywcjlove/key-clicker",
+    "sha": "8d7f6274d8541effae8813ac101a3304407c2db1",
+    "url": "https://github.com/jaywcjlove/key-clicker/commit/8d7f6274d8541effae8813ac101a3304407c2db1",
+    "created_at": "2026-11-26T14:38:21.000+08:00",
+    "state": "committer",
+    "version": "2.10.0"
+  },
+  {
     "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmYyMWY0MjVkZDM1MGMzNTczODhlYzRjM2ExY2IyNjI4ZTIyOTcyMDQ=",
     "type": "commits",
     "title": "released v4.13.0",
@@ -2684,17 +2695,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OjRhNjZjOTQ1MDliOTUzMGE3ZDBkNzI2YmI4MTA5NzQ2MzM0NGIzMDI=",
-    "type": "commits",
-    "title": "released v1.48.0",
-    "repo": "jaywcjlove/reference",
-    "sha": "4a66c94509b9530a7d0d726bb81097463344b302",
-    "url": "https://github.com/jaywcjlove/reference/commit/4a66c94509b9530a7d0d726bb81097463344b302",
-    "created_at": "2026-05-25T18:38:58.000+08:00",
-    "state": "committer",
-    "version": "1.48.0"
-  },
-  {
     "id": 4121004782,
     "type": "Organization",
     "repo": "rorkai/App-Store-Connect-CLI",
@@ -2846,7 +2846,7 @@
     "created_at": "2025-08-22T05:56:49Z",
     "state": "merged",
     "number": 17804,
-    "stars": "52.4K"
+    "stars": "52.5K"
   },
   {
     "id": 3312304333,
