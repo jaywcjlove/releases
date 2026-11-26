@@ -1,5 +1,27 @@
 [
   {
+    "id": "MDY6Q29tbWl0ODc3MTUwMDI1OmYyMWY0MjVkZDM1MGMzNTczODhlYzRjM2ExY2IyNjI4ZTIyOTcyMDQ=",
+    "type": "commits",
+    "title": "released v4.13.0",
+    "repo": "jaywcjlove/rightmenu-master",
+    "sha": "f21f425dd350c357388ec4c3a1cb2628e2297204",
+    "url": "https://github.com/jaywcjlove/rightmenu-master/commit/f21f425dd350c357388ec4c3a1cb2628e2297204",
+    "created_at": "2026-11-26T00:43:29.000+08:00",
+    "state": "committer",
+    "version": "4.13.0"
+  },
+  {
+    "id": "MDY6Q29tbWl0MTIzMDg1MTYyNzozOWM1NWI1OTU5ZTEwMDQxNDE5NDczNDIwNzhhZjA2ZmUxM2I5MDdm",
+    "type": "commits",
+    "title": "released v1.10.0",
+    "repo": "jaywcjlove/zipora",
+    "sha": "39c55b5959e1004141947342078af06fe13b907f",
+    "url": "https://github.com/jaywcjlove/zipora/commit/39c55b5959e1004141947342078af06fe13b907f",
+    "created_at": "2026-11-25T23:56:29.000+08:00",
+    "state": "committer",
+    "version": "1.10.0"
+  },
+  {
     "id": "MDY6Q29tbWl0MTM5Mzg3MDI4OmQxZmFiMGZiZDQ3NDkzMjYyOTI0MGZiZDFhMWE5NmM5YjZlNDkyOTk=",
     "type": "commits",
     "title": "released v4.25.13 #773",
@@ -2640,17 +2662,6 @@
     "version": "1.14.0"
   },
   {
-    "id": "MDY6Q29tbWl0NTI5NTk5Njk2OmQ5YjI4ZWNiYTU4ZGQwNmVlYTY2YzVhZDBjMGEwNmYxYTc2ZTdlNmU=",
-    "type": "commits",
-    "title": "released v1.2.4",
-    "repo": "uiwjs/react-back-to-top",
-    "sha": "d9b28ecba58dd06eea66c5ad0c0a06f1a76e7e6e",
-    "url": "https://github.com/uiwjs/react-back-to-top/commit/d9b28ecba58dd06eea66c5ad0c0a06f1a76e7e6e",
-    "created_at": "2026-05-31T02:07:49.000+08:00",
-    "state": "committer",
-    "version": "1.2.4"
-  },
-  {
     "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo2Y2NiZjA3NDE0NGQ5YTJkOGUxNGRmOTJhZjI2NTFiNWRkNjYxZDFk",
     "type": "commits",
     "title": "released v1.6.0 (appi18n)",
@@ -2671,17 +2682,6 @@
     "created_at": "2026-05-30T12:23:38.000+08:00",
     "state": "committer",
     "version": "1.6.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MzcyMDYxMjgwOmIyOTE1MmNhNTE5OTEyNzI3ZmNkOGFiYWJmZjIyMTE1Y2ExNTA3ZDY=",
-    "type": "commits",
-    "title": "released v2.3.4 #141",
-    "repo": "uiwjs/react-heat-map",
-    "sha": "b29152ca519912727fcd8ababff22115ca1507d6",
-    "url": "https://github.com/uiwjs/react-heat-map/commit/b29152ca519912727fcd8ababff22115ca1507d6",
-    "created_at": "2026-05-29T00:44:52.000+08:00",
-    "state": "committer",
-    "version": "2.3.4"
   },
   {
     "id": "MDY6Q29tbWl0NTQwOTE3Mjk5OjRhNjZjOTQ1MDliOTUzMGE3ZDBkNzI2YmI4MTA5NzQ2MzM0NGIzMDI=",
