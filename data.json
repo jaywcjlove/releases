@@ -1,5 +1,16 @@
 [
   {
+    "id": "MDY6Q29tbWl0MjAzMDgyMTQ1Ojc2ZDZjOTRmMjg3MTc2NTg2YWNiYjMzMWI0ZjI3OTViMTI3ZWQwZDc=",
+    "type": "commits",
+    "title": "released v4.2.5 #734\n\nhttps://github.com/uiwjs/react-md-editor/pull/734",
+    "repo": "uiwjs/react-md-editor",
+    "sha": "76d6c94f287176586acbb331b4f2795b127ed0d7",
+    "url": "https://github.com/uiwjs/react-md-editor/commit/76d6c94f287176586acbb331b4f2795b127ed0d7",
+    "created_at": "2026-11-27T11:11:04.000+08:00",
+    "state": "committer",
+    "version": "4.2.5"
+  },
+  {
     "id": "MDY6Q29tbWl0OTE1NDM1NjI3OjhkN2Y2Mjc0ZDg1NDFlZmZhZTg4MTNhYzEwMWEzMzA0NDA3YzJkYjE=",
     "type": "commits",
     "title": "released v2.10.0",
@@ -2671,17 +2682,6 @@
     "created_at": "2026-06-01T08:45:51.000+08:00",
     "state": "committer",
     "version": "1.14.0"
-  },
-  {
-    "id": "MDY6Q29tbWl0MTE2NzYwMzkxNDo2Y2NiZjA3NDE0NGQ5YTJkOGUxNGRmOTJhZjI2NTFiNWRkNjYxZDFk",
-    "type": "commits",
-    "title": "released v1.6.0 (appi18n)",
-    "repo": "jaywcjlove/homebrew-tap",
-    "sha": "6ccbf074144d9a2d8e14df92af2651b5dd661d1d",
-    "url": "https://github.com/jaywcjlove/homebrew-tap/commit/6ccbf074144d9a2d8e14df92af2651b5dd661d1d",
-    "created_at": "2026-05-30T12:43:46.000+08:00",
-    "state": "committer",
-    "version": "1.6.0"
   },
   {
     "id": "MDY6Q29tbWl0MTE2NTQ3MTQyNTo4MjMyM2M5YjA3YWQ5ZTEzY2U1MmVkNGRiZGNkOTA1OTE1NWZkNmE5",

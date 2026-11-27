@@ -4,7 +4,7 @@
         <title>Kenny Wang is Releasing &amp; Contributing...</title>
         <link>https://wangchujiang.com/releases</link>
         <description>Kenny Wang's recent releases &amp; contributing</description>
-        <lastBuildDate>Fri, 27 Nov 2026 01:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,6 +15,18 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © Kenny Wang</copyright>
         <atom:link href="https://wangchujiang.com/releases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uiwjs/react-md-editor released v4.2.5 #734
+
+https://github.com/uiwjs/react-md-editor/pull/734]]></title>
+            <link>https://github.com/uiwjs/react-md-editor/commit/76d6c94f287176586acbb331b4f2795b127ed0d7</link>
+            <guid>MDY6Q29tbWl0MjAzMDgyMTQ1Ojc2ZDZjOTRmMjg3MTc2NTg2YWNiYjMzMWI0ZjI3OTViMTI3ZWQwZDc=</guid>
+            <pubDate>Fri, 27 Nov 2026 03:11:04 GMT</pubDate>
+            <description><![CDATA[<a href="https://github.com/uiwjs/react-md-editor/commit/76d6c94f287176586acbb331b4f2795b127ed0d7">released v4.2.5 #734
+
+https://github.com/uiwjs/react-md-editor/pull/734</a>]]></description>
+            <enclosure url="https://github.com/uiwjs.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[jaywcjlove/key-clicker released v2.10.0]]></title>
             <link>https://github.com/jaywcjlove/key-clicker/commit/8d7f6274d8541effae8813ac101a3304407c2db1</link>
@@ -1987,14 +1999,6 @@ Co-authored-by: 小弟调调 <kennyiseeyou@gmail.com></a>]]></description>
             <guid>MDY6Q29tbWl0MTAwNjcwMDIyNzo2YWUyYmEyNjhmYTQxMDRjMjlmNjgwZWI0MzBmMjUwM2FjMDAwNThm</guid>
             <pubDate>Mon, 01 Jun 2026 00:45:51 GMT</pubDate>
             <description><![CDATA[<a href="https://github.com/jaywcjlove/vidwall/commit/6ae2ba268fa4104c29f680eb430f2503ac00058f">released v1.14.0</a>]]></description>
-            <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[jaywcjlove/homebrew-tap released v1.6.0 (appi18n)]]></title>
-            <link>https://github.com/jaywcjlove/homebrew-tap/commit/6ccbf074144d9a2d8e14df92af2651b5dd661d1d</link>
-            <guid>MDY6Q29tbWl0MTE2NzYwMzkxNDo2Y2NiZjA3NDE0NGQ5YTJkOGUxNGRmOTJhZjI2NTFiNWRkNjYxZDFk</guid>
-            <pubDate>Sat, 30 May 2026 04:43:46 GMT</pubDate>
-            <description><![CDATA[<a href="https://github.com/jaywcjlove/homebrew-tap/commit/6ccbf074144d9a2d8e14df92af2651b5dd661d1d">released v1.6.0 (appi18n)</a>]]></description>
             <enclosure url="https://github.com/jaywcjlove.png" length="0" type="image/png"/>
         </item>
         <item>
